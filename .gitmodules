@@ -1,3 +1,3 @@
 [submodule "lib"]
 	path = lib
-	url = git@github.com:UHH-Tamilex/lib.git
+	url = https://github.com/UHH-Tamilex/lib.git
