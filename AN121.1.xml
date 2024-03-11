@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text xml:lang="ta"><body><div><lg type="edition"><l>nānakai yuṭaiya neñcē <supplied>ka</supplied>ṭunteṟal</l><l>vēṉi ṉīṭiya vāṉuyar vaḻināḷ </l><l>vaṟumai kūṟiya maṇṇīrc ciṟukuḷat</l><l>toṭukuḻi maru<supplied>ṅ</supplied>kiṟ ṟuvvāk kalaṅkal</l><l>kaṉṟuṭai maṭappiṭi kayantalai maṇṇic	5</l><l>cēṟukoṇ ṭāṭiya vēṟupaṭu vayakkaḷiṟu</l><l>ceṅkōl vāliṇar tayaṅkat tīṇṭic</l><l>coṟipuṟa muriñciya ne<supplied>ṟi</supplied>yayaṉ marāat</l><l>talkuṟu variniḻa lacaiiya nammoṭu</l><l>tāṉvaru meṉpa taṭameṉ ṟōḷi	10</l><l>yuṟukaṇ maḻava ruruḷ<supplied>kī</supplied>ṇ ṭiṭṭa</l><l>vāṟuceṉ mākkaḷ cōṟupoti veṇkuṭaik</l><l>kaṉmicaik kaṭuva<supplied>ḷi</supplied> yeṭuttaliṟ ṟuṇaicettu</l><l>ve<supplied>ru</supplied>ḷēṟu payiru mā<supplied>ṅ</supplied>kaṭ</l><l>karumuka mucuviṉ kāṉat tāṉē.</l></lg></div></body></text><standOff type="wordsplit"><interp type="alignment" select="0">2MR12MR4M2G16ML82MG37MG84MG3MG71M2G37MG77MG2M,439MG</interp>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanaṉūṟu</title> NUMBER. 
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN121.1-kilavi">
+          <p type="edition">tōḻiyāṟ ṟalaimaka[ḷai] yuṭaṉvarumeṉak (C5: koṇṭucelkaveṉak; NL, C1+9: yuṭaṉakameṉṟākak) 
+            kēṭṭa talaimakaṉ [C2+3+5+7: ṟaṉ] neñciṟkuc collic celavaḻuṅkiyatu.</p>
+          <p type="translation" xml:lang="en">How HE, who had heard that it was said by the confidante to HER that 
+            she would come along, prevented going by speaking to his heart.</p>
+        </div>
+        <div xml:id="AN121.1">
+            <lg type="edition">
+                <l>nānakai yuṭaiya neñcē [ka]ṭunteṟal</l>
+                <l>vēṉi ṉīṭiya vāṉuyar vaḻināḷ</l>
+                <l>vaṟumai kūṟiya maṇṇīrc ciṟukuḷat</l>
+                <l>toṭukuḻi maru[ṅ]kiṟ ṟuvvāk kalaṅkal</l>
+                <l>kaṉṟuṭai maṭappiṭi kayantalai maṇṇic</l>
+                <l>cēṟukoṇ ṭāṭiya vēṟupaṭu vayakkaḷiṟu</l>
+                <l>ceṅkōl vāliṇar tayaṅkat tīṇṭic</l>
+                <l>coṟipuṟa muriñciya ne[ṟi]yayaṉ marāat</l>
+                <l>talkuṟu variniḻa lacaiiya nammoṭu</l>
+                <l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
+                <l>yuṟukaṇ maḻava ruruḷ[kī]ṇ ṭiṭṭa</l>
+                <l>vāṟuceṉ mākkaḷ cōṟupoti veṇkuṭaik</l>
+                <l>kaṉmicaik kaṭuva[ḷi] yeṭuttaliṟ ṟuṇaicettu</l>
+                <l>ve[ru]ḷēṟu payiru mā[ṅ]kaṭ</l>
+                <l>karumuka mucuviṉ kāṉat tāṉē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+                <l>We are smiling, heart: on the last day</l>
+                <l>high in the sky when the fierce, scorching summer [heat] has lasted long, (1-2)</l>
+                <l>she with broad soft shoulders, they say, will come in person</l>
+                <l>with us in order to rest in the dwindling dappled shade</l>
+                <l>of the cadamba tree near the path on which the transformed strong elephant bull</l>
+                <l>rubs [its] itching back, bumping the red-stemmed white clusters</l>
+                <l>so that they swayed, [the bull] who had bathed, taking mud,</l>
+                <l>washing the soft head of [its] youthful cow that has a calf</l>
+                <l>with the muddy water that is not drunk from a pit he dug</l>
+                <l>in the pond short of water, with earth [showing] that speaks of scarcity (3-9)</l>
+                <l>– in the forest of the black-faced langur,</l>
+                <l>that place where the startled bull calls,</l>
+                <l>thinking of [its] mate because the fierce wind lifts, on the stones,</l>
+                <l>the white baskets with the stores of rice  of the people going on the road</l>
+                <l>which is cleaved by the [chariot] wheels of suffering warriors. (11-15)</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+
+
+<standOff type="wordsplit"><interp type="alignment" select="0">2MR12MR4M2G16ML82MG37MG84MG3MG71M2G37MG77MG2M,439MG</interp>
 <entry>
 <form>nām</form>
 <def>we</def>
