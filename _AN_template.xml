@@ -35,10 +35,8 @@
           <p type="translation" xml:lang="en"></p>
         </div>
         <div xml:id="ANNUMBER">
-            <lg type="edition">
-                <l></l>
-                <l></l>
-                <l></l>
+            <lg type="edition"> COPY FROM BASIC XML HERE
+                
             </lg>
             <lg type="translation" xml:lang="en">
                 <l></l>
@@ -46,7 +44,7 @@
         </div>
     </body>
   </text>
-COPY STANDOFF FROM INTERFACE HERE
+DELETE UNNECESSARY TEI THINGS, ADD  corresp="#ANNUMBER" after standOff type="wordsplit", KEEP <interp type="alignment" select="0">XXX</interp>
 </TEI>
 
 
