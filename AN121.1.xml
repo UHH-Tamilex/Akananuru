@@ -354,7 +354,6 @@
     <entry>
     <form>nammoṭu</form>
     <def>us</def>
-    <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
     <gramGrp><gram type="role">sociative</gram>
     </gramGrp></entry>
     <entry>
@@ -409,9 +408,16 @@
     <gramGrp><gram type="role">verbal root</gram>
     </gramGrp></entry>
     <entry>
-    <form>kīṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-iṭṭa</form>
-    <def>split-placed-</def>
-    </entry>
+    <form>kīṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>split</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>iṭṭa</form>
+    <def>placed-</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>āṟu</form>
     <def>way</def>
@@ -448,8 +454,13 @@
     <gramGrp><gram type="role">noun</gram>
     </gramGrp></entry>
     <entry>
-    <form>kal-micai<pc>+</pc></form>
-    <def>stone-on</def>
+    <form>kal</form>
+    <def>stone</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>micai<pc>+</pc></form>
+    <def>on</def>
     <gramGrp><gram type="role">postposition</gram>
     </gramGrp></entry>
     <entry>
@@ -465,7 +476,6 @@
     <entry>
     <form><pc>~</pc>eṭuttaliṉ</form>
     <def>lifting</def>
-    <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
     <gramGrp><gram type="role">oblique</gram>
     <gram type="role">verbal noun</gram>
     </gramGrp></entry>
@@ -511,7 +521,6 @@
     <entry>
     <form>mucuviṉ</form>
     <def>langur</def>
-    <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
     <gramGrp><gram type="role">oblique</gram>
     </gramGrp></entry>
     <entry>
