@@ -75,7 +75,7 @@
     </body>
   </text>
 
-<standOff type="wordsplit" corresp="#AN121.1"><interp type="alignment" select="0">2MR12MR4M2G16ML82MG37MG84MG3MG71M2G37MG77MG2M,439MG</interp>
+<standOff type="wordsplit" corresp="#AN121.1"><interp type="alignment" select="0">2MR12MR4M2G16ML82MG37MG84MG3MG71MG114MG2M,437MG</interp>
   <entry>
     <form>nām</form>
     <def>we</def>
@@ -354,6 +354,7 @@
     <entry>
     <form>nammoṭu</form>
     <def>us</def>
+    <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
     <gramGrp><gram type="role">sociative</gram>
     </gramGrp></entry>
     <entry>
@@ -476,6 +477,7 @@
     <entry>
     <form><pc>~</pc>eṭuttaliṉ</form>
     <def>lifting</def>
+    <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
     <gramGrp><gram type="role">oblique</gram>
     <gram type="role">verbal noun</gram>
     </gramGrp></entry>
@@ -521,6 +523,7 @@
     <entry>
     <form>mucuviṉ</form>
     <def>langur</def>
+    <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
     <gramGrp><gram type="role">oblique</gram>
     </gramGrp></entry>
     <entry>
