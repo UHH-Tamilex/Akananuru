@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text xml:lang="ta"><body><div><lg type="edition"><l>irumpiḻi makāriv vaḻuṅkaṉ mūtūr</l><l>viḻaviṉ ṟāyiṉun tuñcā tāku</l><l>malla lāvaṇa maṟukuṭaṉ maṭiyiṉ</l><l>valluraik kaṭuñco laṉṉai tuñcāḷ</l><l>piṇiko ḷaruñciṟai yaṉṉai tuñciṟ	5</l><l>ṟuñcāk kaṇṇar kāvalar kaṭukuva</l><l>rilaṅkuvē liḷaiyar tuñciṉ vaiyeyiṟṟu</l><l>valañcurit tōkai ñāḷi makiḻu</l><l>maravavāy <supplied>ña</supplied>mali makiḻātu maṭiyiṟ</l><l>pakaluru vuṟaḻnilavuk kāṉṟu vicumpi	10</l><l>ṉakalvāy maṇṭila niṉṟuviri yu<supplied>m</supplied>mē</l><l>tiṅkaḷ kalcērpu kaṉaiyiruṇ maṭiyi</l><l>ṉilleli valci valvāyk kūkai</l><l>kaḻutuvaḻaṅ kiyāmat taḻitakak kuḻaṟum</l><l>vaḷaikkaṭ cēval vāḷātu maṭiyiṉ	15</l><l>maṉaicceṟi kōḻi māṇkura liyampu</l><l>mellā maṭinta kālai yorunā</l><l>ṇillā neñcat tavarvā ralarē</l><l>yataṉā </l><l>laripey puṭṭi lārppap pariciṟan</l><l>tāti pōkiya pāypari naṉmā	20</l><l>ṉocci vēlit titta ṉuṟantaik</l><l>kaṉmutir puṟaṅkāṭ ṭaṉṉa</l><l>paṉmuṭ ṭeṉṟāṟ ṟōḻinaṅ kaḷavē.</l></lg></div></body></text><standOff type="wordsplit"><interp type="alignment" select="0">26MG7MG3MG12MG4ML11ML4MG158MG71MR12MG68MGMG6MG76ML18ML11MG11MG36MG22ML40MG11MG17M2G2M,649MG</interp>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanaṉūṟu</title> 122.1. 
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN122.1-kilavi">
+          <p type="edition">1. talaimakaṉ ciṟaippuṟattāṉākat (C1+6, NL: ciṟaippulittāṉākat) tōḻikkut colluvāḷāyt talaimakaḷ colliyatu (C7v, RK: coṟṟatu).
+            [C7, RK: 2. tōḻi colleṭuppat talaimakaḷ colliyatūumāma.]</p>
+          <p type="translation" xml:lang="en">1. What SHE said as one speaking to the confidante when HE was behind the hedge.
+            [2. It is also what SHE said when the confidante took up the word. This song is night tryst.]
+            </p>
+        </div>
+        <div xml:id="AN122.1">
+            <lg type="edition">
+                <l>irumpiḻi makāriv vaḻuṅkaṉ mūtūr</l>
+                <l>viḻaviṉ ṟāyiṉun tuñcā tāku</l>
+                <l>malla lāvaṇa maṟukuṭaṉ maṭiyiṉ</l>
+                <l>valluraik kaṭuñco laṉṉai tuñcāḷ</l>
+                <l>piṇiko ḷaruñciṟai yaṉṉai tuñciṟ</l>
+                <l>ṟuñcāk kaṇṇar kāvalar kaṭukuva</l>
+                <l>rilaṅkuvē liḷaiyar tuñciṉ vaiyeyiṟṟu</l>
+                <l>valañcurit tōkai ñāḷi makiḻu</l>
+                <l>maravavāy <supplied>ña</supplied>mali makiḻātu maṭiyiṟ</l>
+                <l>pakaluru vuṟaḻnilavuk kāṉṟu vicumpi</l>
+                <l>ṉakalvāy maṇṭila niṉṟuviri yu<supplied>m</supplied>mē</l>
+                <l>tiṅkaḷ kalcērpu kaṉaiyiruṇ maṭiyi</l>
+                <l>ṉilleli valci valvāyk kūkai</l>
+                <l>kaḻutuvaḻaṅ kiyāmat taḻitakak kuḻaṟum</l>
+                <l>vaḷaikkaṭ cēval vāḷātu maṭiyiṉ</l>
+                <l>maṉaicceṟi kōḻi māṇkura liyampu</l>
+                <l>mellā maṭinta kālai yorunā</l>
+                <l>ṇillā neñcat tavarvā ralarē</l>
+                <l>yataṉā</l>
+                <l>laripey puṭṭi lārppap pariciṟan</l>
+                <l>tāti pōkiya pāypari naṉmā</l>
+                <l>ṉocci vēlit titta ṉuṟantaik</l>
+                <l>kaṉmutir puṟaṅkāṭ ṭaṉṉa</l>
+                <l>paṉmuṭ ṭeṉṟāṟ ṟōḻinaṅ kaḷavē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+                <l>Even when there is no festival, this noisy old town</l> 
+                <l>of the sons of dark toddy will not sleep.</l>
+                <l>Even when it dozes off, with its rich market streets,</l>
+                <l>mother with outspoken, harsh words will not sleep.</l>
+                <l>Even when mother, with [her] fettering strict confinement, sleeps,</l>
+                <l>the watchmen with sleepless eyes will make haste.</l>
+                <l>Even when the young [guards] with shining spears sleep, the sharp-toothed</l>
+                <l>dogs with right-curling tails will be excited.</l>
+                <l>Even when the loud-mouthed dogs lose [their] excitement [and] doze off,</l>
+                <l>the wide round area of the sky stands revealed</l>
+                <l>by moonlight almost as bright as day.</l>
+                <l>Even when the moon joins the rocks [and] deep darkness falls,</l>
+                <l>the strong-mouthed owl that lives on house rats</l>
+                <l>will shriek, heart-rending, at midnight when demons roam.</l>
+                <l>Even when the male with curved beak silently dozes off,</l>
+                <l>the glorious voice of the house cock will sound.</l>
+                <l>At the time they all doze off, for one single day,</l>
+                <l>the [lover] of [our] restless heart won’t come.</l>
+                <l>Therefore,</l>
+                <l>like the rocky outer forest</l>
+                <l>around Tittaṉ’s Uṟantai, with [its] Nocci hedges,</l>
+                <l>for the good horses of leaping gait that went galloping</l>
+                <l>in enormous motion so that [their] metal-adorned anklets(?)  rattled,</l>
+                <l>a thing of many thorns it is called indeed,  friend, our secret love.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff type="wordsplit" corresp="#AN122.1"><interp type="alignment" select="0">26MG7MG3MG12MG4ML11ML4MG158MG71MR12MG68MGMG6MG76ML18ML11MG11MG36MG22ML40MG11MG17M2G2M,649MG</interp>
 <entry>
 <form>irum</form>
 <def>big/dark</def>
