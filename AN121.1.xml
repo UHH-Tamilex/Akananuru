@@ -37,30 +37,23 @@
             she would come along, prevented going by speaking to his heart.</p>
         </div>
         <div xml:id="AN121.1">
-            
-        </div>
-    </body>
-  </text>
-
-    <text xml:lang="ta"><body><div>
       <lg type="edition">
-       <l>nānakai yuṭaiya neñcē [ka]ṭunteṟal</l>
-       <l>vēṉi ṉīṭiya vāṉuyar vaḻināḷ</l>
-       <l>vaṟumai kūṟiya maṇṇīrc ciṟukuḷat</l> 
-       <l>toṭukuḻi maru[ṅ]kiṟ ṟuvvāk kalaṅkal</l>
-       <l>kaṉṟuṭai maṭappiṭi kayantalai maṇṇic</l>
-       <l>cēṟukoṇ ṭāṭiya vēṟupaṭu vayakkaḷiṟu</l>
-       <l>ceṅkōl vāliṇar tayaṅkat tīṇṭic</l>
-       <l>coṟipuṟa muriñciya ne[ṟi]yayaṉ marāat</l>
-       <l>talkuṟu variniḻa lacaiiya nammoṭu</l>
-       <l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
-       <l>yuṟukaṇ maḻava ruruḷ[kī]ṇ ṭiṭṭa</l>
-       <l>vāṟuceṉ mākkaḷ cōṟupoti veṇkuṭaik</l>
-       <l>kaṉmicaik kaṭuva[ḷi] yeṭuttaliṟ ṟuṇaicettu</l>
-       <l>ve[ru]ḷēṟu payiru mā[ṅ]kaṭ</l>
-       <l>karumuka mucuviṉ kāṉat tāṉē.</l>
+  <l>nānakai yuṭaiya neñcē <supplied>ka</supplied>ṭunteṟal</l>
+        <l>vēṉi ṉīṭiya vāṉuyar vaḻināḷ</l>
+        <l>vaṟumai kūṟiya maṇṇīrc ciṟukuḷat</l>
+        <l>toṭukuḻi maru<supplied>ṅ</supplied>kiṟ ṟuvvāk kalaṅkal</l>
+        <l>kaṉṟuṭai maṭappiṭi kayantalai maṇṇic</l>
+        <l>cēṟukoṇ ṭāṭiya vēṟupaṭu vayakkaḷiṟu</l>
+        <l>ceṅkōl vāliṇar tayaṅkat tīṇṭic</l>
+        <l>coṟipuṟa muriñciya ne<supplied>ṟi</supplied>yayaṉ marāat</l>
+        <l>talkuṟu variniḻa lacaiiya nammoṭu</l>
+        <l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
+        <l>yuṟukaṇ maḻava ruruḷ<supplied>kī</supplied>ṇ ṭiṭṭa</l>
+        <l>vāṟuceṉ mākkaḷ cōṟupoti veṇkuṭaik</l>
+        <l>kaṉmicaik kaṭuva<supplied>ḷi</supplied> yeṭuttaliṟ ṟuṇaicettu</l>
+        <l>ve<supplied>ru</supplied>ḷēṟu payiru mā<supplied>ṅ</supplied>kaṭ</l>
+        <l>karumuka mucuviṉ kāṉat tāṉē.</l>  
       </lg>
-      
       <lg type="translation" xml:lang="en">
         <l>We are smiling, heart: on the last day</l>
         <l>high in the sky when the fierce, scorching summer [heat] has lasted long, (1-2)</l>
@@ -78,23 +71,11 @@
         <l>the white baskets with the stores of rice  of the people going on the road</l>
         <l>which is cleaved by the [chariot] wheels of suffering warriors. (11-15)</l>
       </lg>
-    </div></body></text>
-<standOff type="wordsplit"><interp type="alignment" select="0">2MR12MR4M2G16ML82MG37MG84MG3MG71M2G37MG77MG2M,439MG</interp>
-  <l>nānakai yuṭaiya neñcē <supplied>ka</supplied>ṭunteṟal</l>
-        <l>vēṉi ṉīṭiya vāṉuyar vaḻināḷ</l>
-        <l>vaṟumai kūṟiya maṇṇīrc ciṟukuḷat</l>
-        <l>toṭukuḻi maru<supplied>ṅ</supplied>kiṟ ṟuvvāk kalaṅkal</l>
-        <l>kaṉṟuṭai maṭappiṭi kayantalai maṇṇic</l>
-        <l>cēṟukoṇ ṭāṭiya vēṟupaṭu vayakkaḷiṟu</l>
-        <l>ceṅkōl vāliṇar tayaṅkat tīṇṭic</l>
-        <l>coṟipuṟa muriñciya ne<supplied>ṟi</supplied>yayaṉ marāat</l>
-        <l>talkuṟu variniḻa lacaiiya nammoṭu</l>
-        <l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
-        <l>yuṟukaṇ maḻava ruruḷ<supplied>kī</supplied>ṇ ṭiṭṭa</l>
-        <l>vāṟuceṉ mākkaḷ cōṟupoti veṇkuṭaik</l>
-        <l>kaṉmicaik kaṭuva<supplied>ḷi</supplied> yeṭuttaliṟ ṟuṇaicettu</l>
-        <l>ve<supplied>ru</supplied>ḷēṟu payiru mā<supplied>ṅ</supplied>kaṭ</l>
-        <l>karumuka mucuviṉ kāṉat tāṉē.</l>  
+        </div>
+    </body>
+  </text>
+
+<standOff type="wordsplit" corresp="#AN121.1"><interp type="alignment" select="0">2MR12MR4M2G16ML82MG37MG84MG3MG71M2G37MG77MG2M,439MG</interp>
   <entry>
     <form>nām</form>
     <def>we</def>
