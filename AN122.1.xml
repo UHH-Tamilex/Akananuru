@@ -94,7 +94,7 @@
     </body>
   </text>
 
-<standOff type="wordsplit" corresp="#AN122.1"><interp type="alignment" select="0">26MG7MG3MG12MG4ML11ML4MG158MG71MR12MG68MGMG6MG76ML18ML11MG11MG36MG22ML40MG11MG17M2G2M,649MG</interp>
+<standOff type="wordsplit" corresp="#AN122.1"><interp type="alignment" select="0">26MG7MG3MG12MG4ML11ML4MG158MG71MR12MG68MGMG6MG76ML18ML11MG11MG36MG22ML40MG11MG3M2G14M2G2M,651MG</interp>
 <entry>
 <form>irum</form>
 <def>big/dark</def>
@@ -715,9 +715,11 @@
 <gram type="role">neuter singular</gram>
 </gramGrp></entry>
 <entry>
-<form>eṉṟāl</form>
-<def>said-it</def>
-</entry>
+  <form>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
+  <def>said-it</def>
+  <form type="simple">eṉṟu</form>
+  <gramGrp type="particle"><m>āl</m></gramGrp>
+  </entry>
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
