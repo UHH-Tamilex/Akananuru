@@ -35,8 +35,8 @@
           <p type="translation" xml:lang="en"></p>
         </div>
         <div xml:id="ANNUMBER">
-            <lg type="edition"> COPY FROM BASIC XML HERE
-                
+            <lg type="edition">
+              COPY FROM BASIC XML HERE
             </lg>
             <lg type="translation" xml:lang="en">
                 <l></l>
