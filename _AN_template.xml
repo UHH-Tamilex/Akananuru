@@ -56,4 +56,6 @@ For surplus notes (like (Brahmā) in Kali01):
   <form>TAMIL WORDSPLIT</form>
   <def>ENGLISH TRANSLATION</def>
   <note>NOTE</note>
-</entry>  
+</entry>
+
+If there are lines starting with an indent: <l rend="indent4"></l> number shows how big is the indent
