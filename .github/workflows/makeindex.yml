@@ -28,7 +28,7 @@ jobs:
           cd lib/_indexer
           yarn install
           yarn pageindex AN Akanāṉūṟu
-          yarn todb Aink
+          yarn todb AN
           yarn dbtohtml Akanāṉūṟu
           git pull
 
