@@ -25,17 +25,15 @@ jobs:
 
       - name: build word index
         run: |
-          cd _indexer
+          cd lib/_indexer
           yarn install
-          yarn pageindex
-          cd ../wordindex/_src
-          yarn install
-          yarn todb
-          yarn dbtohtml
+          yarn pageindex AN Akanāṉūṟu
+          yarn todb Aink
+          yarn dbtohtml Akanāṉūṟu
           git pull
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: automatic wordindex update
-          file_pattern: index.html wordindex/wordindex.db wordindex/index.html
+          file_pattern: index.html wordindex.db wordindex.html
           commit_user_name: Tamilex Bot
