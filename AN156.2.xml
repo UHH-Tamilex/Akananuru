@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanaṉūṟu</title> 156.2. 
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN156.2-kilavi">
+          <p type="edition">talaimakaḷai yiṭattuyttu vantu talaimakaṉai varaivu kaṭāyatu.</p>
+          <p type="translation" xml:lang="en">How the confidante urged HIM for marriage after having come [back] from sending HER to the [meeting] place.</p>
+        </div>
+        <div xml:id="AN156.2">
+            <lg type="edition">
+              <l>muracuṭaic celvar puravic cūṭṭu</l>
+              <l>mūṭṭuṟu kavari tūkki yaṉṉa</l>
+              <l>ceḻuñcey nelliṉ cēyarip puṉiṟṟuk</l>
+              <l>katirmūtā tiṉṟa lañcik kāvalar</l>
+              <l>pāka lāykoṭip pakaṉṟaiyoṭu parīik</l>
+              <l>kāñci yiṉattuk karumparu kiyārkkun</l>
+              <l>tīmpuṉa lūra tiṟava tākak</l>
+              <l>kuvaḷai yuṇka ṇivaḷum yāṉuṅ</l>
+              <l>kaḻunīr yāmpaṉ muḻuneṟip pakaittaḻai</l>
+              <l>kāmar ñāyiṟ ṟākat talaippap</l>
+              <l>poyttal pāṭip polinteṉa vantu</l>
+              <l>niṉṉakāp piḻaitta tavaṟō peruma</l>
+              <l>kaḷḷuṅ kaṇṇiyuṅ kaiyuṟai yāka</l>
+              <l>nilaikkōṭṭu veḷḷai nālcevik kaṭāa</l>
+              <l>yulaittuṟaik kaṭavuṭ kuḷappaṭa vō<supplied>cci</supplied>t</l>
+              <l>taṇimarun taḻiyāḷ yāyu</l>
+              <l>maṇimaruṇ mēṉi poṉṉiṟaṅ koḷalē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+                <l>Oh man from a village of sweet floods, (7ab)</l>
+                <l>where sugarcane in groups rattles fearfully by the Portia trees, (6)</l>
+                <l>as the watchmen, afraid that the old cow might eat the ears (4)</l> 
+                <l>newly born in red bunches of paddy on the rich field, (3)</l>
+                <l>as if it was hung with the chowries stitched on (2)</l>
+                <l>as a decoration of the horse of drum-possessing rich people, (1)</l>
+                <l>tear off choice creepers of Pākal together with jalap, (5)</l>
+                <l>was it for the mistake, o great one, that we went wrong in smiling at you, (12)</l>
+                <l>she with waterlily-like eyes and me, so that it would be proper (7cd-8)</l>
+                <l>coming because it flourished, singing lies, (11)</l>
+                <l>when [you] offered, so that in the sun it would be charming, (10)</l>
+                <l>foliage in contrast with whole calyxes of white lotus [and] blue waterlily, (9)</l>
+                <l>that mother too, who does not despair of the appeasing remedy,</l>
+                <l>put it inwardly down to the god from the ruined ghat, (16f.)</l>
+                <l>urging [upon him] the hanging ears of a goat with stately(?) horns, (14)</l>
+                <l>with toddy and a chaplet to be a present, (15)</l>
+                <l>takes in the gold colour of [our] sapphire-like body? (17)</l>
+            </lg>
+            <lg type="alternate" sameAs="I.9f">
+              <l>He speaks indeed, friend, so that [my] heart is consumed, in order to go alone…</l>
+             </lg>
+        </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#AN156.2"><interp type="alignment" select="0">5MG27MG36MG20MG68MG30MG21MG5MG46MG60M2G10MG8MG65MG3MGMG20MG9MG2ML25MG2M,482MG</interp>
+<entry>
+<form>murac<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>drum</def>
+</entry>
+<entry>
+<form>uṭai<pc>+</pc></form>
+<def>possess-</def>
+</entry>
+<entry>
+<form>celvar</form>
+<def>wealth-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>puravi<pc>+</pc></form>
+<def>horse</def>
+</entry>
+<entry>
+<form>cūṭṭu</form>
+<def>adorn-</def>
+</entry>
+<entry>
+<form>mūṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>stitch</def>
+</entry>
+<entry>
+<form>uṟu</form>
+<def>have-</def>
+</entry>
+<entry>
+<form>kavari</form>
+<def>chowrie</def>
+</entry>
+<entry>
+<form>tūkkiyaṉṉa</form>
+<def>hung-like</def>
+</entry>
+<entry>
+<form>ceḻum</form>
+<def>rich</def>
+</entry>
+<entry>
+<form>cey</form>
+<def>wet-field</def>
+</entry>
+<entry>
+<form>nelliṉ</form>
+<def>paddy</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>cēy<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>red</def>
+</entry>
+<entry>
+<form>ari<pc>+</pc></form>
+<def>bunch</def>
+</entry>
+<entry>
+<form>puṉiṟṟu<pc>+</pc></form>
+<def>newly-born-it</def>
+</entry>
+<entry>
+<form>katir</form>
+<def>ear</def>
+</entry>
+<entry>
+<form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>old</def>
+</entry>
+<entry>
+<form>ā</form>
+<def>cow</def>
+</entry>
+<entry>
+<form>tiṉṟal</form>
+<def>eating</def>
+</entry>
+<entry>
+<form>añci<pc>+</pc></form>
+<def>feared</def>
+</entry>
+<entry>
+<form>kāvalar</form>
+<def>watchmen</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>pākal</form>
+<def>Pākal</def>
+</entry>
+<entry>
+<form>āy</form>
+<def>select-</def>
+</entry>
+<entry>
+<form>koṭi<pc>+</pc></form>
+<def>creeper</def>
+</entry>
+<entry>
+<form>pakaṉṟaiyoṭu</form>
+<def>Indian-jalap</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>parīi<pc>+</pc></form>
+<def>broken-off</def>
+</entry>
+<entry>
+<form>kāñci</form>
+<def>Portia</def>
+</entry>
+<entry>
+<form><pc>~</pc>iṉattu<pc>+</pc></form>
+<def>group-</def>
+</entry>
+<entry>
+<form>karump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>sugarcane</def>
+</entry>
+<entry>
+<form>aruki</form>
+<def>been-afraid</def>
+</entry>
+<entry>
+<form><pc>~</pc>ārkkum</form>
+<def>roaring-</def>
+</entry>
+<entry>
+<form>tīm</form>
+<def>sweet</def>
+</entry>
+<entry>
+<form>puṉal</form>
+<def>flood</def>
+</entry>
+<entry>
+<form>ūra</form>
+<def>village-he</def>
+<gramGrp><gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>tiṟavat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>manner-it</def>
+</entry>
+<entry>
+<form>āka<pc>+</pc></form>
+<def>become</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>kuvaḷai</form>
+<def>blue-waterlily</def>
+</entry>
+<entry>
+<form><pc>~</pc>uṇ</form>
+<def>kajal</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+</entry>
+<entry>
+<form>ivaḷ-um</form>
+<def>she</def>
+<form type="simple">ivaḷ</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>yāṉ-um</form>
+<def>I</def>
+<form type="simple">yāṉ</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>kaḻunīr</form>
+<def>waterlily</def>
+</entry>
+<entry>
+<form><pc>~</pc>āmpal</form>
+<def>white-waterlily</def>
+</entry>
+<entry>
+<form>muḻu</form>
+<def>whole</def>
+</entry>
+<entry>
+<form>neṟi<pc>+</pc></form>
+<def>calyx</def>
+</entry>
+<entry>
+<form>pakai<pc>+</pc></form>
+<def>enmity</def>
+</entry>
+<entry>
+<form>taḻai</form>
+<def>foliage</def>
+</entry>
+<entry>
+<form>kāmar</form>
+<def>desirable</def>
+</entry>
+<entry>
+<form>ñāyiṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>sun-it</def>
+</entry>
+<entry>
+<form>āka<pc>+</pc></form>
+<def>become</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>talaippa<pc>+</pc></form>
+<def>offer</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>poyttal</form>
+<def>lying</def>
+</entry>
+<entry>
+<form>pāṭi<pc>+</pc></form>
+<def>sung</def>
+</entry>
+<entry>
+<form>polinteṉa</form>
+<def>flourished-because</def>
+</entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>niṉ</form>
+<def>you-</def>
+</entry>
+<entry>
+<form>nakā<pc>+</pc></form>
+<def>smile-not</def>
+</entry>
+<entry>
+<form>piḻaitta</form>
+<def>failed-</def>
+</entry>
+<entry>
+<form>tavaṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>mistake</def>
+<form type="simple">tavaṟu</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>peruma</form>
+<def>great-one</def>
+<gramGrp><gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḷ-<pc>+</pc>um</form>
+<def>toddy</def>
+<form type="simple">kaḷ</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>kaṇṇi-<pc>~</pc>um</form>
+<def>chaplet</def>
+<form type="simple">kaṇṇi</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>kaiyuṟai</form>
+<def>present</def>
+</entry>
+<entry>
+<form><pc>~</pc>āka</form>
+<def>become</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>nilai<pc>+</pc></form>
+<def>state</def>
+</entry>
+<entry>
+<form>kōṭṭu</form>
+<def>horn-</def>
+</entry>
+<entry>
+<form>veḷḷai</form>
+<def>goat</def>
+</entry>
+<entry>
+<form>nāl</form>
+<def>hang-</def>
+</entry>
+<entry>
+<form>cevi<pc>+</pc></form>
+<def>ear</def>
+</entry>
+<entry>
+<form>kaṭāay</form>
+<def>urged</def>
+</entry>
+<entry>
+<form>ulai<pc>+</pc></form>
+<def>be-ruined-</def>
+</entry>
+<entry>
+<form>tuṟai<pc>+</pc></form>
+<def>ghat</def>
+</entry>
+<entry>
+<form>kaṭavuṭk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>god</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>uḷa-p-paṭa</form>
+<def>inside-happen</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ōcci<pc>+</pc></form>
+<def>raised</def>
+</entry>
+<entry>
+<form>taṇi</form>
+<def>appease-</def>
+</entry>
+<entry>
+<form>marunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>remedy</def>
+</entry>
+<entry>
+<form>aḻiyāḷ</form>
+<def>perish-not-she</def>
+</entry>
+<entry>
+<form>yāy-um</form>
+<def>mother</def>
+<form type="simple">yāy</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>maṇi</form>
+<def>sapphire</def>
+</entry>
+<entry>
+<form>maruḷ</form>
+<def>confuse-</def>
+</entry>
+<entry>
+<form>mēṉi</form>
+<def>body</def>
+</entry>
+<entry>
+<form>poṉ</form>
+<def>gold</def>
+</entry>
+<entry>
+<form>niṟam</form>
+<def>colour</def>
+</entry>
+<entry>
+<form>koḷal-ē</form>
+<def>taking</def>
+<form type="simple">koḷal</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
