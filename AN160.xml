@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanaṉūṟu</title> 160.1. 
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN160.1-kilavi">
+          <p type="edition">tōḻi varaivu malintu colliyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante said when rejoicing in the marriage.</p>
+        </div>
+        <div xml:id="AN160.1">
+            <lg type="edition">
+              <l>oṭuṅkī rōti niṉakku maṟṟō</l>
+              <l>naṭuṅkiṉ ṟaḷitte ṉiṟaiyi ṉeñca</l>
+              <l>maṭumpukoṭi citaiya vāṅkik koṭuṅkaḻik</l>
+              <l>kuppai veṇmaṇaṟ pakkañ cērtti</l>
+              <l>niṟaiccūl yāmai maṟait<supplied>tī</supplied>ṉṟu putaitta</l>
+              <l>kōṭṭuvaṭ ṭuruviṉ pulavunāṟu muṭṭaip</l>
+              <l>pārppiṭa ṉāku maḷavaip pakuvāyk</l>
+              <l>kaṇava ṉōmpuṅ kāṉalañ cērppaṉ</l>
+              <l>muḷ<supplied>ḷu</supplied>ṟiṟ ciṟatta lañci mella</l>
+              <l>vāyuṭai maiyiṉ vārpiṟ kāṭṭi</l>
+              <l>vēttoḻi ṉaviṉṟa veḻiṉaṭaip puravi</l>
+              <l>ceḻunīrt taṇkaḻi nīntali ṉāḻi</l>
+              <l>nutimukaṅ kuṟaitta potimukiḻ neytal</l>
+              <l>pāmpuyar talaiyiṟ cāmpuvaṉa nivappa</l>
+              <l>viravan taṉṟāṟ ṟiṇṭēr karavā</l>
+              <l>tolleṉa volikku miḷaiyaroṭu valvā</l>
+              <l>yaravac cīṟūr kāṇap</l>
+              <l>pakalvan taṉṟāṟ pāypari ciṟantē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+                <l>O you with oil-soothed  hair, [is] it thus for you too? (1)</l>
+                <l>My overfull  heart has started to shiver, pitiable. (2)</l>
+                <l>The man from the coast with shore groves, where the split-mouthed husband</l>
+                <l>[of the tortoise] protects, until the young ones come out, (7f.)</l>
+                <l>the fish-reeking eggs in the shape of pawns [made] from a horn  (6)</l>
+                <l>that were secretly brought forth [and] buried by the fully pregnant [female] tortoise (5)</l>
+                <l>by joining [over them two] sides of heaped white sand (4)</l>
+                <l>near the winding backwaters, pulling, so that they are spoilt, at the Aṭumpu creepers, (3)</l>
+                <l>[his] firm chariot [used to] come at night indeed, (15a-c)</l> 
+                <l>so that they come up withering like erect snakes’ heads, (14)</l>
+                <l>the blue waterlilies with buds in bundles that where shortened by the pointed rims (13)</l>
+                <l>of the wheels, as the horses crossed the cool backwaters</l>
+                <l>with ample water, [their] graceful gait practised with harsh effort, (11f.)</l>
+                <l>upon being shown the lash, for [its] capacity to bite,  (10)</l>
+                <l>softly, afraid it might be too much, if they experience the thorn. (9)</l>
+                <l rend="indent8">[Now], without hiding (15d.)</l>
+                <l>it has really come at midday, excelling in leaping motion, (18)</l>
+                <l>for the harsh-mouthed, noisy little village to see, (16d-17)</l>
+                <l>along with the young men who shout loudly. (16a-c)</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#AN160"><interp type="alignment" select="0">5MG11M2G5M2G10MG5MG2ML7ML85MG21MG28MG106ML11ML73MG39M2G15MG39MG19M2G15M2G2M,520MG</interp>
+<entry>
+<form>oṭuṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>be-restrained-</def>
+</entry>
+<entry>
+<form>īr</form>
+<def>moisture</def>
+</entry>
+<entry>
+<form>ōti</form>
+<def>hair</def>
+</entry>
+<entry>
+<form>niṉakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>you</def>
+<form type="simple">niṉakku</form>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>aṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>thus-it</def>
+<form type="simple">aṟṟu</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>naṭuṅkiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>it-shivered</def>
+</entry>
+<entry>
+<form>aḷitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>love/pity-it</def>
+</entry>
+<entry>
+<form>eṉ</form>
+<def>my-</def>
+</entry>
+<entry>
+<form>niṟaiyiṉ</form>
+<def>fullness</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>neñcam</form>
+<def>heart</def>
+</entry>
+<entry>
+<form>aṭumpu</form>
+<def>Aṭumpu</def>
+</entry>
+<entry>
+<form>koṭi</form>
+<def>creeper</def>
+</entry>
+<entry>
+<form>citaiya</form>
+<def>be-wasted</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vāṅki<pc>+</pc></form>
+<def>bent</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>koṭum</form>
+<def>bent</def>
+</entry>
+<entry>
+<form>kaḻi<pc>+</pc></form>
+<def>backwaters</def>
+</entry>
+<entry>
+<form>kuppai</form>
+<def>heap</def>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+</entry>
+<entry>
+<form>maṇal</form>
+<def>sand</def>
+</entry>
+<entry>
+<form>pakkam</form>
+<def>wing</def>
+</entry>
+<entry>
+<form>cērtti</form>
+<def>joined</def>
+</entry>
+<entry>
+<form>niṟai<pc>+</pc></form>
+<def>fullness</def>
+</entry>
+<entry>
+<form>cūl</form>
+<def>pregnancy</def>
+</entry>
+<entry>
+<form>yāmai</form>
+<def>tortoise</def>
+</entry>
+<entry>
+<form>maṟaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>hidden</def>
+</entry>
+<entry>
+<form>īṉṟu</form>
+<def>brought-forth</def>
+</entry>
+<entry>
+<form>putaitta</form>
+<def>buried-</def>
+</entry>
+<entry>
+<form>kōṭṭu</form>
+<def>horn-</def>
+</entry>
+<entry>
+<form>vaṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>pawn</def>
+</entry>
+<entry>
+<form>uruviṉ</form>
+<def>form</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>pulavu</form>
+<def>fish-stench</def>
+</entry>
+<entry>
+<form>nāṟu</form>
+<def>be-fragrant-</def>
+</entry>
+<entry>
+<form>muṭṭai<pc>+</pc></form>
+<def>egg</def>
+</entry>
+<entry>
+<form>pārpp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>young-one</def>
+</entry>
+<entry>
+<form>iṭaṉ</form>
+<def>place</def>
+</entry>
+<entry>
+<form>ākum</form>
+<def>becoming-</def>
+</entry>
+<entry>
+<form>aḷavai<pc>+</pc></form>
+<def>measure</def>
+</entry>
+<entry>
+<form>paku</form>
+<def>split-</def>
+</entry>
+<entry>
+<form>vāy<pc>+</pc></form>
+<def>mouth</def>
+</entry>
+<entry>
+<form>kaṇavaṉ</form>
+<def>husband</def>
+</entry>
+<entry>
+<form>ōmpum</form>
+<def>protecting-</def>
+</entry>
+<entry>
+<form>kāṉalam</form>
+<def>seashore-grove</def>
+<gramGrp type="affix"><m>am</m></gramGrp>
+</entry>
+<entry>
+<form>cērppaṉ</form>
+<def>coast-he</def>
+</entry>
+<entry>
+<form>muḷ</form>
+<def>thorn</def>
+</entry>
+<entry>
+<form><pc>+</pc>uṟiṉ</form>
+<def>have-if</def>
+</entry>
+<entry>
+<form>ciṟattal</form>
+<def>being-superior</def>
+</entry>
+<entry>
+<form>añci</form>
+<def>feared</def>
+</entry>
+<entry>
+<form>mella</form>
+<def>soft</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>vāy</form>
+<def>mouth</def>
+</entry>
+<entry>
+<form>uṭaimaiyiṉ</form>
+<def>possession</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>vārpiṉ</form>
+<def>lashiṉ(?)</def>
+<gramGrp></gramGrp></entry>
+<entry>
+<form>kāṭṭi</form>
+<def>shown</def>
+</entry>
+<entry>
+<form>vē<pc>+</pc></form>
+<def>burning</def>
+</entry>
+<entry>
+<form>toḻil</form>
+<def>task</def>
+</entry>
+<entry>
+<form>naviṉṟa</form>
+<def>practiced-</def>
+</entry>
+<entry>
+<form><pc>~</pc>eḻil</form>
+<def>grace</def>
+</entry>
+<entry>
+<form>naṭai<pc>+</pc></form>
+<def>gait</def>
+</entry>
+<entry>
+<form>puravi</form>
+<def>horse</def>
+</entry>
+<entry>
+<form>ceḻu</form>
+<def>ample</def>
+</entry>
+<entry>
+<form>nīr<pc>+</pc></form>
+<def>water</def>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+</entry>
+<entry>
+<form>kaḻi</form>
+<def>backwaters</def>
+</entry>
+<entry>
+<form>nīntaliṉ</form>
+<def>swimming</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>āḻi</form>
+<def>wheel</def>
+</entry>
+<entry>
+<form>nuti</form>
+<def>tip</def>
+</entry>
+<entry>
+<form>mukam</form>
+<def>face</def>
+</entry>
+<entry>
+<form>kuṟaitta</form>
+<def>lacked-</def>
+</entry>
+<entry>
+<form>poti</form>
+<def>bundle-</def>
+</entry>
+<entry>
+<form>mukiḻ</form>
+<def>bud</def>
+</entry>
+<entry>
+<form>neytal</form>
+<def>blue-waterlily</def>
+</entry>
+<entry>
+<form>pāmp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>snake</def>
+</entry>
+<entry>
+<form>uyar</form>
+<def>be-high-</def>
+</entry>
+<entry>
+<form>talaiyiṉ</form>
+<def>head</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>cāmpuvaṉa</form>
+<def>they-wither</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>nivappa</form>
+<def>come-up</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ira</form>
+<def>night</def>
+</entry>
+<entry>
+<form>vantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
+<def>it-came</def>
+<form type="simple">vantaṉṟu</form>
+<gramGrp type="particle"><m>āl</m></gramGrp>
+</entry>
+<entry>
+<form>tiṇ</form>
+<def>firm</def>
+</entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+</entry>
+<entry>
+<form>karavāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>hide-not</def>
+</entry>
+<entry>
+<form>olleṉa</form>
+<def>'ol'-say</def>
+</entry>
+<entry>
+<form><pc>~</pc>olikkum</form>
+<def>sounding-</def>
+</entry>
+<entry>
+<form>iḷaiyaroṭu</form>
+<def>youth-they</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>val</form>
+<def>strong</def>
+</entry>
+<entry>
+<form>vāy</form>
+<def>mouth</def>
+</entry>
+<entry>
+<form>arava<pc>+</pc></form>
+<def>sound</def>
+</entry>
+<entry>
+<form>cīṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>small</def>
+</entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+</entry>
+<entry>
+<form>kāṇa<pc>+</pc></form>
+<def>see</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>pakal</form>
+<def>midday</def>
+</entry>
+<entry>
+<form>vantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
+<def>it-came</def>
+<form type="simple">vantaṉṟu</form>
+<gramGrp type="particle"><m>āl</m></gramGrp>
+</entry>
+<entry>
+<form>pāy</form>
+<def>spring-</def>
+</entry>
+<entry>
+<form>pari</form>
+<def>motion</def>
+</entry>
+<entry>
+<form>ciṟant<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>been-superior</def>
+<form type="simple">ciṟantu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
