@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Akanaṉūṟu</title> ANNUMBER. 
+            <title xml:lang="ta">Akanaṉūṟu</title> NUMBER. 
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -40,7 +40,7 @@
         COPY EDITION TEXT HERE  
       </lg>
       <lg type="translation" xml:lang="en">
-        ADD TRANSLATION HERE
+        <l></l>
       </lg>
         </div>
     </body>
