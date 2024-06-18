@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
 <?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
@@ -37,7 +36,7 @@
         </div>
         <div xml:id="ANNUMBER">
       <lg type="edition">
-        COPY EDITION TEXT HERE  
+        COPY EDITION TEXT HERE
       </lg>
       <lg type="translation" xml:lang="en">
         <l></l>
