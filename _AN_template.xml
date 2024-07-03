@@ -51,6 +51,9 @@
 If there are alternative translations:
 <choice><seg></seg>			<seg></seg></choice>
 
+<lg type="alternate" sameAs="linenumberpart">
+    <l></l></lg>
+
 For surplus notes (like (Brahmā) in Kali01):
 <entry>     
   <form>TAMIL WORDSPLIT</form>
@@ -59,3 +62,8 @@ For surplus notes (like (Brahmā) in Kali01):
 </entry>
 
 If there are lines starting with an indent: <l rend="indent4"></l> number shows how big is the indent
+
+If there are text parts missing:
+<gap reason="lost" unit="character" quantity="XX"/>
+XX is the number of Tamil characters (guesstimate)
+add note in Word for check in the MSS!
