@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 176.2. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -96,7 +96,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN176.2"><interp type="alignment" select="0">9M2G67MG32MG40MG96MG15MG11MG23MG36MR76MG16MG18MG72MG13MR70MG19MG4MG15MG123MR13MG2M,790MG</interp>
+<standOff type="wordsplit" corresp="#AN176.2"><interp type="alignment" select="0">76MG32MG40MG96MG15MG11MG23MG36MR76MG16MG18MG72MG13MR70MG19MG19MG123MR13MG2M,787MG</interp>
 <entry>
 <form>kaṭal</form>
 <def>sea</def>
@@ -142,8 +142,8 @@
 <entry>
 <form>kiḻaṅkiṉ</form>
 <def>tuber</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kaḻai</form>
 <def>bamboo</def>
@@ -188,8 +188,8 @@
 <entry>
 <form>maruṅkiṉ</form>
 <def>side</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kaḻu</form>
 <def>stake</def>
@@ -217,8 +217,8 @@
 <entry>
 <form>mukattiṉ</form>
 <def>face</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>pal</form>
 <def>many</def>
@@ -323,8 +323,8 @@
 <entry>
 <form>titalaiyiṉ</form>
 <def>beauty-spot</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>varippa</form>
 <def>draw</def>
@@ -408,8 +408,8 @@
 <entry>
 <form>āmpalōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>white-waterlily</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>ār</form>
 <def>become-full-</def>
@@ -433,8 +433,8 @@
 <entry>
 <form>makaḷiroṭu</form>
 <def>women</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>taḻuv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>embrace-</def>
@@ -578,10 +578,10 @@
 <def>what</def>
 </entry>
 <entry>
-<form>kaṭattaḷ-ēmaṟ-<pc>+</pc>ē</form>
-<def>duty-sheēmaṟṟ</def>
-<form type="simple">kaṭattaḷ-ēmaṟ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<form>kaṭattaḷ-ēmaṟṟē</form>
+<form type="simple">kaṭattaḷ</form>
+<gramGrp type="particle"><m>ēmaṟṟē</m></gramGrp>
+<def>duty-she</def>
 </entry>
 <entry>
 <form>taṉ</form>
@@ -662,8 +662,9 @@
 </entry>
 <entry>
 <form>maḻukiya</form>
-<def>become-blunt-(p.)-</def>
-<gramGrp></gramGrp></entry>
+<def>become-blunt-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>eyiṟṟaḷ</form>
 <def>tooth-she</def>
