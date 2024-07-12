@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanaṉūṟu</title> 189.1. 
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN189.1-kilavi">
+          <p type="edition">makaṭpōkkiya cevili colliyatu.</p>
+          <p type="translation" xml:lang="en">What the foster mother said who had let [her] daughter go.</p>
+        </div>
+        <div xml:id="AN189.1">
+      <lg type="edition">
+        <l>pacumpaḻap palaviṉ kāṉam vempi</l>
+        <l>vicumpukaṇ ṇaḻiya vēṉi ṉīṭik</l>
+        <l>kayaṅka ṇaṟṟa kallōṅku vaippi</l>
+        <l>ṉāṟuyir maṭappiṭi taḻīi vēṟunāṭṭu</l>
+        <l>viḻavuppaṭar maḷḷariṉ muḻaveṭut tuyarik</l>
+        <l>kaḷiṟatarp paṭutta kalluyar kavāaṉ</l>
+        <l>vevvarai yattañ cuṭṭip paiyeṉap</l>
+        <l>payalaiyam piṇaiyal vārnta kavarvuṟat</l>
+        <l>titalai yalkuṟ kuṟumaka ḷavaṉoṭu</l>
+        <l>ceṉṟupiṟa <supplied>ḷā</supplied>kiya vaḷavai yeṉṟum</l>
+        <l><supplied>pa</supplied>ṭarmali yevvamoṭu mātiran tuḻaii</l>
+        <l>maṉaimaruṇ ṭirunta veṉṉiṉu naṉaimakiḻ</l>
+        <l>naṉṉa rāḷar kūṭuko ḷiṉṉiyan</l>
+        <l>tērūr teruviṟ ṟatumpu</l>
+        <l>mūriḻan taṉṟutaṉ vīḻvuṟu poruḷē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l>As the forest of jack trees with green fruit is hot, (1)</l>
+        <l>summer extending so that the area of the sky is deserted [by clouds], (2)</l>
+        <l>in the region high with stones where the area of ponds has disappeared, (3)</l>
+        <l>on the slope high with stones on which the elephant bull has made a road, (6)</l>
+        <l>raising high [its] drum [voice] , like warriors setting out for a festival (5)</l>
+        <l>in other lands, embracing [its] youthful cow with fragrant breath, (4)</l>
+        <l>in as much as [my] little girl, [her] hips with beauty spots,</l>
+        <l>so that [we] with [our] pale wreath feel overflowing sorrow,</l>
+        <l>softly, pointing to the road through the hot mountains,</l>
+        <l>has gone with him [and thus] has become another, (7-10c)</l>
+        <l>even more than me who was in confusion, [back] in the house (12a-c)</l>
+        <l>after having searched the great directions with trouble abounding in affliction, (11)</l>
+        <l>[this] village, (15a)</l>
+        <l>where in the street crawling with chariots resound (14)</l>
+        <l>in unison the sweet instruments of good men [intoxicated] with fresh toddy (12df.)</l>
+        <l rend="indent8">has lost a wealth it cherishes. (15)</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#AN189.1"><interp type="alignment" select="0">48ML31ML2MG52MG5MG11MG84MG103MG13MR72MG8MG2M,441MG</interp>
+<entry>
+<form>pacum</form>
+<def>green</def>
+</entry>
+<entry>
+<form>paḻa<pc>+</pc></form>
+<def>fruit</def>
+</entry>
+<entry>
+<form>palaviṉ</form>
+<def>jack-tree</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>kāṉam</form>
+<def>forest</def>
+</entry>
+<entry>
+<form>vempi</form>
+<def>been-hot</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>vicumpu</form>
+<def>sky</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>area</def>
+</entry>
+<entry>
+<form><pc>+</pc>aḻiya</form>
+<def>perish</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vēṉil</form>
+<def>summer</def>
+</entry>
+<entry>
+<form>nīṭi<pc>+</pc></form>
+<def>extended</def>
+</entry>
+<entry>
+<form>kayam</form>
+<def>tank</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>area</def>
+</entry>
+<entry>
+<form>aṟṟa</form>
+<def>ceased-</def>
+</entry>
+<entry>
+<form>kal</form>
+<def>stone</def>
+</entry>
+<entry>
+<form><pc>+</pc>ōṅku</form>
+<def>become-high-</def>
+</entry>
+<entry>
+<form>vaippiṉ</form>
+<def>region</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>nāṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>be-fragrant-</def>
+</entry>
+<entry>
+<form>uyir</form>
+<def>breath</def>
+</entry>
+<entry>
+<form>maṭa<pc>+</pc></form>
+<def>youthfulness</def>
+</entry>
+<entry>
+<form>piṭi</form>
+<def>she-elephant</def>
+</entry>
+<entry>
+<form>taḻīi</form>
+<def>embraced</def>
+</entry>
+<entry>
+<form>vēṟu</form>
+<def>different</def>
+</entry>
+<entry>
+<form>nāṭṭu</form>
+<def>land-</def>
+</entry>
+<entry>
+<form>viḻavu<pc>+</pc></form>
+<def>festival</def>
+</entry>
+<entry>
+<form>paṭar</form>
+<def>set-out-</def>
+</entry>
+<entry>
+<form>maḷḷariṉ</form>
+<def>warrior</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>muḻav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>drum</def>
+</entry>
+<entry>
+<form>eṭutt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>raised</def>
+</entry>
+<entry>
+<form>uyari<pc>+</pc></form>
+<def>been-high</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḷiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>elephant-bull</def>
+</entry>
+<entry>
+<form>atar<pc>+</pc></form>
+<def>road</def>
+</entry>
+<entry>
+<form>paṭutta</form>
+<def>caused-</def>
+</entry>
+<entry>
+<form>kal</form>
+<def>stone</def>
+</entry>
+<entry>
+<form><pc>+</pc>uyar</form>
+<def>be-high-</def>
+</entry>
+<entry>
+<form>kavāaṉ</form>
+<def>slope</def>
+</entry>
+<entry>
+<form>ve<pc>+</pc></form>
+<def>hot</def>
+</entry>
+<entry>
+<form>varai</form>
+<def>mountain</def>
+</entry>
+<entry>
+<form><pc>~</pc>attam</form>
+<def>road</def>
+</entry>
+<entry>
+<form>cuṭṭi<pc>+</pc></form>
+<def>pointed-out</def>
+</entry>
+<entry>
+<form>paiyeṉa<pc>+</pc></form>
+<def>softly</def>
+</entry>
+<entry>
+<form>payalaiyam</form>
+<def>pallor</def>
+<gramGrp type="affix"><m>am</m></gramGrp>
+</entry>
+<entry>
+<form>piṇaiyal</form>
+<def>wreath</def>
+</entry>
+<entry>
+<form>vārnta</form>
+<def>overflown-</def>
+</entry>
+<entry>
+<form>kavarv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>sorrow</def>
+</entry>
+<entry>
+<form>uṟa<pc>+</pc></form>
+<def>have</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>titalai</form>
+<def>beauty-spot</def>
+</entry>
+<entry>
+<form><pc>~</pc>alkul</form>
+<def>hip</def>
+</entry>
+<entry>
+<form>kuṟu</form>
+<def>short</def>
+</entry>
+<entry>
+<form>makaḷ</form>
+<def>woman</def>
+</entry>
+<entry>
+<form>avaṉoṭu</form>
+<def>he</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>ceṉṟu</form>
+<def>gone</def>
+</entry>
+<entry>
+<form>piṟaḷ</form>
+<def>other-she</def>
+</entry>
+<entry>
+<form>ākiya</form>
+<def>become-(p.)-</def>
+<gramGrp></gramGrp></entry>
+<entry>
+<form><pc>~</pc>aḷavai</form>
+<def>measure</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṉṟum</form>
+<def>always</def>
+</entry>
+<entry>
+<form>paṭar</form>
+<def>affliction</def>
+</entry>
+<entry>
+<form>mali</form>
+<def>be-much-</def>
+</entry>
+<entry>
+<form><pc>~</pc>evvamoṭu</form>
+<def>trouble</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>mātiram</form>
+<def>great-direction</def>
+</entry>
+<entry>
+<form>tuḻaii</form>
+<def>stirred</def>
+</entry>
+<entry>
+<form>maṉai</form>
+<def>house</def>
+</entry>
+<entry>
+<form>maruṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>confused</def>
+</entry>
+<entry>
+<form>irunta</form>
+<def>been-they</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉṉiṉum</form>
+<def>say-if-even</def>
+</entry>
+<entry>
+<form>naṉai</form>
+<def>be-wet-</def>
+</entry>
+<entry>
+<form>makiḻ</form>
+<def>toddy</def>
+</entry>
+<entry>
+<form>naṉṉar</form>
+<def>goodness</def>
+</entry>
+<entry>
+<form>āḷar</form>
+<def>man</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>kūṭu</form>
+<def>unite-</def>
+</entry>
+<entry>
+<form>koḷ</form>
+<def>take-</def>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>pleasing</def>
+</entry>
+<entry>
+<form><pc>+</pc>iyam</form>
+<def>instrument</def>
+</entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+</entry>
+<entry>
+<form>ūr</form>
+<def>creep-</def>
+</entry>
+<entry>
+<form>teruviṉ</form>
+<def>street</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>tatumpum</form>
+<def>resounding-</def>
+</entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+</entry>
+<entry>
+<form>iḻantaṉṟu</form>
+<def>it-was-lost</def>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self-</def>
+</entry>
+<entry>
+<form>vīḻv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>desiring</def>
+</entry>
+<entry>
+<form>uṟu</form>
+<def>have-</def>
+</entry>
+<entry>
+<form>poruḷ-ē</form>
+<def>wealth</def>
+<form type="simple">poruḷ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

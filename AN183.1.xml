@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanaṉūṟu</title> 183.1. 
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN183.1-kilavi">
+          <p type="edition">talaimakaṉ kuṟitta paruvavaravukaṇṭu talaimaka ṭōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">What SHE said to the confidante after seeing the arrival of the season indicated by HIM.</p>
+        </div>
+        <div xml:id="AN183.1">
+      <lg type="edition">
+        <l>kuvaḷai yuṇkaṇ kaluḻavun tiruntiḻait</l>
+        <l>titalai yalku lavvari vāṭavu</l>
+        <l>mattama raḻuva nattuṟan taruḷār</l>
+        <l>ceṉṟucē ṇiṭaiya rāyiṉu naṉṟu</l>
+        <l>nīṭala reṉṟi tōḻi pāṭāṉṟu</l>
+        <l>paṉittuṟaip peruṅkaṭa liraintunīr parukik</l>
+        <l>kuvavuttirai varuntaka koḷḷai cāṟṟiya, ku<supplied>ṭa</supplied>kkērpu</l>
+        <l>vayavuppiṭi yiṉattiṉ vayiṉvayiṟ ṟōṉṟi</l>
+        <l>yiruṅ<supplied>ki</supplied>ḷaik koṇmū voruṅkuṭaṉ ṟuvaṉṟik</l>
+        <l>kālai vantaṉṟāṟ kārē mālaik</l>
+        <l>kuḷirkoḷ piṭaviṉ kūrmukai yalari</l>
+        <l>vaṇṭuvāy tiṟakkun taṇṭār nāṟṟaṅ</l>
+        <l>kūti raccirat tūtai tūṟṟap</l>
+        <l>paṉiyalaik kalakkiya neñcamoṭu</l>
+        <l>varuntuva mallamō pirinticiṉōr tiṟattē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l>He who was inconsiderate, abandoning us in the thicket full of thornapple trees, (3)</l>
+        <l>although [my] waterlily kajal eyes were dimming and the pretty lines</l>
+        <l>on my hips with perfect jewels [and] beauty spots were fading, (1f.)</l>
+        <l>even though, having gone, he is in a distant place you may well</l>
+        <l>say, friend, that he won’t delay. (4-5c)</l>
+        <l>[Its] breadth increasing, roaring, drinking water from the vast ocean with chilly ghats, (5df.)</l>
+        <l>rising to the west in order to duly proclaim the plunder that comes from the piling waves, (7)</l>
+        <l>appearing in place after place like groups of strong elephant cows, (8)</l>
+        <l>the clouds filling up together with [their] dark relatives, (9)</l>
+        <l>the time has come indeed, the rainy season.  In the evening, (10)</l>
+        <l>as the cold wind of the cold dewy season spreads (13)</l>
+        <l>the fragrance of cool garlands on which bees open the mouths (12)</l>
+        <l>of the flowers with pointed buds of the cold Piṭavu, (11)</l>
+        <l>with a heart that the dew harasses [and] stirs up, (14)</l>
+        <l>we shall suffer, shall we not, on account of him who parted [from us]? (15)</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#183.1"><interp type="alignment" select="0">19MG9MG28MG3ML3MG9MR9MG26MR23MG83MG60MG24M2G5MG77MG53MG13MG6M2G2M,214MG255MG</interp>
+<entry>
+<form>kuvaḷai</form>
+<def>waterlily</def>
+</entry>
+<entry>
+<form><pc>~</pc>uṇ</form>
+<def>kajal</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+</entry>
+<entry>
+<form>kaluḻa-<pc>~</pc>um</form>
+<def>dim</def>
+<form type="simple">kaluḻa</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>tirunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>be-perfect-</def>
+</entry>
+<entry>
+<form>iḻai<pc>+</pc></form>
+<def>jewel</def>
+</entry>
+<entry>
+<form>titalai</form>
+<def>beauty-spot</def>
+</entry>
+<entry>
+<form><pc>~</pc>alkul</form>
+<def>hip</def>
+</entry>
+<entry>
+<form>am</form>
+<def>pretty</def>
+</entry>
+<entry>
+<form>vari</form>
+<def>line</def>
+</entry>
+<entry>
+<form>vāṭa-<pc>~</pc>um</form>
+<def>fade</def>
+<form type="simple">vāṭa</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>matt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>thornapple</def>
+</entry>
+<entry>
+<form>amar</form>
+<def>abound-</def>
+</entry>
+<entry>
+<form>aḻuvam</form>
+<def>thicket</def>
+</entry>
+<entry>
+<form>nam</form>
+<def>us-</def>
+</entry>
+<entry>
+<form>tuṟant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>abandoned</def>
+</entry>
+<entry>
+<form>aruḷār</form>
+<def>be-considerate-not-he</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>ceṉṟu</form>
+<def>gone</def>
+</entry>
+<entry>
+<form>cēṇ</form>
+<def>distance</def>
+</entry>
+<entry>
+<form>iṭaiyar</form>
+<def>place-he</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉum</form>
+<def>if-even</def>
+</entry>
+<entry>
+<form>naṉṟu</form>
+<def>good-it</def>
+</entry>
+<entry>
+<form>nīṭalar</form>
+<def>prolong-not-he</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉṟi</form>
+<def>you-say</def>
+<gramGrp><gram type="role">subjunctive</gram>
+</gramGrp></entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+</entry>
+<entry>
+<form>pāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>singing</def>
+</entry>
+<entry>
+<form>āṉṟu</form>
+<def>ended</def>
+</entry>
+<entry>
+<form>paṉi<pc>+</pc></form>
+<def>dew</def>
+</entry>
+<entry>
+<form>tuṟai<pc>+</pc></form>
+<def>harbour</def>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>kaṭal</form>
+<def>sea</def>
+</entry>
+<entry>
+<form>iraintu</form>
+<def>roared</def>
+</entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
+</entry>
+<entry>
+<form>paruki<pc>+</pc></form>
+<def>drunk</def>
+</entry>
+<entry>
+<form>kuvavu<pc>+</pc></form>
+<def>heap</def>
+</entry>
+<entry>
+<form>tirai</form>
+<def>wave</def>
+</entry>
+<entry>
+<form>varum</form>
+<def>coming-</def>
+</entry>
+<entry>
+<form>taka</form>
+<def>be-fit</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>koḷḷai</form>
+<def>plunder</def>
+</entry>
+<entry>
+<form>cāṟṟiya</form>
+<def>proclaim</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṭakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>west</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>ērpu</form>
+<def>risen</def>
+</entry>
+<entry>
+<form>vayavu<pc>+</pc></form>
+<def>strength</def>
+</entry>
+<entry>
+<form>piṭi</form>
+<def>she-elephant</def>
+</entry>
+<entry>
+<form><pc>~</pc>iṉattiṉ</form>
+<def>group</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>vayiṉ</form>
+<def>side</def>
+</entry>
+<entry>
+<form>vayiṉ</form>
+<def>side</def>
+</entry>
+<entry>
+<form>tōṉṟi</form>
+<def>appeared</def>
+</entry>
+<entry>
+<form><pc>~</pc>irum</form>
+<def>big/dark</def>
+</entry>
+<entry>
+<form>kiḷai<pc>+</pc></form>
+<def>relative</def>
+</entry>
+<entry>
+<form>koṇmū</form>
+<def>cloud</def>
+</entry>
+<entry>
+<form><pc>~</pc>oruṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>together1</def>
+</entry>
+<entry>
+<form>uṭaṉ</form>
+<def>together2</def>
+</entry>
+<entry>
+<form>tuvaṉṟi<pc>+</pc></form>
+<def>filled-up</def>
+</entry>
+<entry>
+<form>kālai</form>
+<def>time</def>
+</entry>
+<entry>
+<form>vantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
+<def>it-came</def>
+<form type="simple">vantaṉṟu</form>
+<gramGrp type="particle"><m>āl</m></gramGrp>
+</entry>
+<entry>
+<form>kār-ē</form>
+<def>rainy-season</def>
+<form type="simple">kār</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>mālai<pc>+</pc></form>
+<def>evening</def>
+</entry>
+<entry>
+<form>kuḷir</form>
+<def>coldness</def>
+</entry>
+<entry>
+<form>koḷ</form>
+<def>take-</def>
+</entry>
+<entry>
+<form>piṭaviṉ</form>
+<def>Piṭavu</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>kūr</form>
+<def>sharp</def>
+</entry>
+<entry>
+<form>mukai</form>
+<def>bud</def>
+</entry>
+<entry>
+<form><pc>~</pc>alari</form>
+<def>blossom</def>
+</entry>
+<entry>
+<form>vaṇṭu</form>
+<def>bee</def>
+</entry>
+<entry>
+<form>vāy</form>
+<def>mouth</def>
+</entry>
+<entry>
+<form>tiṟakkum</form>
+<def>opening-</def>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+</entry>
+<entry>
+<form>tār</form>
+<def>garland</def>
+</entry>
+<entry>
+<form>nāṟṟam</form>
+<def>fragrance</def>
+</entry>
+<entry>
+<form>kūtir</form>
+<def>cool-season</def>
+</entry>
+<entry>
+<form>acciratt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>cool-season-</def>
+</entry>
+<entry>
+<form>ūtai</form>
+<def>cold-wind</def>
+</entry>
+<entry>
+<form>tūṟṟa<pc>+</pc></form>
+<def>spread</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>paṉi</form>
+<def>dew</def>
+</entry>
+<entry>
+<form><pc>~</pc>alai<pc>+</pc></form>
+<def>harass-</def>
+</entry>
+<entry>
+<form>kalakkiya</form>
+<def>stirred-up-(tr.)-</def>
+<gramGrp></gramGrp></entry>
+<entry>
+<form>neñcamoṭu</form>
+<def>heart</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>varuntuvam</form>
+<def>we-suffer</def>
+</entry>
+<entry>
+<form>allam-ō</form>
+<def>not-so-we</def>
+<form type="simple">allam</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>pirinticiṉōr-tiṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>separated-they</def>
+<form type="simple">pirinticiṉōr-tiṟattu</form>
+<gramGrp><gram type="role">locative</gram>
+<gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
