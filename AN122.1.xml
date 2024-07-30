@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 122.1. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -94,7 +94,7 @@
     </body>
   </text>
 
-<standOff type="wordsplit" corresp="#AN122.1"><interp type="alignment" select="0">26MG7MG3MG12MG4ML11ML4MG158MG71MR12MG68MGMG6MG76ML18ML11MG11MG36MG22ML40MG11MG3M2G14M2G2M,651MG</interp>
+<standOff type="wordsplit" corresp="#AN122.1"><interp type="alignment" select="0">26MG7MG3MG4MG8MG4ML11ML4MG229MR12MG68MGMG6MG76ML18ML11MG11MG36MG22ML40MG11MG3M2G14M2G2M,651MG</interp>
 <entry>
 <form>irum</form>
 <def>big/dark</def>
@@ -138,10 +138,13 @@
 <def>not-it</def>
 </entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>even-if</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>tuñcāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>sleep-not</def>
@@ -310,14 +313,14 @@
 <entry>
 <form>ñāḷi</form>
 <def>dog(?)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>makiḻum</form>
 <def>rejoicing-</def>
 <gramGrp><gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form>aravam</form>
+<form>arava</form>
 <def>sound</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
@@ -508,7 +511,7 @@
 <entry>
 <form>vāḷātu</form>
 <def>silently(?)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>maṭiyiṉ</form>
 <def>droop-if</def>
@@ -611,7 +614,7 @@
 <entry>
 <form>puṭṭil</form>
 <def>anklet(?)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>ārppa<pc>+</pc></form>
 <def>roar</def>
@@ -715,11 +718,11 @@
 <gram type="role">neuter singular</gram>
 </gramGrp></entry>
 <entry>
-  <form>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
-  <def>said-it</def>
-  <form type="simple">eṉṟu</form>
-  <gramGrp type="particle"><m>āl</m></gramGrp>
-  </entry>
+<form>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
+<def>said-it</def>
+<form type="simple">eṉṟu</form>
+<gramGrp type="particle"><m>āl</m></gramGrp>
+</entry>
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
