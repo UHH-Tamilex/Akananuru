@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 183.1. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -72,7 +72,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#183.1"><interp type="alignment" select="0">19MG9MG28MG3ML3MG9MR9MG26MR23MG83MG60MG24M2G5MG77MG53MG13MG6M2G2M,214MG255MG</interp>
+<standOff type="wordsplit" corresp="#AN183.1"><interp type="alignment" select="0">19MG9MG28MG3ML3MG9MR9MG26MR23MG83MG60MG24M2G5MG77MG53MG13MG6M2G2M,214MG255MG</interp>
 <entry>
 <form>kuvaḷai</form>
 <def>waterlily</def>
@@ -89,7 +89,8 @@
 <form>kaluḻa-<pc>~</pc>um</form>
 <def>dim</def>
 <form type="simple">kaluḻa</form>
-<gramGrp><gram type="role">infinitive</gram>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">infinitive</gram>
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
@@ -109,9 +110,10 @@
 <def>hip</def>
 </entry>
 <entry>
-<form>am</form>
+<form>a<pc>+</pc></form>
 <def>pretty</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>vari</form>
 <def>line</def>
@@ -120,7 +122,8 @@
 <form>vāṭa-<pc>~</pc>um</form>
 <def>fade</def>
 <form type="simple">vāṭa</form>
-<gramGrp><gram type="role">infinitive</gram>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">infinitive</gram>
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
@@ -265,8 +268,8 @@
 <entry>
 <form><pc>~</pc>iṉattiṉ</form>
 <def>group</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vayiṉ</form>
 <def>side</def>
@@ -334,8 +337,8 @@
 <entry>
 <form>piṭaviṉ</form>
 <def>Piṭavu</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kūr</form>
 <def>sharp</def>
@@ -399,13 +402,13 @@
 </entry>
 <entry>
 <form>kalakkiya</form>
-<def>stirred-up-(tr.)-</def>
-<gramGrp></gramGrp></entry>
+<def>stirred-up---(tr.)-</def>
+<gramGrp/></entry>
 <entry>
 <form>neñcamoṭu</form>
 <def>heart</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>varuntuvam</form>
 <def>we-suffer</def>
