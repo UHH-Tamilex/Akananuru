@@ -72,7 +72,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN183.2"><interp type="alignment" select="0">19MG9MG28MG3ML3MG9MR9MG25MGMR23MG77MG60MG24M2G5MG77MG53MG13MG6M2G2M,465MG</interp>
+<standOff type="wordsplit" corresp="#AN183.2"><interp type="alignment" select="0">19MG9MG28MG3ML3MG9MR9MG26MR23MG77MG60MG24M2G5MG77MG53MG19M2G2M,463MG</interp>
 <entry>
 <form>kuvaḷai</form>
 <def>waterlily</def>
@@ -109,10 +109,9 @@
 <def>hip</def>
 </entry>
 <entry>
-<form>a<pc>+</pc></form>
+<form>am</form>
 <def>pretty</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
+</entry>
 <entry>
 <form>vari</form>
 <def>line</def>
@@ -137,7 +136,7 @@
 <def>thicket</def>
 </entry>
 <entry>
-<form>na<pc>+</pc></form>
+<form>nam</form>
 <def>us-</def>
 </entry>
 <entry>
@@ -163,12 +162,8 @@
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉ-um</form>
+<form>āyiṉum</form>
 <def>if-even</def>
-<form type="simple">āyiṉ</form>
-<gramGrp><gram type="role">concessive</gram>
-<gram type="role">conditional</gram>
-</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>naṉṟu</form>
@@ -414,11 +409,15 @@
 <gramGrp type="particle"><m>ō</m></gramGrp>
 </entry>
 <entry>
-<form>pirinticiṉōr-tiṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>pirinticiṉōr</form>
 <def>separated-they</def>
-<form type="simple">pirinticiṉōr-tiṟattu</form>
-<gramGrp><gram type="role">locative</gram>
-<gram type="role">honorific</gram>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>tiṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>on</def>
+<form type="simple">tiṟattu</form>
+<gramGrp><gram type="role">postposition</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
 </TEI>
