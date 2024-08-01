@@ -41,7 +41,7 @@
               <l>vaṟṟaṉ maratta poṟṟalai yō<supplied>ti</supplied></l>
               <l>veyiṟkavi ṉaḻinta vaippiṟ paiyuḷkoḷa</l>
               <l>nuṇṇiti ṉi<supplied>ka</supplied>rkkum veṇ<supplied>ñe</supplied>mai viyaṉkāṭ</l>
-              <l>ṭāṉi latt<supplied>n</supplied> ta<supplied>mi</supplied>ya ḷavaṉoṭu</l>
+              <l>ṭāṉi latta<supplied>n</supplied> ta<supplied>mi</supplied>ya ḷavaṉoṭu</l>
               <l>vāḷvari poruta puṇkūr yāṉai</l>
               <l>pukarcitai mukatta kuruti vāra</l>
               <l>vuyarcimai neṭuṅkōṭ ṭurumeṉa muḻaṅku</l>
@@ -86,7 +86,7 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#AN145.2"><interp type="alignment" select="0">8MG39MG72ML25MG8MG17MG67MG93ML54MG34MG20MG54MG12MG26MG6MG17MG17MG5MG5ML35MG3M,636MG</interp>
+  <standOff type="wordsplit" corresp="#AN145.2"><interp type="alignment" select="0">8MG39MG72ML25MG26MG67MG93ML54MG34MG20MG54MG12MG26MG6MG17MG17MG5MG5ML35MG3M,636MG</interp>
 <entry>
 <form>vēr</form>
 <def>root</def>
@@ -479,7 +479,8 @@
 <form><pc>~</pc>otuṅkiṉ-um</form>
 <def>step-aside-if</def>
 <form type="simple">otuṅkiṉ</form>
-<gramGrp><gram type="role">conditional</gram>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
