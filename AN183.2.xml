@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 183.2. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -72,7 +72,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN183.2"><interp type="alignment" select="0">19MG9MG28MG3ML3MG9MR9MG26MR23MG77MG60MG24M2G5MG77MG53MG13MG6M2G2M,464MG</interp>
+<standOff type="wordsplit" corresp="#AN183.2"><interp type="alignment" select="0">19MG9MG28MG3ML3MG9MR9MG25MGMR23MG77MG60MG24M2G5MG77MG53MG13MG6M2G2M,465MG</interp>
 <entry>
 <form>kuvaḷai</form>
 <def>waterlily</def>
@@ -109,9 +109,10 @@
 <def>hip</def>
 </entry>
 <entry>
-<form>am</form>
+<form>a<pc>+</pc></form>
 <def>pretty</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>vari</form>
 <def>line</def>
@@ -136,7 +137,7 @@
 <def>thicket</def>
 </entry>
 <entry>
-<form>nam</form>
+<form>na<pc>+</pc></form>
 <def>us-</def>
 </entry>
 <entry>
@@ -162,8 +163,12 @@
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>naṉṟu</form>
@@ -257,8 +262,8 @@
 <entry>
 <form><pc>~</pc>iṉattiṉ</form>
 <def>group</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vayiṉ</form>
 <def>side</def>
@@ -326,8 +331,8 @@
 <entry>
 <form>piṭaviṉ</form>
 <def>Piṭavu</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kūr</form>
 <def>sharp</def>
@@ -391,13 +396,13 @@
 </entry>
 <entry>
 <form>kalaṅkiya</form>
-<def>stirred-up-(intr.)-</def>
-<gramGrp></gramGrp></entry>
+<def>stirred-up--(intr.)-</def>
+<gramGrp/></entry>
 <entry>
 <form>neñcamoṭu</form>
 <def>heart</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>varuntuvam</form>
 <def>we-suffer</def>

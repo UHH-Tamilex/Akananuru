@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 155.1. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -74,7 +74,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN155.1"><interp type="alignment" select="0">21MG31MG7M2G41MG3ML6MG7ML53ML17MG5ML46MG32MG38MG84MG6MG29ML29MG2M,474MG</interp>
+<standOff type="wordsplit" corresp="#AN155.1"><interp type="alignment" select="0">21MG31MG7M2G41MG3ML6MG7ML13MG40ML17MG5ML46MG32MG38MG84MG6MG29ML29MG2M,475MG</interp>
 <entry>
 <form>aṟaṉ</form>
 <def>duty</def>
@@ -120,8 +120,8 @@
 <entry>
 <form>poruḷiṉ</form>
 <def>wealth</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>ākum</form>
 <def>becomes</def>
@@ -174,8 +174,12 @@
 <def>we-will-end</def>
 </entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>tām</form>
@@ -300,8 +304,8 @@
 <entry>
 <form>varuttamoṭu</form>
 <def>suffering</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>cērv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>joining</def>
@@ -374,8 +378,8 @@
 <entry>
 <form>nāviṉ</form>
 <def>tongue</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vayiriyar</form>
 <def>dancer</def>
@@ -396,8 +400,8 @@
 <entry>
 <form>muḻaviṉ</form>
 <def>drum</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇ-<pc>+</pc>akatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>eye</def>
@@ -418,8 +422,8 @@
 <entry>
 <form>vaṭuviṉ</form>
 <def>scar</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>tōṉṟum</form>
 <def>appearing-</def>
@@ -435,8 +439,8 @@
 <entry>
 <form>maruṅkiṉ</form>
 <def>side</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>malai</form>
 <def>mountain</def>

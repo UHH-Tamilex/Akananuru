@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 152.2. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -91,7 +91,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN152.2"><interp type="alignment" select="0">11MG22MG14MG35MG3ML164ML101ML39MG30ML26MG25MG98ML87MR17MG2M,687MG</interp>
+<standOff type="wordsplit" corresp="#AN152.2"><interp type="alignment" select="0">11MG22MG14MG35MG3ML164ML101ML39MG30ML26MG25MG46MG12MG40ML86MGMR17MG2M,690MG</interp>
 <entry>
 <form>neñcu</form>
 <def>heart</def>
@@ -219,12 +219,11 @@
 <entry>
 <form>parappiṉ</form>
 <def>expanse</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kāṉalam</form>
 <def>seashore-grove</def>
-<gramGrp type="affix"><m>am</m></gramGrp>
 </entry>
 <entry>
 <form>perum</form>
@@ -270,8 +269,8 @@
 <entry>
 <form><pc>+</pc>iṟaviṉ</form>
 <def>prawn</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kuppai</form>
 <def>heap</def>
@@ -392,8 +391,8 @@
 <entry>
 <form>cilampiṉ</form>
 <def>mountain-side</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kali</form>
 <def>clamour</def>
@@ -413,8 +412,6 @@
 <entry>
 <form>tōḷē</form>
 <def>shoulder</def>
-<form type="simple">tōḷ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>val</form>
@@ -506,8 +503,12 @@
 <def>been-fragrant</def>
 </entry>
 <entry>
-<form>valliṉum</form>
+<form>valliṉ-um</form>
 <def>able-if-even</def>
+<form type="simple">valliṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>vallār</form>
@@ -515,8 +516,12 @@
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>ceṉṟōrkku<pc>+</pc></form>
@@ -611,8 +616,12 @@
 <gramGrp><gram type="role">neuter plural</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>āyiṉum</form>
+<form><pc>~</pc>āyiṉ-um</form>
 <def>even-if</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>naṭuṅku</form>

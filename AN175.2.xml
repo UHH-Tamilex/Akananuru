@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 175.2. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -78,7 +78,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN175.2"><interp type="alignment" select="0">11MG13MG45MG115MG22MG10MG18MG32M2G12ML31MG10MG30MG69MG28ML62M2G2M,526MG</interp>
+<standOff type="wordsplit" corresp="#AN175.2"><interp type="alignment" select="0">11MG13MG45MG115MG22MG10MG18MG32M2G12ML31MG10MG12MG18MG69MG28ML62M2G2M,527MG</interp>
 <entry>
 <form>vīṅku</form>
 <def>swell-</def>
@@ -339,11 +339,12 @@
 <def>heightened-</def>
 </entry>
 <entry>
-<form>vēliṉum</form>
+<form>vēliṉ-um</form>
 <def>spear</def>
 <form type="simple">vēliṉ</form>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>pal</form>
@@ -377,8 +378,8 @@
 <entry>
 <form>vicumpiṉ</form>
 <def>sky</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṭi</form>
 <def>speed</def>
@@ -401,12 +402,11 @@
 </entry>
 <entry>
 <form>niraitta</form>
-<def>put-in-row-(p.)-</def>
-<gramGrp></gramGrp></entry>
+<def>put-in-row--(p.)-</def>
+<gramGrp/></entry>
 <entry>
 <form>nēmiyam</form>
 <def>discus</def>
-<gramGrp type="affix"><m>am</m></gramGrp>
 </entry>
 <entry>
 <form>celvaṉ</form>

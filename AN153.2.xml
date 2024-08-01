@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 153.2. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -80,7 +80,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN153.2"><interp type="alignment" select="0">3M2G4MG63MR15M2G8ML2MG6MG16MG30MG6MG4MG50MG44MG10MG13MG16ML3MG15MG28MG8MG24MG44MG73ML27MG2M,539MG</interp>
+<standOff type="wordsplit" corresp="#AN153.2"><interp type="alignment" select="0">3M2G4MG62MGMR15M2G8ML2MG6MG16MG30MG6MG4MG50MG44MG10MG13MG16ML3MG15MG28MG8MG24MG44MG73ML27MG2M,540MG</interp>
 <entry>
 <form>nōk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
 <def>I-ache</def>
@@ -121,8 +121,8 @@
 <entry>
 <form><pc>~</pc>āyamoṭu</form>
 <def>companion</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>keḻīi<pc>+</pc></form>
 <def>come-together</def>
@@ -141,8 +141,12 @@
 <def>set-out-she</def>
 </entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>nontu</form>
@@ -413,8 +417,8 @@
 <entry>
 <form>mīṉoṭu</form>
 <def>star</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>polinta</form>
 <def>shone-</def>
@@ -422,8 +426,8 @@
 <entry>
 <form>vāṉiṉ</form>
 <def>sky</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>tōṉṟi<pc>+</pc></form>
 <def>appeared</def>
@@ -452,8 +456,8 @@
 <entry>
 <form>kōṅkiṉ</form>
 <def>cameg</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kāl</form>
 <def>wind</def>
@@ -466,7 +470,7 @@
 <entry>
 <form>kaḻaṉṟa</form>
 <def>become-loose-(p.)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>taṇ</form>
 <def>cool</def>
@@ -490,8 +494,8 @@
 <entry>
 <form>cuṭariṉ</form>
 <def>glow</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>tōṉṟum</form>
 <def>appearing-</def>

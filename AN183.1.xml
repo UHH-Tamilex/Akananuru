@@ -72,7 +72,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN183.1"><interp type="alignment" select="0">19MG9MG28MG3ML3MG9MR9MG26MR23MG83MG60MG24M2G5MG77MG53MG13MG6M2G2M,214MG255MG</interp>
+<standOff type="wordsplit" corresp="#AN183.1"><interp type="alignment" select="0">19MG9MG28MG3ML3MG9MR9MG25MGMR23MG83MG60MG24M2G5MG77MG53MG13MG6M2G2M,215MG255MG</interp>
 <entry>
 <form>kuvaḷai</form>
 <def>waterlily</def>
@@ -165,8 +165,12 @@
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>naṉṟu</form>
@@ -402,7 +406,7 @@
 </entry>
 <entry>
 <form>kalakkiya</form>
-<def>stirred-up---(tr.)-</def>
+<def>stirred-up----(tr.)-</def>
 <gramGrp/></entry>
 <entry>
 <form>neñcamoṭu</form>

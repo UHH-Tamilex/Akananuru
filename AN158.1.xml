@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 158.1. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -78,7 +78,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN158.1"><interp type="alignment" select="0">41MG10MG4ML3MG15MG95MG37MG53MG11M2G2MG18MG20MG12MG5M2G6ML18MG14MG10ML17MR4MG5MG32MG52MG24MG14MG2M,550MG</interp>
+<standOff type="wordsplit" corresp="#AN158.1"><interp type="alignment" select="0">41MG10MG4ML3MG15MG95MG37MG53MG11M2G2MG18MG20MG12MG5M2G6ML18MG14MG10ML16MGMR4MG5MG32MG52MG24MG14MG2M,551MG</interp>
 <entry>
 <form>urum</form>
 <def>thunder</def>
@@ -90,7 +90,6 @@
 <entry>
 <form>karuviya</form>
 <def>amount</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>peru</form>
@@ -164,8 +163,8 @@
 <entry>
 <form>neṟiyiṉ</form>
 <def>curl</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kiḷaiiya</form>
 <def>branched-out-</def>
@@ -185,8 +184,8 @@
 <entry>
 <form>mayiliṉ</form>
 <def>peacock</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>olkuvaṉaḷ</form>
 <def>move-she</def>
@@ -258,8 +257,8 @@
 <entry>
 <form>cilampiṉ</form>
 <def>mountain-side</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>cuṭar<pc>+</pc></form>
 <def>glow</def>
@@ -284,8 +283,8 @@
 <entry>
 <form>uruviṉ</form>
 <def>form</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um-ār</form>
 <def>tormentum-</def>
@@ -295,14 +294,12 @@
 <entry>
 <form>varumē</form>
 <def>coming-</def>
-<form type="simple">varum</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>naṉaviṉ</form>
 <def>reality</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vāy-ē</form>
 <def>truth</def>
@@ -377,15 +374,18 @@
 <entry>
 <form>mātta</form>
 <def>mango-tree</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>kūkai</form>
 <def>owl</def>
 </entry>
 <entry>
-<form>kuḻaṟiṉum</form>
+<form>kuḻaṟiṉ-um</form>
 <def>shriek-if-even</def>
+<form type="simple">kuḻaṟiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>

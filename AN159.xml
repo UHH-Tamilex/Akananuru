@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 159. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -84,7 +84,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN159"><interp type="alignment" select="0">94MG54MG31ML109MG49MG22ML125ML5MG33ML40MG6MG24MG20M2G2M,627MG</interp>
+<standOff type="wordsplit" corresp="#AN159"><interp type="alignment" select="0">94MG54MG31ML109MG49MG22ML125ML5MG33ML35MG5MG6MG24MG20M2G2M,628MG</interp>
 <entry>
 <form>teḷ</form>
 <def>clear-</def>
@@ -108,8 +108,8 @@
 <entry>
 <form>uppiṉ</form>
 <def>salt</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>koḷḷai</form>
 <def>price</def>
@@ -141,7 +141,6 @@
 <entry>
 <form>cuvala</form>
 <def>nape</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>pakaṭu</form>
@@ -175,8 +174,8 @@
 <entry>
 <form>aṭuppiṉ</form>
 <def>oven</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vaṭi</form>
 <def>refinement</def>
@@ -358,7 +357,6 @@
 <entry>
 <form>kātalam</form>
 <def>love</def>
-<gramGrp type="affix"><m>am</m></gramGrp>
 </entry>
 <entry>
 <form>tōḻi</form>
@@ -367,8 +365,8 @@
 <entry>
 <form>vicumpiṉ</form>
 <def>sky</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>nal</form>
 <def>good</def>
@@ -452,7 +450,6 @@
 <entry>
 <form>kavuḷa</form>
 <def>cheek</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>ciṟu</form>
@@ -526,15 +523,19 @@
 <entry>
 <form>ciṟappiṉ</form>
 <def>superiority</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>āmūr</form>
 <def>Āmūr</def>
 </entry>
 <entry>
-<form>eytiṉum</form>
+<form>eytiṉ-um</form>
 <def>reach-if-even</def>
+<form type="simple">eytiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>āṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>

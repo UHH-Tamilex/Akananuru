@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 177.2. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -84,7 +84,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN177.2"><interp type="alignment" select="0">25MG24MG15MG53MG12MG16MG86ML3MG70MG16ML9MG5MG88MG39ML63MG28MG26M2G2M,597MG</interp>
+<standOff type="wordsplit" corresp="#AN177.2"><interp type="alignment" select="0">25MG24MG15MG53MG12MG16MG86ML3MG70MG16ML9MG5MG18MG70MG39ML63MG28MG26M2G2M,598MG</interp>
 <entry>
 <form>tol</form>
 <def>old</def>
@@ -175,8 +175,8 @@
 <entry>
 <form>kaiyiṉ</form>
 <def>hand</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>māṉ</form>
 <def>resemble-</def>
@@ -237,8 +237,8 @@
 <entry>
 <form>kāṇpiṉ</form>
 <def>seeing</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kaḻai</form>
 <def>bamboo</def>
@@ -250,8 +250,8 @@
 <entry>
 <form>cilampiṉ</form>
 <def>mountain-side</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vaḻai</form>
 <def>gamboge</def>
@@ -357,8 +357,8 @@
 <entry>
 <form>vayiriṉ</form>
 <def>horn</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>naralum</form>
 <def>calling-</def>
@@ -382,8 +382,12 @@
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>vallē</form>
@@ -499,8 +503,8 @@
 <entry>
 <form>māviṉ</form>
 <def>mango-tree</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>taḷir</form>
 <def>sprout</def>
@@ -544,8 +548,8 @@
 </entry>
 <entry>
 <form>tāaya</form>
-<def>spread-(p.)-</def>
-<gramGrp></gramGrp></entry>
+<def>spread--(p.)-</def>
+<gramGrp/></entry>
 <entry>
 <form>niṉ</form>
 <def>your-</def>

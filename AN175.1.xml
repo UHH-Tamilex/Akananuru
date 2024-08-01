@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 175.1. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -31,17 +31,15 @@
     <body>
 
         <div xml:id="AN175.1-kilavi">
-          <p type="edition">
-          <l>1. piriviṉkaṇ vaṟpuṟukkun tōḻikkut talaimakaḷ colliyatu.</l>
-          <l>NL, C1+7+9, RK: 2. tōḻikkut talaimakaḷ colliyatū[u]mām.</l>
-          <l>C5+9c: talaimakaḷukkut tōḻi colliyatū[u]mām.</l>
-          <l>RK: piriviṉkaṇ vēṟupaṭṭa talaimaka ṭōḻikkuc coṟṟatūumām.</l></p>
-          <p type="translation" xml:lang="en"><l>1. What SHE said to the confidante who consoled [her] during the separation.</l>
-          <l>2. It is also what SHE said to the confidante/what the confidante said to HER/what SHE who had undergone changes during the separation said to the confidante.</l></p>
+          <p type="edition">1. piriviṉkaṇ vaṟpuṟukkun tōḻikkut talaimakaḷ colliyatu.
+          NL, C1+7+9, RK: 2. tōḻikkut talaimakaḷ colliyatū[u]mām.
+          C5+9c: talaimakaḷukkut tōḻi colliyatū[u]mām.
+          RK: piriviṉkaṇ vēṟupaṭṭa talaimaka ṭōḻikkuc coṟṟatūumām.</p>
+          <p type="translation" xml:lang="en">1. What SHE said to the confidante who consoled [her] during the separation.
+          2. It is also what SHE said to the confidante/what the confidante said to HER/what SHE who had undergone changes during the separation said to the confidante.</p>
         </div>
         <div xml:id="AN175.1">
       <lg type="edition">
-      </lg>
         <l>vīṅku<supplied>vi</supplied>ḷim purīiya vicaiyamai nōṉcilai</l>
         <l>vāṅkutoṭai piḻaiyā vaṉka ṇāṭavar</l>
         <l>viṭutoṟum viḷikkum vevvā<supplied>y vāḷi</supplied></l>
@@ -60,6 +58,7 @@
         <l>ṟiruvi ṟēettuk kulaii yurukeḻu</l>
         <l>maṇpayam pūppap pāa<supplied>y</supplied>t</l>
         <l>taṇpeya leḻili tāḻnta pōḻtē.</l>
+      </lg>
       <lg type="translation" xml:lang="en">
         <l>[Our] lover who has gone to cross the hot desert, (6a-c)</l>
         <l>where, when strong men who do not fail in shooting when bending (2)</l>
@@ -83,7 +82,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN175.1"><interp type="alignment" select="0">11MG57MG114MG22MG29MG32M2G12ML31MG10MG30MG69MG28ML62M2G2M,523MG</interp>
+<standOff type="wordsplit" corresp="#AN175.1"><interp type="alignment" select="0">11MG57MG114MG22MG29MG32M2G12ML31MG10MG12MG18MG69MG28ML62M2G2M,524MG</interp>
 <entry>
 <form>vīṅku</form>
 <def>swell-</def>
@@ -344,11 +343,12 @@
 <def>heightened-</def>
 </entry>
 <entry>
-<form>vēliṉum</form>
+<form>vēliṉ-um</form>
 <def>spear</def>
 <form type="simple">vēliṉ</form>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>pal</form>
@@ -382,8 +382,8 @@
 <entry>
 <form>vicumpiṉ</form>
 <def>sky</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṭi</form>
 <def>speed</def>
@@ -406,12 +406,11 @@
 </entry>
 <entry>
 <form>niraitta</form>
-<def>put-in-row-(p.)-</def>
-<gramGrp></gramGrp></entry>
+<def>put-in-row--(p.)-</def>
+<gramGrp/></entry>
 <entry>
 <form>nēmiyam</form>
 <def>discus</def>
-<gramGrp type="affix"><m>am</m></gramGrp>
 </entry>
 <entry>
 <form>celvaṉ</form>

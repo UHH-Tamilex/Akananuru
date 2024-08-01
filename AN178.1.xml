@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 178.1. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -87,7 +87,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN178.1"><interp type="alignment" select="0">8MG200ML14MG35MG26MG86MR35MG2MR44MG15MG7MG11MG7M2G75MG4MG18MG8MG38MG18MG2M,672MG</interp>
+<standOff type="wordsplit" corresp="#AN178.1"><interp type="alignment" select="0">8MG200ML14MG35MG26MG86MR35MG2MR44MG15MG7MG11MG7M2G75MG4MG11MG7MG8MG28MG10MG18MG2M,674MG</interp>
 <entry>
 <form>vayiratt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>club-</def>
@@ -107,8 +107,8 @@
 <entry>
 <form>maruppiṉ</form>
 <def>horn</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vetir</form>
 <def>bamboo</def>
@@ -180,8 +180,8 @@
 <entry>
 <form>cēmpiṉ</form>
 <def>Cēmpu</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>piṇṭam</form>
 <def>rice-ball</def>
@@ -388,8 +388,8 @@
 <entry>
 <form>nāṭaṉoṭu</form>
 <def>land-he</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>nērntaṉai</form>
 <def>you-agreed</def>
@@ -530,11 +530,12 @@
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form>kaṉaviṉum</form>
+<form>kaṉaviṉ-um</form>
 <def>dream</def>
 <form type="simple">kaṉaviṉ</form>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>piriv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -563,11 +564,12 @@
 <def>seen-</def>
 </entry>
 <entry>
-<form>ñāṉṟiṉum</form>
+<form>ñāṉṟiṉ-um</form>
 <def>time</def>
 <form type="simple">ñāṉṟiṉ</form>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>piṉ</form>
