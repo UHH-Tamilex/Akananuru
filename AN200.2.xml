@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanaṉūṟu</title> 200.2. 
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN200.2-kilavi">
+          <p type="edition">talaimakaḷ kuṟippaṟinta tōḻi talaimakaṟkuk kuṟainayappak kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">How the confidante who had understood HER intention said to HIM that [his] request would be granted.</p>
+        </div>
+        <div xml:id="AN200.2">
+      <lg type="edition">
+        <l>nilāvi ṉilaṅku maṇaṉmali maṟukiṟ</l>
+        <l>pulālañ cērip pulvēy kurampai</l>
+        <l>yūreṉa vuṇarāc ciṟumaiyoṭu nīruṭut</l>
+        <l>tiṉṉā vuṟaiyuṭ ṭāyiṉu miṉpa</l>
+        <l>morunā ḷuṟaintici ṉōrkkum vaḻināṭ</l>
+        <l>ṭampati maṟakkum paṇpi ṉempati</l>
+        <l>vantaṉai ceṉmō vaḷaimēy parappa</l>
+        <l>pommaṟ paṭutirai kammeṉa vuṭaitaru</l>
+        <l>maraṉōṅ koruciṟaip palapā rāṭṭi</l>
+        <l>yellai yemmoṭu kaḻippi yelluṟa</l>
+        <l>naṟṟērp pūṭṭalu muriyī raṟṟaṉṟu</l>
+        <l>cērntaṉir celkuvi rāyiṉ yāmu</l>
+        <l>memvarai yaḷavaiyiṟ peṭkuva</l>
+        <l>nummop patuvō vuraittici ṉemakkē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l>Even if it [is] not a pleasing abode, (4a-c)</l>
+        <l>encircled  by water, of a smallness as not to be perceived as a village, (3)</l>
+        <l>with [its] grass-covered huts in a quarter reeking of fish, (2)</l>
+        <l>in a street full of sand, shining like moonlight, – (1)</l>
+        <l>up, you who have come (7ab)</l>
+        <l>to our place, of a kind [that is] a pleasure to whoever has</l>
+        <l>stayed a single day, that makes [them] forget their own place the next day! (4d-6)</l>
+        <l>After spending the day time with us, (10a-c)</l>
+        <l>having appreciated many things in a spot high-grown with trees, (9)</l>
+        <l>where the waves of the expanse grazed by shells,</l>
+        <l>coming in thick [and] breaking quietly,  (7cdf.)</l>
+        <l>[now] that night comes you have to yoke [your] good chariot. If it is not so (10f.)</l>
+        <l>[and] you were to go [and] join [us] , we all of us(?)  (12)</l>
+        <l>would protect [you], according to our limits. (13)</l>
+        <l>Is [this] agreeable to you? Tell us! (14)</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#AN200.2"><interp type="alignment" select="0">87MG13MG31M2G91MG12MG60MG11MG28MG26MR10MG18M2G2M,401MG</interp>
+<entry>
+<form>nilāviṉ</form>
+<def>moonlight</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>ilaṅku</form>
+<def>shine-</def>
+</entry>
+<entry>
+<form>maṇal</form>
+<def>sand</def>
+</entry>
+<entry>
+<form>mali</form>
+<def>be-much-</def>
+</entry>
+<entry>
+<form>maṟukiṉ</form>
+<def>street</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>pulālam</form>
+<def>stench-of-fish</def>
+<gramGrp type="affix"><m>am</m></gramGrp>
+</entry>
+<entry>
+<form>cēri<pc>+</pc></form>
+<def>quarter</def>
+</entry>
+<entry>
+<form>pul</form>
+<def>grass</def>
+</entry>
+<entry>
+<form>vēy</form>
+<def>cover-</def>
+</entry>
+<entry>
+<form>kurampai</form>
+<def>hut</def>
+</entry>
+<entry>
+<form><pc>~</pc>ūr</form>
+<def>village</def>
+</entry>
+<entry>
+<form>eṉa</form>
+<def>say</def>
+</entry>
+<entry>
+<form><pc>~</pc>uṇarā<pc>+</pc></form>
+<def>realise-not</def>
+</entry>
+<entry>
+<form>ciṟumaiyoṭu</form>
+<def>smallness</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
+</entry>
+<entry>
+<form>uṭutt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>encircled</def>
+</entry>
+<entry>
+<form>iṉṉā</form>
+<def>pleasant-not</def>
+</entry>
+<entry>
+<form><pc>~</pc>uṟaiyuṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>abode-it</def>
+</entry>
+<entry>
+<form>āyiṉum</form>
+<def>if-even</def>
+</entry>
+<entry>
+<form>iṉpam</form>
+<def>pleasure</def>
+</entry>
+<entry>
+<form>oru</form>
+<def>one</def>
+</entry>
+<entry>
+<form>nāḷ</form>
+<def>day</def>
+</entry>
+<entry>
+<form>uṟainticiṉōrkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>stayed-he</def>
+<form type="simple">uṟainticiṉōrkku</form>
+<gramGrp><gram type="role">dative</gram>
+<gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>vaḻi</form>
+<def>afterwards</def>
+</entry>
+<entry>
+<form>nāḷ</form>
+<def>day</def>
+</entry>
+<entry>
+<form>tam</form>
+<def>self-</def>
+<gramGrp><gram type="role">plural</gram>
+</gramGrp></entry>
+<entry>
+<form>pati</form>
+<def>abode</def>
+</entry>
+<entry>
+<form>maṟakkum</form>
+<def>forgetting-</def>
+</entry>
+<entry>
+<form>paṇpiṉ</form>
+<def>nature</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>em</form>
+<def>our-</def>
+</entry>
+<entry>
+<form>pati</form>
+<def>abode</def>
+</entry>
+<entry>
+<form>vantaṉai</form>
+<def>you-came</def>
+</entry>
+<entry>
+<form>ceṉmō</form>
+<def>go</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form>vaḷai</form>
+<def>shell</def>
+</entry>
+<entry>
+<form>mēy</form>
+<def>graze-</def>
+</entry>
+<entry>
+<form>parappa</form>
+<def>extension</def>
+<gramGrp type="affix"><m>a</m></gramGrp>
+</entry>
+<entry>
+<form>pommal</form>
+<def>thickness</def>
+</entry>
+<entry>
+<form>paṭu</form>
+<def>happen-</def>
+</entry>
+<entry>
+<form>tirai</form>
+<def>wave</def>
+</entry>
+<entry>
+<form>kammeṉa</form>
+<def>“kam”-say</def>
+</entry>
+<entry>
+<form><pc>~</pc>uṭai-</form>
+<def>break-</def>
+</entry>
+<entry>
+<form>taru</form>
+<def>giving-</def>
+</entry>
+<entry>
+<form>maraṉ</form>
+<def>tree</def>
+</entry>
+<entry>
+<form>ōṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>become-high-</def>
+</entry>
+<entry>
+<form>oru</form>
+<def>one</def>
+</entry>
+<entry>
+<form>ciṟai<pc>+</pc></form>
+<def>wing</def>
+</entry>
+<entry>
+<form>pala</form>
+<def>many</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>pārāṭṭi</form>
+<def>applauded</def>
+</entry>
+<entry>
+<form><pc>~</pc>ellai</form>
+<def>daylight</def>
+</entry>
+<entry>
+<form><pc>~</pc>emmoṭu</form>
+<def>us</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>kaḻippi</form>
+<def>spent</def>
+</entry>
+<entry>
+<form><pc>~</pc>el</form>
+<def>night</def>
+</entry>
+<entry>
+<form><pc>+</pc>uṟa</form>
+<def>have</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+</entry>
+<entry>
+<form>tēr<pc>+</pc></form>
+<def>chariot</def>
+</entry>
+<entry>
+<form>pūṭṭal-um</form>
+<def>yoking</def>
+<form type="simple">pūṭṭal</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>uriyīr</form>
+<def>suitable-you</def>
+<gramGrp><gram type="role">plural</gram>
+</gramGrp></entry>
+<entry>
+<form>aṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>such-it</def>
+</entry>
+<entry>
+<form>aṉṟu</form>
+<def>not-so-it</def>
+</entry>
+<entry>
+<form>cērntaṉir</form>
+<def>you-joined</def>
+<gramGrp><gram type="role">plural</gram>
+</gramGrp></entry>
+<entry>
+<form>celkuvir</form>
+<def>you-go</def>
+<gramGrp><gram type="role">plural</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉ</form>
+<def>if</def>
+</entry>
+<entry>
+<form>yām-um</form>
+<def>we</def>
+<form type="simple">yām</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>em</form>
+<def>our-</def>
+</entry>
+<entry>
+<form>varai</form>
+<def>limit</def>
+</entry>
+<entry>
+<form><pc>~</pc>aḷavaiyiṉ</form>
+<def>measure</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>peṭkuvam</form>
+<def>we-protect(?)</def>
+<gramGrp></gramGrp></entry>
+<entry>
+<form>num</form>
+<def>you-</def>
+<gramGrp><gram type="role">plural</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>oppatu-<pc>~</pc>ō</form>
+<def>agree-it</def>
+<form type="simple">oppatu</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>uraitticiṉ</form>
+<def>tellic</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>emakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>us</def>
+<form type="simple">emakku</form>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

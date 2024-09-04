@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanaṉūṟu</title> 198.2. 
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN198.2-kilavi">
+          <p type="edition">iravukkuṟi (C2: /) puṇarntu nīṅkiya talaimakaḷatu pōkku nōkkiyatalaimakaṉ taṉṉeñciṟkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">What HE said to his heart when looking at HER going [away] who was leaving after the union in a night tryst.</p>
+        </div>
+        <div xml:id="AN198.2">
+      <lg type="edition">
+        <l>kūṟuvaṅ kollō kūṟalaṅ kolleṉak</l>
+        <l>karanta kāmaṅ kainniṟuk kalātu</l>
+        <l>nayantunām viṭṭa naṉmoḻi nampi</l>
+        <l>yaraināḷ yāmattu viḻu<supplied>ma</supplied>ḻai karantu</l>
+        <l>kārmalar kamaḻuṅ kūntaṟ ṟūviṉai</l>
+        <l>nuṇṇū lākam poruntiṉaḷ veṟpi</l>
+        <l>ṉiḷamaḻai cūḻnta maṭamayil pōla</l>
+        <l>vaṇṭuvaḻip paṭara taṇmalar vēyntu</l>
+        <l>vilvakup puṟṟa nalvāṅku kuṭaccū</l>
+        <l>lañcilam poṭukki yañci<supplied>ṉa</supplied>ḷ vantu</l>
+        <l>tuñcā yāmattu muyaṅkiṉaḷ peyarvō</l>
+        <l>ḷāṉṟa kaṟpiṟ cāṉṟa pēriya</l>
+        <l>lammā varivaiyō valla ṭeṉāa</l>
+        <l>tāay naṉṉā ṭaṇaṅkuṭaic cilampiṟ</l>
+        <l>kavuriyam pēriya vurukeḻu <supplied>ka</supplied>vāa</l>
+        <l>ṉērmalar niṟaiccuṉai yuṟaiyuñ</l>
+        <l>cūrmakaṇ mātō veṉṉumeṉ ṉeñcē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l>Besides weighing in hand the hidden passion: (2)</l>
+        <l>“shall we talk? Shall we not talk?”, (1)</l>
+        <l>longingly trusting in the good word uttered by us, (3)</l>
+        <l>hiding in the excellent rains of deep midnight, (4)</l>
+        <l>she with a bosom suited [to wearing] fine threads (6a-c)</l>
+        <l>of pure workmanship, tresses fragrant with the blossoms of the rainy season, (5)</l>
+        <l>covered with cool flowers, so that bees make [their] way [to them], (8)</l>
+        <l>like a youthful peacock surrounded by young clouds on the mountain, (6df.)</l>
+        <l>she who out of fear had muffled [the sound of her] pretty anklets (10a-c)</l>
+        <l>of the well-curved Kuṭaccūl type that has bow[like-] divisions, (9)</l>
+        <l>came [and] embraced [me] at sleepless midnight [and then] went back. (10df.)</l>
+        <l>“She is, is she not, that dark woman (13a-c)</l>
+        <l>of great nature abounding in noble fidelity? (12)</l>
+        <l>Or is she a woman sprite (17ab)</l>
+        <l>who dwells in a pool full of beautiful blossoms (16)</l>
+        <l>on the fearful slope named Kavuriyam (15)</l>
+        <l>of the haunted mountain side in the good land of Āay in the South?” (13df.)</l>
+        <l rend="indent8">says my heart. (17cd)</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#AN198.2"><interp type="alignment" select="0">7MG12MG30MG37MG84ML62MG28MG82MG8ML5MG9MG5MG76MG3M2G13M2G2M,479MG</interp>
+<entry>
+<form>kūṟuvam-kollō</form>
+<def>we-talk</def>
+<form type="simple">kūṟuvam</form>
+<gramGrp type="particle"><m>kollō</m></gramGrp>
+</entry>
+<entry>
+<form>kūṟalam-kol</form>
+<def>talk-not-we</def>
+<form type="simple">kūṟalam</form>
+<gramGrp type="particle"><m>kol</m></gramGrp>
+</entry>
+<entry>
+<form><pc>+</pc>eṉa<pc>+</pc></form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>karanta</form>
+<def>hidden-</def>
+</entry>
+<entry>
+<form>kāmam</form>
+<def>passion</def>
+</entry>
+<entry>
+<form>kai<pc>+</pc></form>
+<def>hand</def>
+</entry>
+<entry>
+<form>niṟukk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>weighing</def>
+</entry>
+<entry>
+<form>alātu</form>
+<def>besides</def>
+</entry>
+<entry>
+<form>nayantu</form>
+<def>longed</def>
+</entry>
+<entry>
+<form>nām</form>
+<def>we</def>
+</entry>
+<entry>
+<form>viṭṭa</form>
+<def>let-go-(p.)-</def>
+<gramGrp></gramGrp></entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+</entry>
+<entry>
+<form>moḻi</form>
+<def>word</def>
+</entry>
+<entry>
+<form>nampi</form>
+<def>trusted</def>
+</entry>
+<entry>
+<form><pc>~</pc>arai-nāḷ</form>
+<def>half-day</def>
+</entry>
+<entry>
+<form>yāmattu</form>
+<def>midnight-</def>
+</entry>
+<entry>
+<form>viḻu</form>
+<def>excellent</def>
+</entry>
+<entry>
+<form>maḻai</form>
+<def>rain</def>
+</entry>
+<entry>
+<form>karantu</form>
+<def>hidden</def>
+</entry>
+<entry>
+<form>kār</form>
+<def>rainy-season</def>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+</entry>
+<entry>
+<form>kamaḻum</form>
+<def>being-fragrant-</def>
+</entry>
+<entry>
+<form>kūntal</form>
+<def>tresses</def>
+</entry>
+<entry>
+<form>tū</form>
+<def>pure</def>
+</entry>
+<entry>
+<form>viṉai</form>
+<def>work</def>
+</entry>
+<entry>
+<form>nuṇ</form>
+<def>fine</def>
+</entry>
+<entry>
+<form>nūl</form>
+<def>thread</def>
+</entry>
+<entry>
+<form>ākam</form>
+<def>bosom</def>
+</entry>
+<entry>
+<form>poruntiṉaḷ</form>
+<def>been-suitable-she</def>
+</entry>
+<entry>
+<form>veṟpiṉ</form>
+<def>mountain</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>iḷam</form>
+<def>young</def>
+</entry>
+<entry>
+<form>maḻai</form>
+<def>cloud</def>
+</entry>
+<entry>
+<form>cūḻnta</form>
+<def>surrounded-</def>
+</entry>
+<entry>
+<form>maṭa</form>
+<def>inexperience</def>
+</entry>
+<entry>
+<form>mayil</form>
+<def>peacock</def>
+</entry>
+<entry>
+<form>pōla</form>
+<def>be-similar</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vaṇṭu</form>
+<def>bee</def>
+</entry>
+<entry>
+<form>vaḻi<pc>+</pc></form>
+<def>way</def>
+</entry>
+<entry>
+<form>paṭara</form>
+<def>set-out</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+</entry>
+<entry>
+<form>vēyntu</form>
+<def>covered</def>
+</entry>
+<entry>
+<form>vil</form>
+<def>bow</def>
+</entry>
+<entry>
+<form>vakupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>division</def>
+</entry>
+<entry>
+<form>uṟṟa</form>
+<def>had-</def>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+</entry>
+<entry>
+<form>vāṅku</form>
+<def>bend-</def>
+</entry>
+<entry>
+<form>kuṭaccūl</form>
+<def>anklet-type</def>
+</entry>
+<entry>
+<form>am</form>
+<def>pretty</def>
+</entry>
+<entry>
+<form>cilamp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>anklet</def>
+</entry>
+<entry>
+<form>oṭukki</form>
+<def>subjugated</def>
+</entry>
+<entry>
+<form><pc>~</pc>añciṉaḷ</form>
+<def>she-feared</def>
+</entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>tuñcā</form>
+<def>sleep-not</def>
+</entry>
+<entry>
+<form>yāmattu</form>
+<def>midnight</def>
+</entry>
+<entry>
+<form>muyaṅkiṉaḷ</form>
+<def>she-embraced</def>
+</entry>
+<entry>
+<form>peyarvōḷ</form>
+<def>move-she</def>
+</entry>
+<entry>
+<form>āṉṟa</form>
+<def>noble</def>
+</entry>
+<entry>
+<form>kaṟpiṉ</form>
+<def>fidelity</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>cāṉṟa</form>
+<def>been-worthy-</def>
+</entry>
+<entry>
+<form>pēr</form>
+<def>great</def>
+</entry>
+<entry>
+<form>iyal</form>
+<def>nature</def>
+</entry>
+<entry>
+<form>am</form>
+<def>pretty</def>
+</entry>
+<entry>
+<form>mā</form>
+<def>dark</def>
+</entry>
+<entry>
+<form><pc>~</pc>arivai-<pc>~</pc>ō</form>
+<def>young-woman</def>
+<form type="simple">arivai</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>allaḷ</form>
+<def>not-so-she</def>
+</entry>
+<entry>
+<form>teṉāat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>south-it</def>
+</entry>
+<entry>
+<form>āay</form>
+<def>Āay</def>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+</entry>
+<entry>
+<form>nāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>land</def>
+</entry>
+<entry>
+<form>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>torment</def>
+</entry>
+<entry>
+<form>uṭai<pc>+</pc></form>
+<def>possess-</def>
+</entry>
+<entry>
+<form>cilampiṉ</form>
+<def>mountain-side</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>kavuriyam</form>
+<def>Kavuriy</def>
+<gramGrp type="affix"><m>am</m></gramGrp>
+</entry>
+<entry>
+<form>pēriya</form>
+<def>named</def>
+</entry>
+<entry>
+<form><pc>~</pc>uru</form>
+<def>fear</def>
+</entry>
+<entry>
+<form>keḻu</form>
+<def>have-</def>
+</entry>
+<entry>
+<form>kavāaṉ</form>
+<def>mountain-slope</def>
+</entry>
+<entry>
+<form>ēr</form>
+<def>beauty</def>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+</entry>
+<entry>
+<form>niṟai<pc>+</pc></form>
+<def>become-full-</def>
+</entry>
+<entry>
+<form>cuṉai</form>
+<def>mountain-pool</def>
+</entry>
+<entry>
+<form><pc>~</pc>uṟaiyum</form>
+<def>staying-</def>
+</entry>
+<entry>
+<form>cūr</form>
+<def>fear/demon</def>
+</entry>
+<entry>
+<form>makaḷ-māt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>womanmāt</def>
+<form type="simple">makaḷ-mātu</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>eṉṉum</form>
+<def>saying-</def>
+</entry>
+<entry>
+<form>eṉ</form>
+<def>my-</def>
+</entry>
+<entry>
+<form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>heart</def>
+<form type="simple">neñcu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

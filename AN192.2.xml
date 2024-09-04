@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanaṉūṟu</title> 192.2. 
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN192.2-kilavi">
+          <p type="edition">tōḻi talaimakaḷaic ceṟippu aṟivuṟīi iravukkuṟi maṟuttatu.</p>
+          <p type="translation" xml:lang="en">How the confidante refused a night tryst by informing HIM of [her] confinement.</p>
+        </div>
+        <div xml:id="AN192.2">
+      <lg type="edition">
+        <l>matiyarum paṉṉa mācaṟu cuṭarnutal</l>
+        <l>poṉṉēr vaṇṇaṅ koṇṭaṉ ṟaṉṉō</l>
+        <l>yāṅkā kuvaḷko ṟāṉē vicumpi</l>
+        <l>ṉeyyā varivi laṉṉa paintārc</l>
+        <l>cevvāyc ciṟukiḷi citaiya vāṅkip</l>
+        <l>poṟaimelin tiṭṭa puṉpuṟap peruṅkural</l>
+        <l>vaḷaiciṟai vāraṇaṅ kiḷaiyoṭu kavara</l>
+        <l>vēṉalu miṟaṅkupoṟai yiṟuttaṉa pāṉā</l>
+        <l>ṇīvan taḷikkuvai yeṉiṉē mālvarai</l>
+        <l>maipaṭu viṭarakan tuḻaii yoyyeṉa</l>
+        <l>varuvi tanta varavumiḻ tirumaṇi</l>
+        <l>peruvaraic ciṟukuṭi ma<supplied>ru</supplied>ṅkuviḷak kuṟuttali</l>
+        <l>ṉiravu muṭintaṉa ḷaḷiya ḷuravuppeya</l>
+        <l>lurumiṟai koṇṭa vuyarcimaip</l>
+        <l>perumalai nāṭaniṉ malarnta mārpē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l>Like the bud of the moon, [her] flawless glowing forehead, (1)</l>
+        <l>it has taken on a gold-like colour, alas. (2)</l>
+        <l>What shall become of her? (3a-c)</l>
+        <l>Bending over, to be spoilt by little parakeets with red beaks (5)</l>
+        <l>[and] green garlands, like the striped bow in the sky that is not discharged, (3df.)</l>
+        <l>as the curvy-winged fowl with [their] relatives seize (7)</l>
+        <l>the low-backed big ears that are weakened by [their] burden, (6)</l>
+        <l>all the millet [stalks] have begun to break under [their] inclining burden. (8a-c)</l>
+        <l>If you say you will take care to come at midnight, (8d-9c)</l>
+        <l>because the light of the brilliant gem spit by the snake, that was brought by the waterfall</l>
+        <l>noisily stirring within the shrouded clefts of the great mountain,</l>
+        <l>falls on the side of the little hamlet in the big mountains, (9d-12)</l>
+        <l>she would be destroyed at night too, pitiable she, (13a-c)</l>
+        <l>– by your blossoming chest, o man from a land of big mountains, (15)</l>
+        <l>with high peaks that strong rain [and] thunder take as [their] seat. (13df.)</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#AN192.2"><interp type="alignment" select="0">10MG7MG32MG8MG6MG3ML2MG71MG59MG25M2G2ML5MG14MG54MG43MG13M2G2ML78M2G2M,456MG</interp>
+<entry>
+<form>mati</form>
+<def>moon</def>
+</entry>
+<entry>
+<form><pc>~</pc>arump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>bud</def>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form>māc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>flaw</def>
+</entry>
+<entry>
+<form>aṟu</form>
+<def>subside-</def>
+</entry>
+<entry>
+<form>cuṭar</form>
+<def>glow</def>
+</entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+</entry>
+<entry>
+<form>poṉ</form>
+<def>gold</def>
+</entry>
+<entry>
+<form>nēr</form>
+<def>fine/resemble-</def>
+</entry>
+<entry>
+<form>vaṇṇam</form>
+<def>colour</def>
+</entry>
+<entry>
+<form>koṇṭaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>it-took</def>
+</entry>
+<entry>
+<form>aṉṉō</form>
+<def>alas</def>
+</entry>
+<entry>
+<form>yāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>how</def>
+</entry>
+<entry>
+<form>ākuvaḷ-kol</form>
+<def>become-she</def>
+<form type="simple">ākuvaḷ</form>
+<gramGrp type="particle"><m>kol</m></gramGrp>
+</entry>
+<entry>
+<form>tāṉ-ē</form>
+<def>self</def>
+<form type="simple">tāṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>vicumpiṉ</form>
+<def>sky</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>eyyā</form>
+<def>discharge-not</def>
+</entry>
+<entry>
+<form>vari</form>
+<def>line</def>
+</entry>
+<entry>
+<form>vil</form>
+<def>bow</def>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form>paim</form>
+<def>fresh</def>
+</entry>
+<entry>
+<form>tār<pc>+</pc></form>
+<def>garland</def>
+</entry>
+<entry>
+<form>cem</form>
+<def>red</def>
+</entry>
+<entry>
+<form>vāy<pc>+</pc></form>
+<def>mouth</def>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>small</def>
+</entry>
+<entry>
+<form>kiḷi</form>
+<def>parakeet</def>
+</entry>
+<entry>
+<form>citaiya</form>
+<def>be-wasted</def>
+</entry>
+<entry>
+<form>vāṅki<pc>+</pc></form>
+<def>dragged</def>
+</entry>
+<entry>
+<form>poṟai</form>
+<def>burden</def>
+</entry>
+<entry>
+<form>melint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>softened</def>
+</entry>
+<entry>
+<form>iṭṭa</form>
+<def>placed-</def>
+</entry>
+<entry>
+<form>puṉ</form>
+<def>low</def>
+</entry>
+<entry>
+<form>puṟam</form>
+<def>back</def>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>kural</form>
+<def>ear</def>
+</entry>
+<entry>
+<form>vaḷai</form>
+<def>curve-</def>
+</entry>
+<entry>
+<form>ciṟai</form>
+<def>wing</def>
+</entry>
+<entry>
+<form>vāraṇam</form>
+<def>fowl</def>
+</entry>
+<entry>
+<form>kiḷaiyoṭu</form>
+<def>relation</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>kavara</form>
+<def>seize</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ēṉal-um</form>
+<def>millet</def>
+<form type="simple">ēṉal</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>iṟaṅku</form>
+<def>come-down-</def>
+</entry>
+<entry>
+<form>poṟai</form>
+<def>burden</def>
+</entry>
+<entry>
+<form><pc>~</pc>iṟuttaṉa</form>
+<def>they-broke</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>pāl-nāḷ</form>
+<def>part-day</def>
+</entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+</entry>
+<entry>
+<form>vant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>come</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>aḷikkuvai</form>
+<def>you-take-care</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṉiṉ-ē</form>
+<def>say-if</def>
+<form type="simple">eṉiṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>māl</form>
+<def>big</def>
+</entry>
+<entry>
+<form>varai</form>
+<def>mountain</def>
+</entry>
+<entry>
+<form>mai</form>
+<def>kajal</def>
+</entry>
+<entry>
+<form>paṭu</form>
+<def>happen-</def>
+</entry>
+<entry>
+<form>viṭar</form>
+<def>cleft</def>
+</entry>
+<entry>
+<form>akam</form>
+<def>inside</def>
+</entry>
+<entry>
+<form>tuḻaii</form>
+<def>stirred</def>
+</entry>
+<entry>
+<form><pc>~</pc>oyyeṉa</form>
+<def>‘oy’-say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aruvi</form>
+<def>waterfall</def>
+</entry>
+<entry>
+<form>tanta</form>
+<def>given-</def>
+</entry>
+<entry>
+<form><pc>~</pc>arav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>snake</def>
+</entry>
+<entry>
+<form>umiḻ</form>
+<def>spit-up-</def>
+</entry>
+<entry>
+<form>tiru</form>
+<def>brilliant</def>
+</entry>
+<entry>
+<form>maṇi</form>
+<def>gem</def>
+</entry>
+<entry>
+<form>peru</form>
+<def>big</def>
+</entry>
+<entry>
+<form>varai<pc>+</pc></form>
+<def>mountain</def>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>small</def>
+</entry>
+<entry>
+<form>kuṭi</form>
+<def>hamlet</def>
+</entry>
+<entry>
+<form>maruṅku</form>
+<def>side</def>
+</entry>
+<entry>
+<form>viḷakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>lamp</def>
+</entry>
+<entry>
+<form>uṟuttaliṉ</form>
+<def>making-have</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>irav<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>night</def>
+<form type="simple">iravu</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>muṭintaṉaḷ</form>
+<def>she-was-destroyed</def>
+</entry>
+<entry>
+<form>aḷiyaḷ</form>
+<def>pity-she</def>
+</entry>
+<entry>
+<form>uravu<pc>+</pc></form>
+<def>strength</def>
+</entry>
+<entry>
+<form>peyal</form>
+<def>raining</def>
+</entry>
+<entry>
+<form>urum</form>
+<def>thunder</def>
+</entry>
+<entry>
+<form>iṟai</form>
+<def>seat</def>
+</entry>
+<entry>
+<form>koṇṭa</form>
+<def>taken-</def>
+</entry>
+<entry>
+<form><pc>~</pc>uyar</form>
+<def>be-high-</def>
+</entry>
+<entry>
+<form>cimai<pc>+</pc></form>
+<def>summit</def>
+</entry>
+<entry>
+<form>peru</form>
+<def>big</def>
+</entry>
+<entry>
+<form>malai</form>
+<def>mountain</def>
+</entry>
+<entry>
+<form>nāṭa</form>
+<def>land-he</def>
+<gramGrp><gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>niṉ</form>
+<def>your-</def>
+</entry>
+<entry>
+<form>malarnta</form>
+<def>blossomed-</def>
+</entry>
+<entry>
+<form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>chest</def>
+<form type="simple">mārpu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

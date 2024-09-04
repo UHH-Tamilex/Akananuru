@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanaṉūṟu</title> 195.2. 
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN195.2-kilavi">
+          <p type="edition">makaṭpōkkiya naṟṟāy colliyatu.</p>
+          <p type="translation" xml:lang="en">What the real mother said who had let [her] daughter go.</p>
+        </div>
+        <div xml:id="AN195.2">
+      <lg type="edition">
+        <l>aruñcura miṟantaveṉ peruntōṭ kuṟumaka</l>
+        <l>ṭiruntuvēl viṭalaiyoṭu varumeṉat tāyē</l>
+        <l>puṉaimā ṇiñcip pūva lūṭṭi</l>
+        <l>maṉaimaṇa laṭuttu mālai nāṟṟi</l>
+        <l>yuvanti<supplied>ṉi</supplied> tayaru meṉpa yāṉu</l>
+        <l>māṉpiṇai nōkkiṉ maṭanal lāḷai</l>
+        <l>yīṉṟa naṭpiṟ karuḷā ṉāyiṉum</l>
+        <l><supplied>miṉṉakai muṟuva lēḻaiyaip</supplied> paṉṉāḷ</l>
+        <l>kūntal vāri nucuppivarn tōmpiya</l>
+        <l>nalampuṉai yutaviyu muṭaiyēṉ maṉṉō</l>
+        <l>vaḵtaṟi kiṟpiṉō naṉṟumaṟ ṟilla</l>
+        <l>vaṟuvai tōyu moruperuṅ kuṭumic</l>
+        <l>ciṟupai nāṟṟiya paḵṟalaik karuṅkō</l>
+        <l>lākuva taṟiyu mutuvāy vēla</l>
+        <l>kūṟuka mātōniṉ kaḻaṅkiṉ ṟiṭpa</l>
+        <l>māṟātu varupaṉi kaliḻuṅ kaṅkuli</l>
+        <l>ṉāṉātu <supplied>tu</supplied>yarumeṅ kaṇṇiṉitu paṭīiya</l>
+        <l>remmaṉai muntuṟat tarumō</l>
+        <l>taṉmaṉai yuykkumō yātavaṉ kuṟippē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l>“Thinking ‘my little daughter with wide shoulders, who has gone to traverse</l>
+        <l>the difficult desert, will come [back] along with a warrior with a perfect spear’, her mother, (1f.)</l>
+        <l>she feeds red earth to the gloriously decorated  ramparts, (3)</l>
+        <l>puts sand in the house, suspends garlands (4)</l>
+        <l>[and] joyously prepares for something pleasant”, they say, and as for myself,  (5)</l>
+        <l>even though he is not considerate with respect to the connection that has brought forth (7)</l>
+        <l>the innocent good girl with the glance of a doe,  (6)</l>
+        <l>will I too really have a hand in combing the tresses</l>
+        <l>of the foolish girl  with a sweet smile, many days,</l>
+        <l>[and] decorating [her] with a good [ornament] that moves around [and] protects [her] waist? (7-10)</l>
+        <l>If one could know that would be good indeed. (11)</l>
+        <l>With one big [hair] tuft touched by [his] garment, (12)</l>
+        <l>with a black staff with many little green tops that are suspended [from it], (13)</l>
+        <l>oh spear bearer with ancient truth who knows what will happen, (14)</l>
+        <l>won’t you tell [me] of the certainty  [revealed] by your molucca beans? (15)</l>
+        <l>In the night that dims with dew that comes without change, (16)</l>
+        <l>let my eyes that grieve without end close sweetly. (17)</l>
+        <l>Will he first bring [her] to our house? (18)</l>
+        <l>Will he sent [her] to his own house? What is his intention? (19)</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#aN195.2"><interp type="alignment" select="0">35ML32MG55MG4MG13MG2ML37MG57MG6MG22MG10MG3MG6MG3MG6MG6MG3MG69MG6ML16MG21ML70MG9MG16MG4MG10M2G2M,549MG</interp>
+<entry>
+<form>arum</form>
+<def>difficult</def>
+</entry>
+<entry>
+<form>curam</form>
+<def>desert</def>
+</entry>
+<entry>
+<form>iṟanta</form>
+<def>traversed-</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṉ</form>
+<def>my-</def>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+</entry>
+<entry>
+<form>kuṟu</form>
+<def>short</def>
+</entry>
+<entry>
+<form>makaḷ</form>
+<def>woman</def>
+</entry>
+<entry>
+<form>tiruntu</form>
+<def>be-perfect-</def>
+</entry>
+<entry>
+<form>vēl</form>
+<def>spear</def>
+</entry>
+<entry>
+<form>viṭalaiyoṭu</form>
+<def>warrior</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>varum</form>
+<def>comes</def>
+</entry>
+<entry>
+<form>eṉa<pc>+</pc></form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>tāy-ē</form>
+<def>mother</def>
+<form type="simple">tāy</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>puṉai</form>
+<def>make-</def>
+</entry>
+<entry>
+<form>māṇ</form>
+<def>glory</def>
+</entry>
+<entry>
+<form>iñci<pc>+</pc></form>
+<def>rampart</def>
+</entry>
+<entry>
+<form>pūval</form>
+<def>red-earth</def>
+</entry>
+<entry>
+<form>ūṭṭi</form>
+<def>fed</def>
+</entry>
+<entry>
+<form>maṉai</form>
+<def>house</def>
+</entry>
+<entry>
+<form>maṇal</form>
+<def>sand</def>
+</entry>
+<entry>
+<form>aṭuttu</form>
+<def>joined</def>
+</entry>
+<entry>
+<form>mālai</form>
+<def>garland</def>
+</entry>
+<entry>
+<form>nāṟṟi</form>
+<def>been-suspended</def>
+</entry>
+<entry>
+<form><pc>~</pc>uvant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>rejoiced</def>
+</entry>
+<entry>
+<form>iṉit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>pleasing-it</def>
+</entry>
+<entry>
+<form>ayarum</form>
+<def>is-engaged-in</def>
+</entry>
+<entry>
+<form>eṉpa</form>
+<def>they-say</def>
+</entry>
+<entry>
+<form>yāṉ-um</form>
+<def>I</def>
+<form type="simple">yāṉ</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>māṉ</form>
+<def>deer</def>
+</entry>
+<entry>
+<form>piṇai</form>
+<def>doe</def>
+</entry>
+<entry>
+<form>nōkkiṉ</form>
+<def>glance</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>maṭa</form>
+<def>innocence</def>
+</entry>
+<entry>
+<form>nallāḷai</form>
+<def>good-she</def>
+<gramGrp><gram type="role">accusative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>īṉṟa</form>
+<def>brought-forth-</def>
+</entry>
+<entry>
+<form>naṭpiṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>friendship</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>aruḷāṉ</form>
+<def>considerate-not-he</def>
+</entry>
+<entry>
+<form>āyiṉum<pc>+</pc></form>
+<def>if-even</def>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>pleasing</def>
+</entry>
+<entry>
+<form>nakai</form>
+<def>smile</def>
+</entry>
+<entry>
+<form>muṟuval</form>
+<def>smile</def>
+</entry>
+<entry>
+<form>ēḻaiyai<pc>+</pc></form>
+<def>woman</def>
+<gramGrp><gram type="role">accusative</gram>
+</gramGrp></entry>
+<entry>
+<form>pal</form>
+<def>many</def>
+</entry>
+<entry>
+<form>nāḷ</form>
+<def>day</def>
+</entry>
+<entry>
+<form>kūntal</form>
+<def>tresses</def>
+</entry>
+<entry>
+<form>vāri</form>
+<def>combed</def>
+</entry>
+<entry>
+<form>nucupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>waist</def>
+</entry>
+<entry>
+<form>ivarnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>climbed</def>
+</entry>
+<entry>
+<form>ōmpiya</form>
+<def>protected-</def>
+</entry>
+<entry>
+<form>nalam</form>
+<def>goodness</def>
+</entry>
+<entry>
+<form>puṉai</form>
+<def>decorate-</def>
+</entry>
+<entry>
+<form><pc>~</pc>utavi-<pc>~</pc>um</form>
+<def>help</def>
+<form type="simple">utavi</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>uṭaiyēṉ-maṉ-<pc>+</pc>ō</form>
+<def>possess-Imaṉṉ</def>
+<form type="simple">uṭaiyēṉ-maṉ</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>aḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>that</def>
+</entry>
+<entry>
+<form>aṟi-</form>
+<def>know-</def>
+</entry>
+<entry>
+<form>kiṟpiṉ-ō</form>
+<def>be-able-if</def>
+<form type="simple">kiṟpiṉ</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>naṉṟu-maṉ-tilla</form>
+<def>good-itmaṟṟilla</def>
+<form type="simple">naṉṟu-maṉ</form>
+<gramGrp type="particle"><m>tilla</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>aṟuvai</form>
+<def>cloth</def>
+</entry>
+<entry>
+<form>tōyum</form>
+<def>touching-</def>
+</entry>
+<entry>
+<form>oru</form>
+<def>one</def>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>kuṭumi<pc>+</pc></form>
+<def>crest</def>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>little</def>
+</entry>
+<entry>
+<form>pai</form>
+<def>fresh</def>
+</entry>
+<entry>
+<form>nāṟṟiya</form>
+<def>been-suspended-</def>
+</entry>
+<entry>
+<form>pal</form>
+<def>many</def>
+</entry>
+<entry>
+<form>talai<pc>+</pc></form>
+<def>head</def>
+</entry>
+<entry>
+<form>karum</form>
+<def>black</def>
+</entry>
+<entry>
+<form>kōl</form>
+<def>staff</def>
+</entry>
+<entry>
+<form>ākuvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>become-it</def>
+</entry>
+<entry>
+<form>aṟiyum</form>
+<def>knowing-</def>
+</entry>
+<entry>
+<form>mutu</form>
+<def>old</def>
+</entry>
+<entry>
+<form>vāy</form>
+<def>mouth</def>
+</entry>
+<entry>
+<form>vēla</form>
+<def>spear-he</def>
+<gramGrp><gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>kūṟuka-mātō</form>
+<def>may-talk</def>
+<form type="simple">kūṟuka</form>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp><gramGrp type="particle"><m>mātō</m></gramGrp>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>your-</def>
+</entry>
+<entry>
+<form>kaḻaṅkiṉ</form>
+<def>molucca-bean</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>tiṭpam</form>
+<def>firmness</def>
+</entry>
+<entry>
+<form>māṟātu</form>
+<def>change-not</def>
+</entry>
+<entry>
+<form>varu</form>
+<def>come-</def>
+</entry>
+<entry>
+<form>paṉi</form>
+<def>dew</def>
+</entry>
+<entry>
+<form>kaliḻum</form>
+<def>weeping-</def>
+</entry>
+<entry>
+<form>kaṅkuliṉ</form>
+<def>night</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>āṉātu</form>
+<def>end-not</def>
+</entry>
+<entry>
+<form>tuyarum</form>
+<def>grieving-</def>
+</entry>
+<entry>
+<form>em</form>
+<def>our-</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+</entry>
+<entry>
+<form><pc>+</pc>iṉitu</form>
+<def>pleasing-it</def>
+</entry>
+<entry>
+<form>paṭīiyar</form>
+<def>may-close</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form>em</form>
+<def>our-</def>
+</entry>
+<entry>
+<form>maṉai</form>
+<def>house</def>
+</entry>
+<entry>
+<form>munt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>priority</def>
+</entry>
+<entry>
+<form>uṟa<pc>+</pc></form>
+<def>have</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>tarum-ō</form>
+<def>gives</def>
+<form type="simple">tarum</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self-</def>
+</entry>
+<entry>
+<form>maṉai</form>
+<def>house</def>
+</entry>
+<entry>
+<form><pc>~</pc>uykkum-ō</form>
+<def>sends</def>
+<form type="simple">uykkum</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>yāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>what</def>
+</entry>
+<entry>
+<form>avaṉ</form>
+<def>he</def>
+</entry>
+<entry>
+<form>kuṟipp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>intention</def>
+<form type="simple">kuṟippu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
