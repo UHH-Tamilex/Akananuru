@@ -8,7 +8,7 @@
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 162. 
             <persName xml:lang="ta"></persName>
-        </title>     
+        </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -18,7 +18,7 @@
            <msContents>
             <summary><p></p>
             </summary>
-          </msContents>    
+          </msContents>
         </msDesc>
         <!--listWit n="1"></listWit>
         <listWit n="2"></listWit-->
@@ -57,7 +57,7 @@
         <l>kōḷa<supplied>ṟa</supplied> vaṟiyāp payaṅkeḻu palaviṉ</l>
         <l>vēṅkaicēr veṟpakam pōntoṉ ṟaruvi</l> <!-- two manscripst extend line 20 but not added here, after finding a way to deal with it, those should be added together with their wordsplit version and word by word translation -->
         <l>nērko <supplied>ṇe</supplied>ṭuvaraik kavāaṟ</l>
-        <l>cūrara makaḷiriṟ peṟaṟ<supplied>ka</supplied>ri yōḷē.</l>  
+        <l>cūrara makaḷiriṟ peṟaṟ<supplied>ka</supplied>ri yōḷē.</l>
       </lg>
       <lg type="translation" xml:lang="en">
         <l>At midnight, clouds rumble without knowing a moment of interruption, (6)</l>
@@ -77,11 +77,11 @@
         <l>[her] fine coral mouth that shines gloriously in a smile, (13)</l>
         <l>flinging [her arms] so that [her] beautiful, apt, excellent bracelets sparkle, (14)</l> 
         <l>– she who is as difficult to get as an awesome celestial damsel (22)</l>
-        <l>from the slope of the beautiful(?)  great mountain, (21)</l>
-        <l>with waterfalls  moving as one within the mountains grown with kino trees (20)</l> 
+        <l>from the slope of the beautiful(?) great mountain, (21)</l>
+        <l>with waterfalls moving as one within the mountains grown with kino trees (20)</l> 
         <l>[and fruit-]yielding jackfruit trees that do not know of ceasing [to grow] bunches, (19)</l>
         <l>of Atakaṉ with anklets [and] bracelets who does not know failure in [his] affection, (18)</l>
-        <l>who is remembered by(?)  beggars who [in return] give [him] fame from [their] truthful mouths. (16df.)</l>
+        <l>who is remembered by(?) beggars who [in return] give [him] fame from [their] truthful mouths. (16df.)</l>
       </lg>
         </div>
     </body>
