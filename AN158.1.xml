@@ -8,7 +8,7 @@
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 158.1. 
             <persName xml:lang="ta"/>
-        </title>     
+        </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -18,7 +18,7 @@
            <msContents>
             <summary><p/>
             </summary>
-          </msContents>    
+          </msContents>
         </msDesc>
         <!--listWit n="1"></listWit>
         <listWit n="2"></listWit-->
@@ -78,7 +78,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN158.1"><interp type="alignment" select="0">41MG10MG4ML3MG15MG95MG37MG53MG11M2G2MG18MG20MG12MG5M2G6ML18MG14MG10ML16MGMR4MG5MG32MG52MG24MG14MG2M,551MG</interp>
+<standOff type="wordsplit" corresp="#AN158.1"><interp type="alignment" select="0">41MG10MG4ML3MG15MG95MG37MG53MG11M2G9MG11MG20MG12MG5M2G6ML18MG14MG10ML16MGMR4MG5MG32MG52MG24MG14MG2M,551MG</interp>
 <entry>
 <form>urum</form>
 <def>thunder</def>
@@ -286,14 +286,16 @@
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
-<form>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um-ār</form>
+<form>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-umār</form>
 <def>tormentum-</def>
-<form type="simple">aṇaṅku-um</form>
-<gramGrp type="particle"><m>ār</m></gramGrp>
+<form type="simple">aṇaṅku</form>
+<gramGrp type="particle"><m>umār</m></gramGrp>
 </entry>
 <entry>
-<form>varumē</form>
+<form>varum-ē</form>
 <def>coming-</def>
+<form type="simple">varum</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>naṉaviṉ</form>
