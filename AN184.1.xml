@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 184.1. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
@@ -81,7 +81,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN184.1"><interp type="alignment" select="0">27MG37ML11MG4MG14MG58MG30MG101ML31MG41MG78MG34MG17MR44ML13MG3M,557MG</interp>
+<standOff type="wordsplit" corresp="#AN184.1"><interp type="alignment" select="0">27MG37ML11MG4MG8M2G6MG5M2G53MG30MG101ML31MG41MG78MG34MG17MR44ML13MG3M,561MG</interp>
 <entry>
 <form>kaṭavuḷ</form>
 <def>god</def>
@@ -89,8 +89,8 @@
 <entry>
 <form>kaṟpoṭu</form>
 <def>fidelity</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>kuṭikku</form>
 <def>home</def>
@@ -102,8 +102,9 @@
 </entry>
 <entry>
 <form>ākiya</form>
-<def>become-(p.)</def>
-<gramGrp></gramGrp></entry>
+<def>become-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>putalvaṉ</form>
 <def>son</def>
@@ -123,8 +124,8 @@
 <entry>
 <form>ciṟappiṉ</form>
 <def>superiority</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>naṉṉar</form>
 <def>goodness</def>
@@ -141,9 +142,9 @@
 <gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
-<form>eṉakkum</form>
+<form>eṉakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
 <def>me</def>
-<form type="simple">eṉakk</form>
+<form type="simple">eṉakku</form>
 <gramGrp><gram type="role">dative</gram>
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
@@ -152,9 +153,9 @@
 <def>pleasant-it</def>
 </entry>
 <entry>
-<form>ākiṉṟāl</form>
+<form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
 <def>it-became</def>
-<form type="simple">ākiṉṟ</form>
+<form type="simple">ākiṉṟu</form>
 <gramGrp type="particle"><m>āl</m></gramGrp>
 </entry>
 <entry>
@@ -188,8 +189,8 @@
 <entry>
 <form>uḷḷamoṭu</form>
 <def>inside</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>curump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>bee</def>
@@ -201,7 +202,6 @@
 <entry>
 <form>malara</form>
 <def>flower</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>kāṉam</form>
@@ -239,16 +239,15 @@
 <entry>
 <form>puṟaviṉ</form>
 <def>woodland</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kuṇṭai<pc>+</pc></form>
 <def>shortness(?)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>kōṭṭa</form>
 <def>branch</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>kuṟu</form>
@@ -289,7 +288,7 @@
 <entry>
 <form><pc>~</pc>ār</form>
 <def>stem(?)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>kaḻal</form>
 <def>become-loose-</def>
@@ -305,8 +304,8 @@
 <entry>
 <form><pc>~</pc>uyirppiṉ</form>
 <def>breathing</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>nīkki<pc>+</pc></form>
 <def>repelled</def>
@@ -342,13 +341,12 @@
 <entry>
 <form>puḷḷiyam</form>
 <def>dot</def>
-<gramGrp type="affix"><m>am</m></gramGrp>
 </entry>
 <entry>
 <form>piṇaiyoṭu</form>
 <def>doe</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>vatiyum</form>
 <def>abiding-</def>
@@ -360,7 +358,7 @@
 <entry>
 <form>kōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>curved(-hook)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>uṭai</form>
 <def>possess-</def>
@@ -415,8 +413,9 @@
 </entry>
 <entry>
 <form>maḻukiya</form>
-<def>become-blunt-(p.)-</def>
-<gramGrp></gramGrp></entry>
+<def>become-blunt--</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>uruvam</form>
 <def>form</def>
@@ -440,18 +439,18 @@
 <entry>
 <form>poḻutiṉ</form>
 <def>time</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kal-pāl</form>
-<def>stone(loc.?)</def>
+<def>stone</def>
 <gramGrp><gram type="role">locative</gram>
 </gramGrp></entry>
 <entry>
 <form>aruviyiṉ</form>
 <def>waterfall</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>olikkum</form>
 <def>sounding-</def>
