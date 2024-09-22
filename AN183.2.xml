@@ -391,8 +391,10 @@
 </entry>
 <entry>
 <form>kalaṅkiya</form>
-<def>stirred-up--(intr.)-</def>
-<gramGrp/></entry>
+<def>stirred-up-</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>neñcamoṭu</form>
 <def>heart</def>

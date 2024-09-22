@@ -72,7 +72,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN183.1"><interp type="alignment" select="0">19MG9MG28MG3ML3MG9MR9MG25MGMR23MG83MG60MG24M2G5MG77MG53MG13MG6M2G2M,215MG255MG</interp>
+<standOff type="wordsplit" corresp="#AN183.1"><interp type="alignment" select="0">19MG9MG28MG3ML3MG9MR9MG25MGMR23MG83MG60MG24M2G5MG77MG53MG19M2G2M,215MG254MG</interp>
 <entry>
 <form>kuvaḷai</form>
 <def>waterlily</def>
@@ -406,8 +406,10 @@
 </entry>
 <entry>
 <form>kalakkiya</form>
-<def>stirred-up----(tr.)-</def>
-<gramGrp/></entry>
+<def>stirred-up-</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>neñcamoṭu</form>
 <def>heart</def>
@@ -424,11 +426,15 @@
 <gramGrp type="particle"><m>ō</m></gramGrp>
 </entry>
 <entry>
-<form>pirinticiṉōr-tiṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>pirinticiṉōr</form>
 <def>separated-they</def>
-<form type="simple">pirinticiṉōr-tiṟattu</form>
-<gramGrp><gram type="role">locative</gram>
-<gram type="role">honorific</gram>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>tiṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>because of</def>
+<form type="simple">tiṟattu</form>
+<gramGrp><gram type="role">postposition</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
 </TEI>
