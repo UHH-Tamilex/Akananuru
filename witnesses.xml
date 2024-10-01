@@ -80,10 +80,6 @@
   <abbr type="siglum">G3</abbr>
   <expan>paper manuscript from the GOML [R 5736/TR.1052] 1-36 [containing a commentary but few of the poems]</expan>
 </witness>
-<witness xml:id="G3" source="">
-  <abbr type="siglum">G3</abbr>
-  <expan>paper manuscript from the GOML [R 5736/TR.1052] 1-36 [containing a commentary but few of the poems]</expan>
-</witness>
 <witness xml:id="C5" source="">
   <abbr type="siglum">C5</abbr>
   <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand]</expan>
@@ -95,6 +91,14 @@
       <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand], correction</expan>
   </witness>
 </witness>
+</witness>
+<witness xml:id="RK" source="">
+  <abbr type="siglum">RK</abbr>
+  <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term>edition (1933?) [= rep. of the editio princeps 1920?]</expan>
+  <witness xml:id="RKv">
+    <abbr type="siglum">RKv</abbr>
+    <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> edition (1933?) [= rep. of the editio princeps 1920?], variant reading</expan>
+  </witness>
 </witness>
 <witness xml:id="VP" source="">
   <abbr type="siglum">VP</abbr>
@@ -108,13 +112,28 @@
     <expan><term xml:lang="ta">Saiva Siddhānta = Kaḻakam</term> edition (1943, 1944, 1944) reported for Neytal when deviating</term>, variant reading</expan>
   </witness>
 </witness>
-
-  <witness xml:id="RK" source="">
-    <abbr type="siglum">RK</abbr>
-    <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term>edition (1933?) [= rep. of the editio princeps 1920?]</expan>
-    <witness xml:id="RKv">
-      <abbr type="siglum">RKv</abbr>
-      <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> edition (1933?) [= rep. of the editio princeps 1920?], variant reading</expan>
-    </witness>
+<witness xml:id="ER" source="">
+  <abbr type="siglum">ER</abbr>
+  <expan><term xml:lang="ta">Rājam</term> edition (1957) reported when deviating</expan>
+  <witness xml:id="ERv">
+    <abbr type="siglum">ERv</abbr>
+    <expan><term xml:lang="ta">Rājam</term> edition (1957) reported when deviating, variant reading</expan>
   </witness>
+  <witness xml:id="ERc">
+    <abbr type="siglum">ERc</abbr>
+    <expan><term xml:lang="ta">Rājam</term> edition (1957) reported when deviating, correction</expan>
+  </witness>
+</witness>
+<witness xml:id="SAv" source="">
+  <abbr type="siglum">SAv</abbr>
+  <expan>variants listed in the unpublished translation by <term xml:lang="ta">Cupiramaṇiya Aiyar</term> (1975)</expan>
+</witness>
+<witness xml:id="EC" source="">
+  <abbr type="siglum">EC</abbr>
+  <expan><term xml:lang="ta">Cāminātaiyar</term> library edition by <term xml:lang="ta">Civacupiramaṇiyaṉ</term>  (1990)</expan>
+</witness>
+<witness xml:id="ECc">
+  <abbr type="siglum">ECc</abbr>
+  <expan><term xml:lang="ta">Cāminātaiyar</term> library edition by <term xml:lang="ta">Civacupiramaṇiyaṉ</term>  (1990)</expan>
+</witness>
  </listWit>
