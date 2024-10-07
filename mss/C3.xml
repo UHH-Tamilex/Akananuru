@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> <term xml:lang="ta">Akanāṉūṟu</term>  </title>
+            
+         <editor><persName>Abhirami Prakasan</persName><orgName>University of Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>U. V. Swaminatha Iyer Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">UVSL 107</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary> palm-leaf manuscript from UVSL [297]  </summary>
+                  
+               <msItem xml:id="C3" defective="true"><title xml:lang="ta">Akanāṉūṟu</title><textLang mainLang="tam"/><colophon xml:lang="ta">śṟī‡‡m śubham astu</colophon></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="78"/>
+                           <dimensions type="object" unit="mm">
+                              <width quantity="475"/>
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              <height quantity="40"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><condition>Good condition</condition></supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="13">European page numbers in black 
+(1–154). </layout>
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="major" script="tamil" scriptRef="#tamilPulliNone" medium="incised"><desc>Scribal errors are comparatively few, many blank spaces, in length between akṣara-s and several cīr,   traditional script without puḷḷi-s or distinction between e/ē, o/ō, ā/ra, old characters for the ṟ series, scriptio continua, traditional order.</desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian">Kārttikai month, year 902 [Kollam] = November 1726 C.E., 
+scribe named Reṅkanātaṉ. </origDate>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Head colophon with marginal blessing in grantha  (śṟī‡‡m śubham astu) with four devotional Vaiṣṇava stanzas  and a series of blessings (902 k°22 kārttikai māta mutal  reṅkanātaṉ eḻuti varukiṟatu…caṅkattār pāṭiya neṭuṅtokaiyum  tuṟaiyuṅ kavi pāṭiṉ pērkaḷum eḻutiyirukkutu.  makiḻmāṟavar taṉ  malar aṭiyē tañcam.  [grantha:] śubham astu.  ‡‡ rāma jayam.   keruṭāya namaḥ.).   
+ 1–351.7 (missing:  158.7ff.–172, 204, page number 47/48 omitted)  </p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+</TEI>
