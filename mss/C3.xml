@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -53,10 +53,10 @@
                            </dimensions>
                         </extent><condition>Good condition</condition></supportDesc>
                      <layoutDesc>
-                        <layout writtenLines="13">European page numbers in black 
-(1–154). </layout>
+                        <layout writtenLines="13">European page numbers in black (1–154). </layout>
                      </layoutDesc>
-                  </objectDesc><handDesc><handNote scope="major" script="tamil" scriptRef="#tamilPulliNone" medium="incised"><desc>Scribal errors are comparatively few, many blank spaces, in length between akṣara-s and several cīr,   traditional script without puḷḷi-s or distinction between e/ē, o/ō, ā/ra, old characters for the ṟ series, scriptio continua, traditional order.</desc></handNote></handDesc><additions>
+                  </objectDesc><handDesc><handNote scope="major" script="tamil" scriptRef="#tamilPulliNone" medium="incised"><desc>Scribal errors are comparatively few, many blank spaces, in length between akṣara-s and several cīr,   traditional script without puḷḷi-s or distinction between e/ē, o/ō, ā/ra, old characters for the ṟ series, scriptio continua, traditional order.
+Scribe's name is Reṅkanātaṉ. </desc></handNote></handDesc><additions>
                   </additions><bindingDesc>
                      <binding>
                         
@@ -70,8 +70,8 @@
                   
                   
                <origin>
-                     <origDate calendar="gregorian">Kārttikai month, year 902 [Kollam] = November 1726 C.E., 
-scribe named Reṅkanātaṉ. </origDate>
+                     <origDate calendar="gregorian">Kārttikai month, year 902 [Kollam] = November 1726 C.E 
+</origDate>
                      
                   </origin></history>
                <additional>
