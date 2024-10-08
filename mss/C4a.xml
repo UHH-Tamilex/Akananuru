@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><term xml:lang="ta">Akanāṉūṟu</term></title>
+            
+         <editor><persName>Abhirami Prakasan</persName><orgName>University of Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>U. V. Swaminatha Iyer Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">UVSL292</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>Palm-leaf manuscript from UVSL [292] 10 folios (numbered  2–21)  </summary>
+                  
+               <msItem xml:id="C4a" defective="true"><title xml:lang="ta">Akanāṉūṟu</title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="10"/>
+                           <dimensions type="object" unit="mm">
+                              <width quantity="425"/>
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              <height quantity="30"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><condition>Very old and brittle (possibly the oldest still available and going back to the 17th century?)</condition></supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="9"> Many crumbling margins and missing bits. Several European page numbers in blue and black (2–21).</layout>
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" medium="incised"><desc>Traditional Script</desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Beginning with 4 and ending with 170 with line split(!) and  commentary .
+Deviations from the printed  edition seem to be more numerous, but this ms. is hard to  decipher and thus not yet collated  </p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+</TEI>
