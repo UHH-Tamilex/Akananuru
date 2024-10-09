@@ -38,7 +38,7 @@
                      <support>
                            
                         </support><extent>
-                           <measure unit="folio" quantity="317"/>
+                           <measure unit="page" quantity="317"/>
                            <dimensions type="object" unit="mm">
                               <width quantity="210"/>
                               
