@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><term xml:lang="ta"> Eṭṭuttokai </term></title>
+            
+         <editor><persName>Abhirami Prakasan</persName><orgName>University of Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Tiruvāvaṭutuṟai Maṭam</orgName>
+                  </repository>
+                  <idno type="shelfmark">TT</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>Palm-leaf manuscript from Tiruvāvaṭutuṟai [no number18,  cover says “Eṭṭuttokai”, followed by AiN and Pati] 20 folios  </summary>
+                  
+               <msItem xml:id="TT" defective="true" class="#cankam"><title xml:lang="ta">Eṭṭuttokai  </title><textLang mainLang="tam"/><filiation><p>Traditional colophon </p></filiation></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="20">A very few crumbling margins</measure>
+                           <dimensions type="object" unit="mm">
+                              <width quantity="300"/>
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              <height quantity="50"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><condition>Old and worm-eaten</condition></supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="15">European page numbers in blue (1–40)</layout>
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" scriptRef="#tamilPulliNone" medium="incised"><desc>Traditional script, beautiful and quite conservative: old characters for the ṟ series, no puḷḷi-s, no differentiation between long and short e/ē and o/ō, nor 
+between ā and ra, traditional (and quite regular) sandhi, scriptio continua, few scribal errors</desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>299–400 (apart from 336.19d–343.15c),  though misnumbered by one downwards.  This is the  distinctive mark of the best-attested transmission strand; the  complete manuscripts of this line begin the mistake with poem  107 [mss. of this line are marked by an asterisk *].  The text of the poem is  followed by kiḷavi and number; occasionally markings for  metrical feet have been inserted by vertical strokes with a  pencil.  Closely agreeing with the other mss. marked by an  asterisk, i.e. NL, C1, C5, C6, G1, G2.   </p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+</TEI>
