@@ -78,7 +78,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN175.2"><interp type="alignment" select="0">11MG13MG45MG115MG22MG10MG18MG32M2G12ML31MG10MG12MG18MG69MG28ML62M2G2M,527MG</interp>
+<standOff type="wordsplit" corresp="#AN175.2"><interp type="alignment" select="0">11MG13MG160MG22MG10MG18MG32M2G12ML31MG10MG12MG18MG69MG28ML62M2G2M,526MG</interp>
 <entry>
 <form>vīṅku</form>
 <def>swell-</def>
@@ -129,9 +129,14 @@
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
-<form>viṭu-toṟum</form>
-<def>let-go-ever</def>
+<form>viṭu</form>
+<def>let-go</def>
 </entry>
+<entry>
+<form>toṟum</form>
+<def>ever</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>viḷikkum</form>
 <def>calling-</def>
@@ -402,8 +407,9 @@
 </entry>
 <entry>
 <form>niraitta</form>
-<def>put-in-row--(pey.)-</def>
-<gramGrp/></entry>
+<def>put-in-row-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>nēmiyam</form>
 <def>discus</def>
