@@ -31,14 +31,13 @@
     <body>
 
         <div xml:id="AN121.1-kilavi">
-          <p type="edition">tōḻiyāṟ ṟalaimaka[ḷai] yuṭaṉvarumeṉak (C5: koṇṭucelkaveṉak; NL, C1+9: yuṭaṉakameṉṟākak) 
-            kēṭṭa talaimakaṉ [C2+3+5+7: ṟaṉ] neñciṟkuc collic celavaḻuṅkiyatu.</p>
+          <p type="edition">tōḻiyāṟ ṟalaimaka<supplied>ḷai</supplied> <app><lem>yuṭaṉvarumeṉak</lem><rdg wit="#C5">koṇṭucelkaveṉak</rdg><rdg wit="#NL #C1 #C9">yuṭaṉakameṉṟākak</rdg></app> kēṭṭa <app><lem>talaimakaṉ</lem><rdg wit="#C2 #C3 #C5 #C7">talaimaṟaṉ</rdg></app> neñciṟkuc collic celavaḻuṅkiyatu.</p>
           <p type="translation" xml:lang="en">How HE, who had heard that it was said by the confidante to HER that 
             she would come along, prevented going by speaking to his heart.</p>
         </div>
         <div xml:id="AN121.1">
       <lg type="edition">
-  <l>nānakai yuṭaiya neñcē <supplied>ka</supplied>ṭunteṟal</l>
+        <l>nānakai yuṭaiya neñcē <supplied>ka</supplied>ṭunteṟal</l>
         <l>vēṉi ṉīṭiya vāṉuyar vaḻināḷ</l>
         <l>vaṟumai kūṟiya maṇṇīrc ciṟukuḷat</l>
         <l>toṭukuḻi maru<supplied>ṅ</supplied>kiṟ ṟuvvāk kalaṅkal</l>
