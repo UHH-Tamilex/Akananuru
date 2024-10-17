@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 151.1. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
@@ -72,7 +72,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN151.1"><interp type="alignment" select="0">9MG9MG3MG12MG16MG44ML6MR8MG9MG3MG19MG11MG201MG65MG7MG2M,438MG</interp>
+<standOff type="wordsplit" corresp="#AN151.1"><interp type="alignment" select="0">9MG9MG3MG12MG16MG44ML6MR8MG9MG3MG19MG212MG65MG7MG2M,437MG</interp>
 <entry>
 <form>tam</form>
 <def>self-</def>
@@ -98,8 +98,9 @@
 </entry>
 <entry>
 <form>tāya</form>
-<def>spread-(pey.)-</def>
-<gramGrp></gramGrp></entry>
+<def>spread--</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>tayakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>perplexion</def>
@@ -115,8 +116,8 @@
 <entry>
 <form>kēḷiṉarōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>kin-they</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">sociative</gram>
+<gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
 <form>ēm</form>
@@ -166,8 +167,8 @@
 <entry>
 <form>neñcamōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>heart</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>aruḷ</form>
 <def>consideration</def>
@@ -185,7 +186,7 @@
 <entry>
 <form>vāḻi</form>
 <def>you-live</def>
-<gramGrp><gram type="role">subjunctive</gram>
+<gramGrp><gram type="role">subjuntive</gram>
 </gramGrp></entry>
 <entry>
 <form>tōḻi</form>
@@ -208,9 +209,14 @@
 <def>wind</def>
 </entry>
 <entry>
-<form><pc>~</pc>eṟi-toṟum</form>
-<def>throw-ever</def>
+<form><pc>~</pc>eṟi</form>
+<def>throw</def>
 </entry>
+<entry>
+<form>toṟum</form>
+<def>ever</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>kalaṅki<pc>+</pc></form>
 <def>stirred-up</def>
@@ -234,8 +240,8 @@
 <entry>
 <form>talaiyiṉ</form>
 <def>head</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>mutal</form>
 <def>base</def>
@@ -260,7 +266,6 @@
 <entry>
 <form>kavaṭṭa</form>
 <def>twig</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>kuṟum</form>
@@ -309,8 +314,8 @@
 <entry>
 <form>paṟaiyiṉ</form>
 <def>drum</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>aiyeṉa</form>
 <def>wonderfully</def>
@@ -325,8 +330,9 @@
 </entry>
 <entry>
 <form>tāya</form>
-<def>spread-(pey.)-</def>
-<gramGrp></gramGrp></entry>
+<def>spread--</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>cetukkai</form>
 <def>getting-blunt</def>
@@ -376,8 +382,8 @@
 <entry>
 <form>nāviṉ</form>
 <def>tongue</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>maṇi</form>
 <def>bell</def>
@@ -405,7 +411,6 @@
 <entry>
 <form>palliya</form>
 <def>gecko</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>kāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>

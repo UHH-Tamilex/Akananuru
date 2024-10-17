@@ -82,7 +82,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN175.1"><interp type="alignment" select="0">11MG57MG114MG22MG29MG32M2G12ML31MG10MG12MG18MG69MG28ML62M2G2M,524MG</interp>
+<standOff type="wordsplit" corresp="#AN175.1"><interp type="alignment" select="0">11MG171MG22MG29MG32M2G12ML31MG10MG12MG18MG69MG28ML62M2G2M,523MG</interp>
 <entry>
 <form>vīṅku</form>
 <def>swell-</def>
@@ -133,9 +133,14 @@
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
-<form>viṭu-toṟum</form>
-<def>let-go-ever</def>
+<form>viṭu</form>
+<def>let-go</def>
 </entry>
+<entry>
+<form>toṟum</form>
+<def>ever</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>viḷikkum</form>
 <def>calling-</def>
@@ -280,7 +285,7 @@
 <entry>
 <form>varutum</form>
 <def>we-come</def>
-<gramGrp><gram type="role">subjunctive</gram>
+<gramGrp><gram type="role">subjuntive</gram>
 </gramGrp></entry>
 <entry>
 <form>eṉṟaṉar</form>
@@ -406,8 +411,9 @@
 </entry>
 <entry>
 <form>niraitta</form>
-<def>put-in-row--(pey.)-</def>
-<gramGrp/></entry>
+<def>put-in-row---</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>nēmiyam</form>
 <def>discus</def>

@@ -72,7 +72,7 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#AN131.2"><interp type="alignment" select="0">6MG63MG26MG30MG11MG4ML5MG45MG21MG25MG31MG5M2G12MG71MG14MR30ML19MG3M,438MG</interp>
+  <standOff type="wordsplit" corresp="#AN131.2"><interp type="alignment" select="0">6MG63MG26MG30MG11MG4ML5MG45MG21MG25MG31MG5M2G83MG14MR30ML19MG3M,437MG</interp>
 <entry>
 <form>vicump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>sky</def>
@@ -84,8 +84,9 @@
 </gramGrp></entry>
 <entry>
 <form>nivanta</form>
-<def>come-up--(pey.)-</def>
-<gramGrp/></entry>
+<def>come-up---</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>mā<pc>+</pc></form>
 <def>big</def>
@@ -132,8 +133,9 @@
 </entry>
 <entry>
 <form>iruḷiya</form>
-<def>become-dark--(pey.)-</def>
-<gramGrp/></entry>
+<def>become-dark---</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>tāḻ</form>
 <def>hang-</def>
@@ -307,9 +309,14 @@
 <def>inscribed</def>
 </entry>
 <entry>
-<form><pc>~</pc>atar-toṟum</form>
-<def>way-ever</def>
+<form><pc>~</pc>atar</form>
+<def>way</def>
 </entry>
+<entry>
+<form>toṟum</form>
+<def>ever</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>pīli</form>
 <def>peacock-feather</def>
@@ -380,7 +387,7 @@
 <entry>
 <form><pc>~</pc>eṉṉuti</form>
 <def>you-say</def>
-<gramGrp><gram type="role">subjunctive</gram>
+<gramGrp><gram type="role">subjuntive</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>āyiṉ</form>

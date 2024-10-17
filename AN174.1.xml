@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 174.1. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
@@ -71,7 +71,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN174.1"><interp type="alignment" select="0">31MG178MG11MG47MG6MG3ML2MG41MG11MG11ML45M,395MG</interp>
+<standOff type="wordsplit" corresp="#AN174.1"><interp type="alignment" select="0">31MG189MG47MG6MG3ML2MG41MG11MG11ML45M,394MG</interp>
 <entry>
 <form>iru</form>
 <def>two</def>
@@ -236,9 +236,14 @@
 <def>cloud</def>
 </entry>
 <entry>
-<form>muḻaṅku-toṟu</form>
-<def>thunder-ever</def>
+<form>muḻaṅku</form>
+<def>thunder</def>
 </entry>
+<entry>
+<form>toṟu</form>
+<def>ever</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>kaiyaṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>been-desolate</def>
@@ -340,8 +345,8 @@
 <entry>
 <form>cuṇaṅkiṉ</form>
 <def>beauty-spot</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>nal</form>
 <def>good</def>
@@ -373,11 +378,9 @@
 <entry>
 <form><pc>+</pc>otukkiṉ</form>
 <def>stepiṉ(?)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>māayōḷē</form>
 <def>dark-she</def>
-<form type="simple">māayōḷ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
 </TEI>

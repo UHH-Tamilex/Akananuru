@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 171. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
@@ -72,7 +72,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN171"><interp type="alignment" select="0">5MGMR9MG9MG24MG4MG25MR3MGMR8MG3MG8MG3MG4MG56MG18MG10MG18MG46MG30MG9MG78MG38MG2M,434MG</interp>
+<standOff type="wordsplit" corresp="#AN171"><interp type="alignment" select="0">5MGMR9MG9MG24MG4MG25MR3MGMR8MG3MG8MG3MG4MG56MG18MG10MG18MG46MG30MG87MG38MG2M,433MG</interp>
 <entry>
 <form>nutal-um</form>
 <def>forehead</def>
@@ -108,8 +108,8 @@
 <entry>
 <form><pc>~</pc>iṟumpiṉ</form>
 <def>thicket</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>āyntu-koṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>selected-taken</def>
@@ -172,7 +172,7 @@
 <entry>
 <form>vāḻi</form>
 <def>you-live</def>
-<gramGrp><gram type="role">subjunctive</gram>
+<gramGrp><gram type="role">subjuntive</gram>
 </gramGrp></entry>
 <entry>
 <form>tōḻi</form>
@@ -311,14 +311,19 @@
 <def>made-be</def>
 </entry>
 <entry>
-<form><pc>~</pc>iṭam-toṟum</form>
-<def>place-ever</def>
+<form><pc>~</pc>iṭam</form>
+<def>place</def>
 </entry>
+<entry>
+<form>toṟum</form>
+<def>ever</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>paṭartaliṉ</form>
 <def>setting-out</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kīḻppaṭu<pc>+</pc></form>
 <def>beneath-happen-</def>
@@ -350,7 +355,6 @@
 <entry>
 <form>cēṟṟa</form>
 <def>mud</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>tīm</form>
@@ -392,8 +396,8 @@
 <entry>
 <form><pc>~</pc>eṇkiṉ</form>
 <def>bear</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>curaṉ</form>
 <def>desert</def>

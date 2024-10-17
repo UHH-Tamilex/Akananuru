@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 186.2. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
@@ -87,7 +87,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN186.2"><interp type="alignment" select="0">46MG6ML83MG39MG12MG7M2G5M2G53M2G95MG10MG7MG102MG6MG65MG24MG3M,580MG</interp>
+<standOff type="wordsplit" corresp="#AN186.2"><interp type="alignment" select="0">46MG6ML122MG12MG7M2G5M2G53M2G95MG10MG7MG102MG6MG65MG24MG3M,579MG</interp>
 <entry>
 <form>vāṉam</form>
 <def>sky</def>
@@ -163,8 +163,9 @@
 </entry>
 <entry>
 <form>nivanta</form>
-<def>come-up-(pey.)-</def>
-<gramGrp></gramGrp></entry>
+<def>come-up--</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>neṭum</form>
 <def>long</def>
@@ -199,9 +200,14 @@
 <def>wind</def>
 </entry>
 <entry>
-<form>uṟu-tōṟum</form>
-<def>have-ever</def>
+<form>uṟu</form>
+<def>have</def>
 </entry>
+<entry>
+<form>tōṟum</form>
+<def>ever</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>perum</form>
 <def>big</def>
@@ -213,8 +219,8 @@
 <entry>
 <form>ceviyiṉ</form>
 <def>ear</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>alaikkum</form>
 <def>shaking-</def>
@@ -222,8 +228,8 @@
 <entry>
 <form>ūraṉōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>village-he</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>eḻunta</form>
 <def>risen</def>
@@ -292,8 +298,6 @@
 <entry>
 <form><pc>~</pc>avaṉē</form>
 <def>he</def>
-<form type="simple">avaṉ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>oḷ</form>
@@ -331,8 +335,8 @@
 <entry>
 <form>muḻaviṉ</form>
 <def>drum</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>eṟi</form>
 <def>beat-</def>
@@ -388,8 +392,8 @@
 <entry>
 <form>eṉṉoṭu</form>
 <def>me</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>pulakkum</form>
 <def>being-vexed-</def>
@@ -413,8 +417,8 @@
 <entry>
 <form><pc>~</pc>ampiṉ</form>
 <def>arrow</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>maḻai<pc>+</pc></form>
 <def>rain</def>
@@ -434,8 +438,8 @@
 <entry>
 <form>vaippiṉ</form>
 <def>region</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>pēer</form>
 <def>Pēer</def>
@@ -471,8 +475,8 @@
 <entry>
 <form><pc>~</pc>uritaṉiṉ</form>
 <def>right-it</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>yām</form>
 <def>we</def>
