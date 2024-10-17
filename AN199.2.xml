@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 199.2. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
@@ -91,7 +91,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN199.2"><interp type="alignment" select="0">33ML21MG21MG16MG22MG120ML26MG54MR17MG82MG20MG19MG10M2G63MG39ML15MG31ML72MG2M,701MG</interp>
+<standOff type="wordsplit" corresp="#AN199.2"><interp type="alignment" select="0">33ML21MG21MG16MG22MG120ML26MG54MR17MG82MG20MG19MG10M2G63MG39ML15MG31ML60MG12MG2M,702MG</interp>
 <entry>
 <form>karai</form>
 <def>shore</def>
@@ -133,8 +133,8 @@
 <entry>
 <form>oṟṟaliṉ</form>
 <def>pressing</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kal</form>
 <def>stone</def>
@@ -297,7 +297,6 @@
 <entry>
 <form><pc>~</pc>eyiṟṟa</form>
 <def>tooth</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>cem-nāy</form>
@@ -306,8 +305,8 @@
 <entry>
 <form>eṭuttaliṉ</form>
 <def>lifting</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vaḷi</form>
 <def>wind</def>
@@ -319,8 +318,8 @@
 <entry>
 <form>pūḷaiyiṉ</form>
 <def>wool-plant</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>oyyeṉa</form>
 <def>urgently</def>
@@ -540,8 +539,8 @@
 <entry>
 <form>ceruviṉ</form>
 <def>fight</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>polam</form>
 <def>gold</def>
@@ -625,8 +624,12 @@
 <def>big-it</def>
 </entry>
 <entry>
-<form>peṟiṉum</form>
+<form>peṟiṉ-um</form>
 <def>obtain-if-even</def>
+<form type="simple">peṟiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>vāraleṉ</form>
