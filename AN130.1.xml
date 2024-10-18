@@ -31,7 +31,7 @@
     <body>
 
         <div xml:id="AN130.1-kilavi">
-          <p type="edition">kaḻaṟiya pāṅkaṟkut talaimakaṉ (C7: talaivaṉ) kaḻaṟṟetir maṟuttatu (NL, G1+2: colliyatu).</p>
+          <p type="edition">kaḻaṟiya pāṅkaṟkut <app><lem>talaimakaṉ</lem><rdg wit="#C7">talaivaṉ</rdg></app> kaḻaṟṟetir <app><lem>maṟuttatu</lem><rdg wit="#NL #G1 #G2">colliyatu</rdg></app>.</p>
           <p type="translation" xml:lang="en">How HE defended himself against the criticism of [his] scolding companion.</p>
         </div>
         <div xml:id="AN130.1">

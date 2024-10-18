@@ -31,10 +31,8 @@
     <body>
 
         <div xml:id="AN128.1-kilavi">
-          <p type="edition">iravukkuṟit (RK: iravukkuṟi vanta; C2+3: ______ta) talaimakaṉ ciṟaippuṟattāṉākat 
-            (RK: talaimakaḷ) tōḻikkuc colluvāḷāyt talaimakaḷ colliyatu.</p>
-          <p type="translation" xml:lang="en">What SHE said as one speaking to the confidante 
-            when HE was behind the fence during the night tryst.</p>
+          <p type="edition"><app><lem>iravukkuṟit</lem><rdg wit="#RK">iravukkuṟi vanta</rdg><rdg wit="#C2 #C3"><gap reason="lost" unit="character" quantity="2"/>ta</rdg></app> <app><lem>talaimakaṉ ciṟaippuṟattāṉākat</lem><rdg wit="#RK">talaimakaḷ</rdg></app> tōḻikkuc colluvāḷāyt talaimakaḷ colliyatu.</p>
+          <p type="translation" xml:lang="en">What SHE said as one speaking to the confidante when HE was behind the fence during the night tryst.</p>
         </div>
         <div xml:id="AN128.1">
             <lg type="edition">

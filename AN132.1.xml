@@ -31,8 +31,7 @@
     <body>
 
         <div xml:id="AN132.1-kilavi">
-          <p type="edition">tōḻi talaimakaḷai iṭattuyttu vanta(C7: vantu) talaimakaṉai etirppaṭṭu niṉṟu[C7: colli] 
-            varaivu kaṭāyatu.</p>
+          <p type="edition">tōḻi talaimakaḷai iṭattuyttu <app><lem>vanta</lem><rdg wit="#C7">vantu</rdg></app> talaimakaṉai etirppaṭṭu <app><lem>niṉṟu</lem><rdg wit="#C7">niṉṟucolli</rdg></app> varaivu kaṭāyatu.</p>
           <p type="translation" xml:lang="en">How the confidante sent HER to the place [and then] urged for marriage, 
             confronting HIM who came [back from the meeting].</p>
         </div>

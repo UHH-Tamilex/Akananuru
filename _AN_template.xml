@@ -74,3 +74,10 @@ If there are text parts missing:
 <gap reason="lost" unit="character" quantity="XX"/>
 XX is the number of Tamil characters (guesstimate)
 add note in Word for check in the MSS!
+
+short copy-paste for apparatus
+<app><lem></lem><rdg wit="# # #"></rdg></app>
+or if there is no alternative reading given, only the lemma is attested in some of the sources
+<app><lem wit="# # #"></lem></app>
+or if there is both lemma alternatives and reading alternatives:
+<app><lem wit="# # #"></lem><rdg wit="# # #"></rdg></app>
