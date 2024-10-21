@@ -31,7 +31,7 @@
     <body>
 
         <div xml:id="AN182.1-kilavi">
-          <p type="edition">(C5: tōḻi kūṟṟu) (C2+3, RK: tōḻi) iravu varuvāṉaip (C7: irāvantāṉaip) pakal varaveṉṟatu (C2+3: vāṉaip<gap reason="lost" unit="character" quantity="8"/>).</p>
+          <p type="edition"><app><lem>iravu varuvāṉaip</lem><rdg wit="#C5">tōḻi kūṟṟu</rdg><rdg wit="#C2 #C3 #RK">tōḻi</rdg><rdg wit="#C7">irāvantāṉaip</rdg><rdg wit="#C2 #C3">iravu vāṉaip<gap reason="lost" unit="character" quantity="8"/></rdg></app> pakal varaveṉṟatu.</p>
           <p type="translation" xml:lang="en">How it was said to the one who comes by night to come by day.</p>
         </div>
         <div xml:id="AN182.1">
