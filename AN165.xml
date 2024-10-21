@@ -31,7 +31,7 @@
     <body>
 
         <div xml:id="AN165-kilavi">
-          <p type="edition">makaṭpōkkiya tāy (C7, RK : tāyatu) nilai[C7+9: mai; C5: yaik] [C9: kaṇṭu] kaṇṭār colliyatu.</p>
+          <p type="edition">makaṭpōkkiya <app><lem>tāy</lem><rdg wit="#C7 #RK">tāyatu</rdg></app> <app><lem>nilai</lem><rdg wit="#C7 #C9">nilaimai</rdg><rdg wit="#C9">nilaimai kaṇṭu</rdg><rdg wit="#C5">nilaiyaik</rdg></app> kaṇṭār colliyatu.</p>
           <p type="translation" xml:lang="en">What the onlookers said about the state of the mother who had let [her] daughter go.</p>
         </div>
         <div xml:id="AN165">

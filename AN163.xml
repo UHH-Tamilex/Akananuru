@@ -31,7 +31,7 @@
     <body>
 
         <div xml:id="AN163-kilavi">
-          <p type="edition">piriviṭai (C7, RK: piriviṉkaṇ) vaṟpuṟuttun tōḻikkut talaimaka ḷāṟṟāmai [C7, RK: mītūrac] colliyatu.</p>
+          <p type="edition"><app><lem>piriviṭai</lem><rdg wit="#C7 #RK">piriviṉkaṇ</rdg></app> vaṟpuṟuttun tōḻikkut talaimaka <app><lem>ḷāṟṟāmai</lem><rdg wit="#C7 #RK">ḷāṟṟāmai mītūrac</rdg></app> colliyatu.</p>
           <p type="translation" xml:lang="en">What SHE said about [her] lack of strength to the confidante who consoled [her] in the time of separation.</p>
         </div>
         <div xml:id="AN163">
