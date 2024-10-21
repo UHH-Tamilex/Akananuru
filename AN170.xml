@@ -31,7 +31,7 @@
     <body>
 
         <div xml:id="AN170-kilavi">
-          <p type="edition">talaimakaḷ kāmamikka kaḻipaṭar kiḷaviyāṟ colliyatu (SS, VP: coṟṟatu).</p>
+          <p type="edition">talaimakaḷ kāmamikka kaḻipaṭar kiḷaviyāṟ <app><lem>colliyatu</lem><rdg wit="#SS #VP">coṟṟatu</rdg></app>.</p>
           <p type="translation" xml:lang="en">What SHE said with a word of great distress when passion intensified.</p>
         </div>
         <div xml:id="AN170">

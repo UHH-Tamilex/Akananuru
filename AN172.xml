@@ -31,7 +31,7 @@
     <body>
 
         <div xml:id="AN172-kilavi">
-          <p type="edition">tōḻi taḷaimakaḷai yiṭattuyttut (C7+9v, RK: vantu) taḷaimakaṉai etirppaṭṭu (RK: /) varaivu kaṭāyatu.</p>
+          <p type="edition">tōḻi taḷaimakaḷai <app><lem>yiṭattuyttut</lem><rdg wit="#C7 #C9v #RK"></rdg>vantu</app> taḷaimakaṉai <app><lem>etirppaṭṭu</lem><rdg wit="#RK">/</rdg></app> varaivu kaṭāyatu.</p>
           <p type="translation" xml:lang="en">How the confidante after having sent HER to the [meeting] place faced HIM [and] urged for marriage.</p>
         </div>
         <div xml:id="AN172">
