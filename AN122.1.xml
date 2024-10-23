@@ -30,13 +30,15 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN122.1-kilavi">
-          <p type="edition"><l>1. talaimakaṉ ciṟaippuṟattāṉākat (C1+6, NL: ciṟaippulittāṉākat) tōḻikkut colluvāḷāyt talaimakaḷ colliyatu (C7v, RK: coṟṟatu).</l>
-            <l>[C7, RK: 2. tōḻi colleṭuppat talaimakaḷ colliyatūumāma.]</l></p>
-          <p type="translation" xml:lang="en"><l>1. What SHE said as one speaking to the confidante when HE was behind the hedge.</l>
-          <l>[2. It is also what SHE said when the confidante took up the word. This song is night tryst.]</l>
-            </p>
+        <div xml:id="AN122.1-kilavi1">
+          <p type="edition">talaimakaṉ <app><lem>ciṟaippuṟattāṉākat</lem><rdg wit="#C1 #C6 #NL">ciṟaippulittāṉākat</rdg></app> tōḻikkut colluvāḷāyt talaimakaḷ <app><lem>colliyatu<lem><rdg wit="#C7v #RK">coṟṟatu</rdg></app>.</p>
+          <p type="translation">What SHE said as one speaking to the confidante when HE was behind the hedge.</p>
         </div>
+        <div xml:id="AN122.1-kilavi2">
+          <p type="edition"><app><lem wit="#C7 #RK">tōḻi colleṭuppat talaimakaḷ colliyatūumāma.</lem></app></p>
+          <p type="translation">It is also what SHE said when the confidante took up the word. This song is night tryst.</p>
+        </div>
+        
         <div xml:id="AN122.1">
             <lg type="edition">
                 <l>irumpiḻi makāriv vaḻuṅkaṉ mūtūr</l>

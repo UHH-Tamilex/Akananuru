@@ -30,16 +30,19 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN141.1-kilavi">
-          <p type="edition">
-            <l>1. piriviṭai yāṟṟāḷeṉak kavaṉṟa tōḻikkut talaimakaḷ (C2+3+7, RK: kiḻatti) colliyatu (RK: yuraittatu).</l> 
-            <l>2. āṟṟāḷeṉak kavaṉṟa tōḻikkut talaimakaḷ colliyatūumām.</l>
-            <l>C2+3+9: aṟumīṉeṉṟa turōkaṇimīṉ (C9: urōkiṇimīṉai).</l></p>
-          <p type="translation" xml:lang="en"> 
-            <l>1. What SHE said to the confidante who was anxious that she would not have the strength in the time of separation.</l>
-            <l>2. What SHE said to the confidante who was anxious that she would not have the strength.</l>
-            </p>
+        <div xml:id="AN141.1-kilavi1">
+          <p type="edition">piriviṭai yāṟṟāḷeṉak kavaṉṟa tōḻikkut <app><lem>talaimakaḷ</lem><rdg wit="#C2 #C3 #C7 #RK">kiḻatti</rdg></app> <app><lem>colliyatu</lem><rdg wit="#RK">yuraittatu</rdg></app>.</p>
+          <p type="translation" xml:lang="en">What SHE said to the confidante who was anxious that she would not have the strength in the time of separation.</p>
         </div>
+        <div xml:id="AN141.1-kilavi2">
+          <p type="edition">āṟṟāḷeṉak kavaṉṟa tōḻikkut talaimakaḷ colliyatūumām.</p>
+          <p type="translation" xml:lang="en">What SHE said to the confidante who was anxious that she would not have the strength.</p>
+        </div>
+        <div xml:id="AN141.1-kilavi3"> <!-- This may be not a separate kilavi, we should clear that, and its place. Made a note in Word too. -->
+          <p type="edition">C2+3+9: aṟumīṉeṉṟa turōkaṇimīṉ (C9: urōkiṇimīṉai).</p>
+          <p type="translation" xml:lang="en"></p>
+        </div>
+
         <div xml:id="AN141.1">
             <lg type="edition">
                 <l>amma vāḻi tōḻi kaimmika<supplied>k</supplied></l>
