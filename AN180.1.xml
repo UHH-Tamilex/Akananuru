@@ -30,12 +30,15 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN180.1-kilavi">
-          <p type="edition"><l>1. irantu (C5, G1+2: /) piṉṉiṉṟa talaimakaṟkuk kuṟainērnta tōḻi talaimakaḷaik (NL, C5+7, G1+2: talaimakaṭkuk) kuṟainayappak kūṟiyatu.</l>
-          <l>2. talaimakaṉ ciṟaippuṟattāṉākat tōḻikkuc colliyatūumām. (missing in NL, C5, G1+2)</l></p>
-          <p type="translation" xml:lang="en"><l>1. What the confidante, who had granted the request of HIM who had stood behind [her] begging, said to HER so that she would agree to the request.</l>
-          <l>2. What the confidante said when HE was behind the hedge.</l></p>
+        <div xml:id="AN180.1-kilavi1">
+          <p type="edition"><app><lem>irantu</lem><rdg wit="#C5 #G1 #G2">/</rdg></app> piṉṉiṉṟa talaimakaṟkuk kuṟainērnta tōḻi <app><lem>talaimakaḷaik</lem><rdg wit="#NL #C5 #C7 #G1 #G2">talaimakaṭkuk</rdg></app> kuṟainayappak kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante, who had granted the request of HIM who had stood behind [her] begging, said to HER so that she would agree to the request.</p>
         </div>
+        <div xml:id="AN180.1-kilavi2"> 
+          <p type="edition"><app><lem>talaimakaṉ ciṟaippuṟattāṉākat tōḻikkuc colliyatūumām.</lem><rdg wit="#NL #C5 #G1 #G2">missing</rdg></app></p> <!-- Is 'missing' the same as '/'? -->
+          <p type="translation" xml:lang="en">What the confidante said when HE was behind the hedge.</p>
+        </div>
+
         <div xml:id="AN180.1">
       <lg type="edition">
         <l>nakainaṉi yuṭaittāṟ ṟōḻi takaimikak</l>
