@@ -30,14 +30,15 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN175.1-kilavi"> 
-          <p type="edition">1. piriviṉkaṇ vaṟpuṟukkun tōḻikkut talaimakaḷ colliyatu.
-          NL, C1+7+9, RK: 2. tōḻikkut talaimakaḷ colliyatū[u]mām.
-          C5+9c: talaimakaḷukkut tōḻi colliyatū[u]mām.
-          RK: piriviṉkaṇ vēṟupaṭṭa talaimaka ṭōḻikkuc coṟṟatūumām.</p>
-          <p type="translation" xml:lang="en">1. What SHE said to the confidante who consoled [her] during the separation.
-          2. It is also what SHE said to the confidante/what the confidante said to HER/what SHE who had undergone changes during the separation said to the confidante.</p>
+        <div xml:id="AN175.1-kilavi1">
+          <p type="edition">piriviṉkaṇ vaṟpuṟukkun tōḻikkut talaimakaḷ colliyatu.</p>
+          <p type="translation" xml:lang="en">What SHE said to the confidante who consoled [her] during the separation.</p>
         </div>
+        <div xml:id="AN175.1-kilavi2">
+          <p type="edition"><app><lem wit="#NL #C1 #C7 #C9 #RK">tōḻikkut talaimakaḷ colliyatū[u]mām</lem><rdg wit="#C5 #C9c">talaimakaḷukkut tōḻi colliyatū[u]mām</rdg><rdg wit="#RK">piriviṉkaṇ vēṟupaṭṭa talaimaka ṭōḻikkuc coṟṟatūumām</rdg></app>.</p>
+          <p type="translation" xml:lang="en">It is also what SHE said to the confidante/what the confidante said to HER/what SHE who had undergone changes during the separation said to the confidante.</p>
+        </div>
+
         <div xml:id="AN175.1">
       <lg type="edition">
         <l>vīṅku<supplied>vi</supplied>ḷim purīiya vicaiyamai nōṉcilai</l>
