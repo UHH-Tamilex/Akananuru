@@ -91,7 +91,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#AN199.1"><interp type="alignment" select="0">33ML21MG21MG15MG5MG19MG116ML26MG54MR16MG82MG20MG19MG10M2G63MG39ML15MG91MG9MGMG3MG2M,701MG</interp>
+<standOff type="wordsplit" corresp="#AN199.1"><interp type="alignment" select="0">33ML21MG21MG15MG5MG19MG116ML26MG54MR16MG82MG20MG19MG10M2G63MG39ML15MG91MG13MG2M,699MG</interp>
 <entry>
 <form>karai</form>
 <def>shore</def>
@@ -109,7 +109,7 @@
 <def>wave</def>
 </entry>
 <entry>
-<form>kaṭuppa<pc>+</pc></form>
+<form>kaṭuppa<c type="geminated">p</c></form>
 <def>resemble</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
@@ -119,7 +119,7 @@
 <gramGrp><gram type="role">neuter plural</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>uṭaṉ</form>
+<form><c type="glide">v</c>uṭaṉ</form>
 <def>together</def>
 </entry>
 <entry>
@@ -140,7 +140,7 @@
 <def>stone</def>
 </entry>
 <entry>
-<form>cērp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>cērp<c type="elided">u</c></form>
 <def>joined</def>
 </entry>
 <entry>
@@ -156,7 +156,7 @@
 <def>join-</def>
 </entry>
 <entry>
-<form>marāatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>marāatt<c type="elided">u</c></form>
 <def>Kadamba-tree-</def>
 </entry>
 <entry>
@@ -172,11 +172,11 @@
 <def>raining</def>
 </entry>
 <entry>
-<form>cett<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>cett<c type="elided">u</c></form>
 <def>thought</def>
 </entry>
 <entry>
-<form>uyaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>uyaṅk<c type="elided">u</c></form>
 <def>become-weak-</def>
 </entry>
 <entry>
@@ -192,12 +192,12 @@
 <def>water</def>
 </entry>
 <entry>
-<form>nacaikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>nacaikk<c type="elided">u</c></form>
 <def>longing</def>
 <gramGrp><gram type="role">dative</gram>
 </gramGrp></entry>
 <entry>
-<form>alamara<pc>+</pc></form>
+<form>alamara<c type="geminated">c</c></form>
 <def>whirl</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
@@ -223,7 +223,7 @@
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>alaṅkal</form>
+<form><c type="glide">v</c>alaṅkal</form>
 <def>swaying</def>
 </entry>
 <entry>
@@ -231,7 +231,7 @@
 <def>dry-branch</def>
 </entry>
 <entry>
-<form><pc>~</pc>ari</form>
+<form><c type="glide">y</c>ari</form>
 <def>cut-off-</def>
 </entry>
 <entry>
@@ -239,7 +239,7 @@
 <def>shade</def>
 </entry>
 <entry>
-<form>acaii<pc>+</pc></form>
+<form>acaii<c type="geminated">t</c></form>
 <def>rested</def>
 </entry>
 <entry>
@@ -267,7 +267,7 @@
 <def>state</def>
 </entry>
 <entry>
-<form><pc>~</pc>aram</form>
+<form><c type="glide">y</c>aram</form>
 <def>file</def>
 </entry>
 <entry>
@@ -275,7 +275,7 @@
 <def>eat-</def>
 </entry>
 <entry>
-<form>ūci<pc>+</pc></form>
+<form>ūci<c type="geminated">t</c></form>
 <def>needle</def>
 </entry>
 <entry>
@@ -287,7 +287,7 @@
 <def>tip</def>
 </entry>
 <entry>
-<form><pc>~</pc>aṉṉa</form>
+<form><c type="glide">y</c>aṉṉa</form>
 <def>like</def>
 </entry>
 <entry>
@@ -299,7 +299,7 @@
 <def>state</def>
 </entry>
 <entry>
-<form><pc>~</pc>eyiṟṟa</form>
+<form><c type="glide">y</c>eyiṟṟa</form>
 <def>tooth</def>
 </entry>
 <entry>
@@ -316,7 +316,7 @@
 <def>wind</def>
 </entry>
 <entry>
-<form>muṉai<pc>+</pc></form>
+<form>muṉai<c type="geminated">p</c></form>
 <def>frontier</def>
 </entry>
 <entry>
@@ -329,7 +329,7 @@
 <def>urgently</def>
 </entry>
 <entry>
-<form><pc>~</pc>alaṟiya</form>
+<form><c type="glide">v</c>alaṟiya</form>
 <def>cried-out-</def>
 </entry>
 <entry>
@@ -354,7 +354,7 @@
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form>kalai-<pc>~</pc>ē</form>
+<form>kalai-<c type="glide">y</c>ē</form>
 <def>stag</def>
 <form type="simple">kalai</form>
 <gramGrp type="particle"><m>ē</m></gramGrp>
@@ -372,7 +372,7 @@
 <def>evening</def>
 </entry>
 <entry>
-<form><pc>~</pc>āṇ</form>
+<form><c type="glide">y</c>āṇ</form>
 <def>man</def>
 </entry>
 <entry>
@@ -400,7 +400,7 @@
 <def>after</def>
 </entry>
 <entry>
-<form>paṭa<pc>+</pc></form>
+<form>paṭa<c type="geminated">p</c></form>
 <def>happen</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
@@ -430,7 +430,7 @@
 <def>going</def>
 </entry>
 <entry>
-<form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>naṉṟ<c type="elided">u</c></form>
 <def>good-it</def>
 </entry>
 <entry>
@@ -442,11 +442,11 @@
 <def>desire</def>
 </entry>
 <entry>
-<form><pc>~</pc>uḷḷam</form>
+<form><c type="glide">y</c>uḷḷam</form>
 <def>inside</def>
 </entry>
 <entry>
-<form>acaiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>acaiv<c type="elided">u</c></form>
 <def>resting</def>
 </entry>
 <entry>
@@ -463,7 +463,7 @@
 <def>you</def>
 </entry>
 <entry>
-<form>celaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>celaṟk<c type="elided">u</c></form>
 <def>going</def>
 <gramGrp><gram type="role">dative</gram>
 </gramGrp></entry>
@@ -472,7 +472,7 @@
 <def>right-you</def>
 </entry>
 <entry>
-<form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>neñc<c type="elided">u</c>-ē</form>
 <def>heart</def>
 <form type="simple">neñcu</form>
 <gramGrp type="particle"><m>ē</m></gramGrp>
@@ -516,12 +516,12 @@
 <def>young-woman</def>
 </entry>
 <entry>
-<form><pc>~</pc>oḻiya<pc>+</pc></form>
+<form><c type="glide">y</c>oḻiya<c type="geminated">k</c></form>
 <def>stay-behind</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form>kuṭāat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>kuṭāat<c type="elided">u</c></form>
 <def>west-it</def>
 </entry>
 <entry>
@@ -533,7 +533,7 @@
 <def>gold</def>
 </entry>
 <entry>
-<form>vākai<pc>+</pc></form>
+<form>vākai<c type="geminated">p</c></form>
 <def>Vākai</def>
 </entry>
 <entry>
@@ -541,7 +541,7 @@
 <def>big</def>
 </entry>
 <entry>
-<form>tuṟai<pc>+</pc></form>
+<form>tuṟai<c type="geminated">c</c></form>
 <def>ghat</def>
 </entry>
 <entry>
@@ -566,7 +566,7 @@
 <def>fight-</def>
 </entry>
 <entry>
-<form>kaḷatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>kaḷatt<c type="elided">u</c></form>
 <def>battle-field-</def>
 </entry>
 <entry>
@@ -607,7 +607,7 @@
 <def>day</def>
 </entry>
 <entry>
-<form>muṭi<pc>+</pc></form>
+<form>muṭi<c type="geminated">c</c></form>
 <def>crown</def>
 </entry>
 <entry>
@@ -647,9 +647,9 @@
 <def>come-not-I</def>
 </entry>
 <entry>
-<form><pc>(</pc>i<pc>)</pc>yāṉ-ē</form>
+<form><c type="inserted">i</c>yāṉ-ē</form>
 <def>I</def>
-<form type="simple">(i)yāṉ</form>
+<form type="simple">yāṉ</form>
 <gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
 </TEI>
