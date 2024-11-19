@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Akanaṉūṟu</title> 121.2. 
+            <title xml:lang="ta">Akanaṉūṟu</title> 121.1. 
             <persName xml:lang="ta"/>
         </title>
       </titleStmt>
@@ -27,53 +27,53 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN121.2-kilavi">
-          <p type="edition">C2+3+7+9v: tōḻiyāṟ [ṟalaimakaḷai yuṭa]ṉvarumeṉak kēṭṭa talaimakaṉ ṟaṉṉeñciṟkuc collic 
-            celavaḻuṅkiyatu.</p>
-          <p type="translation" xml:lang="en">How HE, who had heard that it was said by the confidante to HER 
-            that she would come along, prevented going by speaking to his heart.</p>
+        <div xml:id="AN121.1-kilavi">
+          <p type="edition">tōḻiyāṟ ṟalaimaka[ḷai] yuṭaṉvarumeṉak (C5: koṇṭucelkaveṉak; NL, C1+9: yuṭaṉakameṉṟākak) 
+            kēṭṭa talaimakaṉ [C2+3+5+7: ṟaṉ] neñciṟkuc collic celavaḻuṅkiyatu.</p>
+          <p type="translation" xml:lang="en">How HE, who had heard that it was said by the confidante to HER that 
+            she would come along, prevented going by speaking to his heart.</p>
         </div>
-        <div xml:id="AN121.2">
-            <lg type="edition">
-                <l><supplied>nānakai yuṭaiya neñcē</supplied> kaṭuntiṟal</l>
-                <l>vēṉi ṉīṭiya vāṉuyar vaḻināḷ </l>
-                <l>vaṟumai kūṟiya maṇṇīrc ciṟukkuḷat</l>
-                <l>toṭukuḻi maruṅkiṟ ṟūvaṟ kalaṅkal</l>
-                <l>kaṉṟuṭai maṭap<supplied>piṭi kayantalai maṇṇi</supplied>c</l>
-                <l>cēṟukoṇ ṭāṭiya vēṟupaṭu vayakkaḷiṟu</l>
-                <l>ceṅkōl vāliṇar tayaṅkat tīṇṭic</l>
-                <l>coṟipuṟa muriñciya neṟiyayaṉ marā<supplied>at</supplied></l>
-                <l><supplied>talkuṟu variniḻa la</supplied>caii nammoṭu</l>
-                <l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
-                <l>yuṟukaṇ maḻava ruḷkīṇ ṭiṭṭa</l>
-                <l>vāṟuceṉ mākkaḷ cōṟupoti veṇ<supplied>kuṭaik</supplied></l>
-                <l><supplied>kaṉmi</supplied>caik kaṭuvaḷi yeṭuttaliṟ ṟuṇaicettu</l>
-                <l>veruḷēṟu payiru māṅkaṭ</l>
-                <l>karumuka mucuviṉ kā<supplied>ṉa</supplied>t tāṉē</l>
-            </lg>
-            <lg type="translation" xml:lang="en">
-                <l>We are smiling, heart: on the last day</l>
-                <l>high in the sky when fierce, powerful summer [heat] has lasted long, (1-2)</l>
-                <l>she with broad soft shoulders, they say, will come in person (10)</l>
-                <l>with us, resting in the dwindling dappled shade</l> 
-                <l>of the Kadamba tree near the path on which the transformed strong elephant bull</l>
-                <l>rubs [its] itching back, bumping the red-stemmed white clusters</l>
-                <l>so that they swayed, [the bull] who had bathed, taking mud,</l>
-                <l>washing the soft head of [its] youthful cow that has a calf</l>
-                <l>with the spattering muddy water from a pit he dug</l>
-                <l>in the pond little in water, with earth [showing] that speaks of scarcity (3-9)</l>
-                <l>– in the forest of the black-faced langur,</l>
-                <l>that place where the startled bull calls,</l>
-                <l>thinking of [its] mate because the fierce wind lifts, on the stones,</l>
-                <l>the white baskets with the stores of rice of the people going on the road</l>
-                <l>which is cleaved by the [chariot] wheels of suffering warriors. (11-15)</l>
-            </lg>
+        <div xml:id="AN121.1">
+      <lg type="edition">
+  <l>nānakai yuṭaiya neñcē <supplied>ka</supplied>ṭunteṟal</l>
+        <l>vēṉi ṉīṭiya vāṉuyar vaḻināḷ</l>
+        <l>vaṟumai kūṟiya maṇṇīrc ciṟukuḷat</l>
+        <l>toṭukuḻi maru<supplied>ṅ</supplied>kiṟ ṟuvvāk kalaṅkal</l>
+        <l>kaṉṟuṭai maṭappiṭi kayantalai maṇṇic</l>
+        <l>cēṟukoṇ ṭāṭiya vēṟupaṭu vayakkaḷiṟu</l>
+        <l>ceṅkōl vāliṇar tayaṅkat tīṇṭic</l>
+        <l>coṟipuṟa muriñciya ne<supplied>ṟi</supplied>yayaṉ marāat</l>
+        <l>talkuṟu variniḻa lacaiiya nammoṭu</l>
+        <l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
+        <l>yuṟukaṇ maḻava ruruḷ<supplied>kī</supplied>ṇ ṭiṭṭa</l>
+        <l>vāṟuceṉ mākkaḷ cōṟupoti veṇkuṭaik</l>
+        <l>kaṉmicaik kaṭuva<supplied>ḷi</supplied> yeṭuttaliṟ ṟuṇaicettu</l>
+        <l>ve<supplied>ru</supplied>ḷēṟu payiru mā<supplied>ṅ</supplied>kaṭ</l>
+        <l>karumuka mucuviṉ kāṉat tāṉē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l>We are smiling, heart: on the last day</l>
+        <l><choice><seg>high in the sky when the </seg><seg>high in the sky when </seg></choice> fierce, <choice><seg>scorching </seg><seg>powerful </seg></choice> summer [heat] has lasted long, (1-2)</l>
+        <l>she with broad soft shoulders, they say, will come in <choice><seg>person</seg><seg>person (10)</seg></choice> </l>
+        <l>with <choice><seg>us in order to </seg><seg>us, </seg></choice> <choice><seg>rest </seg><seg>resting </seg></choice> in the dwindling dappled shade</l>
+        <l>of the Kadamba tree near the path on which the transformed strong elephant bull</l>
+        <l>rubs [its] itching back, bumping the red-stemmed white clusters</l>
+        <l>so that they swayed, [the bull] who had bathed, taking mud,</l>
+        <l>washing the soft head of [its] youthful cow that has a calf</l>
+        <l><choice><seg>with the </seg><seg>with the spattering </seg></choice> muddy <choice><seg>water that is not drunk </seg><seg>water </seg></choice> from a pit he dug</l>
+        <l>in the pond <choice><seg>short of </seg><seg>little in </seg></choice> water, with earth [showing] that speaks of scarcity (3-9)</l>
+        <l>– in the forest of the black-faced langur,</l>
+        <l>that place where the startled bull calls,</l>
+        <l>thinking of [its] mate because the fierce wind lifts, on the stones,</l>
+        <l>the white baskets with the stores of rice of the people going on the road</l>
+        <l>which is cleaved by the [chariot] wheels of suffering warriors. (11-15)</l>
+      </lg>
         </div>
     </body>
   </text>
 
-<standOff type="wordsplit" corresp="#AN121.2">
-<interp type="alignment" select="0">2MR12MR4M2G16ML82MG37MG84MG3MG67MG114MGM,433M</interp>
+<standOff type="wordsplit" corresp="#AN121.1">
+<interp type="alignment" select="0">2MR12MR4M2G16ML82MG37MG84MG3MG71MG114MG2M,437MG</interp>
 <entry>
 <form>nām</form>
 <def>we</def>
@@ -118,9 +118,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form>tiṟal</form>
-<def>power</def>
+<form>teṟal</form>
+<def>wrath</def>
 <gramGrp>
+  <gram type="role">verbal noun</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
@@ -200,7 +201,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ciṟu<c type="geminated">k</c></form>
+<form>ciṟu</form>
 <def>little</def>
 <gramGrp>
   <gram type="role">adjective</gram>
@@ -237,11 +238,12 @@
 </gramGrp>
 </entry>
 <entry>
-<form>tūval</form>
-<def>spattering</def>
-<form type="sandhi">ṟūvaṟ</form>
+<form>tuvvā<c type="geminated">k</c></form>
+<def>eat-not-</def>
+<form type="sandhi">ṟuvvā<c type="geminated">k</c></form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">negative</gram>
+  <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -464,16 +466,17 @@
 </gramGrp>
 </entry>
 <entry>
-<form>acaii</form>
-<def>rested-</def>
+<form>acaiiya</form>
+<def>rest</def>
 <gramGrp>
-  <gram type="role">absolutive</gram>
+  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>nammoṭu</form>
 <def>us</def>
 <gramGrp>
+  <gram type="role">sociative</gram>
   <gram type="role">sociative</gram>
 </gramGrp>
 </entry>
@@ -542,10 +545,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uḷ</form>
-<def>inside</def>
+<form>uruḷ</form>
+<def>wheel</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -627,7 +630,7 @@
 <form>micai<c type="geminated">k</c></form>
 <def>on</def>
 <gramGrp>
-  <gram type="role">locative</gram>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -649,6 +652,7 @@
 <def>lifting</def>
 <form type="sandhi"><c type="glide">y</c>eṭuttaliṟ</form>
 <gramGrp>
+  <gram type="role">oblique</gram>
   <gram type="role">oblique</gram>
   <gram type="role">verbal noun</gram>
 </gramGrp>
@@ -712,6 +716,7 @@
 <form>mucuviṉ</form>
 <def>langur</def>
 <gramGrp>
+  <gram type="role">oblique</gram>
   <gram type="role">oblique</gram>
 </gramGrp>
 </entry>

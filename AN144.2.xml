@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -81,12 +78,15 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#AN144.2"><interp type="alignment" select="0">14MG22ML2MGMR13MG54MG12M2G11MG8MG24MG43MG78M2G11MG14MG2ML2MG46MG76ML30MG22MG13MG4M2G2M,528MG</interp>
+  <standOff type="wordsplit" corresp="#AN144.2">
+<interp type="alignment" select="0">14MG22ML2MGMR13MG54MG12M2G11MG8MG24MG43MG78M2G11MG14MG2ML2MG46MG76ML30MG22MG13MG4M2G2M,528MG</interp>
 <entry>
 <form>varutum</form>
 <def>we-come</def>
-<gramGrp><gram type="role">subjunctive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>eṉṟa</form>
 <def>said-</def>
@@ -95,15 +95,17 @@
 <form>nāḷ-um</form>
 <def>day</def>
 <form type="simple">nāḷ</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>poyttaṉa</form>
 <def>they-lied</def>
-<gramGrp><gram type="role">neuter plural</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
 <entry>
-<form><pc>~</pc>ari</form>
+<form><c type="glide">v</c>ari</form>
 <def>red-streak</def>
 </entry>
 <entry>
@@ -122,7 +124,8 @@
 <form>nīr-um</form>
 <def>water</def>
 <form type="simple">nīr</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<form type="sandhi">ṇīr</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>nillā</form>
@@ -133,10 +136,13 @@
 <def>cool</def>
 </entry>
 <entry>
-<form>kārkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>kārkk<c type="elided">u</c></form>
 <def>rainy-season</def>
-<gramGrp><gram type="role">dative</gram>
-</gramGrp></entry>
+<form type="sandhi">kārkk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>īṉṟa</form>
 <def>brought-forth-</def>
@@ -144,6 +150,7 @@
 <entry>
 <form>paim</form>
 <def>fresh</def>
+<form type="sandhi">paiṅ</form>
 </entry>
 <entry>
 <form>koṭi</form>
@@ -164,13 +171,14 @@
 <entry>
 <form>vāl</form>
 <def>pure</def>
+<form type="sandhi">vāṉ</form>
 </entry>
 <entry>
 <form>mukai</form>
 <def>bud</def>
 </entry>
 <entry>
-<form><pc>~</pc>aviḻnta</form>
+<form><c type="glide">y</c>aviḻnta</form>
 <def>opened-</def>
 </entry>
 <entry>
@@ -182,42 +190,51 @@
 <def>wear-</def>
 </entry>
 <entry>
-<form>vaṉapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>vaṉapp<c type="elided">u</c></form>
 <def>beauty</def>
+<form type="sandhi">vaṉapp</form>
 </entry>
 <entry>
 <form>iḻanta</form>
 <def>lost-</def>
 </entry>
 <entry>
-<form>katupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<form>katupp<c type="elided">u</c>-um</form>
 <def>hair</def>
 <form type="simple">katuppu</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<form type="sandhi">katupp</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>uḷḷār</form>
 <def>remember-not-he</def>
-<gramGrp><gram type="role">honorific</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>aruḷ-kaṇ</form>
 <def>consideration</def>
-<gramGrp><gram type="role">locative</gram>
-</gramGrp></entry>
+<form type="sandhi">aruḷkaṇ</form>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>māṟal-ō</form>
 <def>changing</def>
 <form type="simple">māṟal</form>
-<gramGrp type="particle"><m>ō</m></gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
 <form>māṟuka</form>
 <def>may-change</def>
-<gramGrp><gram type="role">subjunctive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+</gramGrp>
+</entry>
 <entry>
-<form><pc>~</pc>antil</form>
+<form><c type="glide">v</c>antil</form>
 <def>there</def>
 </entry>
 <entry>
@@ -228,11 +245,13 @@
 <form>añcalar-ē</form>
 <def>fear-not-he</def>
 <form type="simple">añcalar</form>
-<gramGrp><gram type="role">honorific</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>āy</form>
+<form><c type="glide">y</c>āy</form>
 <def>select-</def>
 </entry>
 <entry>
@@ -242,34 +261,44 @@
 <entry>
 <form>namar</form>
 <def>our-he</def>
-<gramGrp><gram type="role">honorific</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>eṉa<pc>+</pc></form>
+<form>eṉa<c type="geminated">c</c></form>
 <def>say</def>
-<gramGrp><gram type="role">infinitive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>ciṟiya</form>
 <def>small-they</def>
-<gramGrp><gram type="role">neuter plural</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>colli<pc>+</pc></form>
+<form>colli<c type="geminated">p</c></form>
 <def>said</def>
 </entry>
 <entry>
 <form>periya</form>
 <def>big-they</def>
-<gramGrp><gram type="role">neuter plural</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>pulampiṉ-um</form>
 <def>be-lonely-if-even</def>
 <form type="simple">pulampiṉ</form>
-<gramGrp><gram type="role">concessive</gram>
-<gram type="role">conditional</gram>
-</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>paṉi</form>
@@ -282,6 +311,7 @@
 <entry>
 <form>naṟum</form>
 <def>fragrant</def>
+<form type="sandhi">naṟun</form>
 </entry>
 <entry>
 <form>tār</form>
@@ -290,13 +320,17 @@
 <entry>
 <form>kuḻaiya</form>
 <def>be-troubled</def>
-<gramGrp><gram type="role">infinitive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>nammoṭu</form>
 <def>us</def>
-<gramGrp><gram type="role">sociative</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>tuṉi</form>
 <def>disgust</def>
@@ -316,35 +350,43 @@
 <entry>
 <form>pōla</form>
 <def>be-similar</def>
-<gramGrp><gram type="role">infinitive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
 <entry>
-<form><pc>~</pc>uvakkuvaḷ</form>
+<form><c type="glide">v</c>uvakkuvaḷ</form>
 <def>she-rejoices</def>
 </entry>
 <entry>
 <form>vāḻi</form>
 <def>live</def>
-<gramGrp><gram type="role">imperative</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
 <entry>
-<form><pc>~</pc>eṉ</form>
+<form><c type="glide">y</c>eṉ</form>
 <def>my-</def>
 </entry>
 <entry>
-<form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>neñc<c type="elided">u</c>-ē</form>
 <def>heart</def>
 <form type="simple">neñcu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<form type="sandhi">ṉeñc</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>vicumpiṉ</form>
 <def>sky</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>ēṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>ēṟ<c type="elided">u</c></form>
 <def>stroke</def>
+<form type="sandhi">ēṟ</form>
 </entry>
 <entry>
 <form>eḻuntu</form>
@@ -354,13 +396,16 @@
 <form>muḻaṅkiṉ-um</form>
 <def>drum</def>
 <form type="simple">muḻaṅkiṉ</form>
-<gramGrp><gram type="role">comparative</gram>
-<gram type="role">oblique</gram>
-</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp>
+  <gram type="role">comparative</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>māṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>māṟ<c type="elided">u</c></form>
 <def>change</def>
+<form type="sandhi">māṟ</form>
 </entry>
 <entry>
 <form>eḻuntu</form>
@@ -369,6 +414,7 @@
 <entry>
 <form>cilaikkum</form>
 <def>resounding-</def>
+<form type="sandhi">cilaikkuṅ</form>
 </entry>
 <entry>
 <form>kaṭāa</form>
@@ -383,7 +429,7 @@
 <def>revolving-</def>
 </entry>
 <entry>
-<form>pācaṟai<pc>+</pc></form>
+<form>pācaṟai<c type="geminated">p</c></form>
 <def>encampment</def>
 </entry>
 <entry>
@@ -391,8 +437,9 @@
 <def>battle</def>
 </entry>
 <entry>
-<form>vēṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>vēṭṭ<c type="elided">u</c></form>
 <def>hunt</def>
+<form type="sandhi">vēṭṭ</form>
 </entry>
 <entry>
 <form>eḻunta</form>
@@ -401,8 +448,10 @@
 <entry>
 <form>maḷḷar</form>
 <def>warrior</def>
-<gramGrp><gram type="role">honorific</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>kaiya</form>
 <def>hand</def>
@@ -414,6 +463,7 @@
 <entry>
 <form>vāḷ</form>
 <def>sword</def>
+<form type="sandhi">vāṭ</form>
 </entry>
 <entry>
 <form>kuvi</form>
@@ -422,12 +472,15 @@
 <entry>
 <form>mukam</form>
 <def>face</def>
+<form type="sandhi">mukañ</form>
 </entry>
 <entry>
 <form>citaiya</form>
 <def>be-wasted</def>
-<gramGrp><gram type="role">infinitive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>nūṟi</form>
 <def>demolished</def>
@@ -443,8 +496,11 @@
 <entry>
 <form>maruṅkiṉ</form>
 <def>side</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+<form type="sandhi">maruṅkiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>peyartta</form>
 <def>removed-</def>
@@ -460,8 +516,10 @@
 <entry>
 <form>mīṉiṉ</form>
 <def>star</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>vayiṉ</form>
 <def>side</def>
@@ -473,15 +531,18 @@
 <entry>
 <form>imaippa</form>
 <def>blink</def>
-<gramGrp><gram type="role">infinitive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
 <entry>
-<form><pc>~</pc>amar</form>
+<form><c type="glide">v</c>amar</form>
 <def>war</def>
 </entry>
 <entry>
-<form>ōrtt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>ōrtt<c type="elided">u</c></form>
 <def>regarded</def>
+<form type="sandhi">ōrtt</form>
 </entry>
 <entry>
 <form>aṭṭa</form>
@@ -490,29 +551,38 @@
 <entry>
 <form>celvam</form>
 <def>prosperity</def>
+<form type="sandhi">celvan</form>
 </entry>
 <entry>
 <form>tamar</form>
 <def>self-they</def>
-<gramGrp><gram type="role">honorific</gram>
-</gramGrp></entry>
-<entry>
-<form>viraint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>hastened</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
 </entry>
 <entry>
-<form>uraippa<pc>+</pc></form>
+<form>viraint<c type="elided">u</c></form>
+<def>hastened</def>
+<form type="sandhi">viraint</form>
+</entry>
+<entry>
+<form>uraippa<c type="geminated">k</c></form>
 <def>talk</def>
-<gramGrp><gram type="role">infinitive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>kēṭkum</form>
 <def>hearing-</def>
+<form type="sandhi">kēṭku</form>
 </entry>
 <entry>
-<form>ñāṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>ñāṉṟ<c type="elided">u</c>-ē</form>
 <def>time</def>
 <form type="simple">ñāṉṟu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+<form type="sandhi">ñāṉṟ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
     </TEI>
