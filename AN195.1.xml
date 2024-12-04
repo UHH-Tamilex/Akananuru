@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -78,7 +80,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#AN195.1">
-<interp type="alignment" select="0">35ML32MG54MG4MG13MG2ML37MG56MG6MG22MG10MG3MG6MG9ML4MG3MG69MG6ML16MG21ML69MG9MG16MG4MG10M2G2M,543MG</interp>
+<interp type="alignment" select="0">35ML32MG54MG4MG13MG2ML37MG10MG46MG6MG22MG10MG9MG9ML4MG72MG6ML16MG21ML69MG9MG16MG4MG10M2G2M,542MG</interp>
 <entry>
 <form>arum</form>
 <def>difficult</def>
@@ -255,8 +257,14 @@
 <def>considerate-not-he</def>
 </entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>iṉ</form>
@@ -326,11 +334,10 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>uṭaiyaṉ-maṉ-<c type="geminated">ṉ</c>ō</form>
-<def>possess-Imaṉṉ</def>
-<form type="simple">uṭaiyaṉ-maṉ</form>
-<form type="sandhi">uṭaiyaṉmaṉ</form>
-<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+<form>uṭaiyaṉ-maṉṉō</form>
+<def>possess-I</def>
+<form type="simple">uṭaiyaṉ</form>
+<gramGrp type="particle"><m type="enclitic">maṉṉō</m></gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>aḵt<c type="elided">u</c></form>
@@ -346,11 +353,11 @@
 <def>learn-if</def>
 </entry>
 <entry>
-<form>naṉṟu-maṉ-tilla</form>
-<def>good-itmaṟṟilla</def>
-<form type="simple">naṉṟu-maṉ</form>
-<form type="sandhi">ṉaṉṟumaṟ</form>
-<gramGrp type="particle"><m type="enclitic">tilla</m></gramGrp>
+<form>naṉṟu-maṟṟilla</form>
+<def>good-it</def>
+<form type="simple">naṉṟu</form>
+<form type="sandhi">ṉaṉṟu</form>
+<gramGrp type="particle"><m type="enclitic">maṟṟilla</m></gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>aṟuvai</form>
