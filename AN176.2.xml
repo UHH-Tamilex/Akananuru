@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -94,7 +96,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#AN176.2">
-<interp type="alignment" select="0">76MG32MG40MG96MG15MG11MG23MG36MR76MG16MG18MG72MG13MR70MG19MG19MG123MR13MG2M,787MG</interp>
+<interp type="alignment" select="0">76MG32MG40MG96MG15MG11MG23MG36MR76MG16MG18MG72MG13MR70MG19MG5M2G14MG123MR13MG2M,789MG</interp>
 <entry>
 <form>kaṭal</form>
 <def>sea</def>
@@ -642,14 +644,24 @@
 <def>what</def>
 </entry>
 <entry>
-<form>kaṭattaḷ-ēmaṟṟē</form>
+<form>kaṭattaḷ-ē</form>
 <def>duty-she</def>
 <form type="simple">kaṭattaḷ</form>
-<gramGrp type="particle"><m type="enclitic">ēmaṟṟē</m></gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c>-ē</form>
+<def>besides</def>
+<form type="simple">maṟṟu</form>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>taṉ</form>
-<def>self-</def>
+<def>self</def>
 </entry>
 <entry>
 <form>muka<c type="geminated">t</c></form>

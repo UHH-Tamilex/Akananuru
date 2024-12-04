@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -77,7 +79,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#AN133.1">
-<interp type="alignment" select="0">226MG102MG6MG21MG3MG72MG6MG32ML20MG11MG7MG2M,518MG</interp>
+<interp type="alignment" select="0">226MG102MG6MG21MG75MG6MG32ML20MG11MG7MG2M,517MG</interp>
 <entry>
 <form>kuṉṟi</form>
 <def>crab’s-eye</def>
@@ -376,10 +378,18 @@
 <def>coming</def>
 </entry>
 <entry>
-<form>vallai-<c type="glide">y</c>ōmaṟṟ<c type="elided">u</c></form>
-<def>strong-youō</def>
+<form>vallai-<c type="glide">y</c>ō</form>
+<def>strong-you</def>
 <form type="simple">vallai</form>
-<gramGrp type="particle"><m type="enclitic">ōmaṟṟu</m></gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>eṉa<c type="geminated">k</c></form>
@@ -400,14 +410,13 @@
 <def>koṉone-it</def>
 </entry>
 <entry>
-<form>viṉaviṉar-maṉ-<c type="geminated">ṉ</c>ē</form>
-<def>he-asked(h.)maṉṉ</def>
-<form type="simple">viṉaviṉar-maṉ</form>
-<form type="sandhi">viṉaviṉarmaṉ</form>
+<form>viṉaviṉar-maṉṉē</form>
+<def>he-asked</def>
+<form type="simple">viṉaviṉar</form>
 <gramGrp>
   <gram type="role">honorific</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉṉē</m></gramGrp>
 </entry>
 <entry>
 <form>tōḻi</form>
