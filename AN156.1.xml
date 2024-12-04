@@ -74,7 +74,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#AN156.1">
-<interp type="alignment" select="0">5MG26MG45MG7MG5ML68MG4MGMG24MG21MG5MG42MG29MG29M2G12MG7MG66MG3MGMG20MG36MG2M,479MG</interp>
+<interp type="alignment" select="0">5MG26MG45MG7MG5ML68MG29MG21MG5MG42MG29MG29M2G12MG7MG66MG3MGMG20MG36MG2M,477MG</interp>
 <entry>
 <form>murac<c type="elided">u</c></form>
 <def>drum</def>
@@ -210,7 +210,7 @@
 <form type="sandhi">karump</form>
 </entry>
 <entry>
-<form>aruk(i)</form>
+<form>aruku</form>
 <def>be-afraid-</def>
 <form type="sandhi">aruki</form>
 </entry>

@@ -79,7 +79,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#AN139.1">
-<interp type="alignment" select="0">54MG22MG9MR4MG17MG3MG100MG36MG15MG16MG28MG26MG71ML39ML11MG7M2G9MG39MG17MG3M,545MG</interp>
+<interp type="alignment" select="0">54MG22MG9MR4MG17MG3MG100MG36MG15MG16MG28MG26MG71ML39ML11MG7MG9MG39MG17MG3M,544MG</interp>
 <entry>
 <form>tuñcuvatu</form>
 <def>sleep-it</def>
@@ -529,13 +529,19 @@
 <gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
 </entry>
 <entry>
-<form>maṟṟ<c type="elided">u</c>-avar</form>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avar</form>
 <def>maṟṟuhe</def>
-<form type="simple">avar</form>
 <gramGrp>
   <gram type="role">honorific</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="proclitic">maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form>nilai-<c type="glide">y</c>ē</form>

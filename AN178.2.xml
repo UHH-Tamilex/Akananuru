@@ -85,7 +85,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#AN178.2">
-<interp type="alignment" select="0">8MG83MG77MGMG37ML14MG5M2G30MG85MG27MR37MG2MR37MG19MG7MG11MG7M2G67MG4MG11MG15MG28MG10MG15MG2M,664MG</interp>
+<interp type="alignment" select="0">8MG83MG115ML14MG5M2G30MG85MG27MR37MG2MR37MG19MG7MG11MG7M2G67MG4MG11MG15MG28MG10MG15MG2M,662MG</interp>
 <entry>
 <form>vayiratt<c type="elided">u</c></form>
 <def>clubs-</def>
@@ -225,7 +225,7 @@
 <def>turn</def>
 </entry>
 <entry>
-<form>iḻip(i)</form>
+<form>iḻipu</form>
 <def>descended</def>
 <form type="sandhi">iḻipi</form>
 </entry>

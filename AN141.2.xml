@@ -101,15 +101,20 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#AN141.2">
-<interp type="alignment" select="0">4MG22M2G12ML9M2G21MG14M2GMR10MG12MG22ML12ML53MG3MG16ML3MG15MG29MG24M2G15MG3MG30MG9MR30ML30MG83MG31MG141MG72MR31MG53MG18MG2M,864MG</interp>
+<interp type="alignment" select="0">26M2G12ML9M2G21MG14M2GMR10MG12MG22ML12ML53MG3MG16ML3MG15MG29MG24M2G15MG3MG30MG9MR30ML30MG83MG31MG141MG72MR31MG53MG18MG2M,863MG</interp>
 <entry>
-<form>amma-vāḻi</form>
+<form>amma</form>
+<def>alas</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻi</form>
 <def>alas-you-live</def>
-<form type="simple">vāḻi</form>
 <gramGrp>
   <gram type="role">subjuntive</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="proclitic">amma</m></gramGrp>
 </entry>
 <entry>
 <form>tōḻi</form>

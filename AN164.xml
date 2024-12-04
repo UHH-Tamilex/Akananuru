@@ -69,7 +69,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#AN164">
-<interp type="alignment" select="0">27MG106MG15ML36M2G17MG7M2G43MG12MG23MG34ML52MG21MG2M,408MG</interp>
+<interp type="alignment" select="0">27MG106MG15ML36M2G17MG7MG43MG12MG23MG34ML52MG21MG2M,407MG</interp>
 <entry>
 <form>katir</form>
 <def>beam</def>
@@ -277,13 +277,19 @@
 <gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
 </entry>
 <entry>
-<form>maṟṟ<c type="elided">u</c>-avar</form>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avar</form>
 <def>he</def>
-<form type="simple">avar</form>
 <gramGrp>
   <gram type="role">honorific</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="proclitic">maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form>nilai</form>

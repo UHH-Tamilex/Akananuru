@@ -68,12 +68,17 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#AN130.1">
-<interp type="alignment" select="0">4MG38MG102MG33MG35MG79MR102M2G2M,402MG</interp>
+<interp type="alignment" select="0">42MG102MG33MG35MG79MR102M2G2M,401MG</interp>
 <entry>
-<form>amma-vāḻi</form>
+<form>amma</form>
+<def>alas</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻi</form>
 <def>ammalive</def>
-<form type="simple">vāḻi</form>
-<gramGrp type="particle"><m type="proclitic">amma</m></gramGrp>
 </entry>
 <entry>
 <form>kēḷir</form>

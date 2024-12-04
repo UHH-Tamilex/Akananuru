@@ -83,7 +83,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#AN177.1">
-<interp type="alignment" select="0">25MG24MG15MG51MG12MG16MG31MG55ML4MG65MGMG4MG16ML9MG5MG18MG70MG39ML63MG27MG25M2G2M,598MG</interp>
+<interp type="alignment" select="0">25MG24MG15MG51MG12MG16MG31MG55ML4MG70MG16ML9MG5MG18MG70MG39ML63MG27MG25M2G2M,596MG</interp>
 <entry>
 <form>tol</form>
 <def>old</def>
@@ -374,7 +374,7 @@
 <def>she-bird</def>
 </entry>
 <entry>
-<form><c type="glide">y</c>avir(i)</form>
+<form><c type="glide">y</c>aviru</form>
 <def>shine-</def>
 <form type="sandhi"><c type="glide">y</c>aviri</form>
 </entry>
