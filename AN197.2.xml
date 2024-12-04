@@ -78,7 +78,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#AN197.2">
-<interp type="alignment" select="0">22MG25MGMR50MG86ML24MR11MG23ML3MG70MG41MG16MG3MG3MG25MR50MR8MG25MG2M,505MG</interp>
+<interp type="alignment" select="0">22MG25MGMR50MG86ML24MR34ML3MG70MG41MG16MG3MG3MG25MR50MR8MG25MG2M,504MG</interp>
 <entry>
 <form>mā</form>
 <def>big/dark</def>
@@ -279,10 +279,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>yāḻa-niṉ</form>
+<form>yāḻa</form>
+<def>yāḻa</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉ</form>
 <def>yāḻayour-</def>
-<form type="simple">niṉ</form>
-<gramGrp type="particle"><m type="proclitic">yāḻa</m></gramGrp>
 </entry>
 <entry>
 <form>nirai</form>

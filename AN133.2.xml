@@ -77,7 +77,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#AN133.2">
-<interp type="alignment" select="0">229MG20ML87MG6MG7MG14MG3MG67ML8MG6MG32ML20MG11MG7MG2M,532MG</interp>
+<interp type="alignment" select="0">229MG20ML87MG6MG21MG3MG67ML8MG6MG32ML20MG11MG7MG2M,531MG</interp>
 <entry>
 <form>kuṉṟi</form>
 <def>crab’s-eye</def>
@@ -397,11 +397,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>koṉ-<c type="geminated">ṉ</c>oṉṟu</form>
+<form>koṉ</form>
+<def>koṉ</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ṉ</c>oṉṟu</form>
 <def>koṉone-it</def>
-<form type="simple">oṉṟu</form>
-<form type="sandhi"><c type="geminated">ṉ</c>oṉṟu</form>
-<gramGrp type="particle"><m type="proclitic">koṉ</m></gramGrp>
 </entry>
 <entry>
 <form>viṉaviṉar-maṉ-<c type="geminated">ṉ</c>ē</form>
