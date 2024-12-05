@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -71,7 +73,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#AN128.2">
-<interp type="alignment" select="0">8MG41MG38MG27MG27MGMGMR17M2GMR6M2G12MG3MG10MG7MGMG3MG49MR31MG43MG3MG38MG34MG3M2G2M,431MG</interp>
+<interp type="alignment" select="0">8MG41MG38MG27MG27MG2MR17M2GMR6M2G12MG3MG10MG11MG49MR31MG43MG3MG38MG34MG3M2G2M,428MG</interp>
 <entry>
 <form>maṉṟu</form>
 <def>village-common</def>
@@ -188,12 +190,13 @@
 <def>such-we</def>
 </entry>
 <entry>
-<form>āka-<c type="glide">v</c>vum</form>
+<form>āka-<c type="glide">v</c>um</form>
 <def>become</def>
-<form type="sandhi">āka<c type="glide">v</c>un</form>
+<form type="simple">āka</form>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>naṉṉar</form>
@@ -246,7 +249,7 @@
 <def>darkened-</def>
 </entry>
 <entry>
-<form>(v)iṭṭ<c type="elided">u</c></form>
+<form>viṭṭ<c type="elided">u</c></form>
 <def>let-go</def>
 <form type="sandhi">viṭṭ</form>
 <gramGrp>
