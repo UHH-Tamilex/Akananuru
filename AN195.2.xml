@@ -80,7 +80,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#AN195.2">
-<interp type="alignment" select="0">35ML32MG55MG4MG13MG2ML37MG10MG47MG6MG22MG10MG3MG6MG9MG6MG3MG69MG6ML16MG21ML70MG9MG16MG4MG10M2G2M,549MG</interp>
+<interp type="alignment" select="0">35ML32MG55MG4MG13MG2ML37MG10MG47MG6MG22MG10MG9MG9MG6MG72MG6ML16MG21ML70MG9MG16MG4MG10M2G2M,547MG</interp>
 <entry>
 <form>arum</form>
 <def>difficult</def>
@@ -334,11 +334,10 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>uṭaiyēṉ-maṉ-<c type="geminated">ṉ</c>ō</form>
-<def>possess-Imaṉṉ</def>
-<form type="simple">uṭaiyēṉ-maṉ</form>
-<form type="sandhi">uṭaiyēṉmaṉ</form>
-<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+<form>uṭaiyēṉ-maṉṉō</form>
+<def>possess-I</def>
+<form type="simple">uṭaiyēṉ</form>
+<gramGrp type="particle"><m type="enclitic">maṉṉō</m></gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>aḵt<c type="elided">u</c></form>
@@ -356,11 +355,10 @@
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
-<form>naṉṟu-maṉ-tilla</form>
-<def>good-itmaṟṟilla</def>
-<form type="simple">naṉṟu-maṉ</form>
-<form type="sandhi">naṉṟumaṟ</form>
-<gramGrp type="particle"><m type="enclitic">tilla</m></gramGrp>
+<form>naṉṟu-maṟṟilla</form>
+<def>good-it</def>
+<form type="simple">naṉṟu</form>
+<gramGrp type="particle"><m type="enclitic">maṟṟilla</m></gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>aṟuvai</form>
