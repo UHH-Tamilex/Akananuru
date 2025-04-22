@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +71,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#AN174.1">
-<interp type="alignment" select="0">31MG189MG47MG6MG3ML2MG41MG11MG11ML45M,394MG</interp>
+<interp type="alignment" select="0">31MG189MG47MG6MG3ML2MG41MG11MG11ML43MG2M,395MG</interp>
 <entry>
 <form>iru</form>
 <def>two</def>
@@ -87,11 +89,11 @@
 </entry>
 <entry>
 <form>māṟu</form>
-<def>be-opposed-</def>
+<def>be opposed</def>
 </entry>
 <entry>
 <form>koḷ</form>
-<def>take-</def>
+<def>take</def>
 </entry>
 <entry>
 <form>viyal</form>
@@ -100,10 +102,8 @@
 </entry>
 <entry>
 <form>kaḷatt<c type="elided">u</c></form>
-<def>(battle)field-</def>
+<def>[battle]field</def>
 <form type="sandhi">kaḷatt</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>oru</form>
@@ -127,7 +127,7 @@
 </entry>
 <entry>
 <form>peyarkkum</form>
-<def>removing-</def>
+<def>removing</def>
 <form type="sandhi">peyarkkuñ</form>
 </entry>
 <entry>
@@ -158,23 +158,20 @@
 </gramGrp>
 </entry>
 <entry>
-<form>pū<c type="geminated">k</c></form>
-<def>flower</def>
-</entry>
-<entry>
-<form>kōḷ</form>
-<def>cluster</def>
+<form>pūkkōḷ</form>
+<def>flower-taking rite</def>
 </entry>
 <entry>
 <form>ēya</form>
-<def>meet</def>
+<def>ordered</def>
 <gramGrp>
-  <gram type="role">infinitive</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>taṇṇumai</form>
-<def>Taṇṇumai-drum</def>
+<def>Taṇṇumai drum</def>
 </entry>
 <entry>
 <form>vilakki<c type="geminated">c</c></form>
@@ -182,7 +179,7 @@
 </entry>
 <entry>
 <form>celvēm</form>
-<def>we-go</def>
+<def>we go</def>
 </entry>
 <entry>
 <form>āka</form>
@@ -229,7 +226,7 @@
 </entry>
 <entry>
 <form>corinta</form>
-<def>poured-forth-</def>
+<def>poured forth</def>
 </entry>
 <entry>
 <form>kālai</form>
@@ -237,7 +234,7 @@
 </entry>
 <entry>
 <form>vāṉattu<c type="geminated">k</c></form>
-<def>sky-</def>
+<def>sky</def>
 </entry>
 <entry>
 <form>kaṭum</form>
@@ -266,7 +263,7 @@
 </entry>
 <entry>
 <form>kaiyaṟṟ<c type="elided">u</c></form>
-<def>been-desolate</def>
+<def>been desolate</def>
 <form type="sandhi">kaiyaṟṟ</form>
 </entry>
 <entry>
@@ -275,12 +272,12 @@
 </entry>
 <entry>
 <form>nam</form>
-<def>us-</def>
+<def>us</def>
 <form type="sandhi">nap</form>
 </entry>
 <entry>
 <form>pulantu</form>
-<def>been-vexed</def>
+<def>been vexed</def>
 </entry>
 <entry>
 <form>paḻaṅkaṇ</form>
@@ -288,7 +285,7 @@
 </entry>
 <entry>
 <form>koṇṭa</form>
-<def>taken-</def>
+<def>taken</def>
 </entry>
 <entry>
 <form>pacalai</form>
@@ -305,7 +302,7 @@
 </entry>
 <entry>
 <form>ākuvaḷ-kol</form>
-<def>she-becomes</def>
+<def>she becomes</def>
 <form type="simple">ākuvaḷ</form>
 <gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
 </entry>
@@ -326,11 +323,11 @@
 </entry>
 <entry>
 <form>uṟu</form>
-<def>have-</def>
+<def>have</def>
 </entry>
 <entry>
 <form>kiḷar</form>
-<def>shine-</def>
+<def>shine</def>
 </entry>
 <entry>
 <form>vī</form>
@@ -356,12 +353,12 @@
 </entry>
 <entry>
 <form><c type="glide">v</c>ākatt<c type="elided">u</c></form>
-<def>bosom-</def>
+<def>bosom</def>
 <form type="sandhi"><c type="glide">v</c>ākatt</form>
 </entry>
 <entry>
 <form>arumpiya</form>
-<def>budded-</def>
+<def>budded</def>
 </entry>
 <entry>
 <form>māc<c type="elided">u</c></form>
@@ -370,11 +367,11 @@
 </entry>
 <entry>
 <form>aṟu</form>
-<def>be-severed-</def>
+<def>be severed</def>
 </entry>
 <entry>
 <form>cuṇaṅkiṉ</form>
-<def>beauty-spot</def>
+<def>beauty spot</def>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
@@ -398,7 +395,7 @@
 </entry>
 <entry>
 <form>naṭanta</form>
-<def>walked-</def>
+<def>walked</def>
 </entry>
 <entry>
 <form>cil</form>
@@ -411,13 +408,16 @@
 </entry>
 <entry>
 <form><c type="geminated">l</c>otukkiṉ</form>
-<def>stepiṉ(?)</def>
+<def>step(?)</def>
 <gramGrp>
+  <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>māayōḷē</form>
+<form>māayōḷ-ē</form>
 <def>dark-she</def>
+<form type="simple">māayōḷ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
 </TEI>
