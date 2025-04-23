@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN153.2-kilavi">
-          <p type="edition">makaṭpōkkiya cevilittāy colliyatu.</p>
-          <p type="translation" xml:lang="en">What the foster mother said who had let [her] daughter go.</p>
+        <div rend="parallel">
+          <p xml:id="AN153.2-kilavi">makaṭpōkkiya cevilittāy colliyatu.</p>
+          <p xml:lang="en">What the foster mother said who had let [her] daughter go.</p>
         </div>
-        <div xml:id="AN153.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN153.2">
               <l>nōkō yāṉē nōtaku muḷḷa</l>
               <l>mantīṅ kiḷavi yāyamoṭu keḻīip</l>
               <l>pantuvaḻip paṭarkuva ḷāyiṉu nontunaṉi</l>
@@ -53,7 +53,7 @@
               <l>kaiviṭu cuṭariṟ ṟōṉṟu</l>
               <l>maipaṭu māmalai vilaṅkiya curaṉē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Ah, I ache. [My] heart is fit to ache. (1)</l>
                 <l>Even if, joined with [her] companion with pretty, sweet words, (2)</l>
                 <l>she set out on the way with a ball, much aching (3)</l>

@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN179.1-kilavi">
-          <p type="edition">pirivuṇarttiya talaimaka<supplied>ṟ</supplied>kut tōḻi celavaḻuṅ[ka]c colliyatu.</p>
-          <p type="translation" xml:lang="en">What the confidante said to HIM who informed [her] of the separation, preventing [his] going.</p>
+        <div rend="parallel">
+          <p xml:id="AN179.1-kilavi">pirivuṇarttiya talaimaka<supplied>ṟ</supplied>kut tōḻi celavaḻuṅ[ka]c colliyatu.</p>
+          <p xml:lang="en">What the confidante said to HIM who informed [her] of the separation, preventing [his] going.</p>
         </div>
-        <div xml:id="AN179.1">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN179.1">
         <l>viṇṭōy cimaiya viṟalvaraik kavā<supplied>a</supplied>ṉ</l>
         <l>veṇṭē rōṭuṅ kaṭaṅkāy maruṅkiṟ</l>
         <l>viṉaiyeri paranta tuṉṉarum viyaṉkāṭṭuc</l>
@@ -48,7 +48,7 @@
         <l>matiyēr vāṇutal pulampap</l>
         <l>patipeyarn tuṟaita lol<supplied>lu</supplied>mō numak<supplied>kē</supplied>.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>On the slope of the victorious mountain with peaks that touch the sky, (1)</l>
         <l>in the wide wilderness difficult to approach where busy flames spread (3)</l>
         <l>to the side of wild unripe fruit where the mirage runs, (2)</l>

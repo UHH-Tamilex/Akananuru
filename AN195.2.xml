@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN195.2-kilavi">
-          <p type="edition">makaṭpōkkiya naṟṟāy colliyatu.</p>
-          <p type="translation" xml:lang="en">What the real mother said who had let [her] daughter go.</p>
+        <div rend="parallel">
+          <p xml:id="AN195.2-kilavi">makaṭpōkkiya naṟṟāy colliyatu.</p>
+          <p xml:lang="en">What the real mother said who had let [her] daughter go.</p>
         </div>
-        <div xml:id="AN195.2">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN195.2">
         <l>aruñcura miṟantaveṉ peruntōṭ kuṟumaka</l>
         <l>ṭiruntuvēl viṭalaiyoṭu varumeṉat tāyē</l>
         <l>puṉaimā ṇiñcip pūva lūṭṭi</l>
@@ -55,7 +53,7 @@
         <l>remmaṉai muntuṟat tarumō</l>
         <l>taṉmaṉai yuykkumō yātavaṉ kuṟippē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>“Thinking ‘my little daughter with wide shoulders, who has gone to traverse</l>
         <l>the difficult desert, will come [back] along with a warrior with a perfect spear’, her mother, (1f.)</l>
         <l>she feeds red earth to the gloriously decorated ramparts, (3)</l>

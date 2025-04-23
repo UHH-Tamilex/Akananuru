@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN182.1-kilavi">
-          <p type="edition"><app><lem>iravu varuvāṉaip</lem><rdg wit="#C5">tōḻi kūṟṟu</rdg><rdg wit="#C2 #C3 #RK">tōḻi</rdg><rdg wit="#C7">irāvantāṉaip</rdg><rdg wit="#C2 #C3">iravu vāṉaip<gap reason="lost" unit="character" quantity="8"/></rdg></app> pakal varaveṉṟatu.</p>
-          <p type="translation" xml:lang="en">How it was said to the one who comes by night to come by day.</p>
+        <div rend="parallel">
+          <p xml:id="AN182.1-kilavi"><app><lem>iravu varuvāṉaip</lem><rdg wit="#C5">tōḻi kūṟṟu</rdg><rdg wit="#C2 #C3 #RK">tōḻi</rdg><rdg wit="#C7">irāvantāṉaip</rdg><rdg wit="#C2 #C3">iravu vāṉaip<gap reason="lost" unit="character" quantity="8"/></rdg></app> pakal varaveṉṟatu.</p>
+          <p xml:lang="en">How it was said to the one who comes by night to come by day.</p>
         </div>
-        <div xml:id="AN182.1">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN182.1">
         <l>āṅkaṇ vēṅkai yoḷḷiṇar malaintu</l>
         <l>vāṅkamai nōṉcilai yeruttat tirīit</l>
         <l>tīmpaḻap palaviṉ cuḷai<supplied>viḷai</supplied> tēṟal</l>
@@ -52,7 +52,7 @@
         <l>veṟiyayar viyaṉkaḷaṅ kaṭukkum</l>
         <l>peruvarai naṇṇiya cāra lāṉē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>O man from a land of hills, (8cd)</l>
         <l>where the hill man who went for hunt, (6a-c)</l>
         <l>wearing bright clusters of kino from that place, (1)</l>

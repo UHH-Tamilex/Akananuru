@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN174.2-kilavi">
-          <p type="edition">pācaṟaikkaṭ ṭalaimakaṉ taṉṉeñciṟkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">What HE said to his heart in the war camp.</p>
+        <div rend="parallel">
+          <p xml:id="AN174.2-kilavi">pācaṟaikkaṭ ṭalaimakaṉ taṉṉeñciṟkuc colliyatu.</p>
+          <p xml:lang="en">What HE said to his heart in the war camp.</p>
         </div>
-        <div xml:id="AN174.2">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN174.2">
         <l>iruperu vēntar māṟukoḷ viyaṉkaḷat</l>
         <l>torupaṭai koṇṭu varupaṭai peyarkkuñ</l>
         <l>celva muṭaiyōrkku niṉṟaṉṟu viṟaleṉap</l>
@@ -50,7 +48,7 @@
         <l>ṉaṉmaṇal viyaliṭa naṭanta</l>
         <l>ciṉmel lotu<supplied>kkiṉ māa yōḷē</supplied>.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>She who didn’t know that we would go, (5)</l>
         <l>checking the Taṇṇumai drum, while flower clusters meet(?),(4)</l>
         <l>[thinking] that on the wide battlefield where two great kings oppose each other, (1)</l>

@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN194.2-kilavi">
-          <p type="edition">paruvaṅ kaṇṭu āṟṟāmai mītūrat talaimakaḷ colliyatu.</p>
-          <p type="translation" xml:lang="en">What SHE said in order to subdue [her] lack of strength upon seeing the season.</p>
+        <div rend="parallel">
+          <p xml:id="AN194.2-kilavi">paruvaṅ kaṇṭu āṟṟāmai mītūrat talaimakaḷ colliyatu.</p>
+          <p xml:lang="en">What SHE said in order to subdue [her] lack of strength upon seeing the season.</p>
         </div>
-        <div xml:id="AN194.2">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN194.2">
         <l>pēruṟai talaiiya perumpular vaikaṟai</l>
         <l>yēriṭam paṭutta virumaṟup pūḻip</l>
         <l>puṟamāṟu peṟṟa pūva līrat</l>
@@ -53,7 +53,7 @@
         <l>viriyuḷai naṉmā kaṭai<supplied>i</supplied></l>
         <l>varutu meṉṟavar teḷitta pōḻtē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>It [is] rainy season indeed, friend, [my] friend, (16a-c)</l>
         <l>when they call out so that shouts fall like [those of] women chasing parakeets, (15)</l>
         <l>perched on the bent branches of the lime tree with strong leaves (14)</l>

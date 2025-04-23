@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN163-kilavi">
-          <p type="edition"><app><lem>piriviṭai</lem><rdg wit="#C7 #RK">piriviṉkaṇ</rdg></app> vaṟpuṟuttun tōḻikkut talaimaka <app><lem>ḷāṟṟāmai</lem><rdg wit="#C7 #RK">ḷāṟṟāmai mītūrac</rdg></app> colliyatu.</p>
-          <p type="translation" xml:lang="en">What SHE said about [her] lack of strength to the confidante who consoled [her] in the time of separation.</p>
+        <div rend="parallel">
+          <p xml:id="AN163-kilavi"><app><lem>piriviṭai</lem><rdg wit="#C7 #RK">piriviṉkaṇ</rdg></app> vaṟpuṟuttun tōḻikkut talaimaka <app><lem>ḷāṟṟāmai</lem><rdg wit="#C7 #RK">ḷāṟṟāmai mītūrac</rdg></app> colliyatu.</p>
+          <p xml:lang="en">What SHE said about [her] lack of strength to the confidante who consoled [her] in the time of separation.</p>
         </div>
-        <div xml:id="AN163">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN163">
         <l><supplied>viṇ</supplied>ṇatirpu talaiiya <supplied>viravumalar</supplied> kuḻaippat</l>
         <l>taṇmaḻai poḻinta tāḻpeyaṟ ka<supplied>ṭai</supplied>nā</l>
         <l>ḷe<supplied>mi</supplied>ya mākit tuṉi<supplied>yuḷaṅ</supplied> kūrac</l>
@@ -48,7 +48,7 @@
         <l>tiṉaiyai yākic ceṉmati</l>
         <l>viṉaivitup puṟuna ruḷḷa<supplied>lu</supplied> muṇṭē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>During the last days of lingering rains when cool showers pour, (2)</l>
         <l>so that mixed blossoms sprout to which [showers] were bestowed as the sky shakes, (1)</l>
         <l>while, as we are all alone, disgust abounds in [our] hearts, (3)</l>

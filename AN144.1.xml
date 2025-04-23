@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN144.1-kilavi">
-          <p type="edition">viṉaimuṟṟiya talaimakaṉ <app><lem>pākaṟkuc</lem><rdg wit="#C2 #C3 #C5v #C9">pākaṟkuc taṉ neñiṟkuc</rdg><rdg wit="#C7 #RK">taṉṉeñiṟkuraippāṉāy pākaṟkuc</rdg></app> colliyatu.</p>
-          <p type="translation" xml:lang="en">What HE who had finished [his] work said to the charioteer. </p>
+        <div rend="parallel">
+          <p xml:id="AN144.1-kilavi">viṉaimuṟṟiya talaimakaṉ <app><lem>pākaṟkuc</lem><rdg wit="#C2 #C3 #C5v #C9">pākaṟkuc taṉ neñiṟkuc</rdg><rdg wit="#C7 #RK">taṉṉeñiṟkuraippāṉāy pākaṟkuc</rdg></app> colliyatu.</p>
+          <p xml:lang="en">What HE who had finished [his] work said to the charioteer. </p>
         </div>
-        <div xml:id="AN144.1">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN144.1">
               <l>varutu meṉṟa nāḷum poyttaṉa</l>
               <l>variyē yuṇka ṇīru nillā</l>
               <l>taṇkārk kīṉṟa paiṅkoṭi mullai</l>
@@ -53,7 +53,7 @@
               <l>vamarōrt taṭṭa celvan</l>
               <l>tamarvirain turaippak kēṭku ñāṉṟē</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>“All the days, of which he said “we will come”, have turned false. (1)</l>
                 <l>The water does not stop in [my] kajal eyes with red streaks, (2)</l>
                 <l>and he does not remember [my] hair that has lost [its] beauty, wearing (5)</l>

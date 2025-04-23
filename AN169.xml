@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN169-kilavi">
-          <p type="edition">talaimaka ṉiṭaccurattut taṉṉeñciṟkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">What HE said to his heart in the middle of the desert.</p>
+        <div rend="parallel">
+          <p xml:id="AN169-kilavi">talaimaka ṉiṭaccurattut taṉṉeñciṟkuc colliyatu.</p>
+          <p xml:lang="en">What HE said to his heart in the middle of the desert.</p>
         </div>
-        <div xml:id="AN169">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN169">
         <l>marantalai karintu nilampayam vāṭa</l>
         <l>valaṅkukatir vēynta vaḻaṟikaḻ naṉantalaip</l>
         <l>pulitolait tuṇṭa peruṅkaḷiṟ ṟoḻiyūṉ</l>
@@ -48,7 +48,7 @@
         <l>peruntō ṇekiḻtta cellalō</l>
         <l>varuntumā laḷiya ṭiruntiḻai tāṉē.</l> 
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>[In her heart] setting out for us, crossing many deserts, (8)</l>
         <l>where, in the vast area glittering with fire that covers the swaying ears, (2)</l>
         <l>so that the tops of the trees are charred [and] the yield of the land fades, (1)</l>

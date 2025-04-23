@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN156.1-kilavi">
-          <p type="edition">talaimakaḷai <app><lem>yiṭattuyttut</lem><rdg wit="#C3 #C7">yiṭattuyttu vantu</rdg></app> <app><lem>tōḻi</lem><rdg wit="#C3">/</rdg></app> talaimakaṉai varaivu kaṭāyatu.</p>
-          <p type="translation" xml:lang="en">How the confidante urged HIM for marriage after having sent HER to the [meeting] place.</p>
+        <div rend="parallel">
+          <p xml:id="AN156.1-kilavi">talaimakaḷai <app><lem>yiṭattuyttut</lem><rdg wit="#C3 #C7">yiṭattuyttu vantu</rdg></app> <app><lem>tōḻi</lem><rdg wit="#C3">/</rdg></app> talaimakaṉai varaivu kaṭāyatu.</p>
+          <p xml:lang="en">How the confidante urged HIM for marriage after having sent HER to the [meeting] place.</p>
         </div>
-        <div xml:id="AN156.1">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN156.1">
               <l>muracuṭaic celvar puravi cūṭṭu</l>
               <l>mūṭṭuṟu kavari tūkki yaṉṉa</l>
               <l>ceḻuñcey nelliṉ cēyari <supplied>puṉiṟṟā</supplied>k</l>
@@ -51,7 +51,7 @@
               <l>taṇimaruṅ kaṟiyāḷ yā<supplied>a</supplied>y</l>
               <l>maṇimaruṇ mēṉi poṉṉiṟaṅ koḷalē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Oh man from a village of sweet floods, (7ab)</l>
                 <l>where the watchmen, afraid that the cow with a new-born [calf] might eat</l>
                 <l>from the ears in the red bunches of paddy from the lush field, (3f.)</l>

@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN178.1-kilavi">
-          <p type="edition">tōḻi varaivu malintu colliyatu.</p>
-          <p type="translation" xml:lang="en">What the confidante said when rejoicing in the marriage.</p>
+        <div rend="parallel">
+          <p xml:id="AN178.1-kilavi">tōḻi varaivu malintu colliyatu.</p>
+          <p xml:lang="en">What the confidante said when rejoicing in the marriage.</p>
         </div>
-        <div xml:id="AN178.1">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN178.1">
         <l>vayirat taṉṉa vaiyēntu maruppiṉ</l>
         <l>vetirvē raṉṉa parūumayirp paṉṟi</l>
         <l>paṟaikka ṇaṉṉa niṟaiccuṉai paruki</l>
@@ -56,7 +56,7 @@
         <l>muṟṟāṉ kaṇṭa ñāṉṟiṉum</l>
         <l>piṟperi taḷikkuntaṉ paṇpi ṉāṉē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>With the man from the land of good mountains, where (13cd)</l>
         <l>the pigs with hair coarse like bamboo roots(2)</l>
         <l>[and] sharp upright tusks like clubs (1)</l>

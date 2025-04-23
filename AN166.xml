@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN166-kilavi">
-          <p type="edition">parattaiyoṭu puṉalāṭiya talaimakaṉ <app><lem>talaimakaḷiṭaippukku</lem><rdg wit="#C7">talaimakaḷiṭampukku</rdg></app> ‘yāṉ āṭiṟṟilēṉ’ eṉṟu cūḷuṟṟāṉ eṉpatu kēṭṭa parattai taṉ <app><lem>pāṅkāyiṉār kēṭpac colliyatu</lem><rdg wit="#C7 #RKv">pāṅkikkuc coṟṟatatu</rdg></app>.</p>
-          <p type="translation" xml:lang="en">What the other woman, who had heard that HE, who has bathed in the flood with the other woman, had entered at HER place [and] made an oath “I did not bathe”, said so that her companions heard.</p>
+        <div rend="parallel">
+          <p xml:id="AN166-kilavi">parattaiyoṭu puṉalāṭiya talaimakaṉ <app><lem>talaimakaḷiṭaippukku</lem><rdg wit="#C7">talaimakaḷiṭampukku</rdg></app> ‘yāṉ āṭiṟṟilēṉ’ eṉṟu cūḷuṟṟāṉ eṉpatu kēṭṭa parattai taṉ <app><lem>pāṅkāyiṉār kēṭpac colliyatu</lem><rdg wit="#C7 #RKv">pāṅkikkuc coṟṟatatu</rdg></app>.</p>
+          <p xml:lang="en">What the other woman, who had heard that HE, who has bathed in the flood with the other woman, had entered at HER place [and] made an oath “I did not bathe”, said so that her companions heard.</p>
         </div>
-        <div xml:id="AN166">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN166">
         <l>naṉmaraṅ kuḻīiya naṉaimutir cāṭi</l>
         <l>paṉṉā ḷaritta kōo yuṭaippiṉ</l>
         <l>mayaṅkumaḻait tuvalaiyiṉ maṟukuṭaṉ paṉikkum</l>
@@ -49,7 +49,7 @@
         <l>putuvatu vanta kāvirik</l>
         <l>kōṭutōy malirniṟai yāṭi yōrē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>“The fearful deity that obtains high offerings, (7)</l>
         <l>which the bees in spotted striped groups pass by without filling themselves, (6)</l>
         <l>with garlands of fragrant clusters that are imbued with fragrant scents, (5)</l>

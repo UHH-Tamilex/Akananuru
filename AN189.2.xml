@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN189.2-kilavi">
-          <p type="edition">makaṭpōkkiya cevili colliyatu.</p>
-          <p type="translation" xml:lang="en">What the foster mother said who had let [her] daughter go.</p>
+        <div rend="parallel">
+          <p xml:id="AN189.2-kilavi">makaṭpōkkiya cevili colliyatu.</p>
+          <p xml:lang="en">What the foster mother said who had let [her] daughter go.</p>
         </div>
-        <div xml:id="AN189.2">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN189.2">
         <l>pacumpaḻap palaviṉ kāṉam vempi</l>
         <l>vicumpukaṇ ṇaḻiya vēṉi ṉīṭik</l>
         <l>kayaṅka ṇaṟṟa kallōṅku vaippi</l>
@@ -49,7 +49,7 @@
         <l>tērūr teruviṟ ṟatumpu</l>
         <l>mūriḻan taṉṟutaṉ vīḻvuṟu poruḷē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>As the forest of jack trees with green fruit is hot, (1)</l>
         <l>summer extending so that the area of the sky is deserted [by clouds], (2)</l>
         <l>in the region high with stones where the area of ponds has disappeared, (3)</l>

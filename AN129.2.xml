@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN129.2-kilavi">
-          <p type="edition">piriviṭai vēṟupaṭṭa talaimakaṭkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">What was said to HER who was changed in the time of separation.</p>
+        <div rend="parallel">
+          <p xml:id="AN129.2-kilavi">piriviṭai vēṟupaṭṭa talaimakaṭkuc colliyatu.</p>
+          <p xml:lang="en">What was said to HER who was changed in the time of separation.</p>
         </div>
-        <div xml:id="AN129.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN129.2">
                 <l>uḷḷal vēṇṭu moḻinta piṉṉeṉa</l>
                 <l><supplied>na</supplied>ḷḷeṉ kaṅku ṉaṭuṅkutuṇai yāyavar</l>
                 <l>niṉmaṟan tuṟaital yāvatu puṉmaṟan</l>
@@ -52,7 +52,7 @@
                 <l>neñcuvā yaviḻntaṉar kātala</l>
                 <l>rañci lōti yāyiḻai namakkē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>He who was a trembling companion in the deepest night,</l>
                 <l>saying “[I] must remember after [you] have stayed behind”, (1f.)</l>
                 <l>– to us with choice jewels [and] pretty fine hair – (18)</l> 

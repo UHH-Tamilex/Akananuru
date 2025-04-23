@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN150.2-kilavi">
-          <p type="edition">pakaṟkuṟi vantu kaṇṇuṟṟu nīṅkun talaimakaṉait tōḻi talaimakaṉai yetirppaṭṭu niṉṟu ceṟippaṟivuṟīi varaivu kaṭāyatu.</p>
-          <p type="translation" xml:lang="en">How the confidante encountered [and] stood [before] HIM, who had come to the day tryst, met [HER and] left, [and how she] informed HIM of [HER] confinement [and] urged for marriage.</p>
+        <div rend="parallel">
+          <p xml:id="AN150.2-kilavi">pakaṟkuṟi vantu kaṇṇuṟṟu nīṅkun talaimakaṉait tōḻi talaimakaṉai yetirppaṭṭu niṉṟu ceṟippaṟivuṟīi varaivu kaṭāyatu.</p>
+          <p xml:lang="en">How the confidante encountered [and] stood [before] HIM, who had come to the day tryst, met [HER and] left, [and how she] informed HIM of [HER] confinement [and] urged for marriage.</p>
         </div>
-        <div xml:id="AN150.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN150.2">
               <l>piṉṉuviṭa neṟinta kūntalum poṉṉeṉa</l>
               <l>vākat tarumpiya cuṇaṅkum vampuviṭa</l>
               <l>kaṇṇurut teḻunta mulaiyu nōkki</l>
@@ -48,7 +48,7 @@
               <l>vārār kolleṉap paruvan</l>
               <l>tārār mārpanī tanta ñāṉṟē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Looking at [her] curling tresses, when the braids came loose,</l>
                 <l>at [her] beauty spots that have budded like gold, and at [her] breasts</l>
                 <l>that rise, the nipples taking shape, when the bodice came loose, (1-3)</l>

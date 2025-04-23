@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN162-kilavi">
-          <p type="edition">iravukkuṟikkaṇ talaimakaḷaik kaṇṇuṟṟu <app><lem>nīṅkun</lem><rdg wit="#RK">nīṅkiya</rdg></app> talaimakaṉ taṉ neñciṟkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">What HE said to his heart when he left after having seen HER during the night tryst.</p>
+        <div rend="parallel">
+          <p xml:id="AN162-kilavi">iravukkuṟikkaṇ talaimakaḷaik kaṇṇuṟṟu <app><lem>nīṅkun</lem><rdg wit="#RK">nīṅkiya</rdg></app> talaimakaṉ taṉ neñciṟkuc colliyatu.</p>
+          <p xml:lang="en">What HE said to his heart when he left after having seen HER during the night tryst.</p>
         </div>
-        <div xml:id="AN162">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN162">
         <l>koḷakkuṟai paṭā<supplied>a</supplied>k kōṭuvaḷar kuṭṭat</l>
         <l>taḷappari tākiya kuvaiyirun tōṉṟaṟ</l>
         <l>kaṭalkaṇ ṭaṉṉa māka vicumpi</l>
@@ -56,7 +56,7 @@
         <l>nērko <supplied>ṇe</supplied>ṭuvaraik kavāaṟ</l>
         <l>cūrara makaḷiriṟ peṟaṟ<supplied>ka</supplied>ri yōḷē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>At midnight, clouds rumble without knowing a moment of interruption, (6)</l>
         <l>while flashes waver like sheets of fire (4)</l>
         <l>across the vast sky that is as if one saw the ocean (3)</l>

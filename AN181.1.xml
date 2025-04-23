@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN181.1-kilavi">
-          <p type="edition">iṭaiccurat toḻiyak karutiya neñciṟkuc <app><lem>colliyatu</lem><rdg wit="#C5">talaimakaṉ kūṟṟu</rdg></app>.</p>
-          <p type="translation" xml:lang="en">What was said to the heart that intended to stay behind in the middle of the desert.</p>
+        <div rend="parallel">
+          <p xml:id="AN181.1-kilavi">iṭaiccurat toḻiyak karutiya neñciṟkuc <app><lem>colliyatu</lem><rdg wit="#C5">talaimakaṉ kūṟṟu</rdg></app>.</p>
+          <p xml:lang="en">What was said to the heart that intended to stay behind in the middle of the desert.</p>
         </div>
-        <div xml:id="AN181.1">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN181.1">
         <l>tuṉṉaruṅ kāṉamun tuṇita lāṟṟāy</l>
         <l>piṉṉiṉṟu peyarac cūḻntaṉai yāyi</l>
         <l>ṉeṉṉilai yuraimō neñcē yoṉṉā</l>
@@ -60,7 +60,7 @@
         <l>ḷaṇaṅkucā larivai yirunta</l>
         <l>maṇaṅkamaḻ maṟukiṉ maṇaṟperuṅ kuṉṟē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>You who cannot resolve [on passing] even the forest difficult to approach, (1)</l>
         <l>if you plan on staying behind [and] returning, (2)</l>
         <l>talk about my state, heart! (3)</l>

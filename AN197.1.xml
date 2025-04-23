@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN197.1-kilavi">
-          <p type="edition">piriviṭai vēṟupaṭṭa talaimakaḷait tōḻi <app><lem>vaṟpuṟuttiyatu</lem><rdg wit="#C9v #RK">vaṟpurīiyatu</rdg></app>.</p>
-          <p type="translation" xml:lang="en">How the confidante consoled HER who had undergone changes in the time of separation.</p>
+        <div rend="parallel">
+          <p xml:id="AN197.1-kilavi">piriviṭai vēṟupaṭṭa talaimakaḷait tōḻi <app><lem>vaṟpuṟuttiyatu</lem><rdg wit="#C9v #RK">vaṟpurīiyatu</rdg></app>.</p>
+          <p xml:lang="en">How the confidante consoled HER who had undergone changes in the time of separation.</p>
         </div>
-        <div xml:id="AN197.1">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN197.1">
         <l>māmalar vaṇṇa miḻanta kaṇṇum</l>
         <l>pūneki ḻaṇaiyiṟ cāaya tōḷu</l>
         <l>naṉṉar mākkaḷ viḻaivaṉa rāynta</l>
@@ -52,7 +52,7 @@
         <l>viṉaivali yuṟūu neñcamō</l>
         <l>ṭiṉaiya rākinap pi<supplied>ri</supplied>ntici ṉōrē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>With misery as the old beauty is lost (4a-c)</l>
         <l>that was chosen by the good people who are desirous (3)</l>
         <l>of [your] eyes that [now] have lost the colour of dark blossoms (1)</l>

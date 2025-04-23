@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN123.1-kilavi">
-          <p type="edition"><app><lem wit="#NL #C5 #C9">talaimaka ṉiṭaiccurattut taṉṉeñciṟkuc colliyatu.</lem></app></p>
-          <p type="translation" xml:lang="en">What HE said to his own heart in the middle of the desert. (In this song, paṭivam [is] an observance).</p>
+        <div rend="parallel">
+          <p xml:id="AN123.1-kilavi"><app><lem wit="#NL #C5 #C9">talaimaka ṉiṭaiccurattut taṉṉeñciṟkuc colliyatu.</lem></app></p>
+          <p xml:lang="en">What HE said to his own heart in the middle of the desert. (In this song, paṭivam [is] an observance).</p>
         </div>
-        <div xml:id="AN123.1">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN123.1">
                 <l>uṇṇā maiyi ṉuṟaṅkiya maruṅki</l>
                 <l>ṉāṭāp paṭivat tāṉṟōr pōla</l>
                 <l>varaiceṟi ciṟuneṟi niraiyuṭaṉ celluṅ</l>
@@ -49,7 +49,7 @@
                 <l>voṉṟiṟ koḷḷāy ceṉṟutaru poruṭkē.</l>
                 
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>You who cannot even bring wealth, traversing</l>
                 <l>the hills where beauty has perished, with forest elephants</l>
                 <l>that go together with the herd on the little path closed in by mountains,</l>

@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN138.2-kilavi">
-          <p type="edition">talaimakaṉ ciṟaippuṟattāṉākat tōḻikkuc colluvāḷāyt talaimakaḷcolliyatu.</p>
-          <p type="translation" xml:lang="en">What SHE said as one who speaks to the confidante when HE was behind the fence.</p>
+        <div rend="parallel">
+          <p xml:id="AN138.2-kilavi">talaimakaṉ ciṟaippuṟattāṉākat tōḻikkuc colluvāḷāyt talaimakaḷcolliyatu.</p>
+          <p xml:lang="en">What SHE said as one who speaks to the confidante when HE was behind the fence.</p>
         </div>
-        <div xml:id="AN138.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN138.2">
               <l>ikuḷai kēṭṭiciṟ kātalan tōḻi</l>
               <l>kuvaḷai yuṇkaṇ ṭeṇpaṉi malka</l>
               <l>vaṟitiyāṉ varuntiya cellaṟ kaṉṉai</l>
@@ -54,7 +54,7 @@
               <l>naṉṉiṟa maruḷu maruviṭa</l>
               <l>riṉṉā nīḷiṭai niṉaiyumeṉ ṉeñcē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Companion, listen, beloved friend: (1)</l>
                 <l>that mother, because of the distress suffered by me, poorly, (3)</l>
                 <l>so that clear dew increases in [my] waterlily kajal eyes, (2)</l>

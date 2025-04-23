@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,13 +27,13 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN128.2-kilavi">
-          <p type="edition">iravukkuṟit talaimakaṉ ciṟaippuṟattāṉākat tōḻikkuc colluvāḷāyt talaimakaḷ colliyatu.</p>
-          <p type="translation" xml:lang="en">What SHE said as one speaking to the confidante 
+        <div rend="parallel">
+          <p xml:id="AN128.2-kilavi">iravukkuṟit talaimakaṉ ciṟaippuṟattāṉākat tōḻikkuc colluvāḷāyt talaimakaḷ colliyatu.</p>
+          <p xml:lang="en">What SHE said as one speaking to the confidante 
             when HE was behind the fence during the night tryst.</p>
         </div>
-        <div xml:id="AN128.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN128.2">
                 <l>maṉṟupā ṭavintu maṉaimaṭin taṉṟē</l>
                 <l>koṉṟō raṉṉa koṭumaiyō ṭiṉṟē</l>
                 <l>yāmaṅ koḷpavariṟ kaṉaiik kāmaṅ</l>
@@ -52,7 +50,7 @@
                 <l>ṉiruḷiṭai mitippiḻi nōkkiyavar</l>
                 <l>taḷaraṭi tāṅkiya ceṉṟa tiṉṟē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>As the commotion on the village common ended, the house subsided. (1)</l>
                 <l>If today, with the cruelty of those who have killed,</l>
                 <l>he comes as one to take [me] at midnight, [my] passion, intense,</l>

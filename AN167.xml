@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN167-kilavi">
-          <p type="edition">talaimakaṉ poruḷkaṭaikkūṭṭiya neñciṟkuc collic celavaḻuṅkiyatu.</p>
-          <p type="translation" xml:lang="en">How he prevented going by speaking to the heart that coveted wealth.</p>
+        <div rend="parallel">
+          <p xml:id="AN167-kilavi">talaimakaṉ poruḷkaṭaikkūṭṭiya neñciṟkuc collic celavaḻuṅkiyatu.</p>
+          <p xml:lang="en">How he prevented going by speaking to the heart that coveted wealth.</p>
         </div>
-        <div xml:id="AN167">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN167">
         <l>vayaṅkumaṇi poruta vakaiyamai vaṉappiṟ</l>
         <l>pacuṅkā ḻa<supplied>l</supplied>kuṉ māa yōḷoṭu</l>
         <l>viṉaivaṉap peytiya puṉaipūñ cēkkai</l>
@@ -54,7 +54,7 @@
         <l>kūrmukac citalai vēynta</l>
         <l>pōrmaṭi nalliṟaip potiyi lāṉē.</l> 
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>Staying in the tall mansion that touches the sky, (4a-c)</l>
         <l>on the bed with flowers as a decoration that attained beauty by craftsmanship, (3)</l>
         <l>with the dark one, a green pearl-string on [her] hips, (2)</l>

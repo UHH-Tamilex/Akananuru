@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN158.1-kilavi">
-          <p type="edition">talaimakaṉ ciṟaippuṟattāṉākat tōḻi <app><lem>cevilikkuc colluvāḷāyc colliyatu</lem><rdg wit="#C7 #RK">cevilittāykkuc colluvāḷāy talaimakaṉ kēṭpac colliyatu</rdg></app>.</p>
-          <p type="translation" xml:lang="en">What the confidante said as one speaking to the foster mother while HE was behind the hedge.</p>
+        <div rend="parallel">
+          <p xml:id="AN158.1-kilavi">talaimakaṉ ciṟaippuṟattāṉākat tōḻi <app><lem>cevilikkuc colluvāḷāyc colliyatu</lem><rdg wit="#C7 #RK">cevilittāykkuc colluvāḷāy talaimakaṉ kēṭpac colliyatu</rdg></app>.</p>
+          <p xml:lang="en">What the confidante said as one speaking to the foster mother while HE was behind the hedge.</p>
         </div>
-        <div xml:id="AN158.1">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN158.1">
               <l>urumuraṟu karuviya perumaḻai talai<supplied>i</supplied>p</l>
               <l>peyalāṉ ṟavinta tūṅkiru ṇaṭunā<supplied>ṇ</supplied></l>
               <l>miṉṉunimir<supplied>n</supplied> taṉṉa kaṉaṅkuḻai yimaippap</l>
@@ -52,7 +52,7 @@
               <l>lentaiyu milla ṉāka</l>
               <l>vañcuva ḷallaḷō vivaḷitu ceyalē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>“After rain great in amount had showered down as thunder rumbled, (1)</l>
                 <l>at midnight with hanging darkness when the raining had finally ceased (2)</l>
                 <l>while [her] thick earrings twinkled like flashes that shoot up, (3)</l>

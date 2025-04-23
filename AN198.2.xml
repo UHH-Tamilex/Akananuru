@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN198.2-kilavi">
-          <p type="edition">iravukkuṟi (C2: /) puṇarntu nīṅkiya talaimakaḷatu pōkku nōkkiyatalaimakaṉ taṉṉeñciṟkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">What HE said to his heart when looking at HER going [away] who was leaving after the union in a night tryst.</p>
+        <div rend="parallel">
+          <p xml:id="AN198.2-kilavi">iravukkuṟi (C2: /) puṇarntu nīṅkiya talaimakaḷatu pōkku nōkkiyatalaimakaṉ taṉṉeñciṟkuc colliyatu.</p>
+          <p xml:lang="en">What HE said to his heart when looking at HER going [away] who was leaving after the union in a night tryst.</p>
         </div>
-        <div xml:id="AN198.2">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN198.2">
         <l>kūṟuvaṅ kollō kūṟalaṅ kolleṉak</l>
         <l>karanta kāmaṅ kainniṟuk kalātu</l>
         <l>nayantunām viṭṭa naṉmoḻi nampi</l>
@@ -51,7 +51,7 @@
         <l>ṉērmalar niṟaiccuṉai yuṟaiyuñ</l>
         <l>cūrmakaṇ mātō veṉṉumeṉ ṉeñcē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>Besides weighing in hand the hidden passion: (2)</l>
         <l>“shall we talk? Shall we not talk?”, (1)</l>
         <l>longingly trusting in the good word uttered by us, (3)</l>

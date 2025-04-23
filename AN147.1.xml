@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN147.1-kilavi">
-          <p type="edition">celavuṇarttiya tōḻikkut talaimakaḷ colliyatu.</p>
-          <p type="translation" xml:lang="en">What SHE said to the confidante who informed [her] of [his] going.</p>
+        <div rend="parallel">
+          <p xml:id="AN147.1-kilavi">celavuṇarttiya tōḻikkut talaimakaḷ colliyatu.</p>
+          <p xml:lang="en">What SHE said to the confidante who informed [her] of [his] going.</p>
         </div>
-        <div xml:id="AN147.1">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN147.1">
               <l>ōṅkumalaic cilampiṟ piṭavuṭaṉ malarnta</l>
               <l>vēṅkai veṟittaḻai vēṟuvakut taṉṉa</l>
               <l>vūṉpoti yaviḻāk kōṭṭukirk kuruḷai</l>
@@ -48,7 +48,7 @@
               <l>pirintōr peyarviṟ kiraṅki</l>
               <l>maruntupiṟi tiṉmaiyi ṉiruntumviṉai yilaṉē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Because of [his] preparing for departure, (10ab)</l>
                 <l>easy like on a silver street, (9)</l>
                 <l>on the endless long ways that have crossroads coming in on the path, (8)</l>

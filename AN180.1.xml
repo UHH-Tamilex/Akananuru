@@ -27,17 +27,17 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN180.1-kilavi1">
-          <p type="edition"><app><lem>irantu</lem><rdg wit="#C5 #G1 #G2">/</rdg></app> piṉṉiṉṟa talaimakaṟkuk kuṟainērnta tōḻi <app><lem>talaimakaḷaik</lem><rdg wit="#NL #C5 #C7 #G1 #G2">talaimakaṭkuk</rdg></app> kuṟainayappak kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">What the confidante, who had granted the request of HIM who had stood behind [her] begging, said to HER so that she would agree to the request.</p>
+        <div rend="parallel">
+          <p xml:id="AN180.1-kilavi1"><app><lem>irantu</lem><rdg wit="#C5 #G1 #G2">/</rdg></app> piṉṉiṉṟa talaimakaṟkuk kuṟainērnta tōḻi <app><lem>talaimakaḷaik</lem><rdg wit="#NL #C5 #C7 #G1 #G2">talaimakaṭkuk</rdg></app> kuṟainayappak kūṟiyatu.</p>
+          <p xml:lang="en">What the confidante, who had granted the request of HIM who had stood behind [her] begging, said to HER so that she would agree to the request.</p>
         </div>
-        <div xml:id="AN180.1-kilavi2"> 
-          <p type="edition"><app><lem>talaimakaṉ ciṟaippuṟattāṉākat tōḻikkuc colliyatūumām.</lem><rdg wit="#NL #C5 #G1 #G2">missing</rdg></app></p> <!-- Is 'missing' the same as '/'? -->
-          <p type="translation" xml:lang="en">What the confidante said when HE was behind the hedge.</p>
+        <div rend="parallel"> 
+          <p xml:id="AN180.1-kilavi2"><app><lem>talaimakaṉ ciṟaippuṟattāṉākat tōḻikkuc colliyatūumām.</lem><rdg wit="#NL #C5 #G1 #G2">missing</rdg></app></p> <!-- Is 'missing' the same as '/'? -->
+          <p xml:lang="en">What the confidante said when HE was behind the hedge.</p>
         </div>
 
-        <div xml:id="AN180.1">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN180.1">
         <l>nakainaṉi yuṭaittāṟ ṟōḻi takaimikak</l>
         <l>kōtai yāyamoṭu kuvavumaṇa lēṟi</l>
         <l><supplied>vī</supplied>tatai kāṉal vaṇṭa layarak</l>
@@ -54,7 +54,7 @@
         <l>poṉṉēr nuṇṭātu nōkki</l>
         <l>yeṉṉu nōkkumiv vaḻuṅka lūrē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>It is full of laughter indeed, friend, (1a-c)</l>
         <l>– this noisy village that looks at me too, (15)</l>
         <l>looking at the gold-like fine pollen (14)</l>

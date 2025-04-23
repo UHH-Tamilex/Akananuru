@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN149.1-kilavi">
-          <p type="edition">talaimakaṉ ṟaṉṉeñciṟkuc collic celavaḻuṅkiyatu.</p>
-          <p type="translation" xml:lang="en">How HE prevented going by speaking to his heart.</p>
+        <div rend="parallel">
+          <p xml:id="AN149.1-kilavi">talaimakaṉ ṟaṉṉeñciṟkuc collic celavaḻuṅkiyatu.</p>
+          <p xml:lang="en">How HE prevented going by speaking to his heart.</p>
         </div>
-        <div xml:id="AN149.1">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN149.1">
               <l>ciṟupuṉ citalai cēṇmuyaṉ ṟeṭutta</l>
               <l>neṭuñcem puṟṟat toṭuṅkirai muṉaiyi<supplied>ṟ</supplied></l>
               <l>pulvarai yiruppait toḷḷai vāṉpūp</l>
@@ -53,7 +53,7 @@
               <l>teti<supplied>r</supplied>malarp piṇaiya laṉṉaviva</l>
               <l>ḷarimatar maḻaikkaṇ ṭēṉpaṉi koḷavē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Even if, going the long way of thorn-apple trees, (5a-c)</l>
                 <l>where, when fed up with the prey contained in the tall red ant hill (2)</l>
                 <l>raised with effort [visible from] the distance by the little, lowly ants, (1)</l>

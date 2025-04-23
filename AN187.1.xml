@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN187.1-kilavi">
-          <p type="edition"><app><lem>pirivuṇarttiya tōḻikkut talaimakaḷ colliyatu</lem><rdg wit="#C2 #C3 #C9v">talaimakaṉ piriviṉkaṭ ṭalaimakaṭkut tōḻi collitu</rdg><rdg wit="#RK">talaimakaṉ piriviṉkaṭ ṭalaimakaṭkut tōḻi colliyatūumām</rdg></app>.</p>
-          <p type="translation" xml:lang="en">What SHE said to the confidante who informed [her] of the separation.</p>
+        <div rend="parallel">
+          <p xml:id="AN187.1-kilavi"><app><lem>pirivuṇarttiya tōḻikkut talaimakaḷ colliyatu</lem><rdg wit="#C2 #C3 #C9v">talaimakaṉ piriviṉkaṭ ṭalaimakaṭkut tōḻi collitu</rdg><rdg wit="#RK">talaimakaṉ piriviṉkaṭ ṭalaimakaṭkut tōḻi colliyatūumām</rdg></app>.</p>
+          <p xml:lang="en">What SHE said to the confidante who informed [her] of the separation.</p>
         </div>
-        <div xml:id="AN187.1">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN187.1">
         <l>koḷpulam pakalat tuñci nammoṭu</l>
         <l>nāḷpala nīṭiya karantuṟai puṇarcci</l>
         <l>nāṇuṭai maiyi ṉīṅki cēynāṭ</l>
@@ -58,7 +58,7 @@
         <l>vai<supplied>ku</supplied>kaṭa lampiyiṟ ṟōṉṟu</l>
         <l>maipaṭu māmalai vilaṅkiya curaṉē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>When, after having slept with us so that the loneliness, that gripped [us], departed, (1)</l>
         <l>he leaves, because of having [a sense of] shame, (3a-c)</l>
         <l>the secret union that had extended over many days, (2)</l>

@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN193.2-kilavi">
-          <p type="edition">poruḷvalitta talaimaka ṉeñciṟkuc collic celavaḻuṅkiyatu.</p>
-          <p type="translation" xml:lang="en">How HE prevented going by speaking to [his] heart that coveted wealth.</p>
+        <div rend="parallel">
+          <p xml:id="AN193.2-kilavi">poruḷvalitta talaimaka ṉeñciṟkuc collic celavaḻuṅkiyatu.</p>
+          <p xml:lang="en">How HE prevented going by speaking to [his] heart that coveted wealth.</p>
         </div>
-        <div xml:id="AN193.2">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN193.2">
         <l>kāṉuyar maruṅkiṟ kavalai yallatu</l>
         <l>vāṉam vēṇṭā villē ruḻavar</l>
         <l>perunāḷ vēṭṭaṅ kiḷaiyeḻa vāytta</l>
@@ -48,7 +48,7 @@
         <l>muruntēr muṟuva liḷaiyōḷ</l>
         <l>peruntō ḷiṉṟuyil kaiviṭu kalaṉē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>Easy for us indeed are the deserts, (11a-c)</l>
         <l>where the old jackal with ancient hunger becomes full on the food (10)</l>
         <l>of meat pieces with eyes of fat that slipped in haste from the beaks (9)</l>

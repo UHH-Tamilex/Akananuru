@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN124.2-kilavi">
-          <p type="edition">talaimakaṉ ṟērppākaṟkuraittatu.</p>
-          <p type="translation" xml:lang="en">What HE said to driver of [his] chariot.</p>
+        <div rend="parallel">
+          <p xml:id="AN124.2-kilavi">talaimakaṉ ṟērppākaṟkuraittatu.</p>
+          <p xml:lang="en">What HE said to driver of [his] chariot.</p>
         </div>
-        <div xml:id="AN124.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN124.2">
                 <l>naṉkalaṅ kaḷiṟṟoṭu naṇṇā rēnti</l>
                 <l>vantutiṟai koṭuttu vaṇaṅkiṉar vaḻimoḻintu</l>
                 <l>ceṉṟī keṉpa vāyiṉ vēntaṉu</l>
@@ -50,7 +50,7 @@
                 <l>yaramiya viyalakat tiyampu</l>
                 <l>niṟainilai ñāyi ṉeṭumati lūrē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>When, after talking about the way the foes had bowed, having come</l>
                 <l>offering good ornaments along with elephant bulls, paying tribute, (1f.)</l>
                 <l>they say “you may go”, the king’s (3)</l>

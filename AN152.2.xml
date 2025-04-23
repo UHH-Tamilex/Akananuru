@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN152.2-kilavi">
-          <p type="edition">iravukkuṟi vantunīṅkun talaimakaṉ taṉ neñciṟkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">What he who left after having come for a night tryst said to his heart.</p>
+        <div rend="parallel">
+          <p xml:id="AN152.2-kilavi">iravukkuṟi vantunīṅkun talaimakaṉ taṉ neñciṟkuc colliyatu.</p>
+          <p xml:lang="en">What he who left after having come for a night tryst said to his heart.</p>
         </div>
-        <div xml:id="AN152.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN152.2">
               <l>neñcunaṭuṅ karumpaṭar tīra vantu</l>
               <l>kuṉṟuḻai naṇṇiya cīṟū rāṅkaṭ</l>
               <l>celīiya peyarvōḷ vaṇarcuri yaimpā</l>
@@ -58,7 +58,7 @@
               <l>vēyamaik kaṇṇiṭai puraiyac</l>
               <l>cēya vāyiṉu naṭuṅkutuyar tarumē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>The [hair] waving [and] winding in five parts</l>
                 <l>of her, who came to end the difficult affliction [my] heart was shivering with</l>
                 <l rend="indent8">[and] turned to go back</l>

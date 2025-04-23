@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN191.1-kilavi">
-          <p type="edition">talaimakaṉ ṟaṉṉeñciṟkuc collic celavaḻuṅkiyatu.</p>
-          <p type="translation" xml:lang="en">How HE prevented going by speaking to his heart.</p>
+        <div rend="parallel">
+          <p xml:id="AN191.1-kilavi">talaimakaṉ ṟaṉṉeñciṟkuc collic celavaḻuṅkiyatu.</p>
+          <p xml:lang="en">How HE prevented going by speaking to his heart.</p>
         </div>
-        <div xml:id="AN191.1">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN191.1">
         <l>attap pātirit tuyttalaip putuvī</l>
         <l>yeriyita ḻalariyō ṭiṭaipaṭa viraii</l>
         <l>vaṇṭōṭṭut toṭutta paṇpeṭu kaṇṇi</l>
@@ -51,7 +51,7 @@
         <l>loli<supplied>yi</supplied>ruṅ kūntal cēṟumeṉa</l>
         <l>valiya kūṟavum vallaiyō maṟṟē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>On the long way in the sun, (10cd)</l>
         <l>where the curved bells that ring on the perfect oxen (7a-c)</l>
         <l>with flawless sturdy legs that climbed the difficult desert, (6)</l>

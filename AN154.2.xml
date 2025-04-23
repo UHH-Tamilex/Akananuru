@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN154.2-kilavi">
-          <p type="edition">viṉaimuṟṟiya talaimakaṉ ṟērpākaṟkuc colliyatu.</p>
-          <p type="translation" xml:lang="en"/>
+        <div rend="parallel">
+          <p xml:id="AN154.2-kilavi">viṉaimuṟṟiya talaimakaṉ ṟērpākaṟkuc colliyatu.</p>
+          <p xml:lang="en"/>
         </div>
-        <div xml:id="AN154.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN154.2">
               <l>paṭumaḻai poḻinta payamiku puṟavi</l>
               <l>ṉeṭunī ravala pakuvāyt tērai</l>
               <l>ciṟupal liyatti ṉeṭuneṟik kaṟaṅkak</l>
@@ -49,7 +49,7 @@
               <l>namvayiṟ parinta koḷkai</l>
               <l>yammā varivaiyait tuṉṉukam viraintē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>In the woodlands abounding in yield, inundated by falling rain (1)</l>
                 <l>as split-mouthed frogs in a hollow of stagnant water (2)</l>
                 <l>resound on the long paths like many small instruments, (3)</l>

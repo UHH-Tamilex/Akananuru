@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN145.1-kilavi">
-          <p type="edition">makaṭpōkkiya cevilittāy colliyatu.</p>
-          <p type="translation" xml:lang="en">What the foster mother said who had let [her] daughter go.</p>
+        <div rend="parallel">
+          <p xml:id="AN145.1-kilavi">makaṭpōkkiya cevilittāy colliyatu.</p>
+          <p xml:lang="en">What the foster mother said who had let [her] daughter go.</p>
         </div>
-        <div xml:id="AN145.1">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN145.1">
               <l>vērmuḻu tulaṟi niṉṟa puḻaṟkāṟ</l>
               <l>ṟērmaṇi <supplied>yi</supplied>caiyiṟ ciḷvī ṭārkkum</l>
               <l>vaṟṟaṉ maratta poṟṟalai yō<supplied>ti</supplied></l>
@@ -56,7 +56,7 @@
               <l>meṉakkurit teṉṉā ṇiṉṟave</l>
               <l>ṉamarkkaṇ maññaiyai yalaitta kaiyē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>She alone with him on a road devoid of men, (6)</l>
                 <l>in the wide wilderness of Ñemai trees, (5cd)</l>
                 <l>where the golden-headed lizard on the desiccated tree, (3)</l>

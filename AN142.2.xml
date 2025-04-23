@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN142.2-kilavi">
-          <p type="edition">iravukkuṟi vantu nīṅkun talaimakaṉ taṉ neñciṟkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">What HE who left having come from the night tryst said to his heart.</p>
+        <div rend="parallel">
+          <p xml:id="AN142.2-kilavi">iravukkuṟi vantu nīṅkun talaimakaṉ taṉ neñciṟkuc colliyatu.</p>
+          <p xml:lang="en">What HE who left having come from the night tryst said to his heart.</p>
         </div>
-        <div xml:id="AN142.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN142.2">
               <l>ilamala raṉṉa vañcen nāviṟ</l>
             <l>pulamīk kūṟum puraiyō rēttap</l>
             <l>palarmēn tōṉṟiya kavikai vaḷḷal</l>
@@ -60,7 +60,7 @@
             <l>toṭikkaṇ vaṭuppaṭa muyaṅkiṉaḷ</l>
             <l>vaṭippuṟu narampiṟ ṟivviya moḻintē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Like the ornaments taken by supplicants (6a-c)</l>
                 <l>who had gone singing to Māntaram Poṟaiyaṉ (5)</l>
                 <l>Kaṭumkō, of victorious battles, with an army difficult to restrain, (4)</l>

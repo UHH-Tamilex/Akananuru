@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Akanaṉūṟu</title> 146.2. 
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
@@ -30,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN146.2-kilavi">
-          <p type="edition">vāyil vēṇṭic ceṉṟa pāṇaṉukkut talaimakaḷ vāyiṉ maṟuttatu.</p>
-          <p type="translation" xml:lang="en">How SHE refused the door to the bard who came, desirous of the door.</p>
+        <div rend="parallel">
+          <p xml:id="AN146.2-kilavi">vāyil vēṇṭic ceṉṟa pāṇaṉukkut talaimakaḷ vāyiṉ maṟuttatu.</p>
+          <p xml:lang="en">How SHE refused the door to the bard who came, desirous of the door.</p>
         </div>
-        <div xml:id="AN146.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN146.2">
               <l>valimiku muṉpi ṉaṇṇa ṉallēṟu</l>
               <l>paṉimalarp poykaip pakalcela maṟuki</l>
               <l>maṭakka ṇerumai māṉāku taḻīip</l>
@@ -50,7 +47,7 @@
               <l>tāyamu mayalu maruḷat</l>
               <l>tāyōm pāynalam vēṇṭā tōḷē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>The man from the bustling village, (5ab)</l>
                 <l>where the majestic good bull with strength surpassing strength (1)</l>
                 <l>roams the pond with dewy blossom, while the day goes, (2)</l>

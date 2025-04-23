@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN161-kilavi">
-          <p type="edition"><app><lem>pirivuṇarttiya tōḻi talaimakaḷatu vēṟupāṭu kaṇṭu muṉṉamē uṇarntāḷ niṉcelaveṉṟu celavuvilakkiyatu</lem><rdg wit="#C7">niṉcelavu muṉṉamē yuṇarntāḷ namperumāṭṭiyeṉṟu talaimakaṉaic celavuvilakkiyatu</rdg></app>.</p>
-          <p type="translation" xml:lang="en">How the confidante whom [HE] informed of the separation, upon seeing the changes in HER hindered [his] going by saying “even before she has understood your going”.</p>
+        <div rend="parallel">
+          <p xml:id="AN161-kilavi"><app><lem>pirivuṇarttiya tōḻi talaimakaḷatu vēṟupāṭu kaṇṭu muṉṉamē uṇarntāḷ niṉcelaveṉṟu celavuvilakkiyatu</lem><rdg wit="#C7">niṉcelavu muṉṉamē yuṇarntāḷ namperumāṭṭiyeṉṟu talaimakaṉaic celavuvilakkiyatu</rdg></app>.</p>
+          <p xml:lang="en">How the confidante whom [HE] informed of the separation, upon seeing the changes in HER hindered [his] going by saying “even before she has understood your going”.</p>
         </div>
-        <div xml:id="AN161">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN161">
         <l>viṉaivayiṟ pirital yāvatu vaṇarcuri</l>
         <l>va<supplied>ṭi</supplied>yāp pittai vaṉka ṇāṭava</l>
         <l>raṭiyamai pakaḻi vāra vāṅki</l>
@@ -48,7 +48,7 @@
         <l>nalvara liḷamulai naṉaiyap</l>
         <l>pallita ḻuṇkaṇ parantaṉa paṉiyē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>Parting for the sake of wealth, what is that? (1a-c)</l>
         <l>That you would consider to traverse [the desert], (8a-c)</l>
         <l>making a fortune, crossing the frightening forest, (7)</l>

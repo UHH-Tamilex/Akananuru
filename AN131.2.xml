@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN131.2-kilavi">
-          <p type="edition">poruḷkaṭaikkūṭṭiya neñciṟkut talaimakaṉ colliyatu.</p>
-          <p type="translation" xml:lang="en">What HE said to [his] heart that was coveting wealth.</p>
+        <div rend="parallel">
+          <p xml:id="AN131.2-kilavi">poruḷkaṭaikkūṭṭiya neñciṟkut talaimakaṉ colliyatu.</p>
+          <p xml:lang="en">What HE said to [his] heart that was coveting wealth.</p>
         </div>
-        <div xml:id="AN131.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN131.2">
                 <l>vicumpuṟa nivanta māttā ḷīkaip</l>
                 <l>pacuṅkēḻ mellilai yarukuneṟit taṉṉa</l>
                 <l>vaṇṭupaṭu piruḷiya tāḻiruṅ kūntaṟ</l>
@@ -49,7 +49,7 @@
                 <l>varuka veṉṉuti yāyiṉ</l>
                 <l>vārē ṉeñcam vāykkaniṉ viṉaiyē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Saying “giving is more important to us than the one (5)</l>
                 <l>with a big cool garland that unfolded so that bees eat [nectar from it],</l>
                 <l>on [her] hanging dark tresses that become dark as bees descend [on it], (3f.)</l>

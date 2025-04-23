@@ -27,16 +27,16 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN141.2-kilavi">
-          <p type="edition">piriviṭai yāṟṟāḷeṉak kavaṉṟa tōḻikkuk kiḻatti colliyatu.
+        <div rend="parallel">
+          <p xml:id="AN141.2-kilavi">piriviṭai yāṟṟāḷeṉak kavaṉṟa tōḻikkuk kiḻatti colliyatu.
             aṟumīṉeṉṟa turōkaṇimīṉ.</p>
-          <p type="translation" xml:lang="en">
+          <p xml:lang="en">
             <l>1. What SHE said to the confidante who was anxious she would not have the strength in the time of separation.</l>
             <l>2. What SHE said to the confidante who was anxious she would not have the strength.</l>
             </p>
         </div>
-        <div xml:id="AN141.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN141.2">
                 <l>amma vāḻi tōḻi kaimmikak</l>
                 <l>kaṉavuṅ kaṅku <supplied>lē</supplied>tiṟōṉṟi naṉavum</l>
                 <l>puṉaiviṉai nalliṟ puḷḷum pāṅkiṉa</l>
@@ -67,7 +67,7 @@
                 <l>tēṅkamaḻ neṭuvaraip piṟaṅkiya</l>
                 <l>vēṅkaṭa veṟpiṟ curamiṟan tōrē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Alas, oh friend. While at night</l>
                 <l>[my] dreams appear very strange and when awake the birds</l>
                 <l>are close to the good house of artful work[manship], (1-3)</l>

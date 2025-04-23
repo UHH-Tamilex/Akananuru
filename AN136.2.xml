@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN136.2-kilavi">
-          <p type="edition">uṇarppuvayiṉ vārāvūṭaṟkaṇ talaimakaṉ taṉ neñciṟkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">What HE said to his heart during a quarrel before regaining mental clarity.</p>
+        <div rend="parallel">
+          <p xml:id="AN136.2-kilavi">uṇarppuvayiṉ vārāvūṭaṟkaṇ talaimakaṉ taṉ neñciṟkuc colliyatu.</p>
+          <p xml:lang="en">What HE said to his heart during a quarrel before regaining mental clarity.</p>
         </div>
-        <div xml:id="AN136.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN136.2">
                 <l>maippuṟap puḻukki ṉeykkaṉi veṇcōṟu</l>
                 <l>varaiyā vaṇmaiyoṭu puraiyōrp pēṇip</l>
                 <l>puḷḷuppuṇarn tiṉiya vākit teḷḷoḷi</l>
@@ -63,7 +63,7 @@
                 <l>curumpimi rāymalar vēynta</l>
                 <l>virumpal kūnta liruṇmaṟai yoḷittē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Honouring great people with an unbound liberality</l>
                 <l>of white rice on which ghee melted with meat from the back of a goat, (1f.)</l>
                 <l>as birds are auspicious in uniting, during the flawless union</l>

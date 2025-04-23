@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN151.1-kilavi">
-          <p type="edition">talaimaka<supplied>ṉ</supplied> piriviṉkaṇ vēṟupaṭṭa talaimakaḷ collitu.</p>
-          <p type="translation" xml:lang="en">What SHE said who had undergone changes during the separation from HIM.</p>
+        <div rend="parallel">
+          <p xml:id="AN151.1-kilavi">talaimaka<supplied>ṉ</supplied> piriviṉkaṇ vēṟupaṭṭa talaimakaḷ collitu.</p>
+          <p xml:lang="en">What SHE said who had undergone changes during the separation from HIM.</p>
         </div>
-        <div xml:id="AN151.1">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN151.1">
               <l>tan<supplied>na</supplied>yan tuṟaivōrk kāṅkit tāyatayak</l>
               <l>kiṉṉamar kēḷiṉarō ṭēmuṟa keḻīi</l>
               <l>nakuta lāṟṟār <supplied>nal</supplied>kūrn tōreṉa</l>
@@ -49,7 +49,7 @@
               <l>maṇipeyart taṉṉa teṇkuraṟ</l>
               <l>kaṇivāyp palliya kāṭiṟan tōrē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Because of this pervasive perplexion there of him who keeps loving them, (1)</l>
                 <l>saying “those who are poor cannot smile, (3)</l>
                 <l>united to have pleasure with [their] kin whose beauty is pleasing!”, (2)</l>

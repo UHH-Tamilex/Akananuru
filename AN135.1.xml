@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN135.1-kilavi">
-          <p type="edition"><app><lem>piriviṉkaṇ</lem><rdg wit="#C7 #RK">talaimakaṉ piriviṉkaṇ</rdg></app> vēṟupaṭṭa talaimaka ṭōḻikkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">What SHE, who had undergone changes during the separation, said to the confidante.</p>
+        <div rend="parallel">
+          <p xml:id="AN135.1-kilavi"><app><lem>piriviṉkaṇ</lem><rdg wit="#C7 #RK">talaimakaṉ piriviṉkaṇ</rdg></app> vēṟupaṭṭa talaimaka ṭōḻikkuc colliyatu.</p>
+          <p xml:lang="en">What SHE, who had undergone changes during the separation, said to the confidante.</p>
         </div>
-        <div xml:id="AN135.1">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN135.1">
                 <l>titalai māmai taḷirvaṉap paḻukaip</l>
                 <l>putalivar pīri ṉetirmalar kaṭuppap</l>
                 <l>pacalai pāynta nutalē ṉāki</l>
@@ -48,7 +48,7 @@
                 <l>kaḻuvuḷ kāmukar pōlak</l>
                 <l>kalakkiṉṟu mātavart teḷintave ṉeñcē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Being one with a forehead where pallor has spread</l>
                 <l>so as to resemble the future blossoms of the sponge-gourd, creeping over bushes,</l>
                 <l>[pallor that is a] lament for [my] beauty spots, dark complexion [and] sprout[-like] beauty, (1-3)</l>

@@ -27,13 +27,13 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN125.2-kilavi">
-          <p type="edition"><app><lem wit="#C2 #C3 #C7v #C9v">talaimakaṉ viṉaimuṟṟi mīṇṭamai tōḻi yuṇartta talaimakaḷ colliyatu.</lem></app></p>
-          <p type="translation" xml:lang="en">What SHE, whom the confidante had informed that HE was returning 
+        <div rend="parallel">
+          <p xml:id="AN125.2-kilavi"><app><lem wit="#C2 #C3 #C7v #C9v">talaimakaṉ viṉaimuṟṟi mīṇṭamai tōḻi yuṇartta talaimakaḷ colliyatu.</lem></app></p>
+          <p xml:lang="en">What SHE, whom the confidante had informed that HE was returning 
             after finishing [his] work, said.</p>
         </div>
-        <div xml:id="AN125.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN125.2">
               <l>arampō ḻavvaḷai tōṇilai ñekiḻa</l>
               <l>nirampā vāḻkkai nērtal vēṇṭi</l>
               <l>yiraṅkā ḻaṉṉa varumpumuti rīṅkai</l>
@@ -57,7 +57,7 @@
               <l>pīṭiṉ maṉṉar pōla</l>
               <l>vōṭuvai maṉṉāl vāṭainī yemakkē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>At midnight when dew keeps falling, (11)</l>
                 <l>having to accept a living that is not full (2)</l>
                 <l>while the file-crossed pretty bangles become loose from [their] position on the upper arm, (1)</l>

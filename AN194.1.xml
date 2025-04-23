@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN194.1-kilavi">
-          <p type="edition">paruvaṅ kaṇṭu <app><lem>āṟṟāḷāy</lem><rdg wit="#C2 #C3 #C7 #C9v #RK">āṟṟāmai mītūrat</rdg></app> talaimakaḷ colliyatu.</p>
-          <p type="translation" xml:lang="en">What SHE said when being unable to bear it upon seeing the season.</p>
+        <div rend="parallel">
+          <p xml:id="AN194.1-kilavi">paruvaṅ kaṇṭu <app><lem>āṟṟāḷāy</lem><rdg wit="#C2 #C3 #C7 #C9v #RK">āṟṟāmai mītūrat</rdg></app> talaimakaḷ colliyatu.</p>
+          <p xml:lang="en">What SHE said when being unable to bear it upon seeing the season.</p>
         </div>
-        <div xml:id="AN194.1">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN194.1">
         <l>pēruṟai talaiip perumpular vaikaṟai</l>
         <l>yēriṭam paṭutta virumaṟup pūḻip</l>
         <l>puṟamāṟu peṟṟa pūva <supplied>lī</supplied>rat</l>
@@ -53,7 +53,7 @@
         <l>viriyuḷai naṉmā <supplied>ka</supplied>ṭaii</l>
         <l>varutu meṉṟa<supplied>var</supplied> teḷitta pōḻtē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>It [is] the rainy season indeed, friend, [my] friend, (16a-c)</l>
         <l>when they call out, so that shouts fall like from women chasing parakeets, (15)</l>
         <l>perched on the bent branches of the lime tree with strong leaves (14)</l>

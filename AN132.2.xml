@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN132.2-kilavi">
-          <p type="edition">tōḻitalaimakaḷai iṭattuyttu vantatalaimakaṉai etirppaṭṭu niṉṟuvaraivu kaṭāyatu.</p>
-          <p type="translation" xml:lang="en"/>
+        <div rend="parallel">
+          <p xml:id="AN132.2-kilavi">tōḻitalaimakaḷai iṭattuyttu vantatalaimakaṉai etirppaṭṭu niṉṟuvaraivu kaṭāyatu.</p>
+          <p xml:lang="en"/>
         </div>
-        <div xml:id="AN132.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN132.2">
                 <l>ēṉalu miṟaṅ<supplied>ku</supplied>kura liṟuttaṉa nōymalin</l>
                 <l>tāykaviṉ ṟolaintaviva ṇutalu nōkki</l>
                 <l>yētilaṉ moḻiyumiv vūru mātaliṟ</l>
@@ -48,7 +48,7 @@
                 <l>yiruṅkavuṭ kaṭāaṅ kaṉavum</l>
                 <l>peruṅkal vēlinum muṟaivi ṉūrkkē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Because the millet has let down [its] bending ears,</l>
                 <l>and because, with a look at the forehead of her that has lost [its] choice beauty,</l> 
                 <l>pain being increasing, this village speaks of a stranger, (1-3)</l>

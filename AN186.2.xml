@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN186.2-kilavi">
-          <p type="edition">talaimakaṭkup pāṅkāyiṉāra kēṭpa illiṭaip parattai colliyatu.</p>
-          <p type="translation" xml:lang="en">What the other woman in the house said so that those close to HER would hear.</p>
+        <div rend="parallel">
+          <p xml:id="AN186.2-kilavi">talaimakaṭkup pāṅkāyiṉāra kēṭpa illiṭaip parattai colliyatu.</p>
+          <p xml:lang="en">What the other woman in the house said so that those close to HER would hear.</p>
         </div>
-        <div xml:id="AN186.2">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN186.2">
         <l>vāṉam vēṇṭā vaṟaṉil vāḻkkai</l>
         <l>nōṉñāṇ viṉaiñar kōḷaṟin tīrkku</l>
         <l>mīṉmuti rilañcik kalitta tāmarai</l>
@@ -54,7 +54,7 @@
         <l>tirunutal pacappa nīṅkuṅ</l>
         <l>koḻunaṉuñ cāluntaṉ ṉuṭaṉuṟai pakaiyē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>Great, ah, is the intimacy that has risen (7a-c)</l>
         <l rend="indent8">with the man from a village, (6d)</l>
         <l>where the wide leaves on the long stalks that have come up above the water (4)</l>

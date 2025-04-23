@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN160-kilavi">
-          <p type="edition">tōḻi varaivu malintu colliyatu.</p>
-          <p type="translation" xml:lang="en">What the confidante said when rejoicing in the marriage.</p>
+        <div rend="parallel">
+          <p xml:id="AN160-kilavi">tōḻi varaivu malintu colliyatu.</p>
+          <p xml:lang="en">What the confidante said when rejoicing in the marriage.</p>
         </div>
-        <div xml:id="AN160">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN160">
               <l>oṭuṅkī rōti niṉakku maṟṟō</l>
               <l>naṭuṅkiṉ ṟaḷitte ṉiṟaiyi ṉeñca</l>
               <l>maṭumpukoṭi citaiya vāṅkik koṭuṅkaḻik</l>
@@ -52,7 +52,7 @@
               <l>yaravac cīṟūr kāṇap</l>
               <l>pakalvan taṉṟāṟ pāypari ciṟantē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>O you with oil-soothed hair, [is] it thus for you too? (1)</l>
                 <l>My overfull heart has started to shiver, pitiable. (2)</l>
                 <l>The man from the coast with shore groves, where the split-mouthed husband</l>

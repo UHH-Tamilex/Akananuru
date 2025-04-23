@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN140.1-kilavi">
-          <p type="edition">iyaṟkkaip puṇarcci <app><lem>puṇarntu</lem><rdg wit="#C3">/</rdg></app> nīṅkun talaimakaṉ pāṅkaṟku <app><lem>uraittaitu</lem><rdg wit="#NL #C3 #C5 #G1 #G2">colliyatu</rdg></app>.</p>
-          <p type="translation" xml:lang="en">What HE who left after having consumed the natural union said to [his] companion.</p>
+        <div rend="parallel">
+          <p xml:id="AN140.1-kilavi">iyaṟkkaip puṇarcci <app><lem>puṇarntu</lem><rdg wit="#C3">/</rdg></app> nīṅkun talaimakaṉ pāṅkaṟku <app><lem>uraittaitu</lem><rdg wit="#NL #C3 #C5 #G1 #G2">colliyatu</rdg></app>.</p>
+          <p xml:lang="en">What HE who left after having consumed the natural union said to [his] companion.</p>
         </div>
-        <div xml:id="AN140.1">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN140.1">
               <l>peruṅkaṭal vēṭṭattuc ciṟukuṭip paratava</l>
               <l>riruṅkaḻic ceṟu<supplied>vi</supplied> ṉuḻātu ceyta</l>
               <l>veṇka luppiṉ koḷḷai cāṟṟi</l>
@@ -49,7 +49,7 @@
               <l>naiyūṇ pakaṭṭiṉ varunti</l>
               <l>veyya vuyirkku nōyā kiṉṟē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>When the beloved daughter of the salt-merchants with crushed, ruined staffs, (5)</l>
                 <l>who go through the hills cleft by the sun,</l>
                 <l>announcing the price for the salt in white lumps,</l>

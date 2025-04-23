@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN127.1-kilavi">
-          <p type="edition"><app><lem>talaimakaḷait</lem><rdg wit="#C2 #C3 #C7 #C9v">piriviṭaiyāṟṟāḷākiya talaimakaḷait</rdg></app> tōḻi vaṟpuṟuttiyatu.</p>
-          <p type="translation" xml:lang="en">How the confidante encouraged HER.</p>
+        <div rend="parallel">
+          <p xml:id="AN127.1-kilavi"><app><lem>talaimakaḷait</lem><rdg wit="#C2 #C3 #C7 #C9v">piriviṭaiyāṟṟāḷākiya talaimakaḷait</rdg></app> tōḻi vaṟpuṟuttiyatu.</p>
+          <p xml:lang="en">How the confidante encouraged HER.</p>
         </div>
-        <div xml:id="AN127.1">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN127.1">
                 <l>ilaṅkuvaḷai nekiḻac cāa ya<supplied>l</supplied>kaluṅ</l>
                 <l>kalaṅkaña ruḻantu nāmiva ṇoḻiya</l>
                 <l>valampaṭu muraciṟ cēra lātaṉ</l>
@@ -52,7 +52,7 @@
                 <l>moḻipeyar tētta rāyiṉum</l>
                 <l>paḻitīr kātalar ceṉṟa nāṭṭē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>While we stay behind here, becoming emaciated so that</l>
                 <l>[our] shining bangles come loose, bearing upsetting grief all night, (1f.)</l>
                 <l>even if he were to obtain [wealth] one day, one midday (11)</l>

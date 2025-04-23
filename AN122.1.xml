@@ -27,17 +27,17 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN122.1-kilavi1">
-          <p type="edition">talaimakaṉ <app><lem>ciṟaippuṟattāṉākat</lem><rdg wit="#C1 #C6 #NL">ciṟaippulittāṉākat</rdg></app> tōḻikkut colluvāḷāyt talaimakaḷ <app><lem>colliyatu</lem><rdg wit="#C7v #RK">coṟṟatu</rdg></app>.</p>
-          <p type="translation">What SHE said as one speaking to the confidante when HE was behind the hedge.</p>
+        <div rend="parallel">
+          <p xml:id="AN122.1-kilavi1">talaimakaṉ <app><lem>ciṟaippuṟattāṉākat</lem><rdg wit="#C1 #C6 #NL">ciṟaippulittāṉākat</rdg></app> tōḻikkut colluvāḷāyt talaimakaḷ <app><lem>colliyatu</lem><rdg wit="#C7v #RK">coṟṟatu</rdg></app>.</p>
+          <p>What SHE said as one speaking to the confidante when HE was behind the hedge.</p>
         </div>
-        <div xml:id="AN122.1-kilavi2">
-          <p type="edition"><app><lem wit="#C7 #RK">tōḻi colleṭuppat talaimakaḷ colliyatūumāma.</lem></app></p>
-          <p type="translation">It is also what SHE said when the confidante took up the word. This song is night tryst.</p>
+        <div rend="parallel">
+          <p xml:id="AN122.1-kilavi2"><app><lem wit="#C7 #RK">tōḻi colleṭuppat talaimakaḷ colliyatūumāma.</lem></app></p>
+          <p>It is also what SHE said when the confidante took up the word. This song is night tryst.</p>
         </div>
         
-        <div xml:id="AN122.1">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN122.1">
                 <l>irumpiḻi makāriv vaḻuṅkaṉ mūtūr</l>
                 <l>viḻaviṉ ṟāyiṉun tuñcā tāku</l>
                 <l>malla lāvaṇa maṟukuṭaṉ maṭiyiṉ</l>
@@ -63,7 +63,7 @@
                 <l>kaṉmutir puṟaṅkāṭ ṭaṉṉa</l>
                 <l>paṉmuṭ ṭeṉṟāṟ ṟōḻinaṅ kaḷavē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Even when there is no festival, this noisy old town</l> 
                 <l>of the sons of dark toddy will not sleep.</l>
                 <l>Even when it dozes off, with its rich market streets,</l>

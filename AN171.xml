@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN171-kilavi">
-          <p type="edition">talaimakaṉ piriviṉkaṇ vēṟupaṭṭa talaimakaḷait tōḻi <app><lem>vaṟpuṟuttiyatu</lem><rdg wit="#RK">vaṟpuṟīiyatu</rdg></app>.</p>
-          <p type="translation" xml:lang="en">How the confidante consoled HER who had undergone changes during the separation from HIM.</p>
+        <div rend="parallel">
+          <p xml:id="AN171-kilavi">talaimakaṉ piriviṉkaṇ vēṟupaṭṭa talaimakaḷait tōḻi <app><lem>vaṟpuṟuttiyatu</lem><rdg wit="#RK">vaṟpuṟīiyatu</rdg></app>.</p>
+          <p xml:lang="en">How the confidante consoled HER who had undergone changes during the separation from HIM.</p>
         </div>
-        <div xml:id="AN171">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN171">
         <l>nutalu nuṇpacap <supplied>pi</supplied>varun tōḷu</l>
         <l>makaṉmalai yiṟumpi ṉāyntukoṇ ṭaṟutta</l>
         <l>paṇaiyeḻi laḻiya vāṭu nāḷu</l>
@@ -49,7 +49,7 @@
         <l>karuṅkōṭ ṭiruppai yūrum</l>
         <l>peruṅkai yeṇkiṉ curaṉiṟan tōrē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>“Fine pallor creeps over [my] forehead and [my] shoulders (1)</l>
         <l>fade so that [their] grace of bamboo, hand-picked and cut</l>
         <l>from the thicket on the vast mountain, perishes. Do I not</l>

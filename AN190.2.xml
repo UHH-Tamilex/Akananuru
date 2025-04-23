@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN190.2-kilavi">
-          <p type="edition">tōḻi cevilittāyk kaṟattoṭu niṉṟatu.</p>
-          <p type="translation" xml:lang="en">How the confidante stood firm in duty to the foster mother.</p>
+        <div rend="parallel">
+          <p xml:id="AN190.2-kilavi">tōḻi cevilittāyk kaṟattoṭu niṉṟatu.</p>
+          <p xml:lang="en">How the confidante stood firm in duty to the foster mother.</p>
         </div>
-        <div xml:id="AN190.2">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN190.2">
         <l>tiraiyuḻan tacaiiya niraivaḷai yāyamō</l>
         <l>ṭuppiṉ kuppai yēṟi yeṟpaṭa</l>
         <l>varutimi leṇṇun tuṟaivaṉō ṭūrē</l>
@@ -51,7 +51,7 @@
         <l>yāynta pariyaṉ vantivaṇ</l>
         <l>māṉṟa mālaic cērntaṉṟō vilaṉē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>Because of the man from the ghat, (3c)</l>
         <l>where they, as night falls, alongside the girl companions with bangles in rows</l>
         <l>who had rested after bearing the waves, mount the heaps of salt (1f.)</l>

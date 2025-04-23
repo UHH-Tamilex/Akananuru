@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN177.2-kilavi">
-          <p type="edition">piriviṭai vēṟupaṭṭa talaimakaḷait tōḻi vaṟpuṟīiyatu.</p>
-          <p type="translation" xml:lang="en">How the confidante consoled HER who had undergone changes in the time of separation.</p>
+        <div rend="parallel">
+          <p xml:id="AN177.2-kilavi">piriviṭai vēṟupaṭṭa talaimakaḷait tōḻi vaṟpuṟīiyatu.</p>
+          <p xml:lang="en">How the confidante consoled HER who had undergone changes in the time of separation.</p>
         </div>
-        <div xml:id="AN177.2">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN177.2">
         <l>toṉṉalañ citaiyac cā<supplied>a</supplied> yalkalu</l>
         <l>miṉṉum vārā riṉiyevaṉ ceykeṉap</l>
         <l>perumpulam puṟuta lōmpumati ciṟuka</l>
@@ -54,7 +54,7 @@
         <l>vaṇaṅkuṭai vaṉamulait tāayaniṉ</l>
         <l>cuṇaṅkiṭai varitta toyyilai niṉaintē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>“Exhausted so that [my] old beauty is spoiled, all night, (1)</l>
         <l>even now he does not come. Now, what will I do?”, saying so, (2)</l>
         <l>beware of feeling great loneliness! (3a-c)</l>

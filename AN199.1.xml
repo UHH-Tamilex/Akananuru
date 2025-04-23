@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN199.1-kilavi">
-          <p type="edition">poruḷkaṭaikkūṭṭiya neñciṟkut talaimakaṉ colliyatu.</p>
-          <p type="translation" xml:lang="en">What HE said to [his] heart that had secured wealth.</p>
+        <div rend="parallel">
+          <p xml:id="AN199.1-kilavi">poruḷkaṭaikkūṭṭiya neñciṟkut talaimakaṉ colliyatu.</p>
+          <p xml:lang="en">What HE said to [his] heart that had secured wealth.</p>
         </div>
-        <div xml:id="AN199.1">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN199.1">
         <l>karaipāy veṇṭirai kaṭuppap palavuṭa</l>
         <l>ṉiraikā loṟṟaliṟ kalcēr putirum</l>
         <l>varaicēr marāat tūḻalar peyalcet</l>
@@ -58,7 +58,7 @@
         <l>liḻanta nāṭutan taṉṉa</l>
         <l>vaḷamperitu peṟiṉum vārale ṉiyāṉē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>You have the right to go, heart, (16a-c)</l>
         <l>as restlessly [your] eager mind urges [you] (15)</l>
         <l>that says “our going will be good if we go, (14)</l>

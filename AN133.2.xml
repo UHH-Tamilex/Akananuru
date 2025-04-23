@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN133.2-kilavi">
-          <p type="edition">piriviṭai yāṟṟāḷeṉak kavaṉṟa tōḻikkut talaimaka ḷāṟṟumeṉpatupaṭac colliyatu.</p>
-          <p type="translation" xml:lang="en"/><!-- no translation of kilavi is given, but kilavi is not the same as 133.1 -->
+        <div rend="parallel">
+          <p xml:id="AN133.2-kilavi">piriviṭai yāṟṟāḷeṉak kavaṉṟa tōḻikkut talaimaka ḷāṟṟumeṉpatupaṭac colliyatu.</p>
+          <p xml:lang="en"/><!-- no translation of kilavi is given, but kilavi is not the same as 133.1 -->
         </div>
-        <div xml:id="AN133.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN133.2">
               <l>kuṉṟi yaṉṉa kaṇṇa kurūumayir</l>
               <l>puṉṟāḷ veḷḷeli mōvā yēṟṟai</l>
               <l>cemparaṉ murampiṟ citarnta pūḻi</l>
@@ -54,7 +52,7 @@
               <l>varimaraṟ kaṟikku maṭappiṇait</l>
               <l>tirimarup piralaiya kāṭiṟan tōrē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>“By the side of the small mound in the dry-land field in the clearing, (7)</l>
                 <l>where young clouds, like cotton cast with a bow(?), cast over</l>
                 <l>the woodland of intertwined fresh bushes in the rainy season, (5f.)</l>

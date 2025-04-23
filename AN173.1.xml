@@ -27,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN173.1-kilavi">
-          <p type="edition">talaimakaṉ piriviṉkaṇ vēṟupaṭṭa talaimakaḷait tōḻi <app><lem>vaṟpuṟuttiyatu</lem><rdg wit="#C2 #C3 #C9v">vaṟpuṟīiyatu</rdg></app>.</p>
-          <p type="translation" xml:lang="en">How the confidante consoled HER who had undergone changes during the separation from HIM.</p>
+        <div rend="parallel">
+          <p xml:id="AN173.1-kilavi">talaimakaṉ piriviṉkaṇ vēṟupaṭṭa talaimakaḷait tōḻi <app><lem>vaṟpuṟuttiyatu</lem><rdg wit="#C2 #C3 #C9v">vaṟpuṟīiyatu</rdg></app>.</p>
+          <p xml:lang="en">How the confidante consoled HER who had undergone changes during the separation from HIM.</p>
         </div>
-        <div xml:id="AN173.1">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="AN173.1">
         <l>aṟantalai piriyā toḻukaluñ ciṟanta</l>
         <l>kēḷir kēṭupala vūṉṟalu nāḷum</l>
         <l><supplied>va</supplied>runtā vuḷḷamō ṭiruntōrk killeṉac</l>
@@ -52,7 +52,7 @@
         <l>viṇporu neṭuvaraik kavā<supplied>a</supplied>ṟ</l>
         <l>poṉpaṭu maruṅkiṉ malaiyiṟan tōrē.</l>
       </lg>
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
         <l>He with a heart that desires work to be done, (4)</l>
         <l>thinking “Both conducting oneself without parting from virtue</l>
         <l>and to be depended upon in many adversities by exulted relatives</l>
