@@ -33,7 +33,7 @@
     <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63]</expan>
     <witness xml:id="C2v">
       <abbr type="siglum">C2v</abbr>
-      <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63, variant reading</expan>
+      <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63], variant reading</expan>
     </witness>
   </witness>
   <witness xml:id="C6" source="mss/C6.xml">
@@ -56,7 +56,7 @@
       <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], correction</expan>
     </witness>
 </witness>
-<witness xml:id="C7" source="mss/C7.xml">
+<witness xml:id="C7" source="">
   <abbr type="siglum">C7</abbr>
   <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v]</expan>
   <witness xml:id="C7v">
