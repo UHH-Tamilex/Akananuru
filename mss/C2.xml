@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><term xml:lang="ta">Akanāṉūṟu</term>  </title>
+            
+         <editor><persName>Abhirami Prakasan</persName><orgName>University of Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>U. V. Swaminatha Iyer Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">UVSL 28</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary> palm-leaf manuscript from UVSL [28] 157 folios  </summary>
+                  
+               <msItem xml:id="C2" defective="true" class="#cankam"><title xml:lang="ta">Akanāṉūṟu</title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="157"/>
+                           <dimensions type="object" unit="mm">
+                              <width quantity="415"/>
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              <height quantity="45"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><condition>Good condition, apart from a few broken leaves and some worm-holes.</condition></supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="5"> European page numbers in black (1–314).  Very thin and uneven with curling margins.</layout>
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="major" script="tamil" scriptRef="#tamilPulliNone" medium="incised"><desc>Traditional script without puḷḷi-s or distinction between e/ē, o/ō, ā/ra, old characters for the ṟ series, ṭa with elongated horizontal stroke.</desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p> Scriptio  continua, traditional order giving poem, kiḷavi, author and  number.  Scribal errors are comparatively few, but especially  the first and last lines on the page are often hard to decipher;  many blank spaces, in length between akṣara-s and several cīr.   </p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+</TEI>

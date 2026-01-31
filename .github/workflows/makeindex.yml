@@ -30,6 +30,7 @@ jobs:
           yarn pageindex AN Akanāṉūṟu
           yarn todb AN
           yarn dbtohtml Akanāṉūṟu
+          cd ../..
           git pull
 
       - uses: stefanzweifel/git-auto-commit-action@v4

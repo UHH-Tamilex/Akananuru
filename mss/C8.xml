@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><term xml:lang="ta">Akanāṉūṟu</term> </title>
+            
+         <editor><persName>Abhirami Prakasan</persName><orgName>University of Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>U. V. Swaminatha Iyer Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">UVSL 6/68</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>Paper manuscript from the UVSL [6/68] 182 pages  </summary>
+                  
+               <msItem xml:id="C8" defective="false"><title xml:lang="ta">Akanāṉūṟu</title><textLang mainLang="tam"/><colophon xml:lang="ta">Traditional colophon (p. 181f.)</colophon></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="182"/>
+                           <dimensions type="object" unit="mm">
+                              <width quantity="210"/>
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              <height quantity="170"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="26">European pages numbers in red added on every other page. Tamil page numbers, scriptio continua,poems written on both sides and shining through</layout>
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" scriptRef="#tamilPulliNone" medium="ink"><desc>Traditional script without vowel marks or puḷḷi-s, but modern ṟ seriesPoems written on both sides and shining through, irregular script in black, rarely notes in pencil between the lines.</desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>This ms. must have been laminated some  30 years ago and is by now so brown as to be virtually  illegible.  Note on last page (same red pen): checked by N. Srinivasan, 2 8-70.   </p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+</TEI>

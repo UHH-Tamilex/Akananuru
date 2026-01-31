@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 <?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
 <?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+=======
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+>>>>>>> 0ed03cc9bf67315361a0f92cb8746db8a3a66177
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -353,11 +357,16 @@
 </entry>
 <entry>
 <form>nakā<c type="geminated">p</c></form>
+<<<<<<< HEAD
 <def>smiled</def>
 <form type="sandhi">ṉakā<c type="geminated">p</c></form>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
+=======
+<def>smile-</def>
+<form type="sandhi">ṉakā<c type="geminated">p</c></form>
+>>>>>>> 0ed03cc9bf67315361a0f92cb8746db8a3a66177
 </entry>
 <entry>
 <form>piḻaitta</form>

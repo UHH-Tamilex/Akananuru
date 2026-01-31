@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><term xml:lang="ta">Akanāṉūṟu</term>  </title>
+            
+         <editor><persName>Abhirami Prakasan</persName><orgName>University of Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Government Oriental Manuscript Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">GOML R. 5736</idno>
+                  <idno type="alternate"><idno>TR.1052</idno></idno>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary> paper manuscript from the GOML [R.5736/TR.1052]  </summary>
+                  
+               <msItem xml:id="G3" defective="true" class="#cankam"><title xml:lang="ta">Akanāṉūṟu</title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="baad">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="218">written on both sides</measure>
+                           <dimensions type="object" unit="mm">
+                              <width quantity="190"/>
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              <height quantity="330"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><condition>Brittle and now laminated</condition></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout>European page numbers</layout></layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" medium="ink black"><desc>Modern script with full marking. Regular hand (on yellowish lined paper in thick black ink). </desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian">According to the  unanimous judgement of the late EFEO pandits T.V. Gopal  Iyer and T.S. Gangadharan it is, however, not old, but might  go back to the late 19th or early 20th century.  </origDate>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>KV–36 + urai (often blank  spaces for the poem text), tiṇai, poems with full split of lines  and cīr (if not blank), kiḷavi, author, commentary.  The urai  gives an extensive paraphrase in prose which for some of the  poems takes up several pages.  The paraphrase is rounded up  by additional comments and parallels.  This commentary is not  identical with any of the printed ones.  
+Donated by the Bhavanandam Academy in  1955/56.  [Possibly a copy from a manuscript mentioned in the  correction colophon to C5 as belonging to one Tañcāvūr  Ulakanātapiḷḷai.]   </p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+</TEI>

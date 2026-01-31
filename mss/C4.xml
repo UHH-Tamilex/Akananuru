@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> <term xml:lang="ta">Akanāṉūṟu</term>  </title>
+            
+         <editor><persName>Abhirami Prakasan</persName><orgName>University of Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>U. V. Swaminatha Iyer Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">UVSL297</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary> Palm-leaf manuscript from UVSL [297] 29 folios   </summary>
+                  
+               <msItem xml:id="C4" defective="false" class="#cankam"><title xml:lang="ta">Akanāṉūṟu</title><textLang mainLang="tam"/><colophon xml:lang="ta"> neṭuntokai ‡‡‡[to]ṇṇūṟu pāṭṭukk’ urai ~eḻuti muṭintatu  
+[grantha] dēvī sahāyam</colophon></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="29"/>
+                           <dimensions type="object" unit="mm">
+                              <width quantity="400"/>
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              <height quantity="30"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><condition>Old and brittle(possibly the second oldest after C4a)</condition></supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="11">European page numbers 1-56; 49–50 blank.  left third margin eaten away, partly up to one third of the leaf.</layout>
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil"><desc>Traditional script. </desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Old commentary on  KV–90 (quotation of first cīr followed by commentary);  misnumbered (p. 1–3 fragment of an alphabetical word list,  named akarāti on p. 1; p. 4–48: AN 7.12–p. 48: AN 90;  p. 53f.: AN KV–2; p. 51f.+55f.: AN 2 end–AN 7.8.   
+Contains a number of readings unattested in other manuscripts  and followed by Irākavaiyaṅkār.  </p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+</TEI>

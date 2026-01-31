@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Akanaṉūṟu</title> 158.2. 
-            <persName xml:lang="ta"></persName>
-        </title>     
+            <title xml:lang="ta">Akanāṉūṟu</title> 158.2. 
+            <persName xml:lang="ta"/>
+        </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,9 +13,9 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
-          </msContents>    
+          </msContents>
         </msDesc>
         <!--listWit n="1"></listWit>
         <listWit n="2"></listWit-->
@@ -30,12 +27,12 @@
   <text xml:lang="ta" type="edition">
     <body>
 
-        <div xml:id="AN158.2-kilavi">
-          <p type="edition">talaimakaṉ ciṟaippuṟattāṉākat tōḻi cevilikkuc colluvāḷāyc colliyatu.</p>
-          <p type="translation" xml:lang="en"></p>
+        <div rend="parallel">
+          <p xml:id="AN158.2-kilavi">talaimakaṉ ciṟaippuṟattāṉākat tōḻi cevilikkuc colluvāḷāyc colliyatu.</p>
+          <p xml:lang="en"/>
         </div>
-        <div xml:id="AN158.2">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="AN158.2">
               <l>urumuraṟu karuviya perumaḻai talaiip</l>
               <l>peyalāṉ ṟavinta tūṅki<supplied>ru ṇaṭunā</supplied>ṇ</l>
               <l>miṉṉunimi<supplied>r</supplied>n taṉṉa kaṉaṅkuḻai yimaippap</l>
@@ -47,8 +44,8 @@
               <l>tāmvēṇ ṭuruvi ṉaṇaṅkumār varumeṉa</l>
               HALF OF THE POEM IS MISSING FROM MANUSCRIPTS (placeholder for the rest)
             </lg>
-            <lg type="translation" xml:lang="en">
-                <l></l>
+            <lg xml:lang="en">
+                <l/>
             </lg>
         </div>
     </body>

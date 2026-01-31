@@ -6,9 +6,9 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Akanaṉūṟu</title> NUMBER. 
+            <title xml:lang="ta">Akanāṉūṟu</title> NUMBER. 
             <persName xml:lang="ta"></persName>
-        </title>     
+        </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -18,7 +18,7 @@
            <msContents>
             <summary><p></p>
             </summary>
-          </msContents>    
+          </msContents>
         </msDesc>
         <!--listWit n="1"></listWit>
         <listWit n="2"></listWit-->
@@ -31,7 +31,14 @@
     <body>
 
         <div xml:id="ANNUMBER-kilavi">
-          <p type="edition"></p>
+          <p type="edition">
+          <app>
+          <lem wit="#A #B #C">[lemma, which is attested in witnesses A, B, and C]</lem>[lemma]
+          </lem>
+          <rdg wit="#A #B #C">[variant reading for witnesses A, B, and C]
+          </rdg>
+          </app>
+          </p>
           <p type="translation" xml:lang="en"></p>
         </div>
         <div xml:id="ANNUMBER">
@@ -51,6 +58,9 @@
 If there are alternative translations:
 <choice><seg></seg>			<seg></seg></choice>
 
+<lg type="alternate" sameAs="linenumberpart">
+    <l></l></lg>
+
 For surplus notes (like (Brahmā) in Kali01):
 <entry>     
   <form>TAMIL WORDSPLIT</form>
@@ -59,3 +69,15 @@ For surplus notes (like (Brahmā) in Kali01):
 </entry>
 
 If there are lines starting with an indent: <l rend="indent4"></l> number shows how big is the indent
+
+If there are text parts missing:
+<gap reason="lost" unit="character" quantity="XX"/>
+XX is the number of Tamil characters (guesstimate)
+add note in Word for check in the MSS!
+
+short copy-paste for apparatus
+<app><lem></lem><rdg wit="# # #"></rdg></app>
+or if there is no alternative reading given, only the lemma is attested in some of the sources
+<app><lem wit="# # #"></lem></app>
+or if there is both lemma alternatives and reading alternatives:
+<app><lem wit="# # #"></lem><rdg wit="# # #"></rdg></app>
