@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> NUMBER. 
+            <persName xml:lang="ta"></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="ANNUMBER-kilavi">
+          <p type="edition">
+          <app>
+          <lem wit="#A #B #C">[lemma, which is attested in witnesses A, B, and C]</lem>[lemma]
+          </lem>
+          <rdg wit="#A #B #C">[variant reading for witnesses A, B, and C]
+          </rdg>
+          </app>
+          </p>
+          <p type="translation" xml:lang="en"></p>
+        </div>
+        <div xml:id="ANNUMBER">
+      <lg type="edition">
+        COPY EDITION TEXT HERE
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l></l>
+      </lg>
+        </div>
+    </body>
+  </text>
+<standOff>
+</standOff>
+</TEI>
+
+If there are alternative translations:
+<choice><seg></seg>			<seg></seg></choice>
+
+<lg type="alternate" sameAs="linenumberpart">
+    <l></l></lg>
+
+For surplus notes (like (Brahmā) in Kali01):
+<entry>     
+  <form>TAMIL WORDSPLIT</form>
+  <def>ENGLISH TRANSLATION</def>
+  <note>NOTE</note>
+</entry>
+
+If there are lines starting with an indent: <l rend="indent4"></l> number shows how big is the indent
+
+If there are text parts missing:
+<gap reason="lost" unit="character" quantity="XX"/>
+XX is the number of Tamil characters (guesstimate)
+add note in Word for check in the MSS!
+
+short copy-paste for apparatus
+<app><lem></lem><rdg wit="# # #"></rdg></app>
+or if there is no alternative reading given, only the lemma is attested in some of the sources
+<app><lem wit="# # #"></lem></app>
+or if there is both lemma alternatives and reading alternatives:
+<app><lem wit="# # #"></lem><rdg wit="# # #"></rdg></app>

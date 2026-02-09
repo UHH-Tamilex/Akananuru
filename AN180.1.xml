@@ -1,0 +1,463 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> 180.1. 
+            <persName xml:lang="ta"/>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div rend="parallel">
+          <p xml:id="AN180.1-kilavi1"><app><lem>irantu</lem><rdg wit="#C5 #G1 #G2">/</rdg></app> piṉṉiṉṟa talaimakaṟkuk kuṟainērnta tōḻi <app><lem>talaimakaḷaik</lem><rdg wit="#NL #C5 #C7 #G1 #G2">talaimakaṭkuk</rdg></app> kuṟainayappak kūṟiyatu.</p>
+          <p xml:lang="en">What the confidante, who had granted the request of HIM who had stood behind [her] begging, said to HER so that she would agree to the request.</p>
+        </div>
+        <div rend="parallel"> 
+          <p xml:id="AN180.1-kilavi2"><app><lem>talaimakaṉ ciṟaippuṟattāṉākat tōḻikkuc colliyatūumām.</lem><rdg wit="#NL #C5 #G1 #G2">missing</rdg></app></p> <!-- Is 'missing' the same as '/'? -->
+          <p xml:lang="en">What the confidante said when HE was behind the hedge.</p>
+        </div>
+
+        <div rend="parallel">
+      <lg xml:id="AN180.1">
+        <l>nakainaṉi yuṭaittāṟ ṟōḻi takaimikak</l>
+        <l>kōtai yāyamoṭu kuvavumaṇa lēṟi</l>
+        <l><supplied>vī</supplied>tatai kāṉal vaṇṭa layarak</l>
+        <l>kataḻparit tiṇṭēr kaṭaii vantu</l>
+        <l><supplied>ta</supplied>ṇkayat tamaṉṟa voṇpūṅ kuvaḷai</l>
+        <l>yarumpalait tiyaṟṟiya curumpār kaṇṇi</l>
+        <l>piṉṉup<supplied>puṟa</supplied>n tāḻak koḷaṉē cūṭṭi</l>
+        <l>nalvara liḷamulai nōkki neṭituniṉaintu</l>
+        <l>nillātu peyarntaṉa ṉoruva ṉataṟkē</l>
+        <l>pulavunā ṟiruṅkaḻi tuḻaiip palavuṭaṉ</l>
+        <l>pu<supplied>ḷ</supplied>ḷiṟai koṇṭa muḷḷuṭai neṭuntōṭṭut</l>
+        <l>tāḻai maṇantu ñāḻaloṭu keḻīip</l>
+        <l>paṭappai niṉṟa muṭa<supplied>ttā</supplied>ṭ puṉṉaip</l>
+        <l>poṉṉēr nuṇṭātu nōkki</l>
+        <l>yeṉṉu nōkkumiv vaḻuṅka lūrē.</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>It is full of laughter indeed, friend, (1a-c)</l>
+        <l>– this noisy village that looks at me too, (15)</l>
+        <l>looking at the gold-like fine pollen (14)</l>
+        <l>of the Puṉṉai tree with a crooked trunk that stands in the garden, (13)</l>
+        <l>joined with the Ñāḻal tree, united with the screwpine tree (12)</l>
+        <l>with thorny long blades on which birds have taken [their] seat, (11)</l>
+        <l>many together, after having stirred the fish-reeking dark backwaters. (10)</l>
+        <l rend="indent8">Befittingly, (1d)</l>
+        <l>when [I] mounted the heaped sand with [my] garlanded companions, (1)</l>
+        <l>[and] was engaged in play in the seashore grove full of blossoms, (2)</l>
+        <l>someone came, driving [his] firm chariot in hasty motion, (9c+4)</l>
+        <l>adorned [me] – without taking [my permission!] – while [my] braids were hanging down [my] back, (7)</l>
+        <l>with a chaplet full of bees, that had been made by moving the buds (6)</l>
+        <l>of the bright-flowered blue waterlily thickly grown in the cool pond, (5)</l>
+        <l>looked at [my] young breasts that are coming out well, thought long (8)</l>
+        <l>[and] moved back without staying – therefore. (9)</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#AN180.1">
+<interp type="alignment" select="0">119MG25MG6MG14MG28MG70M2G10MG131MG2MR18MG2M,435MG</interp>
+<entry>
+<form>nakai</form>
+<def>smile</def>
+</entry>
+<entry>
+<form>naṉi</form>
+<def>abundant</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>uṭaittāl</form>
+<def>possess-it</def>
+<form type="sandhi"><c type="glide">y</c>uṭaittāṟ</form>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<form type="sandhi">ṟōḻi</form>
+</entry>
+<entry>
+<form>takai</form>
+<def>fitting</def>
+</entry>
+<entry>
+<form>mika<c type="geminated">k</c></form>
+<def>be-much</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōtai</form>
+<def>garland</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>āyamoṭu</form>
+<def>attendant</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuvavu</form>
+<def>heap</def>
+</entry>
+<entry>
+<form>maṇal</form>
+<def>sand</def>
+</entry>
+<entry>
+<form>ēṟi</form>
+<def>mounted</def>
+</entry>
+<entry>
+<form>vī</form>
+<def>blossom</def>
+</entry>
+<entry>
+<form>tatai</form>
+<def>be-full-</def>
+</entry>
+<entry>
+<form>kāṉal</form>
+<def>seashore-grove</def>
+</entry>
+<entry>
+<form>vaṇṭal</form>
+<def>play</def>
+</entry>
+<entry>
+<form>ayara<c type="geminated">k</c></form>
+<def>immerse</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kataḻ</form>
+<def>hasten-</def>
+</entry>
+<entry>
+<form>pari<c type="geminated">t</c></form>
+<def>motion</def>
+</entry>
+<entry>
+<form>tiṇ</form>
+<def>firm</def>
+</entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+<form type="sandhi">ṭēr</form>
+</entry>
+<entry>
+<form>kaṭaii</form>
+<def>urged</def>
+</entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+</entry>
+<entry>
+<form>kayatt<c type="elided">u</c></form>
+<def>pond-</def>
+<form type="sandhi">kayatt</form>
+</entry>
+<entry>
+<form>amaṉṟa</form>
+<def>been-thickly-grown-</def>
+</entry>
+<entry>
+<form><c type="glide">v</c>oḷ</form>
+<def>bright</def>
+<form type="sandhi"><c type="glide">v</c>oṇ</form>
+</entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+<form type="sandhi">pūṅ</form>
+</entry>
+<entry>
+<form>kuvaḷai</form>
+<def>blue-waterlily</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>arump<c type="elided">u</c></form>
+<def>bud</def>
+<form type="sandhi"><c type="glide">y</c>arump</form>
+</entry>
+<entry>
+<form>alaitt<c type="elided">u</c></form>
+<def>moved</def>
+<form type="sandhi">alaitt</form>
+</entry>
+<entry>
+<form>iyaṟṟiya</form>
+<def>effected-</def>
+</entry>
+<entry>
+<form>curump<c type="elided">u</c></form>
+<def>bee</def>
+<form type="sandhi">curump</form>
+</entry>
+<entry>
+<form>ār</form>
+<def>become-full-</def>
+</entry>
+<entry>
+<form>kaṇṇi</form>
+<def>chaplet</def>
+</entry>
+<entry>
+<form>piṉṉu<c type="geminated">p</c></form>
+<def>braid</def>
+</entry>
+<entry>
+<form>puṟam</form>
+<def>back</def>
+<form type="sandhi">puṟan</form>
+</entry>
+<entry>
+<form>tāḻa<c type="geminated">k</c></form>
+<def>hang</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷaṉ-ē</form>
+<def>take-not-he</def>
+<form type="simple">koḷaṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>cūṭṭi</form>
+<def>adorned</def>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+</entry>
+<entry>
+<form>varal</form>
+<def>coming</def>
+</entry>
+<entry>
+<form>iḷa</form>
+<def>young</def>
+</entry>
+<entry>
+<form>mulai</form>
+<def>breast</def>
+</entry>
+<entry>
+<form>nōkki</form>
+<def>looked</def>
+</entry>
+<entry>
+<form>neṭitu</form>
+<def>long-it</def>
+</entry>
+<entry>
+<form>niṉaintu</form>
+<def>thought</def>
+</entry>
+<entry>
+<form>nillātu</form>
+<def>stand-not</def>
+</entry>
+<entry>
+<form>peyarntaṉaṉ</form>
+<def>he-moved</def>
+</entry>
+<entry>
+<form>oruvaṉ</form>
+<def>one-he</def>
+</entry>
+<entry>
+<form>ataṟk<c type="elided">u</c>-ē</form>
+<def>that</def>
+<form type="simple">ataṟku</form>
+<form type="sandhi">ataṟk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>pulavu</form>
+<def>fish-stench</def>
+</entry>
+<entry>
+<form>nāṟ<c type="elided">u</c></form>
+<def>be-fragrant-</def>
+<form type="sandhi">nāṟ</form>
+</entry>
+<entry>
+<form>irum</form>
+<def>big/dark</def>
+<form type="sandhi">iruṅ</form>
+</entry>
+<entry>
+<form>kaḻi</form>
+<def>backwaters</def>
+</entry>
+<entry>
+<form>tuḻaii<c type="geminated">p</c></form>
+<def>stirred</def>
+</entry>
+<entry>
+<form>pala</form>
+<def>many</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>uṭaṉ</form>
+<def>together</def>
+</entry>
+<entry>
+<form>puḷ</form>
+<def>bird</def>
+</entry>
+<entry>
+<form><c type="geminated">ḷ</c>iṟai</form>
+<def>seat</def>
+</entry>
+<entry>
+<form>koṇṭa</form>
+<def>taken-</def>
+</entry>
+<entry>
+<form>muḷ</form>
+<def>thorn-</def>
+</entry>
+<entry>
+<form><c type="geminated">ḷ</c>uṭai</form>
+<def>possess-</def>
+</entry>
+<entry>
+<form>neṭum</form>
+<def>long</def>
+<form type="sandhi">neṭun</form>
+</entry>
+<entry>
+<form>tōṭṭu<c type="geminated">t</c></form>
+<def>leaf</def>
+</entry>
+<entry>
+<form>tāḻai</form>
+<def>Tāḻai-tree</def>
+</entry>
+<entry>
+<form>maṇantu</form>
+<def>united</def>
+</entry>
+<entry>
+<form>ñāḻaloṭu</form>
+<def>Ñāḻal-tree</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>keḻīi<c type="geminated">p</c></form>
+<def>come-together</def>
+</entry>
+<entry>
+<form>paṭappai</form>
+<def>garden</def>
+</entry>
+<entry>
+<form>niṉṟa</form>
+<def>stood-</def>
+</entry>
+<entry>
+<form>muṭa<c type="geminated">t</c></form>
+<def>bent</def>
+</entry>
+<entry>
+<form>tāḷ</form>
+<def>leg</def>
+<form type="sandhi">tāṭ</form>
+</entry>
+<entry>
+<form>puṉṉai<c type="geminated">p</c></form>
+<def>Puṉṉai-tree</def>
+</entry>
+<entry>
+<form>poṉ</form>
+<def>gold</def>
+</entry>
+<entry>
+<form>nēr</form>
+<def>resemble-</def>
+<form type="sandhi">ṉēr</form>
+</entry>
+<entry>
+<form>nuṇ</form>
+<def>fine</def>
+</entry>
+<entry>
+<form>tātu</form>
+<def>pollen</def>
+<form type="sandhi">ṭātu</form>
+</entry>
+<entry>
+<form>nōkki</form>
+<def>looked</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉ-<c type="geminated">ṉ</c>um</form>
+<def>me-</def>
+<form type="simple">eṉ</form>
+<form type="sandhi"><c type="glide">y</c>eṉ</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>nōkkum</form>
+<def>looking-</def>
+</entry>
+<entry>
+<form>i<c type="geminated">v</c></form>
+<def>this-</def>
+</entry>
+<entry>
+<form><c type="glide">v</c>aḻuṅkal</form>
+<def>noise</def>
+</entry>
+<entry>
+<form>ūr-ē</form>
+<def>village</def>
+<form type="simple">ūr</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

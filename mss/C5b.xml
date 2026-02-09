@@ -1,0 +1,88 @@
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><term xml:lang="ta">Maṇimiṭaipavaḷam  </term> </title>
+            
+         <editor><persName>Abhirami Prakasan</persName><orgName>University of Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>U. V. Swaminatha Iyer Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">UVSL 8/70</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary> paper manuscript from the UVSL  </summary>
+                  
+               <msItem xml:id="C5b" defective="false" class="#cankam"><title xml:lang="ta">Maṇimiṭaipavaḷam   </title><textLang mainLang="tam"/><filiation><p>Traditional Colophon</p></filiation></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="225">One poem per right page, long poems continued on the following left page</measure>
+                           <dimensions type="object" unit="mm">
+                              <width quantity="270"/>
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              <height quantity="165"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><condition>Good condition and easy reading</condition></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout>European page numbers (mostly in print)</layout></layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" medium="ink black"><desc>The script is modern with full marking.</desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>The  matrix text was based on the misnumbered strand, but the  lacunae are filled up from other sources, and additionally this  highly legible and correct text contains some definitely  superior readings not attested elsewhere, most probably  emendations on the part of the compiler.  </p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+</TEI>

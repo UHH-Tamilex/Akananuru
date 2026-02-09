@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<listWit xmlns="http://www.tei-c.org/ns/1.0">
+  <witness xml:id="Ed">
+    <abbr>Ed</abbr>
+    <expan>Wilden edition</expan>
+  </witness>
+  <witness xml:id="C4" source="mss/C4.xml">
+    <abbr>C4</abbr>
+    <expan>palm-leaf manuscript from UVSL [297] fragment: old comm. on KV-90</expan>
+  </witness>
+  <witness xml:id="TT" source="mss/TT.xml">
+    <abbr>TT</abbr>
+    <expan>palm-leaf manuscript from <term xml:lang="ta">Tiruvāvaṭutuṟai</term> [no number] covering 299-400, except 336.19d-343.15c</expan>
+  </witness>
+  <witness xml:id="C1" source="mss/C1.xml">
+    <abbr>C1</abbr>
+    <expan>palm-leaf manuscript from the UVSL [1075] covering 3(kiḷ.)-400.22b, except 46.12c-50 between pp. 165 and 166; 123.14-128.7a between pp. 197 and 198, 336.19d-343.15c</expan>
+  </witness>
+  <witness xml:id="NL" source="mss/NL.xml">
+    <abbr>NL</abbr>
+    <expan>palm-leaf manuscript from the National Library in Kolkatta [3141/S.V.P. 91] complete, except 336.19d-343.15c [consulted to supplement the damaged C1]</expan>
+  </witness>
+  <witness xml:id="C3" source="mss/C3.xml">
+    <abbr>C3</abbr>
+    <expan>palm-leaf manuscript from the UVSL [107] KV-351.7; 158.10ff.-172 + 203.6-205.20d missing; page number 47/48 omitted; dated to 1727 [matrix for the Vaiṣṇava strand]</expan>
+    <witness xml:id="C3v">
+      <abbr>C3v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [107] KV-351.7; 158.10ff.-172 + 203.6-205.20d missing; page number 47/48 omitted; dated to 1727 [matrix for the Vaiṣṇava strand], variant reading</expan>
+    </witness>
+  </witness>
+  <witness xml:id="C2" source="mss/C2.xml">
+    <abbr>C2</abbr>
+    <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63]</expan>
+    <witness xml:id="C2v">
+      <abbr>C2v</abbr>
+      <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63], variant reading</expan>
+    </witness>
+  </witness>
+  <witness xml:id="C6" source="mss/C6.xml">
+    <abbr>C6</abbr>
+    <expan>paper manuscript from the UVSL [4/66] covering KV-400, except 336.19d-343.15c [consulted where C1 is damaged and NL illegible]</expan>
+  </witness>
+  <witness xml:id="C8" source="mss/C8.xml">
+    <abbr>C8</abbr>
+    <expan>paper manuscript from the UVSL [6/68] [illegible due to lamination]</expan>
+  </witness>
+  <witness xml:id="C9" source="mss/C9.xml">
+    <abbr>C9</abbr>
+    <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1]</expan>
+    <witness xml:id="C9v">
+      <abbr>C9v</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
+    </witness>
+    <witness xml:id="C9c">
+      <abbr>C9c</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], correction</expan>
+    </witness>
+</witness>
+<witness xml:id="C7" source="">
+  <abbr>C7</abbr>
+  <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v]</expan>
+  <witness xml:id="C7v">
+    <abbr>C7v</abbr>
+    <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v], variant reading</expan>
+  </witness>
+  <witness xml:id="C7c">
+    <abbr>C7c</abbr>
+    <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v], correction</expan>
+  </witness>
+</witness>
+<witness xml:id="G2" source="mss/G2.xml">
+  <abbr>G2</abbr>
+  <expan>paper manuscript from the GOML [R 5735/TR.1051] up to standard 325</expan>
+</witness>
+<witness xml:id="G1" source="mss/G1.xml">
+  <abbr>G1</abbr>
+  <expan>paper manuscript from the GOML [R 5734/TR.1050] complete, except 336.19d- 343.15c</expan>
+</witness>
+<witness xml:id="G3" source="mss/G3.xml">
+  <abbr>G3</abbr>
+  <expan>paper manuscript from the GOML [R 5736/TR.1052] 1-36 [containing a commentary but few of the poems]</expan>
+</witness>
+<witness xml:id="C5" source="">
+  <abbr>C5</abbr>
+  <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand]</expan>
+  <witness xml:id="C5v">
+    <abbr>C5v</abbr>
+    <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand], variant reading</expan>
+  </witness>
+  <witness xml:id="C5c">
+    <abbr>C5c</abbr>
+    <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand], correction</expan>
+  </witness>
+</witness>
+<witness xml:id="RK" source="">
+  <abbr>RK</abbr>
+  <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term>edition (1933?) [= rep. of the editio princeps 1920?]</expan>
+  <witness xml:id="RKv">
+    <abbr>RKv</abbr>
+    <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> edition (1933?) [= rep. of the editio princeps 1920?], variant reading</expan>
+  </witness>
+</witness>
+<witness xml:id="VP" source="">
+  <abbr>VP</abbr>
+  <expan><term xml:lang="ta">Vaiyāpurip Piḷḷai</term> edition (1940) reported when deviating</expan>
+</witness>
+<witness xml:id="SS" source="">
+  <abbr>SS</abbr>
+  <expan><term xml:lang="ta">Saiva Siddhānta = Kaḻakam</term> edition (1943, 1944, 1944) reported for Neytal when deviating</expan>
+  <witness xml:id="SSv">
+    <abbr>SSv</abbr>
+    <expan><term xml:lang="ta">Saiva Siddhānta = Kaḻakam</term> edition (1943, 1944, 1944) reported for Neytal when deviating, variant reading</expan>
+  </witness>
+</witness>
+<witness xml:id="ER" source="">
+  <abbr>ER</abbr>
+  <expan><term xml:lang="ta">Rājam</term> edition (1957) reported when deviating</expan>
+  <witness xml:id="ERv">
+    <abbr>ERv</abbr>
+    <expan><term xml:lang="ta">Rājam</term> edition (1957) reported when deviating, variant reading</expan>
+  </witness>
+  <witness xml:id="ERc">
+    <abbr>ERc</abbr>
+    <expan><term xml:lang="ta">Rājam</term> edition (1957) reported when deviating, correction</expan>
+  </witness>
+</witness>
+<witness xml:id="SAv" source="">
+  <abbr>SAv</abbr>
+  <expan>variants listed in the unpublished translation by <term xml:lang="ta">Cupiramaṇiya Aiyar</term> (1975)</expan>
+</witness>
+<witness xml:id="EC" source="">
+  <abbr>EC</abbr>
+  <expan><term xml:lang="ta">Cāminātaiyar</term> library edition by <term xml:lang="ta">Civacupiramaṇiyaṉ</term>  (1990)</expan>
+</witness>
+<witness xml:id="ECc">
+  <abbr>ECc</abbr>
+  <expan><term xml:lang="ta">Cāminātaiyar</term> library edition by <term xml:lang="ta">Civacupiramaṇiyaṉ</term>  (1990)</expan>
+</witness>
+ </listWit>

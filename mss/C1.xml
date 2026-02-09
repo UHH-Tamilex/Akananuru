@@ -1,0 +1,90 @@
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            
+            
+         <title><term xml:lang="ta">Eṭṭuttokai</term></title><editor><persName>Abhirami Prakasan</persName><orgName>University of Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>U. V. Swaminatha Iyer Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">UVSL 1075</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  
+                  
+               <summary> Palm-leaf manuscript from the UVSL [1075 = part of the serial  Eṭṭuttokai ms.] </summary><msItem xml:id="C1" defective="true" class="#cankam"><title xml:lang="ta"> Eṭṭuttokai   </title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="90"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              <width quantity="360"/>
+                              <height quantity="40"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><condition>worm eaten and partly crumbling margins, but very legible (hand changing on p. 160) 	</condition></supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="10">European page numbers in black (142–321); pada index in the margin</layout>
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="major" script="tamil" scriptRef="#tamilPulliNone" medium="incised"><desc>Traditional script without puḷḷi</desc></handNote></handDesc><typeDesc/><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p> Traditional script without puḷḷi-s or distinction between e/ē, o/ō, ā/ra, old characters for the ṟ series, scriptio continua, traditional order giving poem, kiḷavi, author and number.  
+3(kiḷavi)–400.22b(except AN 46.12c–50 (between p. 165/166)21, 123.14–128.7a(between p. 197/198), AN 336.19d–343.15c), misnumbered from 107 onwards, completed by [237] (p. 1) AN 400.22cd–26 with traditional colophon (followed by PN). 
+</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><term xml:lang="ta">Akanāṉūṟu</term></title>
+            
+         <editor><persName>Abhirami Prakasan</persName><orgName>University of Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Government Oriental Manuscript Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">GOML R.5735</idno>
+                  <idno type="alternate"><idno>Tr.1051</idno></idno>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary> paper manuscript from the GOML [R.5735/TR.1051]   </summary>
+                  
+               <msItem xml:id="G2" defective="true" class="#cankam"><title xml:lang="ta">Akanāṉūṟu</title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="278">Poems written on both sides separated by blank lines, from 144 onwards one poem per page</measure>
+                           <dimensions type="object" unit="mm">
+                              <width quantity="200"/>
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              <height quantity="320"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><condition>Brittle and now laminated</condition></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout> European page numbers</layout></layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" medium="ink"><desc>The writing seems to be in a transitional phase. Slightly flourished but regular hand (on yellowish lined paper in black ink). Occasional, but completely unreliable marking of e/ē, o/ō and ā/ra, most puḷḷi-s, though some of them in odd places, scriptio continua, cīr-s not marked, the sandhi treated as in G1.  </desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Poems followed by kiḷavi, author and Tamil number. Donated by the  Bhavanandam Academy in 1955/56 .   KV up to  standard 325; misnumbered from 107 onwards . Closely agreeing with the other mss. marked by an asterisk,  i.e. TT, NL, C1, C5, C6, G2 and sharing a number of new  mistakes and lacunae with C9 and G1; possibly a copy from  C9 before correction and adding a number of individual  mistakes and corrections.  </p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+</TEI>

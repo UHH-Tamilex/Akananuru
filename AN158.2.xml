@@ -1,0 +1,54 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> 158.2. 
+            <persName xml:lang="ta"/>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div rend="parallel">
+          <p xml:id="AN158.2-kilavi">talaimakaṉ ciṟaippuṟattāṉākat tōḻi cevilikkuc colluvāḷāyc colliyatu.</p>
+          <p xml:lang="en"/>
+        </div>
+        <div rend="parallel">
+            <lg xml:id="AN158.2">
+              <l>urumuraṟu karuviya perumaḻai talaiip</l>
+              <l>peyalāṉ ṟavinta tūṅki<supplied>ru ṇaṭunā</supplied>ṇ</l>
+              <l>miṉṉunimi<supplied>r</supplied>n taṉṉa kaṉaṅkuḻai yimaippap</l>
+              <l>piṉṉuviṭu neṟiyiṟ kiḷaiiya kūntalaḷ</l>
+              <l>varaiyiḻi mayili ṉolkuvaṉa ḷotuṅki</l>
+              <l>miṭaiyūr piḻiyak kaṇṭaṉe ṉivaḷeṉa</l>
+              <l>valaiyal vāḻivēṇ ṭaṉṉainam paṭappaic</l>
+              <l>cūruṭaic cilampiṟ cuṭarppū vēyntu</l>
+              <l>tāmvēṇ ṭuruvi ṉaṇaṅkumār varumeṉa</l>
+              HALF OF THE POEM IS MISSING FROM MANUSCRIPTS (placeholder for the rest)
+            </lg>
+            <lg xml:lang="en">
+                <l/>
+            </lg>
+        </div>
+    </body>
+  </text>
+HALF OF THE POEM IS MISSING FROM MANUSCRIPTS (placeholder for standOff)
+</TEI>

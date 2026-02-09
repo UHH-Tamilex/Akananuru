@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><term xml:lang="ta">Akanāṉūṟu</term>  </title>
+            
+         <editor><persName>Abhirami Prakasan</persName><orgName>University of Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>U. V. Swaminatha Iyer Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">UVSL 11/73</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary> paper manuscript from the UVSL [11/73] 798 pages(?)  </summary>
+                  
+               <msItem xml:id="C9" defective="true"><title xml:lang="ta">Akanāṉūṟu</title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="798">front cover missing, one poem per right page, notes (and occasionally poem ends) on left page</measure>
+                           <dimensions type="object" unit="mm">
+                              <width quantity="340"/>
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              <height quantity="230"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><condition>Very brittle, with some worm-holes, pages partly in tatters (photos with single pages and pieces)</condition></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout>European poem numbers in bright blue, author and poem number in Tamil in separate line.</layout></layoutDesc>
+                  </objectDesc><handDesc><handNote scope="major" script="tamil"><desc>Script in a transitional phase, occasional marking of e/ē, o/ō, ā/ra, some puḷḷi-s, mostly in additions and corrections, poems in scriptio continua without line break and cīr split, directly followed by kiḷavi. legible, regular script (on brownish lined paper in pencil or bluish or brownish ink, partly very faded; otherwise thick black ink), many variants between the lines, corrections and notes, in pencil, also on left pages (also in black, blue and bright blue), in several hands</desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Bears testimony to readings from both basic  strands (mostly TT, NL, C1+6, corrected by C2+3, but for  xxviii  Akanāṉūṟu  Maṇimiṭaipavaḷam partly the other way round) plus some  additional variations that might be quotations or conjectures.   </p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+</TEI>
