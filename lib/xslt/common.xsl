@@ -37,10 +37,24 @@
     </xsl:element>
 </xsl:template>
 
+<xsl:template match="x:trailer">
+    <xsl:element name="div">
+        <xsl:attribute name="class">trailer</xsl:attribute>
+        <xsl:apply-templates/>
+    </xsl:element>
+</xsl:template>
+
 <xsl:template name="p">
     <xsl:element name="p">
+        <xsl:if test="@xml:id">
+            <xsl:attribute name="id">
+                <xsl:value-of select="@xml:id"/>
+            </xsl:attribute>
+        </xsl:if>
         <xsl:if test="@corresp">
-            <xsl:attribute name="data-corresp"><xsl:value-of select="@corresp"/></xsl:attribute>
+            <xsl:attribute name="data-corresp">
+                <xsl:value-of select="translate(@corresp,'#','')"/>
+            </xsl:attribute>
         </xsl:if>
         <xsl:call-template name="lang"/>
         <xsl:apply-templates/>
@@ -98,9 +112,11 @@
 
 <xsl:template match="x:emph">
     <xsl:element name="em">
-        <xsl:attribute name="class">
-            <xsl:value-of select="@rend"/>
-        </xsl:attribute>
+        <xsl:if test="@rend">
+            <xsl:attribute name="class">
+                <xsl:value-of select="@rend"/>
+            </xsl:attribute>
+        </xsl:if>
         <xsl:call-template name="lang"/>
         <xsl:apply-templates/>
     </xsl:element>
@@ -109,8 +125,25 @@
 <xsl:template name="lg">
     <xsl:element name="div">
         <xsl:attribute name="class">lg</xsl:attribute>
+        <xsl:if test="@xml:id">
+            <xsl:attribute name="id">
+                <xsl:value-of select="@xml:id"/>
+            </xsl:attribute>
+        </xsl:if>
+        <xsl:if test="@n">
+            <xsl:attribute name="style">
+                <xsl:text>counter-reset: line-numb </xsl:text>
+                <xsl:value-of select="@n - 1"/>
+                <xsl:text>;</xsl:text>
+            </xsl:attribute>
+            <xsl:attribute name="data-offset">
+                <xsl:value-of select="@n mod 5"/>
+            </xsl:attribute>
+        </xsl:if>
         <xsl:if test="@corresp">
-            <xsl:attribute name="data-corresp"><xsl:value-of select="@corresp"/></xsl:attribute>
+            <xsl:attribute name="data-corresp">
+                <xsl:value-of select="translate(@corresp,'#','')"/>
+            </xsl:attribute>
         </xsl:if>
         <xsl:if test="@met">
             <xsl:attribute name="data-anno"><xsl:value-of select="@met"/></xsl:attribute>
@@ -123,11 +156,30 @@
     <xsl:call-template name="lg"/>
 </xsl:template>
 
-<xsl:template match="x:l">
+<!--xsl:template match="x:l">
     <xsl:element name="div">
         <xsl:call-template name="lang"/>
         <xsl:attribute name="class">l</xsl:attribute>
         <xsl:apply-templates/>
+    </xsl:element>
+</xsl:template-->
+
+<xsl:template match="x:l">
+    <xsl:element name="div">
+        <xsl:attribute name="class">
+            <xsl:text>l</xsl:text>
+            <xsl:if test="@rend">
+                <xsl:text> </xsl:text>
+                <xsl:value-of select="@rend"/>
+            </xsl:if>
+        </xsl:attribute>
+        <xsl:if test="@corresp">
+            <xsl:attribute name="data-corresp"><xsl:value-of select="@corresp"/></xsl:attribute>
+        </xsl:if>
+        <xsl:call-template name="lang"/>
+        <xsl:apply-templates/>
+        <xsl:text>
+</xsl:text>
     </xsl:element>
 </xsl:template>
 
@@ -139,4 +191,11 @@
     <xsl:apply-templates/>
 </xsl:template>
 
+<xsl:template match="x:label">
+    <xsl:element name="span">
+        <xsl:attribute name="class">label</xsl:attribute>
+        <xsl:call-template name="lang"/>
+        <xsl:apply-templates/>
+    </xsl:element>
+</xsl:template>
 </xsl:stylesheet>

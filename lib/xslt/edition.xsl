@@ -15,7 +15,6 @@
 <xsl:output method="html" encoding="UTF-8" omit-xml-declaration="yes" indent="no"/>
 
 <xsl:param name="root">./lib/</xsl:param>
-<xsl:param name="debugging">true</xsl:param>
 
 <xsl:template match="x:TEI">
     <xsl:call-template name="TEI"/>
@@ -62,40 +61,43 @@
             <xsl:attribute name="rel">stylesheet</xsl:attribute>
             <xsl:attribute name="href"><xsl:value-of select="$root"/>css/apparatus.css</xsl:attribute>
         </xsl:element>
-        <xsl:if test="$debugging = 'true'">
-            <xsl:element name="link">
-                <xsl:attribute name="rel">stylesheet</xsl:attribute>
-                <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/prism.css</xsl:attribute>
-            </xsl:element>
-            <xsl:element name="link">
-                <xsl:attribute name="rel">stylesheet</xsl:attribute>
-                <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/codemirror.css</xsl:attribute>
-            </xsl:element>
-        </xsl:if>
+        <xsl:element name="link">
+            <xsl:attribute name="rel">stylesheet</xsl:attribute>
+            <xsl:attribute name="href"><xsl:value-of select="$root"/>css/wordindex.css</xsl:attribute>
+        </xsl:element>
         <xsl:element name="link">
             <xsl:attribute name="rel">stylesheet</xsl:attribute>
             <xsl:attribute name="href"><xsl:value-of select="$root"/>css/edition.css</xsl:attribute>
         </xsl:element>
-        <xsl:if test="$debugging = 'true'">
-            <xsl:element name="link">
-                <xsl:attribute name="rel">stylesheet</xsl:attribute>
-                <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/debugging.css</xsl:attribute>
-            </xsl:element>
-            <!--xsl:element name="script">
-                <xsl:attribute name="src">debugging/papaparse.min.js</xsl:attribute>
-            </xsl:element-->
-            <xsl:element name="script">
-                <xsl:attribute name="src"><xsl:value-of select="$root"/>debugging/prism.js</xsl:attribute>
-                <xsl:attribute name="data-manual"/>
-            </xsl:element>
-        </xsl:if>
+        <xsl:element name="link">
+            <xsl:attribute name="rel">stylesheet</xsl:attribute>
+            <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/debugging.css</xsl:attribute>
+        </xsl:element>
+        <xsl:element name="link">
+            <xsl:attribute name="rel">stylesheet</xsl:attribute>
+            <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/codemirror.css</xsl:attribute>
+        </xsl:element>
+        <xsl:element name="link">
+            <xsl:attribute name="rel">stylesheet</xsl:attribute>
+            <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/lint.css</xsl:attribute>
+        </xsl:element>
+        <xsl:element name="link">
+            <xsl:attribute name="rel">stylesheet</xsl:attribute>
+            <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/show-hint.css</xsl:attribute>
+        </xsl:element>
+        <xsl:element name="link">
+            <xsl:attribute name="rel">stylesheet</xsl:attribute>
+            <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/prism.css</xsl:attribute>
+        </xsl:element>
+        <xsl:element name="script">
+            <xsl:attribute name="src"><xsl:value-of select="$root"/>debugging/prism.js</xsl:attribute>
+            <xsl:attribute name="data-manual"/>
+        </xsl:element>
         <xsl:element name="script">
             <xsl:attribute name="type">module</xsl:attribute>
             <xsl:attribute name="src"><xsl:value-of select="$root"/>js/edition.mjs</xsl:attribute>
             <xsl:attribute name="id">editionscript</xsl:attribute>
-            <xsl:if test="$debugging = 'true'">
-                <xsl:attribute name="data-debugging">true</xsl:attribute>
-            </xsl:if>
+            <xsl:attribute name="data-root"><xsl:value-of select="$root"/></xsl:attribute>
         </xsl:element>
     </xsl:element>
 </xsl:template>
@@ -110,14 +112,15 @@
                 <xsl:element name="div">
                     <xsl:choose>
                         <xsl:when test="x:facsimile/x:graphic">
-                            <xsl:attribute name="id">record-thin</xsl:attribute>
+                            <xsl:attribute name="class">record thin</xsl:attribute>
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:attribute name="id">record-fat</xsl:attribute>
+                            <xsl:attribute name="class">record fat</xsl:attribute>
                         </xsl:otherwise>
                     </xsl:choose>
                     <xsl:element name="div">
                         <xsl:attribute name="id">topbar</xsl:attribute>
+                        <div id="buttoncontainer">
                         <xsl:element name="div">
                             <xsl:attribute name="id">transbutton</xsl:attribute>
                             <xsl:attribute name="data-anno">change script</xsl:attribute>
@@ -130,19 +133,17 @@
 <svg id="metricalsvg" width="22" height="22" version="1.1" viewBox="0 0 17 17" xmlns="http://www.w3.org/2000/svg"><a><path d="m3.059 5.646-0.707 0.707 1.646 1.647h-3.772v1h3.772l-1.646 1.646 0.707 0.707 2.853-2.853zm4.941 11.354h1v-17h-1z"/></a><path d="m13.018 7.9969h3.772v1h-3.772l1.646 1.646-0.707 0.707-2.853-2.853 2.854-2.854 0.707 0.707z"/></svg>
                         </xsl:element>
                         <xsl:element name="div">
-                            <xsl:attribute name="id">wordspliteditbutton</xsl:attribute>
-                            <xsl:attribute name="data-anno">Edit word splits</xsl:attribute>
-<svg id="wordspliteditsvg" version="1.1" width="11" height="11" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-<path d="M77.926,94.924H8.217C6.441,94.924,5,93.484,5,91.706V21.997c0-1.777,1.441-3.217,3.217-3.217h34.854 c1.777,0,3.217,1.441,3.217,3.217s-1.441,3.217-3.217,3.217H11.435v63.275h63.274V56.851c0-1.777,1.441-3.217,3.217-3.217 c1.777,0,3.217,1.441,3.217,3.217v34.855C81.144,93.484,79.703,94.924,77.926,94.924z"/>
-<path d="M94.059,16.034L84.032,6.017c-1.255-1.255-3.292-1.255-4.547,0l-9.062,9.073L35.396,50.116 c-0.29,0.29-0.525,0.633-0.686,1.008l-7.496,17.513c-0.526,1.212-0.247,2.617,0.676,3.539c0.622,0.622,1.437,0.944,2.274,0.944 c0.429,0,0.858-0.086,1.276-0.257l17.513-7.496c0.375-0.161,0.719-0.397,1.008-0.686l35.026-35.026l9.073-9.062 C95.314,19.326,95.314,17.289,94.059,16.034z M36.286,63.79l2.928-6.821l3.893,3.893L36.286,63.79z M46.925,58.621l-5.469-5.469 L73.007,21.6l5.47,5.469L46.925,58.621z M81.511,24.034l-5.469-5.469l5.716-5.716l5.469,5.459L81.511,24.034z"/>
-</svg>
-                        </xsl:element>
-                        <xsl:element name="div">
                             <xsl:attribute name="id">apparatusbutton</xsl:attribute>
                             <xsl:attribute name="data-anno">apparatus of variants</xsl:attribute>
 <svg id="apparatussvg" width="22" height="21" fill="#000000" version="1.1" viewBox="0 0 381.66 415.46" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="#000"><path d="m10.395 208.37c2.6785-185.49 346.77-166.49 346.77-166.49" stroke-width="20.48px"/><path d="m10.239 206.9c2.6785 185.49 346.77 166.49 346.77 166.49" stroke-width="20.48px"/><path d="m14.182 210.85 315.07 0.84841" stroke-width="20.581px"/><g stroke-width="21.098px"><path d="m287.4 179.06 54.215 32.066-51.981 34.443"/><path d="m307.59 9.0797 54.215 32.066-51.981 34.443"/><path d="m305.3 340.15 54.215 32.066-51.981 34.443"/></g></g></svg>
 <svg id="translationsvg" width="22" height="21" fill="#000000" version="1.1" viewBox="0 0 381.66 415.46" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="#000" stroke-width="22.641px"><path d="m-0.58397 41.896h381.87"/><path d="m-0.58397 205.74h381.87"/><path d="m-0.58397 369.58h381.87"/></g></svg>
                         </xsl:element>
+                        </div>
+                        <button id="button_wordsplitbutton">Edit word splits</button>
+                        <button id="button_editbutton">Edit apparatus</button>
+                        <button id="button_citebutton">Cite</button>
+                        <button id="button_exportbutton">Export</button>
+                        <button id="button_savebutton" class="important">Save as...</button>
                     </xsl:element>
                     <xsl:element name="article">
                         <xsl:apply-templates/>
@@ -165,7 +166,7 @@
                     </xsl:attribute>
                 </xsl:element>
             </xsl:if>
-            <xsl:if test="$debugging = 'true'">
+            <!--xsl:if test="$debugging = 'true'"-->
                 <div id="blackout">
                     <div class="popup" id="splits-popup">
                         <div class="popup-header">
@@ -177,19 +178,19 @@
                         <div class="popup-options">
                             <select name="edblock"></select>
                             <div>
-                                <input name="lookup" type="checkbox"/>
-                                <label for="lookup">Grammar lookup</label>
+                                <input name="lookup" id="input_lookup" type="checkbox"/>
+                                <label for="input_lookup">Grammar lookup</label>
                             </div>
                         </div>
                         <div class="boxen">
                             <div>
-                                <label>Tamil wordsplit</label><textarea></textarea>
+                                <label>Tamil wordsplit</label><textarea id="tamsplit" data-mode="wordsplit" spellcheck="false"></textarea>
                             </div>
                             <div>
                                 <label>Word-by-word translation</label>
                                 <div id="wbwbox">
-                                    <textarea></textarea>
-                                    <textarea class="notes"></textarea>
+                                    <textarea id="engsplit" data-mode="glossing" spellcheck="false"></textarea>
+                                    <textarea id="splitnotes" class="notes" spellcheck="false"></textarea>
                                     <div class="switcher" id="notesswitcher">
                                         <div class="selected">Splits</div>
                                         <div>Notes</div>
@@ -199,13 +200,14 @@
                         </div>
                         <div class="buttondiv">
                             <button type="button" id="alignbutton">Align</button>
-                            <button type="button" id="saveasbutton">Save as...</button>
+                            <button type="button" id="previewbutton">Preview</button>
+                            <button type="button" class="important" id="saveasbutton">Save as...</button>
                         </div>
                         <div class="output-boxen">
                             <div class="popup-warnings"></div>
                             <div class="popup-output"></div>
                             <div class="switcher" id="previewswitcher">
-                                <div class="selected">Preview</div>
+                                <div class="selected">Table</div>
                                 <div>Code</div>
                             </div>
                         </div>
@@ -220,6 +222,7 @@
                         <div class="popup-options">
                             <select name="edblock"></select>
                         </div>
+                        <div class="boxenbox">
                           <div class="boxen">
                             <div id="variantsfileselect">
                                 <label>Apparatus from alignment</label>
@@ -231,31 +234,88 @@
                                     <input type="checkbox" id="mergerdgs" checked="true"/>
                                     <label>Merge groups</label>
                                 </div>
-                                <div>
+                                <div id="filefinder">
+                                    <span>Found file: </span><span style="font-weight: bold" id="foundfile"></span>
+                                    <button type="button" id="usefoundfile" style="margin-left: 1rem">Align from file</button>
+                                </div>
+                                <div style="margin-top: 1rem">
                                     <label for="teifile">Select alignment file... </label>
-                                    <input type="file" autocomplete="off" id="teifile" name="teifile" accept=".xml"/>
+                                    <input type="file" autocomplete="off" id="teifile" name="teifile" style="margin-left: 1rem" accept=".xml"/>
                                 </div>
                             </div>
                             <div id="variantsinput">
                                 <label>Apparatus from text</label>
-                                <textarea></textarea>
+                                <textarea rows="15" spellcheck="false"></textarea>
                                 <button type="button" id="addapparatus">Generate apparatus</button>
                             </div>
+                            <div class="output-boxen">
+                                <div class="popup-output"></div>
+                                <button type="button" class="important" id="saveapparatus">Save as...</button>
+                            </div>
                         </div>
-                        <div class="output-boxen">
-                            <div class="popup-output"></div>
-                            <button type="button" id="saveapparatus">Save as...</button>
+                        <div class="switcher" id="variantsswitcher">
+                            <div class="selected">From file</div>
+                            <div>From text</div>
                         </div>
                     </div>
+                   </div>
+                   <div class="popup" id="citation-popup">
+                        <div class="popup-header">
+                            <span class="closeicon">
+<svg height="32px" width="32px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1" style="shape-rendering: geometricprecision; text-rendering: geometricprecision; image-rendering: optimizequality; width: 15px; height: 15px;" viewBox="0 0 847 847" x="0px" y="0px" fill-rule="evenodd" clip-rule="evenodd">
+<g><path class="fil0" d="M423 272l217 -217c99,-99 251,53 151,152l-216 216 216 217c100,99 -52,251 -151,151l-217 -216 -216 216c-99,100 -251,-52 -152,-151l217 -217 -217 -216c-99,-99 53,-251 152,-152l216 217z"></path></g></svg>
+                            </span>
+                        </div>
+                      <div class="boxen">
+                        <div></div>
+                      </div>
+                   </div>
+                   <div class="popup" id="export-popup">
+                        <div class="popup-header">
+                            <span class="closeicon">
+<svg height="32px" width="32px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1" style="shape-rendering: geometricprecision; text-rendering: geometricprecision; image-rendering: optimizequality; width: 15px; height: 15px;" viewBox="0 0 847 847" x="0px" y="0px" fill-rule="evenodd" clip-rule="evenodd">
+<g><path class="fil0" d="M423 272l217 -217c99,-99 251,53 151,152l-216 216 216 217c100,99 -52,251 -151,151l-217 -216 -216 216c-99,100 -251,-52 -152,-151l217 -217 -217 -216c-99,-99 53,-251 152,-152l216 217z"></path></g></svg>
+                            </span>
+                        </div>
+                      <div class="boxenbox">
+                        <div class="boxen">
+                          <div>
+                          <div>
+                            <input type="checkbox" id="export-underline" checked="true"/>
+                            <label for="export-underline">Underline lemmata</label>
+                          </div>
+                          <div>
+                            <input type="checkbox" id="export-lg-wordsplits"/>
+                            <label for="export-lg-wordsplits">Include <code>lg</code> wordsplits</label>
+                          </div>
+                          <div>
+                            <input type="checkbox" id="export-p-wordsplits"/>
+                            <label for="export-p-wordsplits">Include <code>p</code> wordsplits</label>
+                          </div>
+                          <div>
+                            <input type="checkbox" id="export-line-breaks"/>
+                            <label for="export-line-breaks">Include <code>lb</code> line breaks</label>
+                          </div>
+                          <div>
+                            <input type="checkbox" id="export-page-breaks"/>
+                            <label for="export-page-breaks">Include <code>pb</code> page breaks</label>
+                          </div>
+                          </div>
+                          <div>
+                            <button>Export LaTeX</button>
+                          </div>
+                        </div>
+                      </div>
+                   </div>
                 </div>
-            </xsl:if>
+            <!--/xsl:if-->
         </xsl:element>
     </xsl:element>
 </xsl:template>
 
 <xsl:template match="x:listPerson"/>
 
-<xsl:template match="x:text/x:body/x:div">
+<!--xsl:template match="x:text/x:body/x:div">
     <xsl:element name="div">
         <xsl:attribute name="class">lg wide</xsl:attribute>
         <xsl:call-template name="lang"/>
@@ -265,25 +325,29 @@
         <xsl:apply-templates/>
         <xsl:variable name="id"><xsl:text>#</xsl:text><xsl:value-of select="@xml:id"/></xsl:variable>
         <xsl:variable name="apparatus" select="//x:standOff[@type='apparatus' and @corresp=$id]"/>
-        <xsl:if test="$apparatus">
-            <xsl:call-template name="apparatus2">
-                <xsl:with-param name="apparatus" select="$apparatus"/>
-            </xsl:call-template>
-        </xsl:if>
-        <xsl:if test=".//x:app">
-            <div>
-                <xsl:attribute name="class">apparatus-block</xsl:attribute>
-                <xsl:call-template name="lang"/>
-                <xsl:attribute name="style">display: none;</xsl:attribute>
-                <xsl:call-template name="apparatus"/>
-            </div>
-        </xsl:if>
+        <xsl:variable name="parallels" select="//x:standOff[@type='parallels' and @corresp=$id]"/>
+        <xsl:choose>
+            <xsl:when test="$apparatus">
+                <xsl:call-template name="apparatus2">
+                    <xsl:with-param name="apparatus" select="$apparatus"/>
+                    <xsl:with-param name="parallels" select="$parallels"/>
+                </xsl:call-template>
+            </xsl:when>
+            <xsl:when test=".//x:app">
+                <div>
+                    <xsl:attribute name="class">apparatus-block</xsl:attribute>
+                    <xsl:call-template name="lang"/>
+                    <xsl:attribute name="style">display: none;</xsl:attribute>
+                    <xsl:call-template name="apparatus"/>
+                </div>
+            </xsl:when>
+        </xsl:choose>
     </xsl:element>
 </xsl:template>
 <xsl:template match="x:div/x:p">
     <xsl:element name="div">
         <xsl:attribute name="class">
-            <xsl:text>text-block </xsl:text>
+            <xsl:text>text-block p </xsl:text>
             <xsl:choose>
                 <xsl:when test="@type='edition'"><xsl:text>edition</xsl:text></xsl:when>
                 <xsl:when test="@type='translation'"><xsl:text>translation</xsl:text></xsl:when>
@@ -298,7 +362,7 @@
     <xsl:element name="div">
         <xsl:call-template name="lang"/>
         <xsl:attribute name="class">
-            <xsl:text>text-block </xsl:text>
+            <xsl:text>text-block lg </xsl:text>
             <xsl:choose>
                 <xsl:when test="@type='edition'"><xsl:text>edition</xsl:text></xsl:when>
                 <xsl:when test="@type='translation'"><xsl:text>translation</xsl:text></xsl:when>
@@ -307,7 +371,8 @@
         </xsl:attribute>
         <xsl:apply-templates/>
     </xsl:element>
-</xsl:template>
+</xsl:template-->
+
 <xsl:template match="x:lg[@type='alternate']">
     <xsl:element name="div">
         <xsl:call-template name="lang"/>
@@ -338,12 +403,16 @@
                 <xsl:value-of select="@rend"/>
             </xsl:if>
         </xsl:attribute>
+        <xsl:if test="@corresp">
+            <xsl:attribute name="data-corresp"><xsl:value-of select="@corresp"/></xsl:attribute>
+        </xsl:if>
         <xsl:call-template name="lang"/>
         <xsl:apply-templates/>
         <xsl:text>
 </xsl:text>
     </xsl:element>
 </xsl:template>
+
 <xsl:template match="x:choice">
     <xsl:element name="span">
     <xsl:attribute name="class">
@@ -465,8 +534,9 @@
 
 <xsl:template match="x:standOff[@type='apparatus']"/>
 
-<xsl:template name="apparatus2">
+<!--xsl:template name="apparatus2">
     <xsl:param name="apparatus"/>
+    <xsl:param name="parallels"/>
     <xsl:element name="div">
         <xsl:attribute name="class">apparatus-block</xsl:attribute>
         <xsl:attribute name="style">display: none;</xsl:attribute>
@@ -477,6 +547,7 @@
             <xsl:attribute name="href"><xsl:value-of select="$apparatus/@source"/></xsl:attribute>
             <xsl:attribute name="data-anno">Textual alignment of this section</xsl:attribute>
             <xsl:attribute name="class">alignment-pointer</xsl:attribute>
+            <xsl:attribute name="lang">zxx</xsl:attribute>
                 <svg width="235.08" height="188" version="1.1" viewBox="0 0 235.08 188" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
                 <style type="text/css">
                     .st0{fill:none;stroke:rgb(168,81,16);stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
@@ -492,11 +563,36 @@
                 </svg>
         </xsl:element>
     </xsl:if>
+    <xsl:if test="$parallels">
+        <xsl:call-template name="notesblock">
+            <xsl:with-param name="standOff" select="$parallels"/>
+        </xsl:call-template>
+    </xsl:if>
     </xsl:element>
 </xsl:template>
+
+<xsl:template name="notesblock">
+    <xsl:param name="standOff"/>
+    <xsl:element name="hr">
+        <xsl:attribute name="class">apparatus-divider</xsl:attribute>
+    </xsl:element>
+    <xsl:for-each select="$standOff/x:note">
+        <span class="anchored-note">
+            <xsl:attribute name="data-target">
+                    <xsl:value-of select="@target"/>
+            </xsl:attribute>
+            <xsl:call-template name="lang"/>
+            <xsl:apply-templates/>
+        </span>
+    </xsl:for-each>
+</xsl:template>
+
 <xsl:template match="x:standOff/x:listApp">
+    <xsl:variable name="corresp" select="translate(../@corresp,'#','')"/>
     <xsl:for-each select="x:app">
-        <xsl:call-template name="app"/>
+        <xsl:call-template name="app">
+            <xsl:with-param name="corresp" select="$corresp"/>
+        </xsl:call-template>
     </xsl:for-each>
 </xsl:template>
 
@@ -511,9 +607,9 @@
                     <span class="lem lem-anchor">*</span>
                 </xsl:otherwise>
             </xsl:choose>
-            <xsl:if test="x:rdg">
+            <xsl:if test="x:rdg | x:rdgGrp">
                 <span>
-                    <xsl:for-each select="x:rdg">
+                    <xsl:for-each select="./x:rdg | ./x:rdgGrp">
                         <xsl:call-template name="reading"/>
                     </xsl:for-each>
                 </span>
@@ -528,11 +624,14 @@
 </xsl:template>
 
 <xsl:template name="app">
+    <xsl:param name="corresp"/>
     <xsl:element name="span">
         <xsl:attribute name="class">app</xsl:attribute>
         <xsl:choose>
             <xsl:when test="x:lem">
-                <xsl:call-template name="lemma"/>
+                <xsl:call-template name="lemma">
+                    <xsl:with-param name="corresp" select="$corresp"/>
+                </xsl:call-template>
             </xsl:when>
             <xsl:otherwise>
                 <span class="lem lem-anchor">*</span>
@@ -541,7 +640,9 @@
         <xsl:if test="x:rdg | x:rdgGrp">
             <span>
                 <xsl:for-each select="./x:rdg | ./x:rdgGrp">
-                    <xsl:call-template name="reading"/>
+                    <xsl:call-template name="reading">
+                        <xsl:with-param name="corresp" select="$corresp"/>
+                    </xsl:call-template>
                 </xsl:for-each>
             </span>
         </xsl:if>
@@ -553,14 +654,7 @@
     <xsl:text> </xsl:text>
 </xsl:template>
 <xsl:template name="lemma">
-    <!--xsl:variable name="corresp" select="ancestor::*[@corresp]/@corresp"/-->
-    <!--xsl:if test="$debugging = 'true'">
-        <xsl:element name="span">
-            <xsl:attribute name="class">lemmalookup</xsl:attribute>
-            <xsl:attribute name="data-anno">find lemma in the text</xsl:attribute>
-            <svg xmlns="http://www.w3.org/2000/svg" width="15" height="12"><g stroke-width="2" stroke="#6c6c6c" fill="none"><path d="M11.29 11.71l-4-4"/><circle cx="5" cy="5" r="4"/></g></svg>
-        </xsl:element>
-    </xsl:if-->
+    <xsl:param name="corresp"/>
     <xsl:element name="span">
         <xsl:attribute name="class">lem</xsl:attribute>
         <xsl:attribute name="data-corresp"><xsl:value-of select="@corresp"/></xsl:attribute>
@@ -572,7 +666,7 @@
             <xsl:attribute name="class">lem-wit</xsl:attribute>
             <xsl:call-template name="splitwit">
                 <xsl:with-param name="mss" select="x:lem/@wit"/>
-                <!--xsl:with-param name="corresp" select="$corresp"/-->
+                <xsl:with-param name="corresp" select="$corresp"/>
             </xsl:call-template>
         </span>
     </xsl:if>
@@ -580,7 +674,7 @@
 </xsl:template>
 
 <xsl:template name="reading">
-    <!--xsl:variable name="corresp" select="ancestor::*[@corresp]/@corresp"/-->
+    <xsl:param name="corresp"/>
     <span>
         <xsl:attribute name="class">rdg</xsl:attribute>
         <span>
@@ -609,24 +703,35 @@
         <span>
             <xsl:attribute name="class">rdg-wit</xsl:attribute>
             <xsl:call-template name="splitwit">
-                <!--xsl:with-param name="corresp" select="$corresp"/-->
+                <xsl:with-param name="corresp" select="$corresp"/>
             </xsl:call-template>
         </span>
     </span>
     <xsl:text> </xsl:text>
-</xsl:template>
-<xsl:template match="x:lg">
-    <xsl:element name="div">
-        <xsl:attribute name="class">lg</xsl:attribute>
-        <xsl:if test="@corresp">
-            <xsl:attribute name="data-corresp"><xsl:value-of select="@corresp"/></xsl:attribute>
-        </xsl:if>
-        <xsl:if test="@met">
-            <xsl:attribute name="data-anno"><xsl:value-of select="@met"/></xsl:attribute>
-        </xsl:if>
-        <xsl:call-template name="lang"/>
-        <xsl:apply-templates select="x:l"/>
-    </xsl:element>
-</xsl:template>
+</xsl:template-->
 
+<xsl:template match="x:c">
+    <xsl:variable name="type" select="@type"/>
+    <span>
+        <xsl:attribute name="class">
+            <xsl:text>character </xsl:text>
+            <xsl:value-of select="$type"/>
+        </xsl:attribute>
+        <xsl:attribute name="data-character"><xsl:value-of select="."/></xsl:attribute>
+        <xsl:attribute name="data-anno"/>
+        <span class="anno-inline ignored" lang="en">
+            <xsl:value-of select="$type"/>
+            <xsl:text> </xsl:text>
+            <q><xsl:apply-templates/></q>
+        </span>
+        <xsl:choose>
+            <xsl:when test="$type = 'elided'">
+                <xsl:text>'</xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </span>
+</xsl:template>
 </xsl:stylesheet>

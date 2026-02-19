@@ -32,7 +32,7 @@
             <xsl:element name="link">
                 <xsl:attribute name="rel">icon</xsl:attribute>
                 <xsl:attribute name="type">image/png</xsl:attribute>
-                <xsl:attribute name="href">favicon-32.png</xsl:attribute>
+                <xsl:attribute name="href"><xsl:value-of select="$root"/>img/favicon-32.png</xsl:attribute>
             </xsl:element>
             <xsl:element name="link">
                 <xsl:attribute name="rel">stylesheet</xsl:attribute>
@@ -116,19 +116,21 @@
                 <xsl:element name="div">
                     <xsl:choose>
                         <xsl:when test="x:facsimile/x:graphic">
-                            <xsl:attribute name="id">record-thin</xsl:attribute>
+                            <xsl:attribute name="class">record thin</xsl:attribute>
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:attribute name="id">record-fat</xsl:attribute>
+                            <xsl:attribute name="class">record fat</xsl:attribute>
                         </xsl:otherwise>
                     </xsl:choose>
                     <xsl:element name="div">
                         <xsl:attribute name="id">topbar</xsl:attribute>
+                        <div id="buttoncontainer">
                         <xsl:element name="div">
                             <xsl:attribute name="id">transbutton</xsl:attribute>
-                            <xsl:attribute name="title">change script</xsl:attribute>
+                            <xsl:attribute name="data-anno">change script</xsl:attribute>
                             <xsl:text>A</xsl:text>
                         </xsl:element>
+                        </div>
                     </xsl:element>
                     <xsl:element name="article">
                         <xsl:apply-templates/>
@@ -137,6 +139,11 @@
             </xsl:element>
             <xsl:variable name="manifest" select="x:facsimile/x:graphic/@url"/>
             <xsl:if test="$manifest">
+                <div id="togglers">
+                    <div id="recordtoggle" class="toggle" title="hide text">&gt;</div>
+                    <div id="rotator" title="rotate">↺</div>
+                    <div id="viewertoggle" class="toggle" title="hide images">&lt;</div>
+                </div>  
                 <xsl:element name="div">
                     <xsl:attribute name="id">viewer</xsl:attribute>
                     <xsl:attribute name="data-manifest">

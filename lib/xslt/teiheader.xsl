@@ -57,7 +57,18 @@
             </xsl:if>
             <xsl:if test="x:editor[@role='translator']">
                 <xsl:text>Translated by </xsl:text>
-                <xsl:value-of select="x:editor[@role='translator']"/>
+                <xsl:for-each select="x:editor[@role='translator']">
+                    <xsl:choose>
+                        <xsl:when test="position() = last() and position() != 1">
+                            <xsl:text> &amp; </xsl:text>
+                        </xsl:when>
+                        <xsl:when test="position() != 1">
+                            <xsl:text>, </xsl:text>
+                        </xsl:when>
+                        <xsl:otherwise/>
+                    </xsl:choose>
+                    <xsl:apply-templates/>
+                </xsl:for-each>
                 <xsl:text>.</xsl:text>
             </xsl:if>
         </p>
@@ -1313,7 +1324,9 @@
 
 <xsl:template match="x:ref">
     <xsl:element name="a">
-        <xsl:attribute name="href"><xsl:value-of select="@target"/></xsl:attribute>
+        <xsl:if test="@target">
+          <xsl:attribute name="href"><xsl:value-of select="@target"/></xsl:attribute>
+        </xsl:if>
         <xsl:if test="substring(@target,1,1) = '#'">
             <!--xsl:attribute name="class">local</xsl:attribute-->
         </xsl:if>

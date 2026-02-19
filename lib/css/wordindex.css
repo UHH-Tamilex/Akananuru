@@ -12,8 +12,9 @@
 }
 .dict-group div:first-child {
     flex-grow: 1;
+    flex-basis: 100%;
 }
-#record-fat h2.dict-letter {
+.record.fat h2.dict-letter {
     position: sticky;
     height: min-content;
     width: min-content;
@@ -125,7 +126,7 @@ details.dict details.dict[open] {
     font-size: 1.2rem;
 }
 
-
+/*
 .spinner {
   width: 40px;
   height: 40px;
@@ -153,3 +154,4 @@ details.dict details.dict[open] {
   0% { transform: rotate(0deg) }
   100% { transform: rotate(360deg)}
 } 
+*/

@@ -40,7 +40,7 @@
     font-style: italic;
 }
 
-.foreign:lang(ta-Taml), .foreign:lang(sa-Beng), .foreign:lang(sa-Deva), .foreign:lang(sa-Gran), .foreign:lang(sa-Mlym), .foreign:lang(sa-Nand), .foreign:lang(sa-Newa), .foreign:lang(sa-Shrd), .foreign:lang(sa-Telu) {
+.foreign[lang^="ta-Taml"], .foreign[lang^="sa-Beng"], .foreign[lang^="sa-Deva"], .foreign[lang^="sa-Gran"], .foreign[lang^="sa-Mlym"], .foreign[lang^="sa-Nand"], .foreign[lang^="sa-Newa"], .foreign[lang^="sa-Shrd"], .foreign[lang^="sa-Telu"] {
     font-style: normal;
 }
 
@@ -63,15 +63,18 @@ p.diplo::after {
 }
 
 div.lg {
-            /*width: 100%;*/
-            font-size: 1.4rem;
-            line-height: 2rem;
-            padding-top: 0.5em;
-            padding-right: 0;
-            padding-bottom: 0.5em;
-            /*padding-left: 0.5em;*/
+    /*width: 100%;*/
+    font-size: 1.4rem;
+    line-height: 2rem;
+    padding-top: 0.5em;
+    padding-right: 0;
+    padding-bottom: 0.5em;
+    /*padding-left: 0.5em;*/
 }
 
+.text-block + .text-block {
+    padding-left: 0.5em;
+}
 
 #tooltip div.lg, .note div.lg {
     font-size: revert;
@@ -100,11 +103,24 @@ div.lg div.l.diplo {
     text-indent: 0;
 }
 
-:lang(sa-Deva) .l {
+.trailer {
+    font-size: inherit;
+    width: 60%;
+    display: inline-block;
+    text-align: right;
+    line-height: 2rem; 
+    font-size: 1.2rem; 
+}
+.trailer[lang^='ta-Taml'] {
+    line-height: 2.3rem;
+    font-size: 1.15rem;
+}
+
+[lang^="sa-Deva"] .l {
                         line-height: 1.4em;
 }
 
-:lang(sa-Mlym) .l {
+[lang^="sa-Mlym"] .l {
                         line-height: 1.3em;
 }
 
@@ -149,6 +165,9 @@ span.lb, span.cb {
     white-space: nowrap;
 }
 
+.app span.lb, .app span.pb {
+    cursor: unset;
+}
 .lb.diplo::after, .pb.diplo::after, .cb.diplo::after {
     white-space: pre;
     visibility: visible;
@@ -197,7 +216,7 @@ span.lb, span.cb {
     content: "\a\a(" attr(data-n) ")";
 }
 
-.pb.diplo.nobreak::after {
+.pb.diplo.nobreak::after, .lb.diplo.nobreak::after {
     content: "(" attr(data-n) ")";
 }
 
@@ -224,10 +243,10 @@ blockquote > .cb.diplo:first-child::after {
 }
 */
 
-:lang(sa-Deva) span.lb {
+[lang^="sa-Deva"] span.lb {
         font-size: 100%;
 }
-:lang(sa-Mlym) span.lb {
+[lang^="sa-Mlym"] span.lb {
         font-size: 100%;
 }
 
@@ -244,12 +263,12 @@ blockquote > .cb.diplo:first-child::after {
     white-space: nowrap;
 }
 
-:lang(sa-Deva) .pb {
+[lang^="sa-Deva"] .pb {
                      font-size: 100%;
                      vertical-align: text-bottom;
 }
 
-:lang(sa-Mlym) .pb {
+[lang^="sa-Mlym"] .pb {
                      font-size: 100%;
                      vertical-align: text-bottom;
 }
@@ -262,6 +281,16 @@ blockquote > .cb.diplo:first-child::after {
 .footnote:hover {
       color: #2B73B7;
       text-decoration: none !important;
+}
+
+.teitext {
+    counter-reset: footnote 0;
+}
+
+.footnote.numbered::after {
+    content: counter(footnote);
+    counter-increment: footnote;
+    font-variant-position: super;
 }
 
 [data-anno] .anno-inline {
@@ -297,7 +326,7 @@ span.space {background-color: rgba(132,132,10,0.3);
 }
 
 span.editor {
-    font-size: 0.8rem;
+    /*font-size: 0.8rem;*/
     font-variant: small-caps;
 }
 
@@ -330,11 +359,11 @@ span.inline {margin-left: 0.5em;
 }
 
 span.super, span.note.super {
-    /*vertical-align: super;*/
     margin-left: 0.2em;
     margin-right: 0.2em;
     line-height: normal;
-    font-variant: super;
+    /*font-variant: super;*/ /* fails in Chrome */
+    vertical-align: super;
 }
 
 span.sub {vertical-align: -20%;
@@ -360,27 +389,35 @@ del {color: grey;
      text-decoration-color: #CC0000;
 }
 
+del .pb, del .lb {
+    text-decoration: none;
+}
+
 span.orig::before {
     content: '¡';
     color: #CC0000;
     font-size: 0.8em;
+    font-variant-position: sub;
 }
 
 span.orig::after {
     content: '!';
     color: #CC0000;
     font-size: 0.8em;
+    font-variant-position: super;
 }
 
 span.sic::before {
     content: '¿';
     color: #CC0000;
     font-size: 0.8em;
+    font-variant-position: sub;
 }
 span.sic::after {
     content: '?';
     color: #CC0000;
     font-size: 0.8em;
+    font-variant-position: super;
 }
 
 span.sic {
@@ -510,7 +547,7 @@ span.locus {
     color: #A85110;
 }
 
-[data-loc] {
+[data-loc]:not(.lem) {
     cursor: pointer;
     text-decoration: underline;
 }
@@ -565,11 +602,7 @@ blockquote > span.milestone.diplo:first-child::before {
     content: "";
 }
 
-br.caesura.diplo {
-    display: none;
-}
-
-span.caesura.diplo {
+br.caesura.diplo, span.caesura.diplo, .app .caesura {
     display: none;
 }
 
@@ -605,7 +638,7 @@ rb {
     font-style: normal;
 }
 
-.note em.title {
+.note em.title, .anchored-note em.title {
     font-style: italic;
 }
 

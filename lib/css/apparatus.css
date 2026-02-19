@@ -2,7 +2,7 @@ section div.wide {
     max-width: 100%;
     display: flex;
     align-items: flex-start;
-    justify-content: center;
+    justify-content: space-between;
 }
 .text-block {
     top: 0;
@@ -11,6 +11,15 @@ section div.wide {
     font-size: 1.4rem;
     position: sticky;
 }
+.text-block.nolemmata .lem-inline {
+    text-decoration: none;
+}
+
+.text-block.nolemmata .lem-inline:hover, 
+.text-block.nolemmata .lem-inline:hover * {
+    background: none;
+}
+
 .apparatus-block {
     top: 0;
     padding-top: 1rem;
@@ -20,7 +29,9 @@ section div.wide {
     line-height: 1.3rem;
     position: sticky;
 }
-
+.hidden {
+    display: none;
+}
 .apparatus-block span.note::after,
 .apparatus-block span.note::before {
     content: '';
@@ -28,29 +39,38 @@ section div.wide {
 
 .apparatus-block span.note {
     font-size: 90%;
+    white-space: normal;
 }
-
+.ignoredtags {
+    display: none;
+}
 .app {
-    margin-right: 2em;
+    /*margin-right: 2em;*/
+    white-space: normal;
 }
 
 .lem-inline:not(.lem-anchor) {
     /*display: inline-block;*/
-    text-decoration: underline wavy rgb(180,184,196);
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: rgb(180,184,196);
     text-decoration-thickness: from-font;
 }
 
 .lem-anchor {
     font-variant: super;
 }
-
-.lem-inline:hover, .lem-inline:hover *, .lem:hover, .highlit, .highlit *, .permalit {
+.lem .caesura {
+    display: none;
+}
+.lem-inline:hover, .lem-inline:hover *, .lem-inline.highlit, .lem-inline:has(.highlit), .lem .rdg-text:hover, .highlit, .highlit * { /* TODO: clean this up if highlighting is simplified */
     text-decoration: none;
     background: rgba(255,255,128,1);
 }
 
 .lightlit {
     background: rgba(255,255,128,0.5);
+    width: fit-content;
 }
 /*
 .app-inline:hover .rdgs-inline, .app-inline:hover .lem-wit {
@@ -59,44 +79,88 @@ section div.wide {
 */
 
 .lem {
-    font-weight: bold;
-    margin-right: 0.5em;
+    white-space: nowrap;
+    margin-right: 0.4rem;
 }
 
-.lem:not(.lem-anchor)::after {
+.lem .rdg-text {
+    font-weight: bold;
+    margin-right: 0.5em;
+    white-space: normal;
+}
+
+.lem .rdg-text::after {
     content: ']';
 }
 
+.negapp .lem-wit {
+  display: none;
+}
+
 .rdg-text {
+    white-space: normal;
+}
+
+.rdgs {
+    white-space: normal;
+}
+
+.rdg {
+    white-space: nowrap;
+    margin-right: 0.4rem;
+}
+
+.rdg-wit {
+    white-space: normal;
 }
 
 .rdg-alt {
     display: none;
+    font-variant: normal;
+    margin-left: 0.2rem;
+    white-space: normal;
 }
 
-.rdg {
+.rdg-alt:before {
+    content: ': ';
 }
 
-.rdg:not(:last-child) .rdg-wit .msid:last-child::after, .lem-wit > .msid:last-child::after {
+.mshover {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 1px;
+    text-decoration-color: rgb(168,81,16);
+}
+
+.rdg:not(:last-child) .rdg-wit::after, .lem-wit::after {
     content: ';';
 }
 
-.rdg:last-child .rdg-wit .msid:last-child::after {
+.rdg:last-child .rdg-wit::after {
     content: '.';
 }
 
+.rdg span.milestone.diplo::before, .rdg span.milestone.diplo.biggap::before {
+    content: '';
+}
+.rdg span.milestone.diplo, .rdg span.milestone.diplo.biggap {
+    font-size: 1rem;
+}
+
 .lem-wit {
-    word-break: break-all;
+    white-space: normal;
     margin-right: 0.5em;
 }
 
 .msid {
     font-variant: small-caps;
     font-size: 0.9rem;
-    margin-right: 0.2rem;
     word-break: normal;
+    white-space: nowrap;
 }
-
+.msid + .msid {
+    margin-left: 0.2rem;
+}
 .msid a:link, .msid a:active,
 a.alignment-pointer:link, a.alignment-pointer:active {
     text-decoration: none;
@@ -107,10 +171,6 @@ a.alignment-pointer:link, a.alignment-pointer:active {
 .msid a[href]::after {
     background: none;
     padding-right: 0;
-}
-
-.mshover {
-    border-bottom: 2px dotted rgb(168,81,16);
 }
 
 .listWit {
@@ -139,10 +199,12 @@ a.alignment-pointer:link, a.alignment-pointer:active {
     top: 0;
     width: 100vw;
     height: 100vh;
-    background: rgba(50,50,50,.5);
+    background: none;
+    backdrop-filter: blur(5px) brightness(60%) saturate(150%);
 }
 #alignment-viewer {
     max-width: 60%;
+    max-height: 90vh;
     overflow: scroll;
     background-color: #fffff8;
     padding: 10px 10px 10px 0;
@@ -188,6 +250,41 @@ a.alignment-pointer:link, a.alignment-pointer:active {
     border-left: 0;
     border-right: 4px solid #ffffff;
     padding-left: 0;
+}
+
+.anchor::after, .anchored-note::before {
+    content: '*';
+    color: rgb(168,81,16);
+    vertical-align: super;
+    cursor: default;
+    line-height: normal;
+}
+.anchor[data-n]::after, .anchored-note[data-n]::before {
+  content: attr(data-n);
+}
+
+.apparatus-block .anchored-note {
+    display: inline-block;
+}
+
+.anchor.highlit::after {
+    background: rgba(255,255,128,1);
+}
+
+.parallel {
+    display: flex;
+}
+
+.parallel > div {
+    flex-basis: 100%;
+}
+
+.parallel > .wide {
+    justify-content: flex-start;
+}
+
+.parallel .text-block {
+    width: unset;
 }
 
 @media (max-width: 600px) {

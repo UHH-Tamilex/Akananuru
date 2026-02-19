@@ -16,11 +16,11 @@ h4.mspart {
     hyphens: auto;
 }
 
-#summary :lang(sa) {
+#summary [lang^="sa"] {
     font-family: inherit;
 }
 
-.msItem :lang(sa) {
+.msItem [lang^="sa"] {
     font-family: inherit;
 }
 
@@ -32,7 +32,7 @@ h4.mspart {
     margin-bottom: 0;
 }
 
-#physDesc :lang(sa) {
+#physDesc [lang^="sa"] {
     font-family: inherit;
 }
 
@@ -44,7 +44,7 @@ h4.mspart {
    /* width: inherit;*/
 }
 
-#history :lang(sa) {
+#history [lang^="sa"] {
     font-family: inherit;
 }
 
@@ -85,7 +85,7 @@ span.list.numbered .item {
     width: 5rem;
 }
 
-em.title:lang(ta-Taml), em.title:lang(sa-Beng), em.title:lang(sa-Deva), em.title:lang(sa-Gran), em.title:lang(sa-Mlym), em.title:lang(sa-Nand), em.title:lang(sa-Newa), em.title:lang(sa-Shrd), em.title:lang(sa-Telu), .teitext em.title, .excerpt em.title {
+em.title[lang^="ta-Taml"], em.title[lang^="sa-Beng"], em.title[lang^="sa-Deva"], em.title[lang^="sa-Gran"], em.title[lang^="sa-Mlym"], em.title[lang^="sa-Nand"], em.title[lang^="sa-Newa"], em.title[lang^="sa-Shrd"], em.title[lang^="sa-Telu"], .teitext em.title, .excerpt em.title {
     font-style: normal;
 }
 /*
@@ -103,7 +103,7 @@ h1 {
     margin-right: 0.5rem;
 }
 
-h1 em.title.tamil, h1 em.title:lang(sa-Deva), h1 em.title:lang(sa-Telu) {
+h1 em.title[lang^="ta-Taml"], h1 em.title[lang^="sa-Deva"], h1 em.title[lang^="sa-Telu"] {
     line-height: 4rem;
 }
 
@@ -125,6 +125,10 @@ a[href]::after {
 a[href] {
     color: #A85110;
 }
+#tooltip a[href] {
+    color: white;
+    text-decoration: underline;
+}
 
 a[href]:hover {
     color: #2B73B7;
@@ -138,6 +142,7 @@ a[href^='http://']::after, a[href^='https://']::after {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
+    /*background-color: rgb(255,255,248);*/
     padding-right: 0.8rem;
 }
 a[href^='http://']:hover::after, a[href^='https://']:hover::after {
@@ -145,7 +150,18 @@ a[href^='http://']:hover::after, a[href^='https://']:hover::after {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
+    /*background-color: rgb(255,255,248);*/
     padding-right: 0.8rem;
+}
+
+a[href^='https://']:has(img)::after, a[href^='https://']:has(img):hover::after, a.graph-bar[href^='https://']::after {
+    background: none;
+    text-decoration: none;
+}
+
+a[href^='https://']:has(img), a[href^='https://']:has(img):hover, a.graph-bar[href^='https://'], a.graph-bar[href^='https://']:hover {
+    background: none;
+    text-decoration: none;
 }
 
 .cert-low::after {

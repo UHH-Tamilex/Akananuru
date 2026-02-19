@@ -7,7 +7,16 @@
 <xsl:output method="html" encoding="UTF-8" omit-xml-declaration="yes"/>
 
 <xsl:template match="x:text">
-    <xsl:variable name="textid" select="substring-after(@corresp,'#')"/>
+    <xsl:variable name="textid">
+        <xsl:choose>
+            <xsl:when test="@corresp">
+                <xsl:value-of select="substring-after(@corresp,'#')"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:value-of select="//x:idno[@type='siglum']"/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:variable>
     <xsl:element name="hr">
         <xsl:attribute name="id">
             <xsl:text>text-</xsl:text>
@@ -15,38 +24,44 @@
         </xsl:attribute>
     </xsl:element>
     <xsl:element name="section">
-        <xsl:attribute name="class">
-            <xsl:text>teitext</xsl:text>
-            <xsl:if test="@type='edition'">
-                <xsl:text> edition</xsl:text>
-            </xsl:if>
-        </xsl:attribute>
-        <xsl:attribute name="data-synch"><xsl:value-of select="@synch"/></xsl:attribute>
-        <xsl:attribute name="data-corresp"><xsl:value-of select="$textid"/></xsl:attribute>
         <xsl:call-template name="lang"/>
-        <xsl:element name="table">
-            <xsl:attribute name="class">texttitle</xsl:attribute>
-            <xsl:element name="tr">
-                <xsl:element name="td">
-                    <xsl:variable name="title" select="ancestor::x:TEI/x:teiHeader/x:fileDesc/x:sourceDesc/x:msDesc/x:msContents/x:msItem[@xml:id=$textid]/x:title"/>
-                    <xsl:attribute name="lang"><xsl:value-of select="$title/@xml:lang"/></xsl:attribute>
-                    <span class="line-view-icon" title="diplomatic display">
-                        <svg height='25px' width='25px' fill="#000000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512"><g id="#hamburger"><g><g><path d="M486,493H26c-3.866,0-7-3.134-7-7V26c0-3.866,3.134-7,7-7h460c3.866,0,7,3.134,7,7v460C493,489.866,489.866,493,486,493z      M33,479h446V33H33V479z"></path></g><g><path d="M436,133H86c-3.866,0-7-3.134-7-7s3.134-7,7-7h350c3.866,0,7,3.134,7,7S439.866,133,436,133z"></path></g><g><path d="M436,263H86c-3.866,0-7-3.134-7-7s3.134-7,7-7h350c3.866,0,7,3.134,7,7S439.866,263,436,263z"></path></g><g><path d="M436,393H86c-3.866,0-7-3.134-7-7s3.134-7,7-7h350c3.866,0,7,3.134,7,7S439.866,393,436,393z"></path></g></g></g></svg>
-                    </span>
-                    <xsl:apply-templates select="$title"/>
+        <xsl:choose>
+            <xsl:when test="@type='edition'">
+            <xsl:attribute name="class">
+                <xsl:text>teitext edition</xsl:text>
+            </xsl:attribute>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:attribute name="class">
+                    <xsl:text>teitext</xsl:text>
+                </xsl:attribute>
+                <xsl:attribute name="data-synch"><xsl:value-of select="@synch"/></xsl:attribute>
+                <xsl:attribute name="data-corresp"><xsl:value-of select="$textid"/></xsl:attribute>
+                <xsl:element name="table">
+                    <xsl:attribute name="class">texttitle</xsl:attribute>
+                    <xsl:element name="tr">
+                        <xsl:element name="td">
+                            <xsl:variable name="title" select="ancestor::x:TEI/x:teiHeader/x:fileDesc/x:sourceDesc/x:msDesc/x:msContents/x:msItem[@xml:id=$textid]/x:title"/>
+                            <xsl:attribute name="lang"><xsl:value-of select="$title/@xml:lang"/></xsl:attribute>
+                            <span class="line-view-icon" title="diplomatic display">
+                                <svg height='25px' width='25px' fill="#000000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512"><g id="#hamburger"><g><g><path d="M486,493H26c-3.866,0-7-3.134-7-7V26c0-3.866,3.134-7,7-7h460c3.866,0,7,3.134,7,7v460C493,489.866,489.866,493,486,493z      M33,479h446V33H33V479z"></path></g><g><path d="M436,133H86c-3.866,0-7-3.134-7-7s3.134-7,7-7h350c3.866,0,7,3.134,7,7S439.866,133,436,133z"></path></g><g><path d="M436,263H86c-3.866,0-7-3.134-7-7s3.134-7,7-7h350c3.866,0,7,3.134,7,7S439.866,263,436,263z"></path></g><g><path d="M436,393H86c-3.866,0-7-3.134-7-7s3.134-7,7-7h350c3.866,0,7,3.134,7,7S439.866,393,436,393z"></path></g></g></g></svg>
+                            </span>
+                            <xsl:apply-templates select="$title"/>
+                        </xsl:element>
+                        <xsl:element name="td">
+                            <xsl:attribute name="class">text-siglum</xsl:attribute>
+                            <xsl:attribute name="lang">en</xsl:attribute>
+                            <xsl:variable name="cu" select="translate(@synch,'#','')"/>
+                            <xsl:value-of select="$cu"/>
+                            <xsl:if test="$cu and $textid">
+                                <xsl:text>, </xsl:text>
+                            </xsl:if>
+                            <xsl:value-of select="$textid"/>
+                        </xsl:element>
+                    </xsl:element>
                 </xsl:element>
-                <xsl:element name="td">
-                    <xsl:attribute name="class">text-siglum</xsl:attribute>
-                    <xsl:attribute name="lang">en</xsl:attribute>
-                    <xsl:variable name="cu" select="translate(@synch,'#','')"/>
-                    <xsl:value-of select="$cu"/>
-                    <xsl:if test="$cu and $textid">
-                        <xsl:text>, </xsl:text>
-                    </xsl:if>
-                    <xsl:value-of select="$textid"/>
-                </xsl:element>
-            </xsl:element>
-        </xsl:element>
+            </xsl:otherwise>
+        </xsl:choose>
         <xsl:apply-templates/>
     </xsl:element>
 </xsl:template>
@@ -61,6 +76,9 @@
 <xsl:template match="x:text/x:body | x:text/x:front | x:text//x:div">
     <xsl:element name="div">
         <xsl:call-template name="lang"/>
+        <xsl:if test="@rend='parallel'">
+            <xsl:attribute name="class">parallel</xsl:attribute>
+        </xsl:if>
         <xsl:apply-templates/>
     </xsl:element>
 </xsl:template>
@@ -160,6 +178,7 @@
 <xsl:template match="x:subst">
     <xsl:element name="span">
     <xsl:attribute name="class">subst</xsl:attribute>
+    <xsl:call-template name="lang"/>
     <xsl:attribute name="data-anno">
         <xsl:text>substitution</xsl:text>
         <xsl:if test="@rend">
@@ -268,7 +287,14 @@
 
 <xsl:template match="x:gap | x:damage">
     <xsl:element name="span">
-        <xsl:attribute name="lang">en</xsl:attribute>
+        <xsl:choose>
+            <xsl:when test="not(node())">
+                <xsl:attribute name="lang">en</xsl:attribute>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:call-template name="lang"/>
+            </xsl:otherwise>
+        </xsl:choose>
         <xsl:attribute name="class">
             <xsl:value-of select="local-name()"/>
             <xsl:if test="@reason='ellipsis'">
@@ -276,67 +302,72 @@
             </xsl:if>
         </xsl:attribute>
         <xsl:attribute name="data-anno">
-            <xsl:text>gap</xsl:text>
-                <xsl:choose>
-                    <xsl:when test="@quantity">
-                        <xsl:text> of </xsl:text><xsl:value-of select="@quantity"/>
-                        <xsl:choose>
-                        <xsl:when test="@unit">
-                        <xsl:text> </xsl:text><xsl:value-of select="@unit"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                        <xsl:text> akṣara</xsl:text>
-                        </xsl:otherwise>
-                        </xsl:choose>
-                            <xsl:if test="@quantity &gt; '1'">
-                                <xsl:text>s</xsl:text>
-                            </xsl:if>
-                    </xsl:when>
-                    <xsl:when test="@extent">
-                        <xsl:text> of </xsl:text><xsl:value-of select="@extent"/>
-                    </xsl:when>
-                </xsl:choose>
-                <xsl:if test="@reason | @agent">
-                    <xsl:text> (</xsl:text>
-                    <xsl:value-of select="@reason"/>
-                    <xsl:if test="@reason and @agent">
-                        <xsl:text>, </xsl:text>
-                    </xsl:if>
-                    <xsl:value-of select="@agent"/>
-                    <xsl:text>)</xsl:text>
-                </xsl:if>
-        </xsl:attribute>
-        <xsl:variable name="spacechar">
             <xsl:choose>
-                <xsl:when test="@reason='ellipsis'">…</xsl:when>
-                <xsl:when test="@reason='lost'">‡</xsl:when>
-                <xsl:otherwise>?</xsl:otherwise>
+                <xsl:when test="name() = 'damage'">
+                    <xsl:text>damage</xsl:text>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:text>gap</xsl:text>
+                </xsl:otherwise>
             </xsl:choose>
-        </xsl:variable>
-        <xsl:variable name="extentnum" select="translate(@extent,translate(@extent,'0123456789',''),'')"/>
-        <xsl:choose>
-            <xsl:when test="count(./*) &gt; 0"><xsl:apply-templates/></xsl:when>
-            <xsl:otherwise>
-                <xsl:element name="span">
+            <xsl:choose>
+                <xsl:when test="@quantity">
+                    <xsl:text> of </xsl:text><xsl:value-of select="@quantity"/>
+                    <xsl:choose>
+                    <xsl:when test="@unit">
+                    <xsl:text> </xsl:text><xsl:value-of select="@unit"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                    <xsl:text> akṣara</xsl:text>
+                    </xsl:otherwise>
+                    </xsl:choose>
+                        <xsl:if test="@quantity &gt; '1'">
+                            <xsl:text>s</xsl:text>
+                        </xsl:if>
+                </xsl:when>
+                <xsl:when test="@extent">
+                    <xsl:text> of </xsl:text><xsl:value-of select="@extent"/>
+                </xsl:when>
+            </xsl:choose>
+            <xsl:if test="@reason | @agent">
+                <xsl:text> (</xsl:text>
+                <xsl:value-of select="@reason"/>
+                <xsl:if test="@reason and @agent">
+                    <xsl:text>, </xsl:text>
+                </xsl:if>
+                <xsl:value-of select="@agent"/>
+                <xsl:text>)</xsl:text>
+            </xsl:if>
+        </xsl:attribute>
+        <xsl:if test="not(node())">
+            <xsl:variable name="spacechar">
                 <xsl:choose>
-                    <xsl:when test="@quantity &gt; 0">
-                        <xsl:call-template name="repeat">
-                            <xsl:with-param name="output"><xsl:value-of select="$spacechar"/></xsl:with-param>
-                            <xsl:with-param name="count" select="@quantity"/>
-                        </xsl:call-template>
-
-                    </xsl:when>
-                    <xsl:when test="number($extentnum) &gt; 0">
-                        <xsl:call-template name="repeat">
-                            <xsl:with-param name="output"><xsl:value-of select="$spacechar"/></xsl:with-param>
-                            <xsl:with-param name="count" select="$extentnum"/>
-                        </xsl:call-template>
-                    </xsl:when>
-                    <xsl:otherwise><xsl:text>…</xsl:text></xsl:otherwise>
+                    <xsl:when test="@reason='ellipsis'">…</xsl:when>
+                    <xsl:when test="@reason='lost'">‡</xsl:when>
+                    <xsl:otherwise>?</xsl:otherwise>
                 </xsl:choose>
-                </xsl:element>
-            </xsl:otherwise>
-        </xsl:choose>
+            </xsl:variable>
+            <xsl:variable name="extentnum" select="translate(@extent,translate(@extent,'0123456789',''),'')"/>
+            <xsl:element name="span">
+            <xsl:choose>
+                <xsl:when test="@quantity &gt; 0">
+                    <xsl:call-template name="repeat">
+                        <xsl:with-param name="output"><xsl:value-of select="$spacechar"/></xsl:with-param>
+                        <xsl:with-param name="count" select="@quantity"/>
+                    </xsl:call-template>
+
+                </xsl:when>
+                <xsl:when test="number($extentnum) &gt; 0">
+                    <xsl:call-template name="repeat">
+                        <xsl:with-param name="output"><xsl:value-of select="$spacechar"/></xsl:with-param>
+                        <xsl:with-param name="count" select="$extentnum"/>
+                    </xsl:call-template>
+                </xsl:when>
+                <xsl:otherwise><xsl:text>…</xsl:text></xsl:otherwise>
+            </xsl:choose>
+            </xsl:element>
+        </xsl:if>
+        <xsl:apply-templates/>
     </xsl:element>
 </xsl:template>
 
@@ -407,6 +438,7 @@
 <xsl:template match="x:g">
         <xsl:variable name="ref" select="@ref"/>
         <xsl:variable name="rend" select="@rend"/>
+        <xsl:variable name="entityrend" select="$TST//tst:entityrend/tst:entry[@key=$rend]"/>
         <xsl:variable name="cname" select="$TST//tst:entityclasses/tst:entry[@key=$ref]"/>
         <xsl:variable name="ename" select="$TST//tst:entitynames/tst:entry[@key=$ref]"/>
         <xsl:variable name="rname" select="$TST//tst:rendnames/tst:entry[@key=$rend]"/>
@@ -415,9 +447,9 @@
             <xsl:call-template name="lang"/>
             <xsl:attribute name="class">
                 <xsl:text>gaiji</xsl:text>
-                <xsl:if test="$rend">
+                <xsl:if test="$entityrend">
                     <xsl:text> </xsl:text>
-                    <xsl:value-of select="$TST//tst:entityrend/tst:entry[@key=$rend]"/>
+                    <xsl:value-of select="$entityrend"/>
                 </xsl:if>
                 <xsl:if test="$cname">
                     <xsl:text> </xsl:text><xsl:value-of select="$cname"/>
@@ -432,7 +464,12 @@
                         </xsl:if>
                     </xsl:when>
                     <xsl:when test="$rend">
-                        <xsl:value-of select="$rname"/>
+                        <xsl:choose>
+                            <xsl:when test="$rname">
+                                <xsl:value-of select="$rname"/>
+                            </xsl:when>
+                            <xsl:otherwise><xsl:value-of select="$rend"/></xsl:otherwise>
+                        </xsl:choose>
                     </xsl:when>
                     <xsl:otherwise/>
                 </xsl:choose>
@@ -445,7 +482,7 @@
                         </xsl:when>
                         <xsl:otherwise>
                             <xsl:attribute name="data-glyph"><xsl:value-of select="$txt"/></xsl:attribute>
-                            <xsl:text>{</xsl:text><xsl:apply-templates/><xsl:text>}</xsl:text>
+                            <xsl:apply-templates/>
                         </xsl:otherwise>
                     </xsl:choose>
                 </xsl:when>
@@ -532,7 +569,15 @@
         <xsl:with-param name="hyphen"><xsl:value-of select="$hyphen"/></xsl:with-param>
     </xsl:call-template>
 </xsl:template>
-<xsl:template match="x:q[@rend='block']//x:lg//x:lb | x:quote[@rend='block']//x:lg//x:lb | x:q[not(@rend)]//x:lb | x:quote[not(@rend)]//x:lb">
+
+<xsl:template match="x:rubric/x:lb[1] | x:incipit/x:lb[1] | x:explicit/x:lb[1] | x:finalRubric/x:lb[1] | x:colophon/x:lb[1]">
+    <xsl:call-template name="lb">
+        <xsl:with-param name="hyphen">no</xsl:with-param>
+        <xsl:with-param name="excerpt">yes</xsl:with-param>
+    </xsl:call-template>
+</xsl:template>
+
+<xsl:template match="x:q[@rend='block']//x:lg//x:lb | x:quote[@rend='block']//x:lg//x:lb | x:q[not(@rend)]//x:lb | x:quote[not(@rend)]//x:lb | x:standOff[@type='apparatus']//x:lb">
     <xsl:call-template name="lb">
         <xsl:with-param name="diplo">false</xsl:with-param>
     </xsl:call-template>
@@ -541,10 +586,12 @@
 <xsl:template name="lb">
     <xsl:param name="diplo">true</xsl:param>
     <xsl:param name="hyphen">yes</xsl:param>
+    <xsl:param name="excerpt">no</xsl:param>
     <xsl:element name="span">
         <xsl:attribute name="class">
             <xsl:text>lb</xsl:text>
             <xsl:if test="$diplo = 'true'"><xsl:text> diplo</xsl:text></xsl:if>
+            <xsl:if test="$excerpt = 'yes'"><xsl:text> nobreak</xsl:text></xsl:if>
             <xsl:if test="not(@n)"><xsl:text> unnumbered</xsl:text></xsl:if>
         </xsl:attribute>
         <xsl:attribute name="lang">en</xsl:attribute>
@@ -605,7 +652,13 @@
         <xsl:with-param name="excerpt"><xsl:value-of select="$excerpt"/></xsl:with-param>
     </xsl:call-template>
 </xsl:template>
-<xsl:template match="x:q[@rend='block']//x:lg//x:pb | x:quote[@rend='block']//x:lg//x:pb">
+<xsl:template match="x:rubric/x:pb[1] | x:incipit/x:pb[1] | x:explicit/x:pb[1] | x:finalRubric/x:pb[1] | x:colophon/x:pb[1]">
+    <xsl:param name="excerpt">yes</xsl:param>
+    <xsl:call-template name="pb">
+        <xsl:with-param name="excerpt"><xsl:value-of select="$excerpt"/></xsl:with-param>
+    </xsl:call-template>
+</xsl:template>
+<xsl:template match="x:q[@rend='block']//x:lg//x:pb | x:quote[@rend='block']//x:lg//x:pb | x:standOff[@type='apparatus']//x:pb">
     <xsl:param name="excerpt">no</xsl:param>
     <xsl:call-template name="pb">
         <xsl:with-param name="diplo">false</xsl:with-param>
@@ -623,7 +676,7 @@
         </xsl:attribute>
         <xsl:attribute name="lang">en</xsl:attribute>
         <xsl:variable name="facs" select="@facs"/>
-        <xsl:variable name="unit" select="ancestor::x:TEI/x:teiHeader/x:fileDesc/x:sourceDesc/x:msDesc/x:physDesc/x:objectDesc/x:supportDesc/x:extent/x:measure/@unit"/>
+        <xsl:variable name="unit" select="ancestor::x:TEI/x:teiHeader/x:fileDesc/x:sourceDesc/x:msDesc/x:physDesc/x:objectDesc/x:supportDesc/x:extent/x:measure/@unit | @type"/>
         <!--xsl:if test="$excerpt = 'no' and @break = 'no'">
             <xsl:attribute name="data-nobreak"/>
         </xsl:if-->
@@ -737,6 +790,18 @@
     </xsl:element>
 </xsl:template>
 
+<xsl:template match="x:mod">
+    <xsl:element name="span">
+        <xsl:attribute name="class">unclear</xsl:attribute>
+        <xsl:attribute name="data-anno">
+            <xsl:text>modified</xsl:text>
+            <xsl:if test="@rend">
+                <xsl:text> (</xsl:text><xsl:value-of select="@rend"/><xsl:text>)</xsl:text>
+            </xsl:if>
+        </xsl:attribute>
+    </xsl:element>
+</xsl:template>
+
 <xsl:template match="x:unclear">
     <xsl:variable name="r" select="@reason"/>
     <xsl:variable name="reason" select="$TST//tst:reason//tst:entry[@key=$r]"/>
@@ -760,10 +825,10 @@
 <xsl:template match="x:caesura">
 <xsl:variable name="pretext" select="preceding::text()[1]"/>
 <xsl:if test="normalize-space(substring($pretext,string-length($pretext))) != ''">
-    <span class="caesura">-</span>
+    <span class="caesura ignored" data-teiname="caesura">-</span>
 </xsl:if>
     <xsl:element name="br">
-    <xsl:attribute name="class">caesura</xsl:attribute>
+    <xsl:attribute name="class">caesura ignored</xsl:attribute>
     </xsl:element>
 </xsl:template>
 
@@ -773,6 +838,35 @@
         <xsl:attribute name="class">expan</xsl:attribute>
         <xsl:attribute name="data-anno">abbreviation</xsl:attribute>
         <xsl:apply-templates/>
+    </xsl:element>
+</xsl:template>
+
+<xsl:template match="x:abbr">
+    <xsl:element name="span">
+        <xsl:call-template name="lang"/>
+        <xsl:attribute name="class">abbr</xsl:attribute>
+        <xsl:attribute name="data-anno">abbreviation</xsl:attribute>
+        <xsl:apply-templates/>
+    </xsl:element>
+</xsl:template>
+
+<xsl:template match="x:abbr[@ref]">
+    <xsl:variable name="ref" select="@ref"/>
+    <xsl:variable name ="abbr" select="$TST/tst:abbreviations/tst:entry[@key=$ref]"/>
+    <xsl:element name="abbr">
+        <xsl:if test="$abbr">
+            <xsl:attribute name="data-anno"><xsl:value-of select="$abbr"/></xsl:attribute>
+            <xsl:value-of select="$abbr/@short"/>
+        </xsl:if>
+    </xsl:element>
+</xsl:template>
+<xsl:template match="x:expan[@ref]">
+    <xsl:variable name="ref" select="@ref"/>
+    <xsl:variable name ="abbr" select="$TST/tst:abbreviations/tst:entry[@key=$ref]"/>
+    <xsl:element name="span">
+        <xsl:if test="$abbr">
+            <xsl:apply-templates select="$abbr"/>
+        </xsl:if>
     </xsl:element>
 </xsl:template>
 
@@ -788,12 +882,14 @@
 <xsl:template match="x:note[@place='foot']">
     <xsl:variable name="anchor" select="./x:c[@type='anchor']"/>
     <xsl:element name="span">
+        <xsl:attribute name="data-teiname">note</xsl:attribute>
         <xsl:attribute name="data-anno"/>
-        <xsl:attribute name="class">footnote</xsl:attribute>
-        <xsl:choose>
+        <xsl:attribute name="class">footnote ignored<xsl:if test="not($anchor)"> numbered</xsl:if></xsl:attribute>
+        <!--xsl:choose>
             <xsl:when test="$anchor"><xsl:value-of select="$anchor"/></xsl:when>
             <xsl:otherwise><xsl:text>*</xsl:text></xsl:otherwise>
-        </xsl:choose>
+        </xsl:choose-->
+        <xsl:if test="$anchor"><xsl:value-of select="$anchor"/></xsl:if>
         <xsl:element name="span">
             <xsl:attribute name="class">anno-inline</xsl:attribute>
             <xsl:call-template name="lang"/>
@@ -805,6 +901,7 @@
 <xsl:template match="x:note">
 <xsl:element name="span">
     <xsl:call-template name="lang"/>
+    <xsl:attribute name="data-teiname">note</xsl:attribute>
     <xsl:attribute name="class">note
         <xsl:choose>
             <xsl:when test="@place='above' or @place='top-margin' or @place='left-margin'"> super</xsl:when>
@@ -1013,4 +1110,10 @@
     </xsl:element>
 </xsl:template>
 
+<xsl:template match="x:retrace">
+    <span class="retrace" data-anno="retraced">
+        <xsl:call-template name="lang"/>
+        <xsl:apply-templates/>
+    </span>
+</xsl:template>
 </xsl:stylesheet>
