@@ -6,8 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Akanāṉūṟu</title> <num>NUMBER</num>. <title xml:lang="ta">TITLE</title> 
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>NUMBER</num>. <persName xml:lang="ta">NAME</persName>
         </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -51,7 +50,13 @@
         </div>
     </body>
   </text>
-<standOff>
+<standOff type="notes2" corresp="#ANNUMBER.1"> <!-- notes2 standoff -->
+    <note n="1">TEXT <abbr corresp="#WITNESS"/>; TEXT <abbr corresp="#WITNESS"/>+<abbr corresp="#WITNESS"/></note>
+    <note n="2">TEXT <rdg wit="#WITNESS #WITNESS">TEXT</rdg></note>
+</standOff>
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
 </standOff>
 </TEI>
 
@@ -81,3 +86,9 @@ or if there is no alternative reading given, only the lemma is attested in some 
 <app><lem wit="# # #"></lem></app>
 or if there is both lemma alternatives and reading alternatives:
 <app><lem wit="# # #"></lem><rdg wit="# # #"></rdg></app>
+
+notes for the apparatus:
+1. add anchor to the end of line before closing line tag
+<anchor n="NOTENUMBER"/> <!-- number each poem individually starting with 1 -->
+2. add note in the note2 standoff with the same number as the anchor, and add the note text there, including which witnesses have which readings
+3. for placement of note2 standoff see above, and for the format of the note2 standoff see above
