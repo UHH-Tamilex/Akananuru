@@ -943,5 +943,14 @@
      <expan><term xml:lang="ta">Rājam</term> edition (1957) reported when deviating, correction</expan>
    </witness>
  </witness>
+ <witness xml:id="Nacc.(T)" source="">
+   <abbr>Nacc.(T)</abbr>
+   <expan><term xml:lang="ta">Nacciṉārkkiṉiyar</term> commenting on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, <term xml:lang="ta">Tāmōtarampiḷḷai</term> edition</expan>
+  </witness>
+ 
+ <witness xml:id="IV" source="">
+   <abbr>IV</abbr>
+   <expan><term xml:lang="ta">Ilakkaṇa Viḷakkam</term></expan>
+ </witness>
 </listWit></standOff>
 </TEI>
