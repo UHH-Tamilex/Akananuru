@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Akanāṉūṟu</title> <num>121.1</num>. <title xml:lang="ta">maturai marutaṉ iḷanakaṉ</title><note><rdg wit="#C5">iḷanakaṉṉār</rdg></note> 
+          <title xml:lang="ta">Akanāṉūṟu</title> <num>121.1</num>. <title xml:lang="ta">maturai marutaṉ <app><lem>iḷanakaṉ</lem><rdg wit="#C5">iḷanakaṉṉār</rdg></app></title> 
             <persName xml:lang="ta"/>
         </title>
       </titleStmt>
@@ -35,23 +35,18 @@
         <div rend="parallel">
       <lg xml:id="AN121.1">
         <l>nānakai yuṭaiya neñcē <supplied>ka</supplied>ṭunteṟal</l>
-        <note>1a-2b missing in C1; 1a-1c blank in C2+3</note>
-        <l>vēṉi ṉīṭiya vāṉuyar vaḻināḷ</l>
+        <l>vēṉi ṉīṭiya vāṉuyar vaḻināḷ<anchor n="1"/></l>
         <l>vaṟumai kūṟiya maṇṇīrc ciṟukuḷat</l>
         <l>toṭukuḻi maru<supplied>ṅ</supplied>kiṟ ṟuvvāk kalaṅkal</l>
-        <l>kaṉṟuṭai maṭappiṭi kayantalai maṇṇic</l>
-        <note>5b-d <rdg wit="#C2 #C3">maṭap<space quantity="16" unit="character"/>c</rdg></note>
+          <l>kaṉṟuṭai maṭappiṭi kayantalai maṇṇic<anchor n="2"/></l>
         <l>cēṟukoṇ ṭāṭiya vēṟupaṭu vayakkaḷiṟu</l>
-        <l>ceṅkōl vāliṇar tayaṅkat tīṇṭic</l>
-        <note>6c-7c displaced to after 2c in NL and repeated in sequence on next folio <!-- FF variant --></note>
+          <l>ceṅkōl vāliṇar tayaṅkat tīṇṭic<anchor n="3"/></l>
         <l>coṟipuṟa muriñciya ne<supplied>ṟi</supplied>yayaṉ marāat</l>
-        <l>talkuṟu variniḻa lacaiiya nammoṭu</l>
-        <note>8d-9c <rdg wit="#C2 #C3">marā<space quantity="15" unit="character"/>caii</rdg></note>
+          <l>talkuṟu variniḻa lacaiiya nammoṭu<anchor n="4"/></l>
         <l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
         <l>yuṟukaṇ maḻava ruruḷ<supplied>tī</supplied>ṇ ṭiṭṭa</l>
         <l>vāṟuceṉ mākkaḷ cōṟupoti veṇkuṭaik</l>
-        <l>kaṉmicaik kaṭuva<supplied>ḷi</supplied> yeṭuttaliṟ ṟuṇaicettu</l>
-        <note>12d-13a <rdg wit="#C2 #C3">veṇ<space quantity="12" unit="character"/>caik</rdg></note>
+          <l>kaṉmicaik kaṭuva<supplied>ḷi</supplied> yeṭuttaliṟ ṟuṇaicettu<anchor n="5"/></l>
         <l>ve<supplied>ru</supplied>ḷēṟu payiru mā<supplied>ṅ</supplied>kaṭ</l>
         <l>karumuka mucuviṉ kāṉat tāṉē.</l>
       </lg>
@@ -75,7 +70,13 @@
         </div>
     </body>
   </text>
-
+  <standOff type="notes2" corresp="#AN121.1">
+    <note n="1">1a-2b missing in <abbr corresp="#C1"/>; 1a-1c blank in <abbr corresp="#C2"/>+<abbr corresp="#C3"/></note>
+        <note n="2">5b-d <rdg wit="#C2 #C3">maṭap<space quantity="16" unit="character"/>c</rdg></note>
+    <note n="3">6c-7c displaced to after 2c in <abbr corresp="#NL"/> and repeated in sequence on next folio <!-- FF variant --></note>
+        <note n="4">8d-9c <rdg wit="#C2 #C3">marā<space quantity="15" unit="character"/>caii</rdg></note>
+        <note n="5">12d-13a <rdg wit="#C2 #C3">veṇ<space quantity="12" unit="character"/>caik</rdg></note>
+  </standOff>
 <standOff type="wordsplit" corresp="#AN121.1">
 <interp type="alignment" select="0">2MR12MR4M2G16ML82MG37MG84MG3MG71MG114MG2M,437MG</interp>
 <entry>
