@@ -946,7 +946,7 @@
  </witness>
 
  <witness xml:id="NaccT" source="">
-   <abbr>NaccT</abbr>
+        <abbr>Nacc<hi rend="subscript">T</hi></abbr>
    <expan><term xml:lang="ta">Nacciṉārkkiṉiyar</term> commenting on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, <term xml:lang="ta">Tāmōtarampiḷḷai</term> edition</expan>
   </witness>
  
