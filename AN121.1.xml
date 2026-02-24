@@ -38,15 +38,15 @@
         <l>vēṉi ṉīṭiya vāṉuyar vaḻināḷ<anchor n="1"/></l>
         <l>vaṟumai kūṟiya maṇṇīrc ciṟukuḷat</l>
         <l>toṭukuḻi maru<supplied>ṅ</supplied>kiṟ ṟuvvāk kalaṅkal</l>
-          <l>kaṉṟuṭai maṭappiṭi kayantalai maṇṇic<anchor n="2"/></l>
+        <l>kaṉṟuṭai maṭappiṭi kayantalai maṇṇic<anchor n="2"/></l>
         <l>cēṟukoṇ ṭāṭiya vēṟupaṭu vayakkaḷiṟu</l>
-          <l>ceṅkōl vāliṇar tayaṅkat tīṇṭic<anchor n="3"/></l>
+        <l>ceṅkōl vāliṇar tayaṅkat tīṇṭic<anchor n="3"/></l>
         <l>coṟipuṟa muriñciya ne<supplied>ṟi</supplied>yayaṉ marāat</l>
-          <l>talkuṟu variniḻa lacaiiya nammoṭu<anchor n="4"/></l>
+        <l>talkuṟu variniḻa lacaiiya nammoṭu<anchor n="4"/></l>
         <l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
         <l>yuṟukaṇ maḻava ruruḷ<supplied>tī</supplied>ṇ ṭiṭṭa</l>
         <l>vāṟuceṉ mākkaḷ cōṟupoti veṇkuṭaik</l>
-          <l>kaṉmicaik kaṭuva<supplied>ḷi</supplied> yeṭuttaliṟ ṟuṇaicettu<anchor n="5"/></l>
+        <l>kaṉmicaik kaṭuva<supplied>ḷi</supplied> yeṭuttaliṟ ṟuṇaicettu<anchor n="5"/></l>
         <l>ve<supplied>ru</supplied>ḷēṟu payiru mā<supplied>ṅ</supplied>kaṭ</l>
         <l>karumuka mucuviṉ kāṉat tāṉē.</l>
       </lg>
@@ -72,10 +72,10 @@
   </text>
   <standOff type="notes2" corresp="#AN121.1">
     <note n="1">1a-2b missing in <abbr corresp="#C1"/>; 1a-1c blank in <abbr corresp="#C2"/>+<abbr corresp="#C3"/></note>
-        <note n="2">5b-d <rdg wit="#C2 #C3">maṭap<space quantity="16" unit="character"/>c</rdg></note>
+    <note n="2">5b-d <rdg wit="#C2 #C3">maṭap<space quantity="16" unit="character"/>c</rdg></note>
     <note n="3">6c-7c displaced to after 2c in <abbr corresp="#NL"/> and repeated in sequence on next folio <!-- FF variant --></note>
-        <note n="4">8d-9c <rdg wit="#C2 #C3">marā<space quantity="15" unit="character"/>caii</rdg></note>
-        <note n="5">12d-13a <rdg wit="#C2 #C3">veṇ<space quantity="12" unit="character"/>caik</rdg></note>
+    <note n="4">8d-9c <rdg wit="#C2 #C3">marā<space quantity="15" unit="character"/>caii</rdg></note>
+    <note n="5">12d-13a <rdg wit="#C2 #C3">veṇ<space quantity="12" unit="character"/>caik</rdg></note>
   </standOff>
 <standOff type="wordsplit" corresp="#AN121.1">
 <interp type="alignment" select="0">2MR12MR4M2G16ML82MG37MG84MG3MG71MG114MG2M,437MG</interp>
