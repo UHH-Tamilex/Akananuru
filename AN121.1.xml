@@ -944,8 +944,8 @@
    </witness>
  </witness>
 
- <witness xml:id="Nacc(T)" source="">
-   <abbr>Nacc.(T)</abbr>
+ <witness xml:id="NaccT" source="">
+   <abbr>NaccT</abbr>
    <expan><term xml:lang="ta">Nacciṉārkkiṉiyar</term> commenting on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, <term xml:lang="ta">Tāmōtarampiḷḷai</term> edition</expan>
   </witness>
  
