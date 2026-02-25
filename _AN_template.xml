@@ -33,7 +33,6 @@
           <p type="edition">
           <app>
           <lem wit="#A #B #C">[lemma, which is attested in witnesses A, B, and C]</lem>[lemma]
-          </lem>
           <rdg wit="#A #B #C">[variant reading for witnesses A, B, and C]
           </rdg>
           </app>
