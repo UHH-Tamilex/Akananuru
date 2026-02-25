@@ -79,6 +79,9 @@ If there are text parts missing:
 XX is the number of Tamil characters (guesstimate)
 add note in Word for check in the MSS!
 
+If there are blank spaces in the text:
+<space quantity="XX" unit="character"/>
+
 short copy-paste for apparatus
 <app><lem></lem><rdg wit="# # #"></rdg></app>
 or if there is no alternative reading given, only the lemma is attested in some of the sources
