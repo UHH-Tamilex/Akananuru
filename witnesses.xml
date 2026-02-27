@@ -115,6 +115,14 @@
      <abbr>RKv</abbr>
      <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> edition (1933?) [= rep. of the editio princeps 1920?], variant reading</expan>
    </witness>
+   <witness xml:id="1RK">
+     <abbr><hi rend="superscript">1</hi>RK</abbr>
+     <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> first edition (1926)</expan>
+   </witness>
+   <witness xml:id="2RK">
+     <abbr><hi rend="superscript">2</hi>RK</abbr>
+     <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> second edition (1933)</expan>
+   </witness>
  </witness>
 
  <witness xml:id="VP" source="">
@@ -211,6 +219,11 @@
       <expan><term xml:lang="ta">Neytal Nāṉmāl</term> edition (1975) reported when deviating, variant reading</expan>
     </witness>
   </witness>
+
+  <witness xml:id="RV" source="">
+   <abbr>RV</abbr>
+   <expan>?</expan>
+ </witness>
 
   </listWit>
  
