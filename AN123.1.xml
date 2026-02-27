@@ -606,5 +606,46 @@
       <expan>palm-leaf manuscript from the UVSL [107] KV-351.7; 158.10ff.-172 + 203.6-205.20d missing; page number 47/48 omitted; dated to 1727 [matrix for the Vaiṣṇava strand], variant reading</expan>
     </witness>
   </witness>
+
+
+  <witness xml:id="KK" source="">
+   <abbr>KK</abbr>
+   <expan><term xml:lang="ta">Kākālār</term> edition (1975) reported when deviating</expan>
+  </witness>
+
+  <witness xml:id="Nakk" source="">
+   <abbr>Nakk</abbr>
+   <expan><term xml:lang="ta">Nakkār</term> edition (1975) reported when deviating</expan>
+  </witness>
+
+  <witness xml:id="May" source="">
+   <abbr>May</abbr>
+   <expan><term xml:lang="ta">Mayilār</term> edition (1975) reported when deviating</expan>
+  </witness>
+
+  <witness xml:id="Caṅk" source="">
+   <abbr>Caṅk</abbr>
+   <expan><term xml:lang="ta">Caṅkār</term> edition (1975) reported when deviating</expan>
+  </witness>
+
+  <witness xml:id="Iḷ" source="">
+   <abbr>Iḷ</abbr>
+   <expan><term xml:lang="ta">Iḷaṟṟu</term> edition (1975) reported when deviating</expan>
+  </witness>
+
+  <witness xml:id="Kuḻ" source="">
+   <abbr>Kuḻ</abbr>
+   <expan><term xml:lang="ta">Kuḻaṟṟu</term> edition (1975) reported when deviating</expan>
+  </witness>
+
+  <witness xml:id="NN" source="">
+    <abbr>NN</abbr>
+    <expan><term xml:lang="ta">Neytal Nāṉmāl</term> edition (1975) reported when deviating</expan>
+    <witness xml:id="NNv">
+      <abbr>NNv</abbr>
+      <expan><term xml:lang="ta">Neytal Nāṉmāl</term> edition (1975) reported when deviating, variant reading</expan>
+    </witness>
+  </witness>
+
 </listWit></standOff>
 </TEI>
