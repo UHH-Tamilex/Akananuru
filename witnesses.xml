@@ -220,6 +220,15 @@
     </witness>
   </witness>
 
+  <witness xml:id="Pēr" source="">
+    <abbr>Pēr</abbr>
+    <expan><term xml:lang="ta">Pērātaiyar</term> edition (1975) reported when deviating</expan>
+    <witness xml:id="Pērv">
+      <abbr>Pērv</abbr>
+      <expan><term xml:lang="ta">Pērātaiyar</term> edition (1975) reported when deviating, variant reading</expan>
+    </witness>
+  </witness>
+
   <witness xml:id="RV" source="">
    <abbr>RV</abbr>
    <expan>?</expan>
