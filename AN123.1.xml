@@ -69,7 +69,7 @@
         </div>
     </body>
   </text>
-<standOff type="notes2" corresp="#123.1">
+<standOff type="notes2" corresp="#AN123.1">
     <note n="1">5b-6c <abbr corresp="#C2 #C3"/>: ṭaruta<space quantity="28" unit="character"/>ṉallakam</note>
     <note n="2">9c-10b <abbr corresp="#C2 #C3"/>: neṭuvī ḻeḵki<space quantity="33" unit="character"/>ṉ</note>
     <note n="3">13c-14 <abbr corresp="#C3"/>: <space quantity="23" unit="character"/>ṉṟutaru</note>
