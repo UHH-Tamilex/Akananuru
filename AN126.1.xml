@@ -3,8 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Akanāṉūṟu</title> 126.1. 
-            <persName xml:lang="ta"/>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>126.1</num>. <persName xml:lang="ta">nakkīrar</persName>
         </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -717,4 +716,219 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN126.1" type="apparatus"><listApp>
+<app loc="0,6">
+        <lem wit="#NL #C5 #C7 #C9">niṉvāy</lem>
+        <rdg wit="#C2 #C3">niṉvāyc</rdg>
+<rdg wit="#RK">niṉavāy</rdg>
+<rdg wit="#C9v #NaccT #RKv">niṉceyal</rdg>
+        </app>
+<app loc="17,23">
+        <lem wit="#NL #C5 #C7 #C9 #RK">vuḷḷip</lem>
+        <rdg wit="#C2 #C3">vuḷḷi</rdg>
+<rdg wit="#C7v">vuṉṉip</rdg>
+        </app>
+<app loc="23,31">
+        <lem wit="#NL #C2 #C3 #C5v #C7 #C9v #RK">perumpuṉ</lem>
+        <rdg wit="#C5 #C9">perumvuṉ</rdg> <!--FFvariant-->
+        </app>
+<app loc="31,39">
+        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">paitalai</lem>
+        <rdg wit="#NL">maitalai</rdg>
+<rdg wit="#C9">vaitalai</rdg>
+        </app>
+<app loc="71,80">
+        <lem wit="#NL #NaccT #RKv">malintuce</lem>
+        <rdg wit="#C5">malintuceṉ</rdg>
+<rdg wit="#C9">malaintuce</rdg>
+<rdg wit="#C2 #C3 #C7 #C9v #RK">malintucela</rdg>
+        </app>
+<app loc="86,94">
+        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">talaināṇ</lem>
+        <rdg wit="#NL">talaitāṇ</rdg>
+        </app>
+<app loc="101,118">
+        <lem wit="#NL #C9 #RKv">taṇṭuṟaip parappik</lem>
+        <rdg wit="#C5">taṇṭuṟai parappik</rdg>
+<rdg wit="#NaccT">taṇṭuṟaip parappiṟ</rdg>
+<rdg wit="#C3">kaṇṭuṟat tayaṅkak</rdg>
+<rdg wit="#C2 #C7 #C9v #RK">taṇṭuṟait tayaṅkak</rdg>
+        </app>
+<app loc="118,128">
+        <lem wit="#NL #C2 #C5 #C7 #C9 #RK">kaṭalkarai</lem>
+        <rdg wit="#C3">kaṭalkaṟai</rdg> <!--FFvariant-->
+        </app>
+<app loc="143,149">
+        <lem wit="#NL #C2 #C3 #C5 #C9">pēryāṟ</lem>
+        <rdg wit="#C7 #NaccT #RK">pēriyāṟ</rdg> <!--sandhivariant-->
+        </app>
+<app loc="149,157">
+        <lem wit="#NL #C5 #C7 #C9">ṟakalvāy</lem>
+        <rdg wit="#C2 #C3 #C5v #C7v #C9v #NaccT #RK">ṟaṟalvār</rdg>
+<rdg wit="#RKv">ṟaṟalvāḻ</rdg>
+        </app>
+<app loc="167,178">
+        <lem wit="#NL #C5 #C9">talarunilai</lem>
+        <rdg wit="#C2 #C3 #C5c #C7 #C9v #NaccT #RK">tarunilai</rdg>
+        </app>
+<app loc="198,204">
+        <lem wit="#C2 #C3 #C5 #C9 #RKv">pōkiya</lem>
+        <rdg wit="#C5v #C7 #C9v #NaccT #RK">pōkit</rdg>
+        </app>
+<app loc="204,213">
+        <lem wit="#NL #C5 #C7 #C9 #RK">taṉṉaiyar</lem>
+        <rdg wit="#C2 #C3">taṉṉaiyark</rdg>
+<rdg wit="#RKv">taṉṉai</rdg>
+        </app>
+<app loc="213,219">
+        <lem wit="#NL #C5 #C7 #C9 #RK">kālait</lem>
+        <rdg wit="#C2 #C3">kālai</rdg> <!--sandhivariant-->
+        </app>
+<app loc="224,235">
+        <lem wit="#NL #C2 #C5 #C7 #C9 #RK">kaṇaikkōṭṭu</lem>
+        <rdg wit="#C3">kaṇaittōṭṭu</rdg>
+        </app>
+<app loc="241,258">
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">kavvāṅ kunti yañcoṟ</lem>
+        <rdg wit="#NaccT">kataṟuva vānkuna tīñcoṟ</rdg>
+        </app>
+<app loc="298,306">
+        <lem wit="#NL #C5 #C7 #C9 #NaccT #RK">paḻañcen</lem>
+        <rdg wit="#C2 #C3 #C9v">paḻañcey</rdg>
+        </app>
+<app loc="319,325">
+        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">koḷḷāḷ</lem>
+        <rdg wit="#NL">koḷāḷ</rdg>
+        </app>
+<app loc="344,358">
+        <lem wit="#NL #C5 #C7 #C9">naṉkalan tarūum</lem>
+        <rdg wit="#C5v #C7c #C9v #RK">naṉkalam peṟūum</rdg>
+<rdg wit="#NaccT">nalkalam peṟūum</rdg>
+<rdg wit="#C2 #C3 #C9c #RKv">naṉkalam porūum</rdg>
+        </app>
+<app loc="358,367">
+        <lem wit="#NL #C2 #C5 #C7 #C9 #RK">payaṅkeḻu</lem>
+        <rdg wit="#C3">payaṅkaiḻu</rdg> <!--FFvariant-->
+        </app>
+<app loc="409,441">
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">maṭaṅkāṉ
+poṉṉiṇar naṟumalarp puṉṉai</lem>
+        <rdg wit="#NaccT">maṭaṅkā
+ḷīṉpoṉ ṉiṇarnaṟu malarppuṉṉai</rdg>
+        </app>
+<app loc="447,457">
+        <lem wit="#NL #C5 #C7 #C9c #RK">titiyaṉoṭu</lem>
+        <rdg wit="#C2 #C3 #C9v">tiyaṉoṭu</rdg>
+<rdg wit="#C9">titipaṉoṭu</rdg>
+<rdg wit="#NaccT">titiyoṭu</rdg>
+        </app>
+<app loc="457,463">
+        <lem wit="#NL #C2 #C5 #C7 #C9 #RK">poruta</lem>
+        <rdg wit="#C3 #C9v">porunta</rdg>
+        </app>
+<app loc="481,486">
+        <lem wit="#NL #C2 #C3 #C5 #C7v #C9 #RK">kollō</lem>
+        <rdg wit="#C7 #RKv">ceṉmō</rdg>
+        </app>
+<app loc="490,499">
+        <lem wit="#NL #C5 #C7 #C9 #RK">kiḷiyeṉac</lem>
+        <rdg wit="#C2 #C3">kiḷiyeyeṉṉac</rdg>
+        </app>
+<app loc="542,548">
+        <lem wit="#C2 #C3 #C5 #C7 #C9c #RK">vuṇkaṭ</lem>
+        <rdg wit="#NL #C9">vuṇkaṇaṭ</rdg>
+        </app>
+<app loc="557,565">
+        <lem wit="#C3 #C5 #C7 #C9v #RK">puṟantāḻ</lem>
+        <rdg wit="#NL #C9">puṟantāḷ</rdg>
+        </app>
+<app loc="573,591">
+        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">piṟaṅkukura laimpāṉ</lem>
+        <rdg wit="#NL">piraṅkukura laimpāṇ</rdg>
+        </app>
+<app loc="591,597">
+        <lem wit="#NL #C5 #C7 #C9 #NaccT #RK">miṉṉēr</lem>
+        <rdg wit="#C2 #C3">miṉṉē</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="NL" source="mss/NL.xml">
+    <abbr>NL</abbr>
+    <expan>palm-leaf manuscript from the National Library in Kolkatta [3141/S.V.P. 91] complete, except 336.19d-343.15c [consulted to supplement the damaged C1]</expan>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C5" source="">
+   <abbr>C<hi rend="subscript">5</hi></abbr>
+   <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand]</expan>
+   <witness xml:id="C5v">
+     <abbr>C<hi rend="subscript">5</hi>v</abbr>
+     <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand], variant reading</expan>
+   </witness>
+   <witness xml:id="C5c">
+     <abbr>C<hi rend="subscript">5</hi>c</abbr>
+     <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand], correction</expan>
+   </witness>
+ </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C7" source="">
+    <abbr>C<hi rend="subscript">7</hi></abbr>
+    <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v]</expan>
+    <witness xml:id="C7v">
+      <abbr>C<hi rend="subscript">7</hi>v</abbr>
+      <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v], variant reading</expan>
+    </witness>
+    <witness xml:id="C7c">
+      <abbr>C<hi rend="subscript">7</hi>c</abbr>
+      <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v], correction</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C9" source="mss/C9.xml">
+    <abbr>C<hi rend="subscript">9</hi></abbr>
+    <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1]</expan>
+    <witness xml:id="C9v">
+      <abbr>C<hi rend="subscript">9</hi>v</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
+    </witness>
+    <witness xml:id="C9c">
+      <abbr>C<hi rend="subscript">9</hi>c</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], correction</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C2" source="mss/C2.xml">
+    <abbr>C<hi rend="subscript">2</hi></abbr>
+    <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63]</expan>
+    <witness xml:id="C2v">
+      <abbr>C<hi rend="subscript">2</hi>v</abbr>
+      <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C3" source="mss/C3.xml">
+    <abbr>C<hi rend="subscript">3</hi></abbr>
+    <expan>palm-leaf manuscript from the UVSL [107] KV-351.7; 158.10ff.-172 + 203.6-205.20d missing; page number 47/48 omitted; dated to 1727 [matrix for the Vaiṣṇava strand]</expan>
+    <witness xml:id="C3v">
+      <abbr>C<hi rend="subscript">3</hi>v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [107] KV-351.7; 158.10ff.-172 + 203.6-205.20d missing; page number 47/48 omitted; dated to 1727 [matrix for the Vaiṣṇava strand], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="RK" source="">
+   <abbr>RK</abbr>
+   <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term>edition (1933?) [= rep. of the editio princeps 1920?]</expan>
+   <witness xml:id="RKv">
+     <abbr>RKv</abbr>
+     <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> edition (1933?) [= rep. of the editio princeps 1920?], variant reading</expan>
+   </witness>
+   <witness xml:id="1RK">
+     <abbr><hi rend="superscript">1</hi>RK</abbr>
+     <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> first edition (1926)</expan>
+   </witness>
+   <witness xml:id="2RK">
+     <abbr><hi rend="superscript">2</hi>RK</abbr>
+     <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> second edition (1933)</expan>
+   </witness>
+ </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="NaccT" source="">
+   <abbr>Nacc<hi rend="subscript">T</hi></abbr>
+   <expan><term xml:lang="ta">Nacciṉārkkiṉiyar</term> commenting on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, <term xml:lang="ta">Tāmōtarampiḷḷai</term> edition</expan>
+  </witness>
+</listWit></standOff>
+
 </TEI>

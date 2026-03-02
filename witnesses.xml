@@ -189,6 +189,10 @@
   <witness xml:id="Nakk" source="">
    <abbr>Nakk</abbr>
    <expan><term xml:lang="ta">Nakkār</term> edition (1975) reported when deviating</expan>
+   <witness xml:id="Nakkv">
+      <abbr>Nakkv</abbr>
+      <expan><term xml:lang="ta">Nakkār</term> edition (1975) reported when deviating, variant reading</expan>
+    </witness>
   </witness>
 
   <witness xml:id="May" source="">
@@ -217,6 +221,15 @@
     <witness xml:id="NNv">
       <abbr>NNv</abbr>
       <expan><term xml:lang="ta">Neytal Nāṉmāl</term> edition (1975) reported when deviating, variant reading</expan>
+    </witness>
+  </witness>
+
+  <witness xml:id="Per" source="">
+    <abbr>PPer</abbr>
+    <expan><term xml:lang="ta">Pērātaiyar</term> edition (1975) reported when deviating</expan>
+    <witness xml:id="Perv">
+      <abbr>Perv</abbr>
+      <expan><term xml:lang="ta">Pērātaiyar</term> edition (1975) reported when deviating, variant reading</expan>
     </witness>
   </witness>
 
