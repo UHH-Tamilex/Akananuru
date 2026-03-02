@@ -739,7 +739,7 @@ maitōy</rdg>
 <rdg wit="#C5 #C7v">karikālaṉ</rdg>
         </app>
 <app loc="486,492">
-        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RV">cellār</lem>
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">cellār</lem>
         <rdg wit="#IV">cellāp</rdg>
         </app>
 <app loc="512,520">
@@ -861,10 +861,7 @@ maitōy</rdg>
    <abbr>IV</abbr>
    <expan><term xml:lang="ta">Ilakkaṇa Viḷakkam</term></expan>
  </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="RV" source="">
-   <abbr>RV</abbr>
-   <expan>?</expan>
- </witness>
+
 </listWit></standOff>
 
 </TEI>
