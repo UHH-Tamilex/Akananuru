@@ -152,7 +152,12 @@
 
  <witness xml:id="SAv" source="">
    <abbr>SAv</abbr>
-   <expan>variants listed in the unpublished translation by <term xml:lang="ta">Cupiramaṇiya Aiyar</term> (1975)</expan>
+   <expan>variant listed in the unpublished translation by <term xml:lang="ta">Cupiramaṇiya Aiyar</term> (1975)</expan>
+ </witness>
+
+ <witness xml:id="SAv2" source="">
+   <abbr>SAv2</abbr>
+   <expan>variant listed in the unpublished translation by <term xml:lang="ta">Cupiramaṇiya Aiyar</term> (1975)</expan>
  </witness>
 
  <witness xml:id="EC" source="">
