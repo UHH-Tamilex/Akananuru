@@ -761,6 +761,10 @@ maitōy</rdg>
         </app>
 </listApp>
 <listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="mss/C1.xml">
+    <abbr>C<hi rend="subscript">1</hi></abbr>
+    <expan>palm-leaf manuscript from the UVSL [1075] covering 3(kiḷ.)-400.22b, except 46.12c-50 between pp. 165 and 166; 123.14-128.7a between pp. 197 and 198, 336.19d-343.15c</expan>
+  </witness>
 <witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C2" source="mss/C2.xml">
     <abbr>C<hi rend="subscript">2</hi></abbr>
     <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63]</expan>
