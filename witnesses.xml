@@ -236,5 +236,9 @@
     </witness>
   </witness>
 
+  <witness xml:id="Nam" source="">
+   <abbr>Nam</abbr>
+   <expan><term xml:lang="ta">Nammalvar</term> edition (1975) reported when deviating</expan>
+  </witness>
   </listWit>
  
