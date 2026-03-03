@@ -635,6 +635,10 @@
    <abbr>EC</abbr>
    <expan><term xml:lang="ta">Cāminātaiyar</term> library edition by <term xml:lang="ta">Civacupiramaṇiyaṉ</term>  (1990)</expan>
  </witness>
+ <witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="corr" source="">
+   <abbr>corr</abbr>
+   <expan>editor's correction</expan>
+  </witness>
 </listWit></standOff>
 
 </TEI>
