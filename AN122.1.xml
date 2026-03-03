@@ -1104,7 +1104,8 @@
         </app>
 <app loc="465,476">
         <lem wit="#NL #C1 #C5 #C6 #C7 #G1 #G2 #RK">kālai yorunā</lem>
-        <rdg wit="#C2 #C3">kālai(kālai) yorukā</rdg>
+        <rdg wit="#C2">kālai kālai yorukā</rdg>
+        <rdg wit="#C3">kālai(kālai) yorukā</rdg>
 <rdg wit="#C9">kālan torunā</rdg>
 <rdg wit="#Nakk #NaccT">kālat torunā</rdg> <!--FFvariant-->
         </app>

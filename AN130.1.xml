@@ -491,7 +491,8 @@
         </app>
 <app loc="258,269">
         <lem wit="#NL #C1 #C5 #C9 #G1 #G2 #RK">kavarnaṭaip</lem>
-        <rdg wit="#C7 #EC #RKv #SAv">kavarpari(p)</rdg>
+        <rdg wit="#C7">kavarpari(p)</rdg>
+        <rdg wit="#EC #RKv #SAv">kavarparip</rdg>
 <rdg wit="#RKv2 #SAv2">kavarkāṟ</rdg>
 <rdg wit="#C2 #C3">kavarap</rdg>
         </app>
