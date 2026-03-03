@@ -228,7 +228,7 @@
   </witness>
 
   <witness xml:id="Per" source="">
-    <abbr>PPer</abbr>
+    <abbr>Per</abbr>
     <expan><term xml:lang="ta">Pērātaiyar</term> edition (1975) reported when deviating</expan>
     <witness xml:id="Perv">
       <abbr>Perv</abbr>
@@ -240,5 +240,11 @@
    <abbr>Nam</abbr>
    <expan><term xml:lang="ta">Nammalvar</term> edition (1975) reported when deviating</expan>
   </witness>
+
+  <witness xml:id="corr" source="">
+   <abbr>corr</abbr>
+   <expan>editor's correction</expan>
+  </witness>
+
   </listWit>
  
