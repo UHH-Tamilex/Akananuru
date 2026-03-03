@@ -111,18 +111,16 @@
  <witness xml:id="RK" source="">
    <abbr>RK</abbr>
    <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term>edition (1933?) [= rep. of the editio princeps 1920?]</expan>
-   <witness xml:id="RKv">
+  <listWit>
+   <witness xml:id="RKv" select="#v">
      <abbr>RKv</abbr>
      <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> edition (1933?) [= rep. of the editio princeps 1920?], variant reading</expan>
    </witness>
-   <witness xml:id="RK2">
-     <abbr>RK<hi rend="superscript">1</hi></abbr>
-     <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> first edition (1926)</expan>
+   <witness xml:id="RKv2" select="#v2">
+     <abbr>RKv2</abbr>
+     <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> edition (1933?) [= rep. of the editio princeps 1920?], variant reading</expan>
    </witness>
-   <witness xml:id="RK2">
-      <abbr><hi rend="superscript">2</hi>RK<hi rend="superscript">2</hi></abbr>
-     <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> second edition (1933)</expan>
-   </witness>
+  </listWit>
  </witness>
 
  <witness xml:id="VP" source="">
