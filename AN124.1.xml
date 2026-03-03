@@ -529,7 +529,8 @@
         </app>
 <app loc="159,166">
         <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">cēkkait</lem>
-        <rdg wit="#G1 #G2">(k)kait</rdg> <!--FFvariant-->
+        <rdg wit="#G1">(k)kait</rdg>
+        <rdg wit="#G2">kkait</rdg> <!--FFvariant-->
         </app>
 <app loc="166,173">
         <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">tuṉitīr</lem>
