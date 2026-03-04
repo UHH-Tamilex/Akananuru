@@ -70,7 +70,7 @@
   </text>
 
 <standOff type="notes2" corresp="#AN128.1">
-    <note n="1"><gap reason="lost" unit="character" quantity="5"/> <abbr corresp="#C1"/></note> <!--FFvariant-->
+    <note n="1">10cd <abbr corresp="#C1"/>: <gap reason="lost" unit="character" quantity="5"/></note> <!--FFvariant-->
     <note n="2">15bcd <abbr corresp="#C1"/>: <gap reason="lost" unit="character" quantity="5"/> tiṉṟē</note> <!--FFvariant-->
 </standOff>
 

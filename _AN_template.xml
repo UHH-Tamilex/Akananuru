@@ -50,8 +50,9 @@
     </body>
   </text>
 <standOff type="notes2" corresp="#ANNUMBER.1"> <!-- notes2 standoff -->
-    <note n="1">TEXT <abbr corresp="#WITNESS"/>; TEXT <abbr corresp="#WITNESS"/>+<abbr corresp="#WITNESS"/></note>
-    <note n="2">TEXT <rdg wit="#WITNESS #WITNESS">TEXT</rdg></note>
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>; TEXT <abbr corresp="#WITNESS"/>+<abbr corresp="#WITNESS"/></note> <!-- do not write two witness into one abbr tag -->
+    <note n="XX">TEXT <rdg wit="#WITNESS #WITNESS">TEXT</rdg></note>
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
 </standOff>
 <standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
 </standOff>
