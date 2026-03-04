@@ -92,13 +92,13 @@
     </body>
   </text>
 <standOff type="notes2" corresp="#AN122.1">
-    <note n="1">6d-7b <rdg wit="#G2">: kaṭu<space quantity="12" unit="character"/>ḷaiyar</rdg></note> <!-- FF variant -->
-    <note n="2">10df. <rdg wit="#G2">: vi<space quantity="8" unit="character"/>kalvāvāy</rdg></note> <!-- FF variant -->
-    <note n="3">15b <rdg wit="#G2">: <space quantity="2" unit="character"/>val</rdg></note> <!-- FF variant --> 
-    <note n="4">16cd <rdg wit="#C2">: māṇ<space quantity="4" unit="character"/>yampu</rdg></note> <!-- FF variant -->
-    <note n="5">18a-k <rdg wit="#C2 #C3">(): ṉilarē<space quantity="12" unit="character"/>rē</rdg></note>
-    <note n="6">20b-21a <rdg wit="#G2">: <space quantity="7" unit="character"/>āypari<space quantity="7" unit="character"/>cci</rdg></note> <!-- FF variant -->
-    <note n="7">22d-23d <rdg wit="#C2 #C3">: ṭaṉ<space quantity="17" unit="character"/>ḻinaṅ kaḷavē</rdg></note>
+    <note n="1">6d-7b <abbr corresp="#G2"/>: kaṭu<space quantity="12" unit="character"/>ḷaiyar</note> <!-- FF variant -->
+    <note n="2">10df. <abbr corresp="#G2"/>: vi<space quantity="8" unit="character"/>kalvāvāy</note> <!-- FF variant -->
+    <note n="3">15b <abbr corresp="#G2"/>: <space quantity="2" unit="character"/>val</note> <!-- FF variant --> 
+    <note n="4">16cd <abbr corresp="#C2"/>: māṇ<space quantity="4" unit="character"/>yampu</note> <!-- FF variant -->
+    <note n="5">18a-k <abbr corresp="#C2"/><abbr corresp="#C3"/>: ṉilarē<space quantity="12" unit="character"/>rē</note> <!-- C3 with () -->
+    <note n="6">20b-21a <abbr corresp="#G2"/>: <space quantity="7" unit="character"/>āypari<space quantity="7" unit="character"/>cci</note> <!-- FF variant -->
+    <note n="7">22d-23d <abbr corresp="#C2"/><abbr corresp="#C3"/>: ṭaṉ<space quantity="17" unit="character"/>ḻinaṅ kaḷavē</note>
 </standOff>
 <standOff type="wordsplit" corresp="#AN122.1">
 <interp type="alignment" select="0">26MG7MG3MG4MG8MG4ML11ML4MG229MR12MG75MG76ML18ML11MG11MG36MG22ML40MG11MG3M2G14M2G2M,649MG</interp>
