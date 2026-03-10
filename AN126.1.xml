@@ -805,7 +805,7 @@
         <lem wit="#NL #C5 #C7 #C9">naṉkalan tarūum</lem>
         <rdg wit="#C5v #C7c #C9v #RK">naṉkalam peṟūum</rdg>
 <rdg wit="#NaccT">nalkalam peṟūum</rdg>
-<rdg wit="#C2 #C3 #C9c #RKv">naṉkalam porūum</rdg>
+<rdg wit="#C2 #C3 #C9v2 #RKv">naṉkalam porūum</rdg>
         </app>
 <app loc="358,367">
         <lem wit="#NL #C2 #C5 #C7 #C9 #RK">payaṅkeḻu</lem>
@@ -818,8 +818,8 @@ poṉṉiṇar naṟumalarp puṉṉai</lem>
 ḷīṉpoṉ ṉiṇarnaṟu malarppuṉṉai</rdg>
         </app>
 <app loc="447,457">
-        <lem wit="#NL #C5 #C7 #C9c #RK">titiyaṉoṭu</lem>
-        <rdg wit="#C2 #C3 #C9v">tiyaṉoṭu</rdg>
+        <lem wit="#NL #C5 #C7 #C9v #RK">titiyaṉoṭu</lem>
+        <rdg wit="#C2 #C3 #C9v2">tiyaṉoṭu</rdg>
 <rdg wit="#C9">titipaṉoṭu</rdg>
 <rdg wit="#NaccT">titiyoṭu</rdg>
         </app>
@@ -886,6 +886,14 @@ poṉṉiṇar naṟumalarp puṉṉai</lem>
     <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1]</expan>
     <witness xml:id="C9v">
       <abbr>C<hi rend="subscript">9</hi>v</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
+    </witness>
+    <witness xml:id="C9v2">
+      <abbr>C<hi rend="subscript">9</hi>v2</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
+    </witness>
+    <witness xml:id="C9v3">
+      <abbr>C<hi rend="subscript">9</hi>v3</abbr>
       <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
     </witness>
     <witness xml:id="C9c">
