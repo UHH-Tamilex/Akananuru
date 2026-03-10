@@ -554,9 +554,9 @@
 <rdg wit="#C7v">poṉṉayir</rdg>
         </app>
 <app loc="278,289">
-        <lem wit="#NL #C5 #C7 #G1 #RK">vayaṅkupari</lem>
+        <lem wit="#NL #C5 #C7 #C9v #G1 #RK">vayaṅkupari</lem>
         <rdg wit="#C9 #G2">vayaṅkupā</rdg>
-<rdg wit="#C2 #C3 #C9v">vayaṅkupaṭai</rdg>
+<rdg wit="#C2 #C3 #C9v2">vayaṅkupaṭai</rdg>
         </app>
 <app loc="289,297">
         <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #G1 #G2 #RK">vaṇpeyaṟ</lem>
@@ -628,15 +628,23 @@
 <witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C9" source="mss/C9.xml">
     <abbr>C<hi rend="subscript">9</hi></abbr>
     <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1]</expan>
-    <witness xml:id="C9v">
-      <abbr>C<hi rend="subscript">9</hi>v</abbr>
-      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
-    </witness>
-    <witness xml:id="C9c">
-      <abbr>C<hi rend="subscript">9</hi>c</abbr>
-      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], correction</expan>
-    </witness>
+  <witness xml:id="C9v">
+    <abbr>C<hi rend="subscript">9</hi>v</abbr>
+    <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
   </witness>
+  <witness xml:id="C9v2">
+    <abbr>C<hi rend="subscript">9</hi>v2</abbr>
+    <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
+  </witness>
+  <witness xml:id="C9v3">
+    <abbr>C<hi rend="subscript">9</hi>v3</abbr>
+    <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
+  </witness>
+  <witness xml:id="C9c">
+    <abbr>C<hi rend="subscript">9</hi>c</abbr>
+    <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], correction</expan>
+  </witness>
+</witness>
 <witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G1" source="mss/G1.xml">
    <abbr>G<hi rend="subscript">1</hi></abbr>
    <expan>paper manuscript from the GOML [R 5734/TR.1050] complete, except 336.19d- 343.15c</expan>

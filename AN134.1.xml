@@ -490,7 +490,7 @@
         </app>
 <app loc="216,225">
         <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">viṭimaṟan</lem>
-        <rdg wit="#NL #C1 #C5v #C9c #G1 #G2">vīṭimaṟan</rdg>
+        <rdg wit="#NL #C1 #C5v #C9v2 #G1 #G2">vīṭimaṟan</rdg>
 <rdg wit="#C9">viṭumaṟan</rdg>
         </app>
 <app loc="225,231">
@@ -572,6 +572,14 @@
     <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1]</expan>
     <witness xml:id="C9v">
       <abbr>C<hi rend="subscript">9</hi>v</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
+    </witness>
+    <witness xml:id="C9v2">
+      <abbr>C<hi rend="subscript">9</hi>v2</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
+    </witness>
+    <witness xml:id="C9v3">
+      <abbr>C<hi rend="subscript">9</hi>v3</abbr>
       <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
     </witness>
     <witness xml:id="C9c">
