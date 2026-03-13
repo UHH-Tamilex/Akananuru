@@ -61,7 +61,10 @@
 </TEI>
 
 If there are alternative translations:
-<choice><seg></seg>			<seg></seg></choice>
+<choice><seg></seg><seg></seg></choice>
+
+If there are alternative readings in one manuscript:
+<g>FIRSTCHOICE</g>/<g>SECONDCHOICE</g>
 
 <lg type="alternate" sameAs="linenumberpart">
     <l></l></lg>
