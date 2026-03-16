@@ -522,11 +522,11 @@
         </app>
 <app loc="369,379">
         <lem wit="#NL #C1 #C2 #C5 #C7 #C9 #RK">nōkkiyavar</lem>
-        <rdg wit="#C3!--FFvariant--">nērnōkkiyavar</rdg>
+        <rdg wit="#C3">nērnōkkiyavar</rdg> <!--FFvariant-->
         </app>
 <app loc="394,404">
         <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">ceṉṟa tiṉṟē</lem>
-        <rdg wit="#Il!--FFvariant--">ceṉṟaveṉ ṉeñcu</rdg>
+        <rdg wit="#Iḷ">ceṉṟaveṉ ṉeñcu</rdg> <!--FFvariant-->
         </app>
 </listApp>
 <listWit>
@@ -613,6 +613,14 @@
 <witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="mss/C1.xml">
     <abbr>C<hi rend="subscript">1</hi></abbr>
     <expan>palm-leaf manuscript from the UVSL [1075] covering 3(kiḷ.)-400.22b, except 46.12c-50 between pp. 165 and 166; 123.14-128.7a between pp. 197 and 198, 336.19d-343.15c</expan>
+  </witness>
+  <witness xml:id="Iḷ" source="">
+   <abbr>Iḷ</abbr>
+   <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, reported when deviating</expan>
+   <witness xml:id="Iḷv">
+      <abbr>Iḷv</abbr>
+      <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, reported when deviating, variant reading</expan>
+    </witness>
   </witness>
 </listWit></standOff>
 
