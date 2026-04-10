@@ -3,8 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Akanāṉūṟu</title> 162. 
-            <persName xml:lang="ta"/>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>162</num>. <persName xml:lang="ta">paraṇar</persName>
         </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -33,7 +32,7 @@
         </div>
         <div rend="parallel">
       <lg xml:id="AN162">
-        <l>koḷakkuṟai paṭā<supplied>a</supplied>k kōṭuvaḷar kuṭṭat</l>
+        <l><anchor n="1"/>koḷakkuṟai paṭā<supplied>a</supplied>k kōṭuvaḷar kuṭṭat</l>
         <l>taḷappari tākiya kuvaiyirun tōṉṟaṟ</l>
         <l>kaṭalkaṇ ṭaṉṉa māka vicumpi</l>
         <l>ṉaḻaṟkoṭi yaṉṉa miṉṉuvacipu nuṭaṅkak</l>
@@ -83,6 +82,11 @@
         </div>
     </body>
   </text>
+
+<standOff type="notes2" corresp="#AN162">
+<note n="1">Whole poem missing in <abbr corresp="#C2"/>+<abbr corresp="#C3"/></note>
+</standOff>
+
 <standOff type="wordsplit" corresp="#AN162">
 <interp type="alignment" select="0">32MG5MG4MG83MG31MG20MG28ML15MG64MG28MG50ML8MG65ML63MG18MG11ML17MG35MG8MG3MG11ML21MG15MG6MG2M,666MG</interp>
 <entry>
