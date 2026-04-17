@@ -47,6 +47,10 @@
   <witness xml:id="C6" source="mss/C6.xml">
     <abbr>C<hi rend="subscript">6</hi></abbr>
     <expan>paper manuscript from the UVSL [4/66] covering KV-400, except 336.19d-343.15c [consulted where C1 is damaged and NL illegible]</expan>
+    <witness xml:id="C6v">
+      <abbr>C<hi rend="subscript">6</hi>v</abbr>
+      <expan>paper manuscript from the UVSL [4/66] covering KV-400, except 336.19d-343.15c [consulted where C1 is damaged and NL illegible], variant reading</expan>
+    </witness>
   </witness>
 
   <witness xml:id="C8" source="mss/C8.xml">
@@ -61,6 +65,14 @@
       <abbr>C<hi rend="subscript">9</hi>v</abbr>
       <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
     </witness>
+    <witness xml:id="C9v2">
+      <abbr>C<hi rend="subscript">9</hi>v2</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
+    </witness>
+    <witness xml:id="C9v3">
+      <abbr>C<hi rend="subscript">9</hi>v3</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
+    </witness>
     <witness xml:id="C9c">
       <abbr>C<hi rend="subscript">9</hi>c</abbr>
       <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], correction</expan>
@@ -72,6 +84,10 @@
     <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v]</expan>
     <witness xml:id="C7v">
       <abbr>C<hi rend="subscript">7</hi>v</abbr>
+      <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v], variant reading</expan>
+    </witness>
+    <witness xml:id="C7v2">
+      <abbr>C<hi rend="subscript">7</hi>v2</abbr>
       <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v], variant reading</expan>
     </witness>
     <witness xml:id="C7c">
@@ -100,6 +116,10 @@
    <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand]</expan>
    <witness xml:id="C5v">
      <abbr>C<hi rend="subscript">5</hi>v</abbr>
+     <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand], variant reading</expan>
+   </witness>
+   <witness xml:id="C5v2">
+     <abbr>C<hi rend="subscript">5</hi>v2</abbr>
      <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand], variant reading</expan>
    </witness>
    <witness xml:id="C5c">
@@ -132,6 +152,10 @@
    <abbr>SS</abbr>
    <expan><term xml:lang="ta">Saiva Siddhānta = Kaḻakam</term> edition (1943, 1944, 1944) reported for Neytal when deviating</expan>
    <witness xml:id="SSv">
+     <abbr>SSv</abbr>
+     <expan><term xml:lang="ta">Saiva Siddhānta = Kaḻakam</term> edition (1943, 1944, 1944) reported for Neytal when deviating, variant reading</expan>
+   </witness>
+   <witness xml:id="SSv2">
      <abbr>SSv</abbr>
      <expan><term xml:lang="ta">Saiva Siddhānta = Kaḻakam</term> edition (1943, 1944, 1944) reported for Neytal when deviating, variant reading</expan>
    </witness>
@@ -173,6 +197,24 @@
    <abbr>Nacc<hi rend="subscript">T</hi></abbr>
    <expan><term xml:lang="ta">Nacciṉārkkiṉiyar</term> commenting on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, <term xml:lang="ta">Tāmōtarampiḷḷai</term> edition</expan>
   </witness>
+
+  <witness xml:id="NaccTC" source="">
+   <abbr>Nacc<hi rend="subscript">T</hi></abbr>
+   <expan><term xml:lang="ta">Nacciṉārkkiṉiyar</term> commenting on <term xml:lang="ta">Tolkāppiyam Colatikāram</term>, <term xml:lang="ta">Tāmōtarampiḷḷai</term> edition</expan>
+  </witness>
+
+  <witness xml:id="NaccK" source="">
+   <abbr>Nacc<hi rend="subscript">K</hi></abbr>
+   <expan><term xml:lang="ta">Nacciṉārkkiṉiyar</term> commenting on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, <term xml:lang="ta">Kaḻakam</term> edition</expan>
+   <witness xml:id="NaccKv">
+      <abbr>Nacc<hi rend="subscript">K</hi>v</abbr>
+      <expan><term xml:lang="ta">Nacciṉārkkiṉiyar</term> commenting on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, <term xml:lang="ta">Kaḻakam</term> edition, variant reading</expan>
+    </witness>
+    <witness xml:id="NaccKv2" source="">
+       <abbr>Nacc<hi rend="subscript">K</hi>v2</abbr>
+       <expan><term xml:lang="ta">Nacciṉārkkiṉiyar</term> commenting on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, <term xml:lang="ta">Kaḻakam</term> edition, variant reading</expan>
+    </witness>
+  </witness>
  
  <witness xml:id="IV" source="">
    <abbr>IV</abbr>
@@ -181,69 +223,87 @@
 
  <witness xml:id="AV" source="">
    <abbr>AV</abbr>
-   <expan><term xml:lang="ta">Aṟaṅkālār</term> edition (1975) reported when deviating</expan>
+   <expan>commentary on <term xml:lang="ta">Akapporuḷ Viḷakkam</term>, reported when deviating</expan>
   </witness>
 
   <witness xml:id="KK" source="">
    <abbr>KK</abbr>
-   <expan><term xml:lang="ta">Kākālār</term> edition (1975) reported when deviating</expan>
+   <expan>commentary on <term xml:lang="ta">Kaḷaviya Kārikai</term>, reported when deviating</expan>
   </witness>
 
   <witness xml:id="Nakk" source="">
    <abbr>Nakk</abbr>
-   <expan><term xml:lang="ta">Nakkār</term> edition (1975) reported when deviating</expan>
+   <expan><term xml:lang="ta">Nakkīraṉ</term> on <term xml:lang="ta">Iṟaiyaṉār Akapporuḷ</term>, reported when deviating</expan>
    <witness xml:id="Nakkv">
       <abbr>Nakkv</abbr>
-      <expan><term xml:lang="ta">Nakkār</term> edition (1975) reported when deviating, variant reading</expan>
+      <expan><term xml:lang="ta">Nakkīraṉ</term> on <term xml:lang="ta">Iṟaiyaṉār Akapporuḷ</term>, reported when deviating, variant reading</expan>
     </witness>
   </witness>
 
   <witness xml:id="May" source="">
    <abbr>May</abbr>
-   <expan><term xml:lang="ta">Mayilār</term> edition (1975) reported when deviating</expan>
+   <expan><term xml:lang="ta">Mayilainātar</term> on <term xml:lang="ta">Naṉṉūl</term>, reported when deviating</expan>
   </witness>
 
-  <witness xml:id="Caṅk" source="">
-   <abbr>Caṅk</abbr>
-   <expan><term xml:lang="ta">Caṅkār</term> edition (1975) reported when deviating</expan>
+  <witness xml:id="Can" source="">
+   <abbr>Can</abbr>
+   <expan><term xml:lang="ta">Caṅkaranamaccivāyar</term> on <term xml:lang="ta">Naṉṉūl</term>, reported when deviating</expan>
   </witness>
 
-  <witness xml:id="Iḷ" source="">
-   <abbr>Iḷ</abbr>
-   <expan><term xml:lang="ta">Iḷaṟṟu</term> edition (1975) reported when deviating</expan>
+  <witness xml:id="Il" source="">
+   <abbr>Il</abbr>
+   <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, reported when deviating</expan>
+   <witness xml:id="Ilv">
+      <abbr>IIlv</abbr>
+      <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, reported when deviating, variant reading</expan>
+    </witness>
   </witness>
 
-  <witness xml:id="Kuḻ" source="">
-   <abbr>Kuḻ</abbr>
-   <expan><term xml:lang="ta">Kuḻaṟṟu</term> edition (1975) reported when deviating</expan>
+  <witness xml:id="IlK" source="">
+   <abbr>Il<hi rend="subscript">K</hi></abbr>
+   <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, <term xml:lang="ta">Kaḻakam edition</term>, reported when deviating</expan>
+   <witness xml:id="IlKv">
+      <abbr>Il<hi rend="subscript">K</hi>v</abbr>
+      <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, <term xml:lang="ta">Kaḻakam edition</term>, reported when deviating, variant reading</expan>
+    </witness>
+  </witness>
+
+  <witness xml:id="Kul" source="">
+   <abbr>Kul</abbr>
+   <expan><term xml:lang="ta">Kūḻaṅkaittampiraṉ</term> on <term xml:lang="ta">Naṉṉūl</term>, reported when deviating</expan>
   </witness>
 
   <witness xml:id="NN" source="">
     <abbr>NN</abbr>
-    <expan><term xml:lang="ta">Neytal Nāṉmāl</term> edition (1975) reported when deviating</expan>
+    <expan><term xml:lang="ta">??</term>, reported when deviating</expan>
     <witness xml:id="NNv">
       <abbr>NNv</abbr>
-      <expan><term xml:lang="ta">Neytal Nāṉmāl</term> edition (1975) reported when deviating, variant reading</expan>
+      <expan><term xml:lang="ta">??</term>, reported when deviating, variant reading</expan>
     </witness>
   </witness>
 
   <witness xml:id="Per" source="">
     <abbr>Per</abbr>
-    <expan><term xml:lang="ta">Pērātaiyar</term> edition (1975) reported when deviating</expan>
+    <expan><term xml:lang="ta">Pērāciriyar</term> on Tolkāppiyam Poruḷatikāram, reported when deviating</expan>
     <witness xml:id="Perv">
       <abbr>Perv</abbr>
-      <expan><term xml:lang="ta">Pērātaiyar</term> edition (1975) reported when deviating, variant reading</expan>
+      <expan><term xml:lang="ta">Pērāciriyar</term> on Tolkāppiyam Poruḷatikāram, reported when deviating, variant reading</expan>
     </witness>
   </witness>
 
   <witness xml:id="Nam" source="">
    <abbr>Nam</abbr>
-   <expan><term xml:lang="ta">Nammalvar</term> edition (1975) reported when deviating</expan>
+   <expan><term xml:lang="ta">Nampi</term> on the <term>Akapporuḷ Viḷakkam</term>, reported when deviating</expan>
   </witness>
 
   <witness xml:id="corr" source="">
-   <abbr>corr</abbr>
-   <expan>editor's correction</expan>
+   <abbr>corr.</abbr>
+   <expan>Editor's correction</expan>
+  </witness>
+
+  <witness xml:id="em" source="">
+   <abbr>em.</abbr>
+   <expan>Editor's emendation</expan>
   </witness>
 
   </listWit>
