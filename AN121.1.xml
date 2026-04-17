@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Akanāṉūṟu</title> <num>121.1</num>. <persName xml:lang="ta">maturai marutaṉ <app><lem>iḷanakaṉ</lem><rdg wit="#C5">iḷanakaṉṉār</rdg></app></persName> 
+          <title xml:lang="ta">Akanāṉūṟu</title> <num>121.1</num>. <persName xml:lang="ta">maturai marutaṉ <app><lem>iḷanāka<del>ṉa</del>ṉa</lem><rdg>iḷanakaṉār</rdg></app></persName> 
             <persName xml:lang="ta"/>
         </title>
       </titleStmt>
@@ -44,7 +44,7 @@
         <l>coṟipuṟa muriñciya ne<supplied>ṟi</supplied>yayaṉ marāat</l>
         <l>talkuṟu variniḻa lacaiiya nammoṭu<anchor n="4"/></l>
         <l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
-        <l>yuṟukaṇ maḻava ruruḷ<supplied>tī</supplied>ṇ ṭiṭṭa</l>
+        <l>yuṟukaṇ maḻava ruruḷ<supplied>kī</supplied>ṇ ṭiṭṭa</l>
         <l>vāṟuceṉ mākkaḷ cōṟupoti veṇkuṭaik</l>
         <l>kaṉmicaik kaṭuva<supplied>ḷi</supplied> yeṭuttaliṟ ṟuṇaicettu<anchor n="5"/></l>
         <l>ve<supplied>ru</supplied>ḷēṟu payiru mā<supplied>ṅ</supplied>kaṭ</l>
@@ -71,11 +71,11 @@
     </body>
   </text>
   <standOff type="notes2" corresp="#AN121.1">
-    <note n="1">1a-2b missing in <abbr corresp="#C1"/>; 1a-1c blank in <abbr corresp="#C2"/>+<abbr corresp="#C3"/></note>
-    <note n="2">5b-d <rdg wit="#C2 #C3">maṭap<space quantity="16" unit="character"/>c</rdg></note>
-    <note n="3">6c-7c displaced to after 2c in <abbr corresp="#NL"/> and repeated in sequence on next folio <!-- FF variant --></note>
-    <note n="4">8d-9c <rdg wit="#C2 #C3">marā<space quantity="15" unit="character"/>caii</rdg></note>
-    <note n="5">12d-13a <rdg wit="#C2 #C3">veṇ<space quantity="12" unit="character"/>caik</rdg></note>
+    <note n="1">1a-2b missing in <abbr corresp="#C1"/>; 1a-1c blank in <abbr corresp="#C2"/>+<abbr corresp="#C3"/></note> <!-- # -->
+    <note n="2">5b-d <rdg wit="#C2 #C3">maṭap<space quantity="16" unit="character"/>c</rdg></note> <!-- # -->
+    <note n="3">6c-7c displaced to after 2c in <abbr corresp="#NL"/> and repeated in sequence on next folio</note> <!-- FF -->
+    <note n="4">8d-9c <rdg wit="#C2 #C3">marā<space quantity="15" unit="character"/>caii</rdg></note> <!-- # -->
+    <note n="5">12d-13a <rdg wit="#C2 #C3">veṇ<space quantity="12" unit="character"/>caik</rdg></note> <!-- # -->
   </standOff>
 <standOff type="wordsplit" corresp="#AN121.1">
 <interp type="alignment" select="0">2MR12MR4M2G16ML82MG37MG84MG3MG71MG114MG2M,437MG</interp>
@@ -741,7 +741,7 @@
         <rdg wit="#C7v #NaccT #IV">nāṇakai</rdg>
         </app>
 <app loc="19,29">
-        <lem wit="#C5 #C7 #RK">kaṭunteṟal</lem>
+        <lem wit="#C5 #C7 #RK">kaṭunteṟal</lem> <!-- # -->
         <rdg wit="#NL #C9">ṭunteṟal</rdg>
 <rdg wit="#C2 #C3 #C7v #C9c #NaccT">kaṭuntiṟal</rdg>
         </app>
@@ -750,17 +750,17 @@
         <rdg wit="#C7 #C9v #VP #ER">kūriya</rdg>
         </app>
 <app loc="66,82">
-        <lem wit="#NL #C5 #C7 #C9 #RK">maṇṇīrc ciṟukuḷat</lem>
+        <lem wit="#NL #C5 #C7 #C9 #RK">maṇṇīrc ciṟukuḷat</lem> <!-- $ -->
         <rdg wit="#C1"><gap reason="lost" quantity="1" unit="character"/>ṇṇīr<gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="2" unit="character"/>kuḷat</rdg>
 <rdg wit="#C2 #C3">maṇṇīrc ciṟukkuḷat</rdg>
-<rdg wit="#NaccT">maṉṉīrc ciṟukuḷan</rdg><!-- sandhivariant -->
+<rdg wit="#NaccT">maṉṉīrc ciṟukuḷan</rdg>
         </app>
 <app loc="82,90">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">toṭukuḻi</lem>
         <rdg wit="#C7v">keṭukuḻi</rdg>
         </app>
 <app loc="90,98">
-        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">maruṅkiṟ</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">maruṅkiṟ</lem> <!-- # -->
         <rdg wit="#NL #C1">marukkiṟ</rdg>
         </app>
 <app loc="98,104">
@@ -768,26 +768,26 @@
         <rdg wit="#C3 #C7v #C9v">ṟūvaṟ</rdg>
         </app>
 <app loc="120,129">
-        <lem wit="#NL #C1 #C5 #C7 #C9">maṭappiṭi</lem>
-        <rdg wit="#C5v #RK #ER">maṭappiṭik</rdg><!-- sandhivariant -->
+        <lem wit="#NL #C1 #C5 #C7 #C9">maṭappiṭi</lem> <!-- $ -->
+        <rdg wit="#C5v #RK #ER">maṭappiṭik</rdg>
         </app>
 <app loc="129,139">
-        <lem wit="#C1 #C5 #C7 #C9 #RK">kayantalai</lem>
+        <lem wit="#C1 #C5 #C7 #C9 #RK">kayantalai</lem> <!-- # -->
         <rdg wit="#NL">kayattalai</rdg>
 <rdg wit="#C2 #C3"><space quantity="4" unit="character"/></rdg>
         </app>
 <app loc="145,158">
-        <lem wit="#C1 #C2 #C3 #C5 #C7 #C9 #RK">cēṟukoṇ ṭāṭiya</lem>
-        <rdg wit="#NL">cēṟuko ṇāṭiya</rdg><!-- FF variant -->
+        <lem wit="#C1 #C2 #C3 #C5 #C7 #C9 #RK">cēṟukoṇ ṭāṭiya</lem> <!-- FF -->
+        <rdg wit="#NL">cēṟuko ṇāṭiya</rdg>
         </app>
 <app loc="183,190">
-        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">vāliṇar</lem>
-        <rdg wit="#C1"><gap reason="lost" quantity="1" unit="character"/>ā<gap reason="lost" quantity="1" unit="character"/>ṇar</rdg><!-- FF variant -->
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">vāliṇar</lem> <!-- FF -->
+        <rdg wit="#C1"><gap reason="lost" quantity="1" unit="character"/>ā<gap reason="lost" quantity="1" unit="character"/>ṇar</rdg>
         </app>
 <app loc="198,204">
-        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">tīṇṭic</lem>
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">tīṇṭic</lem> <!-- $ -->
         <rdg wit="#C1">tī<gap reason="lost" quantity="1" unit="character"/>ṭic</rdg>
-<rdg wit="#ER">tīṇṭi</rdg><!-- sandhivariant -->
+<rdg wit="#ER">tīṇṭi</rdg>
         </app>
 <app loc="204,212">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #NaccT #RK">coṟipuṟa</lem>
@@ -798,17 +798,17 @@
         <rdg wit="#RK #VP #ER">muriñiya</rdg>
         </app>
 <app loc="221,236">
-        <lem wit="#C2 #C3 #C5 #C7 #C9c #RK">neṟiyayaṉ marāat</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9c #RK">neṟiyayaṉ marāat</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">neriyayaṉ marāat</rdg>
 <rdg wit="#NaccT">neṟiyaya ṉaṉmarāat</rdg>
         </app>
 <app loc="230,236">
-        <lem wit="#NL #C5 #C7c #C9 #RK">marāat</lem>
+        <lem wit="#NL #C5 #C7c #C9 #RK">marāat</lem> <!-- FF -->
         <rdg wit="#C1"><gap reason="lost" quantity="8" unit="character"/>ṟu</rdg>
-<rdg wit="#C7">marācut</rdg><!-- FF variant -->
+<rdg wit="#C7">marācut</rdg>
         </app>
 <app loc="251,259">
-        <lem wit="#NL #C1 #C9 #NaccT">lacaiiya</lem>
+        <lem wit="#NL #C1 #C9 #NaccT">lacaiiya</lem> <!-- # -->
         <rdg wit="#C5 #C9v #RK #VP #ER">lacaii</rdg>
 <rdg wit="#C2 #C3 #C7"><space quantity="1" unit="character"/>caii</rdg>
         </app>
@@ -820,21 +820,21 @@
 <rdg wit="#RK">yuṟukaṇa</rdg>
         </app>
 <app loc="302,315">
-        <lem wit="#NL #C1 #C5 #C9">ruruḷtīṇ ṭiṭṭa</lem>
-        <rdg wit="#C2 #C3 #C5v #C7 #C9c #RK">ruḷkīṇ ṭiṭṭa</rdg>
+        <lem wit="#C2 #C3 #C5v #C7 #C9c #RK">ruḷkīṇ ṭiṭṭa</lem> <!-- # -->
+        <rdg wit="#NL #C1 #C5 #C9">ruruḷtīṇ ṭiṭṭa</rdg>        
         </app>
 <app loc="322,328">
-        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">mākkaḷ</lem>
-        <rdg wit="#C1"><gap reason="lost" quantity="1" unit="character"/>ākkaḷ</rdg><!-- FF variant -->
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">mākkaḷ</lem> <!-- FF -->
+        <rdg wit="#C1"><gap reason="lost" quantity="1" unit="character"/>ākkaḷ</rdg>
         </app>
 <app loc="345,354">
-        <lem wit="#NL #C1 #C5 #C9 #NaccT">kaṉmicaik</lem>
+        <lem wit="#NL #C1 #C5 #C9 #NaccT">kaṉmicaik</lem> <!-- # -->
         <rdg wit="#C7 #RK">kaṇaivicaik</rdg>
 <rdg wit="#C2 #C3 #C7v"><space quantity="3" unit="character"/>caik</rdg>
-<rdg wit="#C7c #VP #ER">kaṉaivicaik</rdg>
+<rdg wit="#C7v2 #VP #ER">kaṉaivicaik</rdg>
         </app>
 <app loc="354,362">
-        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">kaṭuvaḷi</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">kaṭuvaḷi</lem> <!-- # -->
         <rdg wit="#NL #C1">kaṭuvaḻi</rdg>
         </app>
 <app loc="372,382">
@@ -842,20 +842,20 @@
         <rdg wit="#NaccT">ṟuṇaicēttu</rdg>
         </app>
 <app loc="382,390">
-        <lem wit="#C3 #C5 #C7 #C9 #RK">veruḷēṟu</lem>
+        <lem wit="#C3 #C5 #C7 #C9 #RK">veruḷēṟu</lem> <!-- # -->
         <rdg wit="#NL #C1">veṟuḷēṟu</rdg>
 <rdg wit="#C2">veḻuḷēṟu</rdg>
         </app>
 <app loc="396,402">
-        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">māṅkaṭ</lem>
-        <rdg wit="#NL #C1">māmkaṭ</rdg><!-- sandhivariant -->
+        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">māṅkaṭ</lem> <!-- $ -->
+        <rdg wit="#NL #C1">māmkaṭ</rdg>
         </app>
 <app loc="402,410">
-        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">karumuka</lem>
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">karumuka</lem> <!-- # -->
         <rdg wit="#C2 #C3">karumukakarumuka</rdg>
         </app>
 <app loc="417,426">
-        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">kāṉat tāṉē</lem>
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">kāṉat tāṉē</lem> <!-- # -->
         <rdg wit="#C2 #C3">kāṇat tāṉē</rdg>
         </app>
 </listApp>
@@ -958,41 +958,40 @@
  
   <witness xml:id="KK" source="">
    <abbr>KK</abbr>
-   <expan><term xml:lang="ta">Kākālār</term> edition (1975) reported when deviating</expan>
+   <expan>commentary on <term xml:lang="ta">Kaḷaviya Kārikai</term>, reported when deviating</expan>
   </witness>
 
   <witness xml:id="Nakk" source="">
    <abbr>Nakk</abbr>
-   <expan><term xml:lang="ta">Nakkār</term> edition (1975) reported when deviating</expan>
+   <expan><term xml:lang="ta">Nakkīraṉ</term> on <term xml:lang="ta">Iṟaiyaṉār Akapporuḷ</term>, reported when deviating</expan>
+   <witness xml:id="Nakkv">
+      <abbr>Nakkv</abbr>
+      <expan><term xml:lang="ta">Nakkīraṉ</term> on <term xml:lang="ta">Iṟaiyaṉār Akapporuḷ</term>, reported when deviating, variant reading</expan>
+    </witness>
   </witness>
 
   <witness xml:id="May" source="">
    <abbr>May</abbr>
-   <expan><term xml:lang="ta">Mayilār</term> edition (1975) reported when deviating</expan>
+   <expan><term xml:lang="ta">Mayilainātar</term> on <title xml:lang="ta">Naṉṉūl</title>, reported when deviating</expan>
   </witness>
 
-  <witness xml:id="Caṅk" source="">
-   <abbr>Caṅk</abbr>
-   <expan><term xml:lang="ta">Caṅkār</term> edition (1975) reported when deviating</expan>
+  <witness xml:id="Can" source="">
+   <abbr>Can</abbr>
+   <expan><term xml:lang="ta">Caṅkaranamaccivāyar</term> on <title xml:lang="ta">Naṉṉūl</title>, reported when deviating</expan>
   </witness>
 
-  <witness xml:id="Iḷ" source="">
-   <abbr>Iḷ</abbr>
-   <expan><term xml:lang="ta">Iḷaṟṟu</term> edition (1975) reported when deviating</expan>
-  </witness>
-
-  <witness xml:id="Kuḻ" source="">
-   <abbr>Kuḻ</abbr>
-   <expan><term xml:lang="ta">Kuḻaṟṟu</term> edition (1975) reported when deviating</expan>
-  </witness>
-
-  <witness xml:id="NN" source="">
-    <abbr>NN</abbr>
-    <expan><term xml:lang="ta">Neytal Nāṉmāl</term> edition (1975) reported when deviating</expan>
-    <witness xml:id="NNv">
-      <abbr>NNv</abbr>
-      <expan><term xml:lang="ta">Neytal Nāṉmāl</term> edition (1975) reported when deviating, variant reading</expan>
+  <witness xml:id="Il" source="">
+   <abbr>Il</abbr>
+   <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, reported when deviating</expan>
+   <witness xml:id="Ilv">
+      <abbr>IIlv</abbr>
+      <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, reported when deviating, variant reading</expan>
     </witness>
+  </witness>
+
+  <witness xml:id="Kul" source="">
+   <abbr>Kul</abbr>
+   <expan><term xml:lang="ta">Kūḻaṅkaittampiraṉ</term>  on <title xml:lang="ta">Naṉṉūl</title>, reported when deviating</expan>
   </witness>
   
 </listWit></standOff>
