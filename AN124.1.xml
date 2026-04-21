@@ -493,8 +493,8 @@
 </standOff>
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN124.1" type="apparatus"><listApp>
 <app loc="27,37">
-        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #G1 #RK">vantutiṟai</lem>
-        <rdg wit="#G2">vantutaṟai</rdg> <!--FFvariant-->
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #G1 #RK">vantutiṟai</lem> <!-- FF -->
+        <rdg wit="#G2">vantutaṟai</rdg>
         </app>
 <app loc="87,97">
         <lem wit="#NL #RK">nilamvakut</lem>
@@ -502,24 +502,24 @@
 <rdg wit="#ER">nilamvakun</rdg>
         </app>
 <app loc="97,102">
-        <lem wit="#NL #C5 #C7 #C9v #G1 #G2 #RK">tuṟāa</lem>
+        <lem wit="#NL #C5 #C7 #C9v #G1 #G2 #RK">tuṟāa</lem> <!-- # -->
         <rdg wit="#C2 #C3">tuṟā</rdg>
 <rdg wit="#C9">turuā</rdg>
         </app>
 <app loc="102,109">
-        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #G1 #RK">vīṇṭiya</lem>
-        <rdg wit="#G2">viṇṭiya</rdg> <!--FFvariant-->
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #G1 #RK">vīṇṭiya</lem> <!-- FF -->
+        <rdg wit="#G2">viṇṭiya</rdg>
         </app>
 <app loc="109,116">
-        <lem wit="#C5 #G1 #G2">tāṉaiyō</lem>
-        <rdg wit="#C7 #C9 #RK">tāṉaiyo</rdg> <!--sandhivariant-->
+        <lem wit="#C5 #G1 #G2">tāṉaiyō</lem> <!-- $ -->
+        <rdg wit="#C7 #C9 #RK">tāṉaiyo</rdg>
         </app>
 <app loc="116,121">
-        <lem wit="#NL #C5 #C7 #C9 #G1 #G2 #RK">ṭiṉṟē</lem>
+        <lem wit="#NL #C5 #C7 #C9 #G1 #G2 #RK">ṭiṉṟē</lem> <!-- # -->
         <rdg wit="#C2 #C3">ṭiyiṉṟē</rdg>
         </app>
 <app loc="121,128">
-        <lem wit="#C2 #C3 #C5 #C7 #C9 #G1 #G2 #RK">pukutal</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9 #G1 #G2 #RK">pukutal</lem> <!-- # -->
         <rdg wit="#NL">yukutal</rdg>
         </app>
 <app loc="144,152">
@@ -528,27 +528,27 @@
 <rdg wit="#C7v #C9v #RKv">mānakarp</rdg>
         </app>
 <app loc="159,166">
-        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">cēkkait</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">cēkkait</lem> <!-- FF -->
         <rdg wit="#G1">(k)kait</rdg>
-        <rdg wit="#G2">kkait</rdg> <!--FFvariant-->
+        <rdg wit="#G2">kkait</rdg>
         </app>
 <app loc="166,173">
-        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">tuṉitīr</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">tuṉitīr</lem> <!-- # -->
         <rdg wit="#G2">tuṇitīr</rdg>
 <rdg wit="#NL #G1">tuṇitir</rdg>
         </app>
 <app loc="182,188">
-        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">kātali</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">kātali</lem> <!-- # -->
         <rdg wit="#NL">kākavi</rdg>
 <rdg wit="#C9 #G1 #G2">kāvi</rdg>
         </app>
 <app loc="220,231">
-        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">miṉṉunimirn</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">miṉṉunimirn</lem> <!-- # -->
         <rdg wit="#NL #C9 #G1">miṉṉuranamirn</rdg>
 <rdg wit="#G2">miṉṉūnamirn</rdg>
         </app>
 <app loc="236,244">
-        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">poṉṉiyaṟ</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">poṉṉiyaṟ</lem> <!-- # -->
         <rdg wit="#NL #C9 #G1 #G2">poṉṉiyiṟ</rdg>
 <rdg wit="#RKv">poṉṉayiṟ</rdg>
 <rdg wit="#C7v">poṉṉayir</rdg>
@@ -563,17 +563,17 @@
         <rdg wit="#C7v">vaṉpeyaṟ</rdg>
         </app>
 <app loc="319,326">
-        <lem wit="#NL #C5 #C7 #C9 #G1 #G2 #RK">vīkamaḻ</lem>
+        <lem wit="#NL #C5 #C7 #C9 #G1 #G2 #RK">vīkamaḻ</lem> <!-- # -->
         <rdg wit="#C2">vīkayaḻ</rdg>
 <rdg wit="#C3">vīḻkaya</rdg>
         </app>
 <app loc="326,334">
-        <lem wit="#C2 #C3 #C5v #C7 #RK">neṭuvaḻi</lem>
+        <lem wit="#C2 #C3 #C5v #C7 #RK">neṭuvaḻi</lem> <!-- # -->
         <rdg wit="#NL #C5 #C7v #C9 #G1 #G2">neṭuvaḷi</rdg>
         </app>
 <app loc="410,419">
-        <lem wit="#NL #C2 #C3 #C5 #C7 #C9v #G1 #G2 #RK">viyalakat</lem>
-        <rdg wit="#C9">vimalakat</rdg> <!--FFvariant-->
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9v #G1 #G2 #RK">viyalakat</lem> <!-- FF -->
+        <rdg wit="#C9">vimalakat</rdg>
         </app>
 <app loc="426,436">
         <lem wit="#NL #C5 #C7 #C9 #G1 #G2 #RK">nirainilai</lem>
