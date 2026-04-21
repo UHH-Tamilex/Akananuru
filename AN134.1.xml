@@ -436,12 +436,12 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN134.1" type="apparatus"><listApp>
 <app loc="19,24">
-        <lem wit="#NL #C1 #C2 #C5 #C7 #C9 #G1 #G2 #RK">kāṉaṅ</lem>
-        <rdg wit="#C3">kāṉa</rdg> <!--FFvariant-->
+        <lem wit="#NL #C1 #C2 #C5 #C7 #C9 #G1 #G2 #RK">kāṉaṅ</lem> <!-- FF -->
+        <rdg wit="#C3">kāṉa</rdg>
         </app>
 <app loc="32,40">
-        <lem wit="#NL #C1 #C2 #C3 #C5 #C9 #G1 #G2">māmaḻaik</lem>
-        <rdg wit="#C7 #RK">māmaḻai</rdg>  <!--sandhivariant-->
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C9 #G1 #G2">māmaḻaik</lem> <!-- $ -->
+        <rdg wit="#C7 #RK">māmaḻai</rdg>
         </app>
 <app loc="57,66">
         <lem wit="#NL #C1 #C5 #C7 #C9 #G1 #RK">maṇimaruḷ</lem>
@@ -459,8 +459,8 @@
 <rdg wit="#C9 #G2">ṉaṉpaṇa</rdg>
         </app>
 <app loc="117,123">
-        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9v #G1 #RK">mullai</lem>
-        <rdg wit="#C9 #G2">mulla</rdg> <!--FFvariant-->
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9v #G1 #RK">mullai</lem> <!-- FF -->
+        <rdg wit="#C9 #G2">mulla</rdg>
         </app>
 <app loc="129,133">
         <lem wit="#NL #C1 #C5 #G1 #G2">ṟāya</lem>
@@ -472,26 +472,26 @@
         <rdg wit="#C2 #C3 #C9v">cennilaip</rdg>
         </app>
 <app loc="166,170">
-        <lem wit="#C3 #C7 #C9v #RK">vāap</lem>
+        <lem wit="#C3 #C7 #C9v #RK">vāap</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9 #G1 #G2">vāp</rdg>
 <rdg wit="#C5"><space quantity="2" unit="character"/>varap</rdg>
 <rdg wit="#C2">varavup</rdg>
         </app>
 <app loc="186,193">
-        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">kalimāt</lem>
-        <rdg wit="#G1 #G2">kalimā</rdg> <!--sandhivariant-->
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">kalimāt</lem> <!-- $ -->
+        <rdg wit="#G1 #G2">kalimā</rdg>
         </app>
 <app loc="193,204">
-        <lem wit="#corr">tāat tōḷiṇai</lem>
+        <lem wit="#corr">tāat tōḷiṇai</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">tāt tōḷiṇai</rdg>
 <rdg wit="#C5 #G1 #G2">tatarat tōḷiṇai</rdg>
 <rdg wit="#C3 #C7 #C9v #RK">tāat tāḷiṇai</rdg>
 <rdg wit="#C2">taranta tāḷiṇai</rdg>
         </app>
 <app loc="216,225">
-        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">viṭimaṟan</lem>
-        <rdg wit="#NL #C1 #C5v #C9v2 #G1 #G2">vīṭimaṟan</rdg>
-<rdg wit="#C9">viṭumaṟan</rdg>
+        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">viṭimaṟan</lem> <!-- # -->
+        <rdg wit="#NL #C1 #C5v #C9 #G1 #G2">vīṭimaṟan</rdg>
+<rdg wit="#C9c">viṭumaṟan</rdg>
         </app>
 <app loc="225,231">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C9 #G1 #G2 #RK">tēmati</lem>

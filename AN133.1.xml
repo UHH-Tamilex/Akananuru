@@ -554,16 +554,16 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN133.1" type="apparatus"><listApp>
 <app loc="15,26">
-        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">kurūumayirp</lem>
-        <rdg wit="#C2 #C3">kurūumayir</rdg> <!--sandhivariant-->
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">kurūumayirp</lem> <!-- $ -->
+        <rdg wit="#C2 #C3">kurūumayir</rdg>
         </app>
 <app loc="32,43">
-        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">veḷḷeli mōvā</lem>
-        <rdg wit="#C1">veḷ<gap reason="lost" quantity="3" unit="character"/> <gap reason="lost" quantity="5" unit="character"/></rdg> <!--FFvariant-->
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">veḷḷeli mōvā</lem> <!-- FF -->
+        <rdg wit="#C1">veḷ<gap reason="lost" quantity="3" unit="character"/> <gap reason="lost" quantity="5" unit="character"/></rdg>
         </app>
 <app loc="77,83">
-        <lem wit="#C1 #C2 #C3 #C5 #C7 #C9 #RK">naṉṉāḷ</lem>
-        <rdg wit="#NL">naṉṉāṉ</rdg> <!--FFvariant-->
+        <lem wit="#C1 #C2 #C3 #C5 #C7 #C9 #RK">naṉṉāḷ</lem> <!-- FF -->
+        <rdg wit="#NL">naṉṉāṉ</rdg>
         </app>
 <app loc="91,99">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #ER">naṉkaṉam</lem>
@@ -579,19 +579,14 @@
 <rdg wit="#C7v #RK #VP #ER">pañciyiṉ veṇmaḻai</rdg>
         </app>
 <app loc="161,191">
-        <lem wit="#NL #C2 #C5 #C7 #C9">tavaḻuṅ
-kollai yitaiya kuṟumpoṟai</lem>
+        <lem wit="#NL #C2 #C5 #C7 #C9">tavaḻuṅ kollai yitaiya kuṟumpoṟai</lem> <!-- # -->
         <rdg wit="#C1">ta<gap reason="lost" quantity="10" unit="character"/>taiya kuṟum<gap reason="lost" quantity="3" unit="character"/>ṟai</rdg>
-<rdg wit="#C3">tavaḷu
-miḷaṅkollai  yitaiya kuṟumpoṟai</rdg>
+<rdg wit="#C3">tavaḷu miḷaṅkollai  yitaiya kuṟumpoṟai</rdg>
         </app>
 <app loc="218,234">
-        <lem wit="#corr">cemmalō
-ṭeriparan</lem>
-        <rdg wit="#C5 #C7 #C9v #RK">cemmalo
-ṭeriparan</rdg>
-<rdg wit="#NL #C1 #C9">cemmale
-ṭeriparan</rdg>
+        <lem wit="#corr">cemmalō ṭeriparan</lem>  <!-- # -->
+        <rdg wit="#C5 #C7 #C9v #RK">cemmalo ṭeriparan</rdg>
+<rdg wit="#NL #C1 #C9">cemmale ṭeriparan</rdg>
         </app>
 <app loc="239,248">
         <lem wit="#NL #C1 #C5 #C7 #C9 #RK">vilamalar</lem>
@@ -602,11 +597,11 @@ miḷaṅkollai  yitaiya kuṟumpoṟai</rdg>
         <rdg wit="#C2 #C3 #C7v #C9v">ciṟanta</rdg>
         </app>
 <app loc="270,278">
-        <lem wit="#C2 #C3 #C5 #C7 #C9c">tīmpuṉaṟ</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9c">tīmpuṉaṟ</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">tīmpuṉak</rdg>
         </app>
 <app loc="286,303">
-        <lem wit="#C5">vāṉkō lelvaḷai tīra</lem>
+        <lem wit="#C5">vāṉkō lelvaḷai tīra</lem> <!-- # -->
         <rdg wit="#NL">vāṉkō lelvaḷaintā</rdg>
 <rdg wit="#C1"><gap reason="lost" quantity="8" unit="character"/>vaḷaintā</rdg>
 <rdg wit="#C9">vāṉkōva lelvaḷaintā</rdg>
@@ -616,8 +611,8 @@ miḷaṅkollai  yitaiya kuṟumpoṟai</rdg>
 <rdg wit="#RK #VP #ER">vāṉko ṭūval vaḷitara</rdg>
         </app>
 <app loc="364,372">
-        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">yitaṉmuḷ</lem>
-        <rdg wit="#C7c #C9v">yitaṇmuḷ</rdg> <!--FFvariant--> 
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">yitaṉmuḷ</lem> <!-- FF -->
+        <rdg wit="#C7c #C9v">yitaṇmuḷ</rdg>
         </app>
 <app loc="419,423">
         <lem wit="#NL #C1 #C9">tāvu</lem>
@@ -625,7 +620,7 @@ miḷaṅkollai  yitaiya kuṟumpoṟai</rdg>
 <rdg wit="#C5 #C7 #C9c #RK #VP #ER">tāa</rdg>
         </app>
 <app loc="423,444">
-        <lem wit="#C5 #C7">mīrnāṭ ṭattat tīrñcuvaṟ</lem>
+        <lem wit="#C5 #C7">mīrnāṭ ṭattat tīrñcuvaṟ</lem> <!-- # --> <!-- # --> <!-- marked twices -->
         <rdg wit="#NL #C1 #C9">mirnāṭ ṭattati rañcuvarak</rdg>
 <rdg wit="#C3">miḷaināṭ ṭattat tīṉcuva</rdg>
 <rdg wit="#C2">miḷaināṭ ṭattat tīṉcuvaṟ</rdg>
@@ -633,7 +628,7 @@ miḷaṅkollai  yitaiya kuṟumpoṟai</rdg>
 <rdg wit="#RK">miḷaināṭ ṭattat tīrñcuvaṟ</rdg>
         </app>
 <app loc="496,507">
-        <lem wit="#C1 #C2 #C3 #C5 #C7 #C9 #RK">kāṭiṟan tōrē</lem>
+        <lem wit="#C1 #C2 #C3 #C5 #C7 #C9 #RK">kāṭiṟan tōrē</lem> <!-- # -->
         <rdg wit="#NL">kāṭin tōrē</rdg>
         </app>
 </listApp>

@@ -42,7 +42,7 @@
               <l>cēri vilaimāṟu kūṟaliṉ maṉaiya</l>
               <l>viḷiyaṟi ñamali kuraippa verīiya</l>
               <l>matarkayaṉ malaippi ṉaṉṉa kaṇṇemak<anchor n="1"/></l>
-              <l>ki<supplied>taimu</supplied>yal puṉava<supplied>ṉ</supplied> pukainiḻaṟ kaṭukku</l>
+              <l>ki<del>n</del><supplied>taimu</supplied>yal puṉava<supplied>ṉ</supplied> pukainiḻaṟ kaṭukku</l>
               <l>māmū taḷḷa laḻuntiya cākāṭ</l>
               <l>ṭevvan tīra vāṅkun tantai</l>
               <l>naiyūṇ pakaṭṭiṉ varunti</l>
@@ -70,7 +70,7 @@
   </text>
 
 <standoff type="notes2" corresp="#AN140.1">
-    <note n="1">10 <abbr corresp="#C5"/>: kayaṉmalaip paṉṉa kaṇṇemak kīnta</note> <!--FFvariant-->
+    <note n="1">10 <abbr corresp="#C5"/>: kayaṉmalaip paṉṉa kaṇṇemak kīnta</note> <!-- FF -->
 </standoff>
 
   <standOff type="wordsplit" corresp="#AN140.1">
@@ -455,7 +455,7 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN140.1" type="apparatus"><listApp>
 <app loc="36,58">
-        <lem wit="#C2 #C3 #C5 #C7 #C9v">riruṅkaḻic ceṟuvi ṉuḻātu</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9v">riruṅkaḻic ceṟuvi ṉuḻātu</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">riruṅkaḻic ceṟu ṉuḻātu</rdg>
 <rdg wit="#RK">riruṅkaḻic ceṟuvi ṉuḻāatu</rdg>
 <rdg wit="#G1">rituṅkaḻic ceṟu ṉuḻātu</rdg>
@@ -470,25 +470,22 @@
         <lem wit="#NL #C1 #G2">pōkun tataraḻikō</lem>
         <rdg wit="#RK">pōkuṅ kataḻkō</rdg>
 <rdg wit="#C5">pōkun tāḻkō</rdg>
-<rdg wit="#RKv #SAv">pōkun
-tatarkō</rdg>
-<rdg wit="#C2 #C7 #EC">pōkun
-tatartō</rdg>
+<rdg wit="#RKv #SAv">pōkun tatarkō</rdg>
+<rdg wit="#C2 #C7 #EC">pōkun tatartō</rdg>
 <rdg wit="#C3">porunta tatartō</rdg>
-<rdg wit="#C9 #G1">porunta
-tāḻiko tāḻitō</rdg>
-<rdg wit="#C9v">porunta tāḻiko (tāḻitō)</rdg>
+<rdg wit="#C9 #G1">porunta tāḻiko</rdg>
+<rdg wit="#C9v">porunta tāḻiko tāḻitō</rdg>
         </app>
 <app loc="169,173">
-        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #G1 #RK">ṉērē</lem>
-        <rdg wit="#G2">ṉarē</rdg> <!--FFvariant-->
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #G1 #RK">ṉērē</lem> <!-- FF -->
+        <rdg wit="#G2">ṉarē</rdg>
         </app>
 <app loc="178,186">
-        <lem wit="#NL #C1 #C5 #C9 #G1 #G2 #RK">luppeṉac</lem>
-        <rdg wit="#C2 #C3 #C7">luppeṉa</rdg> <!--sandhivariant-->
+        <lem wit="#NL #C1 #C5 #C9 #G1 #G2 #RK">luppeṉac</lem> <!-- $ -->
+        <rdg wit="#C2 #C3 #C7">luppeṉa</rdg>
         </app>
 <app loc="186,199">
-        <lem wit="#NL #C1 #C3 #C9 #G1 #G2 #RK">cēri vilaimāṟu</lem>
+        <lem wit="#NL #C1 #C3 #C9 #G1 #G2 #RK">cēri vilaimāṟu</lem> <!-- # -->
         <rdg wit="#C5">cēri vilaiya māṟu <note>(different line split and verīiyamatar with pencil in an empty line after 9)</note></rdg>
 <rdg wit="#C2">cēri milaimāṟu</rdg>
 <rdg wit="#C7">vilaimāṟu</rdg>
@@ -503,22 +500,22 @@ tāḻiko tāḻitō</rdg>
 <rdg wit="#EC">viḷiyaṟu</rdg>
         </app>
 <app loc="235,242">
-        <lem wit="#C1 #C5 #C7 #C9 #G1 #G2 #RK">verīiya</lem>
+        <lem wit="#C1 #C5 #C7 #C9 #G1 #G2 #RK">verīiya</lem> <!-- # -->
         <rdg wit="#C2 #C3 #C9c">verīi</rdg>
         </app>
 <app loc="242,252">
-        <lem wit="#C1 #C2 #C3 #C7 #C9 #G1 #G2 #RK">matarkayaṉ</lem>
-        <rdg wit="#EC">matarkaṟaṉ</rdg> <!--FFvariant-->
+        <lem wit="#C1 #C2 #C3 #C7 #C9 #G1 #G2 #RK">matarkayaṉ</lem> <!-- FF -->
+        <rdg wit="#EC">matarkaṟaṉ</rdg>
         </app>
 <app loc="273,290">
-        <lem wit="#C2 #C3 #C7 #RK">kitaimuyal puṉavaṉ</lem>
+        <lem wit="#C2 #C3 #C7 #RK">kitaimuyal puṉavaṉ</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9 #G1 #G2">kintamayal puṉavaṉai</rdg>
 <rdg wit="#C7c">kīntamayal puṉavaṉ</rdg>
 <rdg wit="#C5">mayala puṉvaḷai</rdg>
         </app>
 <app loc="290,300">
-        <lem wit="#C1 #C3 #C5 #C9 #G1 #G2 #RK">pukainiḻaṟ</lem>
-        <rdg wit="#C2 #C9v">pukainiḻal</rdg> <!--sandhivariant-->
+        <lem wit="#C1 #C3 #C5 #C9 #G1 #G2 #RK">pukainiḻaṟ</lem> <!-- $ -->
+        <rdg wit="#C2 #C9v">pukainiḻal</rdg>
         </app>
 <app loc="307,330">
         <lem wit="#C1 #C2 #C3 #C7 #C9v #RK">māmū taḷḷa laḻuntiya cākāṭ</lem>
