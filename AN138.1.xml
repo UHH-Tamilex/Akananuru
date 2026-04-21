@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Akanāṉūṟu</title> <num>138.1</num>. <persName xml:lang="ta"><app><rdg wit ="#C7">eḻūuppaṉṟi nākaṉ kumāraṉa</rdg><rdg wit="#RK">eḻū(u)ppaṉṟi nākaṉ kumāraṉa</rdg><rdg wit="#C2 #3">eḻūṉṟi nākaṉ kumāraṉa</rdg><rdg wit="#C1 #RKv">eḻumpaṉṟi nākaṉ kumāraṉa</rdg> <lem>nākaṉ kumāraṉa</lem><rdg>nākaṉ kumāraṉār</rdg></app></persName>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>138.1</num>. <persName xml:lang="ta"><app><rdg wit ="#C7">eḻūppaṉṟi nākaṉ kumāraṉa</rdg><rdg wit="#RK">eḻūuppaṉṟi nākaṉ kumāraṉār</rdg><rdg wit="#C2 #3">eḻūṉṟi nākaṉ kumāraṉa</rdg><rdg wit="#C1 #RKv">eḻumpaṉṟi nākaṉ kumāraṉa</rdg></app></persName>
         </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -42,7 +42,7 @@
               <l><supplied>la</supplied>ruñcimai yiḻitaru mārttuvara laruviyiṟ</l>
               <l>ṟatumpucī riṉṉiyaṅ kaṟaṅkak kaitoḻu</l>
               <l>turukeḻu ciṟappiṉ murukumaṉait tarīik</l>
-              <l>kaṭampuṅ kaḷiṟum pāṭi nuṭaṅkupu</l>
+              <l>kaṭampu<del>tu</del>ṅ kaḷiṟum pāṭi nuṭaṅkupu</l>
               <l>tōṭun toṭalaiyuṅ kaikkoṇ ṭalkalum</l>
               <l>pāṭiṉa ḷāta ṉaṉṟō nīṭu</l>
               <l>niṉṉoṭu teḷitta naṉmalai nāṭaṉ</l>
@@ -81,7 +81,7 @@
   </text>
 
 <standOff type="notes2" corresp="#AN138.1">
-    <note n="1">18df. <abbr corresp="#NL"/> <abbr corresp="#C1"/>: tumpi<space quantity="45" unit="character"/>naṉṉiṟa</note>
+    <note n="1">18df. <abbr corresp="#NL"/> <abbr corresp="#C1"/>: tumpi<space quantity="45" unit="character"/>naṉṉiṟa</note> <!-- # -->
 </standOff>
 
   <standOff type="wordsplit" corresp="#AN138.1">
@@ -608,29 +608,28 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN138.1" type="apparatus"><listApp>
 <app loc="80,89">
-        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">piṟitoṉṟu</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">piṟitoṉṟu</lem> <!-- # -->
         <rdg wit="#NL #C1">piṟitoṉṟi</rdg>
         </app>
 <app loc="115,122">
-        <lem wit="#NL #C1 #C5 #C9 #RK">pācilai</lem>
+        <lem wit="#NL #C1 #C5 #C9 #RK">pācilai</lem> <!-- # -->
         <rdg wit="#C2 #C3">pācaṭai</rdg>
         </app>
 <app loc="122,130">
-        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">nīlamoṭu</lem>
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">nīlamoṭu</lem> <!-- # -->
         <rdg wit="#C2 #C3">nilamoṭu</rdg>
         </app>
 <app loc="134,144">
-        <lem wit="#C2 #C3 #C5 #C7v #C9 #RK">yuṭalunark</lem>
+        <lem wit="#C2 #C3 #C5 #C7v #C9 #RK">yuṭalunark</lem> <!-- # -->
         <rdg wit="#NL #C1 #C7">yuṭaluṉark</rdg>
         </app>
 <app loc="189,205">
-        <lem wit="#C2 #C3 #C5v #C7 #C9v #RK">potiyi
-laruñcimai</lem>
+        <lem wit="#C2 #C3 #C5v #C7 #C9v #RK">potiyi laruñcimai</lem> <!-- # -->
         <rdg wit="#C5">potiyi ṉaruñcimai</rdg>
 <rdg wit="#NL #C1 #C9">potiyi ṟaruñcimai</rdg>
         </app>
 <app loc="298,306">
-        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">kaṭampuṅ</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">kaṭampuṅ</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">kaṭamputuṅ</rdg>
         </app>
 <app loc="313,326">
@@ -639,9 +638,9 @@ laruñcimai</lem>
 <rdg wit="#C2">pāṭit tuṭaṅkupu</rdg>
         </app>
 <app loc="331,341">
-        <lem wit="#NL #C3 #C5 #C7 #C9 #RK">toṭalaiyuṅ</lem>
+        <lem wit="#NL #C3 #C5 #C7 #C9 #RK">toṭalaiyuṅ</lem> <!-- FF -->
         <rdg wit="#C2">toṭalaiyu</rdg>
-<rdg wit="#C1">toṭilaiyuṅ</rdg> <!--FFvariant-->
+<rdg wit="#C1">toṭilaiyuṅ</rdg>
         </app>
 <app loc="348,371">
         <lem wit="#NL #C1 #C5 #C9 #RKv">ṭalkalum pāṭiṉa ḷāta ṉaṉṟō</lem>
@@ -651,7 +650,7 @@ laruñcimai</lem>
 <rdg wit="#NaccT">ṭalkalu māṭip pāṭiṉā ḷāka naṉṟē</rdg>
         </app>
 <app loc="437,443">
-        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">vīḻnta</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">vīḻnta</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">vīḻn</rdg>
         </app>
 </listApp>

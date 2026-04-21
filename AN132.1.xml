@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Akanāṉūṟu</title> <num>132.1</num>. <persName xml:lang="ta"><app><lem>kaiyaṅ</lem><rdg wit="#C5 #RK">tāyaṅ</rdg><rdg wit="#C7">taiyaṅ</rdg><rdg wit="#C2 #C3">takaiyaṉ</rdg></app> <app><lem>kaṇṇaṉa</lem><rdg>kaṇṇaṉār</rdg></app></persName> 
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>132.1</num>. <persName xml:lang="ta"><app><lem wit="C5c">tāyaṅ kaṇṇaṉa</lem><rdg wit="#RK">tāyaṅ kaṇṇaṉār</rdg><rdg wit="#C5">kaiyaṅ kaṇṇaṉa</rdg><rdg wit="#C7">taiyaṅ kaṇṇaṉa</rdg><rdg wit="#C2 #C3">takaiyaṉ kaṇṇaṉa</rdg></app></persName> 
             <persName xml:lang="ta"/>
         </title>
       </titleStmt>
@@ -456,7 +456,7 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN132.1" type="apparatus"><listApp>
 <app loc="5,25">
-        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">miṟaṅkukura liṟuttaṉa</lem>
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">miṟaṅkukura liṟuttaṉa</lem> <!-- # -->
         <rdg wit="#C2 #C3">miṟaṅkura</rdg>
 <rdg wit="#NaccT">miṟaṅkukati riṟuttaṉa</rdg>
         </app>
@@ -470,7 +470,7 @@
         <rdg wit="#C7 #RK">mākaliṟ</rdg>
         </app>
 <app loc="109,119">
-        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">kavuḷuṭaip</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">kavuḷuṭaip</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">kavuḻuṭaip</rdg>
 <rdg wit="#C7c">kaṭumuṭaip</rdg>
         </app>
@@ -491,8 +491,8 @@
 <rdg wit="#C7 #RK">tuḷitalait talaiiya</rdg>
         </app>
 <app loc="255,265">
-        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">ṉaḷicuṉaik</lem>
-        <rdg wit="#C1">ṉalicuṉaik</rdg> <!--FFvariant-->
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">ṉaḷicuṉaik</lem> <!-- FF -->
+        <rdg wit="#C1">ṉalicuṉaik</rdg>
         </app>
 <app loc="315,320">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">rūtik</lem>
