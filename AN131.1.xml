@@ -43,7 +43,7 @@
                 <l>kaṭaimaṇi yukunīr tuṭaitta vāṭavar</l>
                 <l>peyarum pīṭu meḻuti yatartoṟum</l>
                 <l>pīli cūṭṭiya piṟaṅkunilai naṭukal</l>
-                <l>vē<supplied>lū</supplied>ṉṟu palakai vēṟṟumuṉai paṭukkum</l>
+                <l>vē<supplied>lū</supplied>ṉṟu palakai vē<del>lē</del>ṟṟumuṉai paṭukkum</l>
                 <l>veruvaru taku<supplied>na</supplied> kāṉa nammoṭu</l>
                 <l>varuku veṉṉuti yāyiṉ</l>
                 <l>vārē <supplied>ṉe</supplied>ñcam vāykkani<supplied>ṉ</supplied> viṉaiyē.</l>
@@ -480,21 +480,21 @@
 <rdg wit="#ER">ḷikaṇaip</rdg>
         </app>
 <app loc="78,91">
-        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">tāḻiruṅ kūntaṟ</lem>
-        <rdg wit="#C1">tāḻiru<gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="2" unit="character"/>taṟ</rdg> <!--FFvariant-->
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">tāḻiruṅ kūntaṟ</lem> <!-- FF -->
+        <rdg wit="#C1">tāḻiru<gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="2" unit="character"/>taṟ</rdg>
         </app>
 <app loc="91,100">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">curumpuṇa</lem>
         <rdg wit="#C9v">curumpuḷara</rdg>
         </app>
 <app loc="137,141">
-        <lem wit="#C3 #C5c #C7 #C9">ṟīta</lem>
+        <lem wit="#C3 #C5c #C7 #C9">ṟīta</lem> <!-- # -->
         <rdg wit="#NL #C1">ṟita</rdg>
 <rdg wit="#C5"><space quantity="8" unit="character"/></rdg>
 <rdg wit="#C2">ṟītai</rdg>
         </app>
 <app loc="150,155">
-        <lem wit="#C2 #C3 #C5v #C7 #C9c #RK">vīḷai</lem>
+        <lem wit="#C2 #C3 #C5v #C7 #C9c #RK">vīḷai</lem> <!-- # -->
         <rdg wit="#NL #C1 #C5 #C9">vīṇai</rdg>
 <rdg wit="#C2v">vīvā</rdg>
         </app>
@@ -503,16 +503,16 @@
         <rdg wit="#C2 #C3 #C5c #C7v #C9c">maṟavar</rdg>
         </app>
 <app loc="178,188">
-        <lem wit="#C2 #C3 #C5 #C7 #C9c #RK">nāḷā vuytta</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9c #RK">nāḷā vuytta</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">nāḷāaytta</rdg>
         </app>
 <app loc="188,202">
-        <lem wit="#C5 #C7">nāmaveñ curattu</lem>
-        <rdg wit="#RK">nāma veñcurattu</rdg> <!--sandhivariant-->
+        <lem wit="#C5 #C7">nāmaveñ curattu</lem> <!-- $ -->
+        <rdg wit="#RK">nāma veñcurattu</rdg>
         </app>
 <app loc="233,242">
-        <lem wit="#C1 #C2 #C3 #C5 #C7 #C9 #RK">kaṭaimaṇi</lem>
-        <rdg wit="#NL">kaṭaimaṉi</rdg> <!--FFvariant-->
+        <lem wit="#C1 #C2 #C3 #C5 #C7 #C9 #RK">kaṭaimaṇi</lem> <!-- FF -->
+        <rdg wit="#NL">kaṭaimaṉi</rdg>
         </app>
 <app loc="295,302">
         <lem wit="#NL #C2 #C5 #C7 #C9 #RK">cūṭṭiya</lem>
@@ -520,11 +520,11 @@
 <rdg wit="#C3">cūṭiya</rdg>
         </app>
 <app loc="321,328">
-        <lem wit="#C3 #C5 #C7 #C9c">vēlūṉṟu</lem>
+        <lem wit="#C3 #C5 #C7 #C9c">vēlūṉṟu</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">vēluṉṟu</rdg>
         </app>
 <app loc="335,345">
-        <lem wit="#C2 #C3 #C5 #C7 #C9c">vēṟṟumuṉai</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9c">vēṟṟumuṉai</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">vēlēṟṟumuṉai</rdg>
         </app>
 <app loc="345,353">
@@ -533,12 +533,12 @@
 <rdg wit="#C2">kaṭukkumm</rdg>
         </app>
 <app loc="353,361">
-        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #RK">veruvaru</lem>
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #RK">veruvaru</lem> <!-- $ -->
         <rdg wit="#C9">veruvarut</rdg>
-<rdg wit="#C9c">veruvarart</rdg> <!--sandhivariant-->
+<rdg wit="#C9c">veruvarart</rdg>
         </app>
 <app loc="361,367">
-        <lem wit="#C2 #C3 #C5 #C7c #RK">takuna</lem>
+        <lem wit="#C2 #C3 #C5 #C7c #RK">takuna</lem> <!-- # -->
         <rdg wit="#NL #C1 #C7 #C9">takuṉa</rdg>
         </app>
 <app loc="378,384">
@@ -546,12 +546,12 @@
         <rdg wit="#C2 #C3 #C5 #C7c #C9c #RK #VP #ER">varuka</rdg>
         </app>
 <app loc="396,406">
-        <lem wit="#C5 #C7 #C9c #RK">vārē ṉeñcam</lem>
+        <lem wit="#C5 #C7 #C9c #RK">vārē ṉeñcam</lem> <!-- # --> <!-- # --> <!-- marked twice -->
         <rdg wit="#NL #C1 #C9">vārē neñcam</rdg>
 <rdg wit="#C2 #C3">vārēṉ ṉeñcam</rdg>
         </app>
 <app loc="406,415">
-        <lem wit="#C3 #C5 #C7 #C9c #RK">vāykkaniṉ</lem>
+        <lem wit="#C3 #C5 #C7 #C9c #RK">vāykkaniṉ</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">vāykkaniṉai</rdg>
         </app>
 </listApp>
