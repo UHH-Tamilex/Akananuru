@@ -41,7 +41,7 @@
               <l>ḷiyaṅka lāṉā tāyiṉ vayaṅkiḻai</l>
               <l>yārkol laḷiyar tāmē yempō<supplied>ṉ</supplied></l>
               <l>māyap parattai vāymoḻi nampi</l>
-              <l>vaḷipōt tuyalvarun<anchor n="3"/> taḷipoḻi malariṟ</l>
+              <l>vaḷipōt tuyalvarun<anchor n="3"/> taḷipo<del>ḷa</del>ḻi malariṟ</l>
               <l>ṟaṇpaṉi yākat tuṟaippak kaṇpacan</l>
               <l>tāyamu mayalu maruḷat</l>
               <l>tāyōm pāynalam vēṇṭā tōrē.</l>
@@ -66,9 +66,9 @@
   </text>
 
 <standOff type="notes2" corresp="#AN146.1">
-<note n="1">1d-2 <abbr corresp="#C1"/>: <space quantity="3" unit="character"/>la <gap reason="lost" unit="character" quantity="14"/>[left upper corner broken]ykaip</note> <!-- FF variant -->
-<note n="2">6bc <abbr corresp="#C1"/>: <gap reason="lost" unit="character" quantity="10"/></note> <!-- FF variant -->
-<note n="3">10b <abbr corresp="#C1"/>: tuyal<gap reason="lost" unit="character" quantity="5"/></note> <!-- FF variant -->
+<note n="1">1d-2 <abbr corresp="#C1"/>: <space quantity="3" unit="character"/>la <gap reason="lost" unit="character" quantity="14"/>[left upper corner broken]ykaip</note> <!-- FF -->
+<note n="2">6bc <abbr corresp="#C1"/>: <gap reason="lost" unit="character" quantity="10"/></note> <!-- FF -->
+<note n="3">10b <abbr corresp="#C1"/>: tuyal<gap reason="lost" unit="character" quantity="5"/></note> <!-- FF -->
 </standOff>
 
   <standOff type="wordsplit" corresp="#AN146.1">
@@ -412,7 +412,7 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN146.1" type="apparatus"><listApp>
 <app loc="13,25">
-        <lem wit="#C2 #C3 #C5 #C7 #C9c">ṉaṇṇa ṉallēṟu</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9c">ṉaṇṇa ṉallēṟu</lem> <!-- # -->
         <rdg wit="#NL #C9">ṉaṇṇa<space quantity="2" unit="character"/>llēṟu</rdg>
 <rdg wit="#RK">ṉaṇṇal lēeṟu</rdg>
         </app>
@@ -436,21 +436,21 @@
         <rdg wit="#C2 #C3 #C7 #C9v">kalikē ḻūra</rdg>
         </app>
 <app loc="138,146">
-        <lem wit="#NL #C5 #C7 #C9 #RK">roḷḷiḻai</lem>
+        <lem wit="#NL #C5 #C7 #C9 #RK">roḷḷiḻai</lem> <!-- # -->
         <rdg wit="#C1">roḷḷi<gap reason="lost" quantity="2" unit="character"/></rdg>
 <rdg wit="#C2 #C3">roḷiḻai</rdg>
         </app>
 <app loc="189,195">
-        <lem wit="#NL #C1 #C9">yārkol</lem>
-        <rdg wit="#C2 #C3 #C5 #C7">yārko</rdg> <!--sandhivariant-->
+        <lem wit="#NL #C1 #C9">yārkol</lem> <!-- $ -->
+        <rdg wit="#C2 #C3 #C5 #C7">yārko</rdg>
         </app>
 <app loc="195,206">
         <lem wit="#NL #C1 #C5 #C7 #C9">laḷiyar tāmē</lem>
         <rdg wit="#C2 #C3 #C7v #C9v #RK">laḷiya ṭāṉē</rdg>
         </app>
 <app loc="206,212">
-        <lem wit="#C2 #C3 #C5 #C7 #RK">yempōṉ</lem>
-        <rdg wit="#NL #C1 #C9">yempōl</rdg> <!--sandhivariant-->
+        <lem wit="#C2 #C3 #C5 #C7 #RK">yempōṉ</lem> <!-- $ -->
+        <rdg wit="#NL #C1 #C9">yempōl</rdg>
         </app>
 <app loc="217,225">
         <lem wit="#NL #C1 #C5 #C9">parattai</lem>
@@ -468,8 +468,8 @@
 <rdg wit="#C2 #C3 #C9">taḷirpoḻi</rdg>
         </app>
 <app loc="298,310">
-        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #RK">tāyamu mayalu</lem>
-        <rdg wit="#C9">tāyamum mayalum</rdg> <!--sandhivariant-->
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #RK">tāyamu mayalu</lem> <!-- $ -->
+        <rdg wit="#C9">tāyamum mayalum</rdg>
         </app>
 <app loc="322,330">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C9 #RK">pāynalam</lem>
