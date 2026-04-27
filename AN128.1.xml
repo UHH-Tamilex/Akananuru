@@ -525,7 +525,7 @@
         </app>
 <app loc="394,404">
         <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">ceṉṟa tiṉṟē</lem> <!-- FF -->
-        <rdg wit="#Iḷ">ceṉṟaveṉ ṉeñcu</rdg>
+        <rdg wit="#Il">ceṉṟaveṉ ṉeñcu</rdg>
         </app>
 </listApp>
 <listWit>
@@ -613,12 +613,20 @@
     <abbr>C<hi rend="subscript">1</hi></abbr>
     <expan>palm-leaf manuscript from the UVSL [1075] covering 3(kiḷ.)-400.22b, except 46.12c-50 between pp. 165 and 166; 123.14-128.7a between pp. 197 and 198, 336.19d-343.15c</expan>
   </witness>
-  <witness xml:id="Iḷ" source="">
-   <abbr>Iḷ</abbr>
+  <witness xml:id="Il" source="">
+   <abbr>Il</abbr>
    <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, reported when deviating</expan>
-   <witness xml:id="Iḷv">
-      <abbr>Iḷv</abbr>
+   <witness xml:id="Ilv">
+      <abbr>IIlv</abbr>
       <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, reported when deviating, variant reading</expan>
+    </witness>
+  </witness>
+  <witness xml:id="Per" source="">
+    <abbr>Per</abbr>
+    <expan><term xml:lang="ta">Pērāciriyar</term> on Tolkāppiyam Poruḷatikāram, reported when deviating</expan>
+    <witness xml:id="Perv">
+      <abbr>Perv</abbr>
+      <expan><term xml:lang="ta">Pērāciriyar</term> on Tolkāppiyam Poruḷatikāram, reported when deviating, variant reading</expan>
     </witness>
   </witness>
 </listWit></standOff>
