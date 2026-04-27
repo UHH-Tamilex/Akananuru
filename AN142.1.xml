@@ -955,12 +955,12 @@
    </witness>
   </listWit>
  </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Per" source="">
+<witness xml:id="Per" source="">
     <abbr>Per</abbr>
-    <expan><term xml:lang="ta">Pērātaiyar</term> edition (1975) reported when deviating</expan>
+    <expan><term xml:lang="ta">Pērāciriyar</term> on Tolkāppiyam Poruḷatikāram, reported when deviating</expan>
     <witness xml:id="Perv">
       <abbr>Perv</abbr>
-      <expan><term xml:lang="ta">Pērātaiyar</term> edition (1975) reported when deviating, variant reading</expan>
+      <expan><term xml:lang="ta">Pērāciriyar</term> on Tolkāppiyam Poruḷatikāram, reported when deviating, variant reading</expan>
     </witness>
   </witness>
 </listWit></standOff>
