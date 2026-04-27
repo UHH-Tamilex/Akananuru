@@ -502,16 +502,16 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN156.1" type="apparatus"><listApp>
 <app loc="16,22">
-        <lem wit="#NL #C1 #C7 #C9">puravi</lem>
-        <rdg wit="#C2 #C3 #C5 #C9c #NaccT #RK">puravic</rdg> <!--sandhivariant-->
+        <lem wit="#NL #C1 #C7 #C9">puravi</lem> <!-- $ -->
+        <rdg wit="#C2 #C3 #C5 #C9c #NaccT #RK">puravic</rdg>
         </app>
 <app loc="64,70">
-        <lem wit="#NL #C1 #C9 #RK">cēyari</lem>
-        <rdg wit="#C2 #C3 #C5 #C9v #NaccT #RKv">cēyarip</rdg> <!--sandhivariant-->
+        <lem wit="#NL #C1 #C9 #RK">cēyari</lem> <!-- $ -->
+        <rdg wit="#C2 #C3 #C5 #C9v #NaccT #RKv">cēyarip</rdg>
         </app>
 <app loc="70,78">
-        <lem wit="#C5 #RK">puṉiṟṟāk</lem>
-        <rdg wit="#C2 #C3 #C5v #C7 #C9 #NaccT #RKv">puṉiṟṟuk</rdg>
+        <lem wit="#C5 #RK">puṉiṟṟāk</lem> <!-- # -->
+        <rdg wit="#C2 #C3 #C7 #C9 #NaccT #RKv">puṉiṟṟuk</rdg>
 <rdg wit="#C1"><gap reason="lost" quantity="6" unit="character"/></rdg>
 <rdg wit="#NL">ṇi<gap reason="lost" quantity="1" unit="character"/>ṟak</rdg>
         </app>
@@ -535,7 +535,7 @@
 <rdg wit="#RK">karumparutti yākkun</rdg>
         </app>
 <app loc="167,178">
-        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">tīmpuṉa lūra</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">tīmpuṉa lūra</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">tīmpuṉa ṉūra</rdg>
         </app>
 <app loc="213,219">
@@ -578,8 +578,8 @@
         <rdg wit="#NL #C2 #C3 #C5v #C7 #C9 #NaccT #RK">kaḷḷuṅ</rdg>
         </app>
 <app loc="362,370">
-        <lem wit="#C5v #C7 #RK">nālcevik</lem>
-        <rdg wit="#C5">naralcevik</rdg> <!--FFvariant-->
+        <lem wit="#C5v #C7 #RK">nālcevik</lem> <!-- FF -->
+        <rdg wit="#C5">naralcevik</rdg>
         </app>
 <app loc="370,388">
         <lem wit="#NL #C1 #C5 #C9">kaṭāay nilaittuṟaik</lem>
@@ -588,7 +588,7 @@
 <rdg wit="#C7">kiṭāa yulaittuṟaik</rdg>
         </app>
 <app loc="404,410">
-        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">vōccit</lem>
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">vōccit</lem> <!-- # -->
         <rdg wit="#C2 #C3">vōkkit</rdg>
         </app>
 <app loc="410,426">

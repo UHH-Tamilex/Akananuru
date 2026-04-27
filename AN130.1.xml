@@ -603,34 +603,41 @@
    <abbr>VP</abbr>
    <expan><term xml:lang="ta">Vaiyāpurip Piḷḷai</term> edition (1940) reported when deviating</expan>
  </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="SAv" source="">
+ 
+<witness xml:id="SAv" source="">
    <abbr>SAv</abbr>
    <expan>variant listed in the unpublished translation by <term xml:lang="ta">Cupiramaṇiya Aiyar</term> (1975)</expan>
  </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="AV" source="">
-   <abbr>AV</abbr>
-   <expan><term xml:lang="ta">Aṟaṅkālār</term> edition (1975) reported when deviating</expan>
-  </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Nam" source="">
-   <abbr>Nam</abbr>
-   <expan><term xml:lang="ta">Nammalvar</term> edition (1975) reported when deviating</expan>
-  </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Nakk" source="">
-   <abbr>Nakk</abbr>
-   <expan><term xml:lang="ta">Nakkār</term> edition (1975) reported when deviating</expan>
-   <witness xml:id="Nakkv">
-      <abbr>Nakkv</abbr>
-      <expan><term xml:lang="ta">Nakkār</term> edition (1975) reported when deviating, variant reading</expan>
-    </witness>
-  </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="KK" source="">
-   <abbr>KK</abbr>
-   <expan><term xml:lang="ta">Kākālār</term> edition (1975) reported when deviating</expan>
-  </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="SAv2" source="">
+
+ <witness xml:id="SAv2" source="">
    <abbr>SAv2</abbr>
    <expan>variant listed in the unpublished translation by <term xml:lang="ta">Cupiramaṇiya Aiyar</term> (1975)</expan>
  </witness>
+
+<witness xml:id="AV" source="">
+   <abbr>AV</abbr>
+   <expan>commentary on <term xml:lang="ta">Akapporuḷ Viḷakkam</term>, reported when deviating</expan>
+  </witness>
+
+<witness xml:id="Nam" source="">
+   <abbr>Nam</abbr>
+   <expan><term xml:lang="ta">Nampi</term> on the <term>Akapporuḷ Viḷakkam</term>, reported when deviating</expan>
+  </witness>
+
+<witness xml:id="KK" source="">
+   <abbr>KK</abbr>
+   <expan>commentary on <term xml:lang="ta">Kaḷaviya Kārikai</term>, reported when deviating</expan>
+  </witness>
+
+  <witness xml:id="Nakk" source="">
+   <abbr>Nakk</abbr>
+   <expan><term xml:lang="ta">Nakkīraṉ</term> on <term xml:lang="ta">Iṟaiyaṉār Akapporuḷ</term>, reported when deviating</expan>
+   <witness xml:id="Nakkv">
+      <abbr>Nakkv</abbr>
+      <expan><term xml:lang="ta">Nakkīraṉ</term> on <term xml:lang="ta">Iṟaiyaṉār Akapporuḷ</term>, reported when deviating, variant reading</expan>
+    </witness>
+  </witness>
+
 <witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EC" source="">
    <abbr>EC</abbr>
    <expan><term xml:lang="ta">Cāminātaiyar</term> library edition by <term xml:lang="ta">Civacupiramaṇiyaṉ</term>  (1990)</expan>

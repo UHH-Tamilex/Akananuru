@@ -546,27 +546,27 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN160" type="apparatus"><listApp>
 <app loc="22,30">
-        <lem wit="#NL #C1 #C5 #C7 #C9 #G1 #G2 #RK">naṭuṅkiṉ</lem>
-        <rdg wit="#SS">naṭukkiṉ</rdg> <!--FFvariant-->
+        <lem wit="#NL #C1 #C5 #C7 #C9 #G1 #G2 #RK">naṭuṅkiṉ</lem> <!-- FF -->
+        <rdg wit="#SS">naṭukkiṉ</rdg>
         </app>
 <app loc="49,60">
         <lem wit="#NL #C1 #C5 #C9 #G1 #G2 #RK">maṭumpukoṭi</lem>
         <rdg wit="#C7 #EC">maṭumpukōṭ</rdg>
         </app>
 <app loc="123,134">
-        <lem wit="#C5 #C7 #C9v #RK">maṟaittīṉṟu</lem>
+        <lem wit="#C5 #C7 #C9v #RK">maṟaittīṉṟu</lem> <!-- # -->
         <rdg wit="#C1 #C9 #G1 #G2">maṟaittiṉṟu</rdg>
         </app>
 <app loc="174,182">
-        <lem wit="#C1 #C5 #C7 #C9 #G1 #G2 #RK">pārppiṭa</lem>
-        <rdg wit="#NL">pārppayi</rdg> <!--FFvariant-->
+        <lem wit="#C1 #C5 #C7 #C9 #G1 #G2 #RK">pārppiṭa</lem> <!-- FF -->
+        <rdg wit="#NL">pārppayi</rdg>
         </app>
 <app loc="202,208">
-        <lem wit="#C1 #C5 #C7 #C9 #G1 #G2 #RK">kaṇava</lem>
-        <rdg wit="#EC">kaḷava</rdg> <!--FFvariant-->
+        <lem wit="#C1 #C5 #C7 #C9 #G1 #G2 #RK">kaṇava</lem> <!-- FF -->
+        <rdg wit="#EC">kaḷava</rdg>
         </app>
 <app loc="228,236">
-        <lem wit="#C5 #C7 #C9v #RK">muḷḷuṟiṟ</lem>
+        <lem wit="#C5 #C7 #C9v #RK">muḷḷuṟiṟ</lem> <!-- # -->
         <rdg wit="#NL #C9 #G1 #G2">muḷḷiṟiṟ</rdg>
 <rdg wit="#C1">muḷaṟiṟ</rdg>
         </app>
@@ -584,8 +584,8 @@
 <rdg wit="#C5 #RK">yēttoḻi</rdg>
         </app>
 <app loc="284,291">
-        <lem wit="#C1 #C5 #C7 #C9 #G1 #G2 #RK">ṉaviṉṟa</lem>
-        <rdg wit="#C5v">paviṉṟa</rdg> <!--FFvariant-->
+        <lem wit="#C1 #C5 #C7 #C9 #G1 #G2 #RK">ṉaviṉṟa</lem> <!-- FF -->
+        <rdg wit="#C5v">paviṉṟa</rdg>
         </app>
 <app loc="342,350">
         <lem wit="#NL #C1 #C5v #C7 #C9v #EC">kuṟaitta</lem>
@@ -596,11 +596,11 @@
         <rdg wit="#C7 #SSv #SAv">pāmpuyir</rdg>
         </app>
 <app loc="397,416">
-        <lem wit="#NL #C7v #C9 #G1 #G2 #RK">viravan taṉṟāṟ ṟiṇṭēr</lem>
+        <lem wit="#NL #C7v #C9 #G1 #G2 #RK">viravan taṉṟāṟ ṟiṇṭēr</lem> <!-- FF -->
         <rdg wit="#C5">vīravan taṉṟāṟ ṟiṇṭēr</rdg>
 <rdg wit="#C1">viravā tanṟāṟ ṭiṇṭēr</rdg>
 <rdg wit="#EC">viravan tāṉā tiṇṭēr</rdg>
-<rdg wit="#C7">viravan tāṉat tiṇṭēr</rdg> <!--FFvariant-->
+<rdg wit="#C7">viravan tāṉat tiṇṭēr</rdg>
         </app>
 <app loc="416,429">
         <lem wit="#NL #C1 #C5 #C9 #G1 #G2 #RK">karavā tolleṉa</lem>
