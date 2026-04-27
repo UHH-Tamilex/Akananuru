@@ -417,11 +417,11 @@
         <rdg wit="#C2 #C3 #C7 #C9v">kuṟumulai</rdg>
         </app>
 <app loc="45,52">
-        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9v #RK">curanta</lem>
-        <rdg wit="#C9">cura_tta</rdg> <!--FFvariant-->
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9v #RK">curanta</lem> <!-- FF -->
+        <rdg wit="#C9">cura_tta</rdg>
         </app>
 <app loc="52,61">
-        <lem wit="#C5 #C7 #C9 #RK">variniṟak</lem>
+        <lem wit="#C5 #C7 #C9 #RK">variniṟak</lem> <!-- # --> <!-- # --> <!-- marked twice -->
         <rdg wit="#NL #C1">vari<space quantity="2" unit="character"/>ṟak</rdg>
 <rdg wit="#C2 #C3">variniṟa</rdg>
         </app>
@@ -430,7 +430,7 @@
         <rdg wit="#C5">villiṭai</rdg>
         </app>
 <app loc="182,191">
-        <lem wit="#C2 #C3 #C7 #C9c #RK">yarumpoṭu</lem>
+        <lem wit="#C2 #C3 #C7 #C9c #RK">yarumpoṭu</lem> <!-- # -->
         <rdg wit="#NL #C1 #C5c #C9">yarumporu</rdg>
 <rdg wit="#C5v">yarumporuḷiṉ</rdg>
 <rdg wit="#C5">yarum</rdg>
@@ -440,11 +440,11 @@
         <rdg wit="#C3">kavaḻaṅ</rdg>
         </app>
 <app loc="237,244">
-        <lem wit="#C2 #C3 #C5 #C7 #C9">tamiyar</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9">tamiyar</lem> <!-- # -->
         <rdg wit="#NL #C1">tamayar</rdg>
         </app>
 <app loc="257,268">
-        <lem wit="#C2 #C3 #C7 #C9 #RK">moḻipa maṉṉē</lem>
+        <lem wit="#C2 #C3 #C7 #C9 #RK">moḻipa maṉṉē</lem> <!-- # -->
         <rdg wit="#NL #C1">moḻi<space quantity="3" unit="character"/>ṉṉē</rdg>
 <rdg wit="#C5">moḻipa veṉṉē</rdg>
         </app>
@@ -461,7 +461,7 @@
         <rdg wit="#C2 #C3 #C9v">nekiḻnta</rdg>
         </app>
 <app loc="334,343">
-        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">viṉaiyaḻi</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">viṉaiyaḻi</lem> <!-- # -->
         <rdg wit="#NL #C1">vi<space quantity="2" unit="character"/>yaḻi</rdg>
         </app>
 <app loc="356,366">
@@ -470,7 +470,7 @@
 <rdg wit="#C2 #C3 #C9c">maṉaiyaḻin</rdg>
         </app>
 <app loc="366,374">
-        <lem wit="#C5 #C9 #RK">tiruttal</lem>
+        <lem wit="#C5 #C9 #RK">tiruttal</lem> <!-- # -->
         <rdg wit="#NL #C1 #C2">tiruntal</rdg>
 <rdg wit="#C3">tirutta</rdg>
         </app>
