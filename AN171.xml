@@ -465,20 +465,21 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN171" type="apparatus"><listApp>
 <app loc="6,21">
-        <lem wit="#C5 #C7 #C9c #RK">nuṇpacap pivarun</lem>
+        <lem wit="#C5 #C7 #C9c #RK">nuṇpacap pivarun</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">nuṇpacapa mavarun</rdg>
         </app>
 <app loc="58,73">
-        <lem wit="#NL #C5 #C7 #C9c #RK">paṇaiyeḻi laḻiya</lem>
+        <lem wit="#NL #C5 #C7 #C9c #RK">paṇaiyeḻi laḻiya</lem> <!-- FF -->
         <rdg wit="#C1">paṉaiyeḻi laḻiya</rdg>
-<rdg wit="#C9">paṉaiyeḻil vaḻiya</rdg> <!--FFvariant-->
+<rdg wit="#C9">paṉaiyeḻil vaḻiya</rdg>
         </app>
 <app loc="81,89">
-        <lem wit="#C7 #RK">niṉaivaṉ</lem>
-        <rdg wit="#NL #C1 #C5 #C9">niṉaival</rdg> <!--sandhivariant-->
+        <lem wit="#C7 #RK">niṉaivaṉ</lem> <!-- $ -->
+        <rdg wit="#NL #C1 #C5 #C9">niṉaival</rdg>
         </app>
 <app loc="96,106">
-        <lem wit="#NL #C1 #C9">paṇpaṉ ṟōvā</lem>
+        <lem wit="corr">paṇpaṉ ṟōvā</lem>
+        <rdg wit="#NL #C1 #C9">paṇṭupaṉ ṟōvā</rdg>
         <rdg wit="#C5 #C7 #C9v #RK #VP #ER">paṇpeṉ ṟōvā</rdg>
         </app>
 <app loc="106,114">
@@ -486,8 +487,8 @@
         <rdg wit="#C9v">viṉaiyal</rdg>
         </app>
 <app loc="289,299">
-        <lem wit="#NL #C1 #C7 #C9v #RK">yiṭantoṟum</lem>
-        <rdg wit="#C9">miṭantoṟum</rdg> <!--FFvariant-->
+        <lem wit="#NL #C1 #C7 #C9v #RK">yiṭantoṟum</lem> <!-- FF -->
+        <rdg wit="#C9">miṭantoṟum</rdg>
         </app>
 <app loc="309,318">
         <lem wit="#NL #C1 #C5 #C9">kīḻppaṭut</lem>
@@ -498,7 +499,7 @@
         <rdg wit="#C9v">muṉṉā</rdg>
         </app>
 <app loc="336,344">
-        <lem wit="#C7 #C9v #RK">paḻampōl</lem>
+        <lem wit="#C7 #C9v #RK">paḻampōl</lem> <!-- # -->
         <rdg wit="#NL #C1 #C5">palampōl</rdg>
 <rdg wit="#C9">paḷampōl</rdg>
         </app>

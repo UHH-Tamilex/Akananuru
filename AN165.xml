@@ -33,7 +33,7 @@
         <div rend="parallel">
       <lg xml:id="AN165">
         <l><anchor n="1"/>kayantalai maṭappiṭi <supplied>pa</supplied>yampiṟ paṭṭeṉak</l>
-        <l>kaḷiṟuviḷip paṭutta kampalai verīi</l>
+        <l>kaḷiṟuviḷip pa<del>ṭ</del>ṭutta kampalai verīi</l>
         <l>yoyyeṉa veḻunta cevvāyk kuḻavi</l>
         <l>tāteru maṟukiṉ mūtū rāṅ<supplied>ka</supplied></l>
         <l>ṇerumai nallāṉ perumulai māntu</l>
@@ -398,23 +398,23 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN165" type="apparatus"><listApp>
 <app loc="19,27">
-        <lem wit="#C5 #C7 #C9 #RK">payampiṟ</lem>
+        <lem wit="#C5 #C7 #C9 #RK">payampiṟ</lem> <!-- # -->
         <rdg wit="#NL #C1">puyampiṟ</rdg>
         </app>
 <app loc="46,53">
-        <lem wit="#C5 #C7 #C9 #RK">paṭutta</lem>
+        <lem wit="#C5 #C7 #C9 #RK">paṭutta</lem> <!-- # -->
         <rdg wit="#NL #C1">paṭṭutta</rdg>
         </app>
 <app loc="80,87">
-        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">cevvāyk</lem>
-        <rdg wit="#C9v">kaivvāyk</rdg> <!--FFvariant-->
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">cevvāyk</lem> <!-- FF -->
+        <rdg wit="#C9v">kaivvāyk</rdg>
         </app>
 <app loc="93,99">
         <lem wit="#NL #C1 #C5 #C7 #C9">tāteru</lem>
         <rdg wit="#C9v">tātuṟu</rdg>
         </app>
 <app loc="110,115">
-        <lem wit="#C5 #C7 #C9c #RK">rāṅka</lem>
+        <lem wit="#C5 #C7 #C9c #RK">rāṅka</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">rāṅ</rdg>
         </app>
 <app loc="128,137">
@@ -422,22 +422,22 @@
         <rdg wit="#RK #VP #ER">peṟumulai</rdg>
         </app>
 <app loc="157,168">
-        <lem wit="#C5 #C7 #C9c #RK">naṉṉa rāṭṭik</lem>
+        <lem wit="#C5 #C7 #C9c #RK">naṉṉa rāṭṭik</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">naṉṉā rāṭṭik</rdg>
         </app>
 <app loc="168,174">
-        <lem wit="#NL #C1 #C5 #C7 #C9c">kāyamu</lem>
-        <rdg wit="#C9">kāyamum</rdg> <!--sandhivariant-->
+        <lem wit="#NL #C1 #C5 #C7 #C9c">kāyamu</lem> <!-- $ -->
+        <rdg wit="#C9">kāyamum</rdg>
         </app>
 <app loc="174,183">
         <lem wit="#NL #C5 #C7 #C9 #RK">maṇiyiḻan</lem>
         <rdg wit="#C1">maṇiyiṟan</rdg>
         </app>
 <app loc="197,202">
-        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">miṉṟō</lem>
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">miṉṟō</lem> <!-- $ -->
         <rdg wit="#NaccT">miṉṟōṭ</rdg>
 <rdg wit="#C9v">mīṉṟō</rdg>
-<rdg wit="#AV">mīṉṟōṭ</rdg> <!--sandhivariant-->
+<rdg wit="#AV">mīṉṟōṭ</rdg>
         </app>
 <app loc="301,306">
         <lem wit="#NL #C1 #C5 #C9">cūṭit</lem>
@@ -445,7 +445,7 @@
         </app>
 <app loc="306,315">
         <lem wit="#NL #C1 #C5 #C7 #C9 #RK">tarumaṇaṟ</lem>
-        <rdg wit="#Iḷ">karumaṇaṟ</rdg>
+        <rdg wit="#Il">karumaṇaṟ</rdg>
         </app>
 </listApp>
 <listWit>
@@ -550,6 +550,15 @@
     <witness xml:id="C2v">
       <abbr>C<hi rend="subscript">2</hi>v</abbr>
       <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63], variant reading</expan>
+    </witness>
+  </witness>
+
+  <witness xml:id="Il" source="">
+   <abbr>Il</abbr>
+   <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, reported when deviating</expan>
+   <witness xml:id="Ilv">
+      <abbr>IIlv</abbr>
+      <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, reported when deviating, variant reading</expan>
     </witness>
   </witness>
 

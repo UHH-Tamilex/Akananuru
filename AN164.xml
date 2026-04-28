@@ -464,75 +464,75 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN164" type="apparatus"><listApp>
 <app loc="23,30">
-        <lem wit="#C1 #C6 #C9 #G1 #G2">paitaṟa</lem>
-        <rdg wit="#C5 #C7 #C9v #Iḷ #RK">paitaṟat</rdg> <!--sandhivariant-->
+        <lem wit="#C1 #C6 #C9 #G1 #G2">paitaṟa</lem> <!-- $ -->
+        <rdg wit="#C5 #C7 #C9v #Il #RK">paitaṟat</rdg>
         </app>
 <app loc="39,51">
         <lem wit="#C1 #C5 #C7 #C9 #RK">payaṅkarantu</lem>
-        <rdg wit="#Iḷ">payaṅkaṇ</rdg>
+        <rdg wit="#Il">payaṅkaṇ</rdg>
         </app>
 <app loc="91,108">
         <lem wit="#C1 #C5 #C6 #C7 #C9 #G1 #RK">ṉetirak kaṉaipeyal</lem>
         <rdg wit="#G2">ṉatirak kāṉaipeyal</rdg>
-<rdg wit="#Iḷ">ṉeytak kaṇamaḻai</rdg>
+<rdg wit="#Il">ṉeytak kaṇamaḻai</rdg>
         </app>
 <app loc="163,168">
-        <lem wit="#C5 #C6 #C7 #C9 #G1 #G2 #RK">tōṉṟi</lem>
+        <lem wit="#C5 #C6 #C7 #C9 #G1 #G2 #RK">tōṉṟi</lem> <!-- # -->
         <rdg wit="#C1">tōṉṟa</rdg>
         </app>
 <app loc="173,185">
-        <lem wit="#C7 #IḷKv #RKv">veṟiveṉ ṟaṉṟē</lem>
+        <lem wit="#C7 #IlKv #RKv">veṟiveṉ ṟaṉṟē</lem> <!-- # -->
         <rdg wit="#NL #C1 #C6 #C9 #G1 #G2">veṟivaṉ ṟaṉṟē</rdg>
-<rdg wit="#Iḷ #RK">veṟiyēṉ ṟaṉṟē</rdg>
+<rdg wit="#Il #RK">veṟiyēṉ ṟaṉṟē</rdg>
 <rdg wit="#C5">veṟiyamaṉ ṟaṉṟē</rdg>
 <rdg wit="#C9v">veṟivan taṉṟē</rdg>
         </app>
 <app loc="196,204">
-        <lem wit="#C1 #C6 #C9 #G1 #G2">mevaṉkol</lem>
-        <rdg wit="#C5 #C7 #RK">mevaṉkoṉ</rdg> <!--sandhivariant-->
+        <lem wit="#C1 #C6 #C9 #G1 #G2">mevaṉkol</lem> <!-- $ -->
+        <rdg wit="#C5 #C7 #RK">mevaṉkoṉ</rdg>
         </app>
 <app loc="204,221">
         <lem wit="#C1 #C5 #C7 #C9 #RK">maṟṟavar nilaiyeṉa</lem>
-        <rdg wit="#Iḷ">maṟṟava ṉilaiyeṉa</rdg>
+        <rdg wit="#Il">maṟṟava ṉilaiyeṉa</rdg>
         </app>
 <app loc="212,228">
-        <lem wit="#C5 #C7 #C9v #G1 #G2 #RK">nilaiyeṉa mayaṅki</lem>
+        <lem wit="#C5 #C7 #C9v #G1 #G2 #RK">nilaiyeṉa mayaṅki</lem> <!-- # -->
         <rdg wit="#C1 #C6 #C9">nilaiye ṉaḻayaṅki</rdg>
 <rdg wit="#NL">nilaiye ṉaḻaṅki</rdg>
         </app>
 <app loc="228,237">
-        <lem wit="#Iḷ">yirumpaṉi</lem>
+        <lem wit="#Il">yirumpaṉi</lem> <!-- # -->
         <rdg wit="#NL #C1 #C6 #C9 #G1 #G2">yirupaṉi</rdg>
 <rdg wit="#C5 #C7 #C9c #RK">yikupaṉi</rdg>
         </app>
 <app loc="251,270">
         <lem wit="#NL #C1 #C5 #C7 #C9 #G1 #G2 #G6 #RKv">ṭiṉaiyā viṉṉā tuṟaivi</lem>
         <rdg wit="#RK">ṭiṉaipāṅ kiṉṉā tuṟaivi</rdg>
-<rdg wit="#Iḷ">ṭiṉaipāṅ kiṉṉāa viṟaivi</rdg>
+<rdg wit="#Il">ṭiṉaipāṅ kiṉṉāa viṟaivi</rdg>
         </app>
 <app loc="283,290">
         <lem wit="#NL #C1 #C5 #C6 #C9 #G1 #G2">mitumaṟ</lem>
-        <rdg wit="#C7 #Iḷ #RK">mitunaṟ</rdg>
+        <rdg wit="#C7 #Il #RK">mitunaṟ</rdg>
         </app>
 <app loc="295,303">
-        <lem wit="#C1 #C5 #C6 #C7 #C9 #G2">kaṇṭiciṟ</lem>
-        <rdg wit="#G1">kaṇṭiciṟu</rdg> <!--FFvariant-->
+        <lem wit="#C1 #C5 #C6 #C7 #C9 #G2">kaṇṭiciṟ</lem> <!-- FF -->
+        <rdg wit="#G1">kaṇṭiciṟu</rdg>
         </app>
 <app loc="311,338">
         <lem wit="#C1 #C5 #C6 #C9 #G1 #G2 #RK">matiṉmuka murukkiya toṭicitai</lem>
-        <rdg wit="#Iḷ #RKv">matiṉmūṭu katava murukkiya</rdg>
+        <rdg wit="#Il #RKv">matiṉmūṭu katava murukkiya</rdg>
         </app>
 <app loc="346,353">
-        <lem wit="#C1 #C5 #C7 #C9 #G2 #Iḷ #RK">kantukā</lem>
+        <lem wit="#C1 #C5 #C7 #C9 #G2 #Il #RK">kantukā</lem>
         <rdg wit="#G1">kantukō</rdg>
         </app>
 <app loc="353,361">
-        <lem wit="#C5 #C7 #C9v #RK">locikkum</lem>
+        <lem wit="#C5 #C7 #C9v #RK">locikkum</lem> <!-- # -->
         <rdg wit="#C1 #C6 #C9 #G1 #G2">locikkumē</rdg>
         </app>
 <app loc="366,373">
-        <lem wit="#C1 #C5 #C7 #C9 #G1 #G2 #RK">veñciṉa</lem>
-        <rdg wit="#C6">veñciṉam</rdg> <!--sandhivariant-->
+        <lem wit="#C1 #C5 #C7 #C9 #G1 #G2 #RK">veñciṉa</lem> <!-- $ -->
+        <rdg wit="#C6">veñciṉam</rdg>
         </app>
 </listApp>
 <listWit>
@@ -626,14 +626,33 @@
       <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, reported when deviating, variant reading</expan>
     </witness>
   </witness>
-<witness xml:id="IḷK" source="">
-   <abbr>Iḷ<hi rend="subscript">K</hi></abbr>
+<witness xml:id="IlK" source="">
+   <abbr>Il<hi rend="subscript">K</hi></abbr>
    <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, <term xml:lang="ta">Kaḻakam edition</term>, reported when deviating</expan>
-   <witness xml:id="IḷKv">
-      <abbr>Iḷ<hi rend="subscript">K</hi>v</abbr>
+   <witness xml:id="IlKv">
+      <abbr>Il<hi rend="subscript">K</hi>v</abbr>
       <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, <term xml:lang="ta">Kaḻakam edition</term>, reported when deviating, variant reading</expan>
     </witness>
   </witness>
+
+<witness xml:id="C3" source="mss/C3.xml">
+    <abbr>C<hi rend="subscript">3</hi></abbr>
+    <expan>palm-leaf manuscript from the UVSL [107] KV-351.7; 158.10ff.-172 + 203.6-205.20d missing; page number 47/48 omitted; dated to 1727 [matrix for the Vaiṣṇava strand]</expan>
+    <witness xml:id="C3v">
+      <abbr>C<hi rend="subscript">3</hi>v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [107] KV-351.7; 158.10ff.-172 + 203.6-205.20d missing; page number 47/48 omitted; dated to 1727 [matrix for the Vaiṣṇava strand], variant reading</expan>
+    </witness>
+  </witness>
+
+  <witness xml:id="C2" source="mss/C2.xml">
+    <abbr>C<hi rend="subscript">2</hi></abbr>
+    <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63]</expan>
+    <witness xml:id="C2v">
+      <abbr>C<hi rend="subscript">2</hi>v</abbr>
+      <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63], variant reading</expan>
+    </witness>
+  </witness>
+
 </listWit></standOff>
 
 </TEI>

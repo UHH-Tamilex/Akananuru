@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Akanāṉūṟu</title> <num>163</num>. <persName xml:lang="ta"><app><lem>kiḻārkkīraṉeyiṟṟi</lem><rdg wit="C7">kiḻārkkīraṉeyiṟṟiyār</rdg><rdg wit="RK">kaḻārkkīraṉeyiṟṟiyār</rdg></app></persName>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>163</num>. <persName xml:lang="ta"><app><lem>kiḻārkkīraṉeyiṟṟi</lem><rdg wit="C7">yār</rdg><rdg wit="RK">kaḻārkkīraṉeyiṟṟiyār</rdg></app></persName>
         </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -36,13 +36,13 @@
         <l>taṇmaḻai poḻinta tāḻpeyaṟ ka<supplied>ṭai</supplied>nā</l>
         <l>ḷe<supplied>mi</supplied>ya mākit tuṉi<supplied>yuḷaṅ</supplied> kūrac</l>
         <l>ceṉṟō <supplied>ru</supplied>ḷḷic cilvaḷai nekiḻap</l>
-        <l>perunacai yuḷḷamoṭu <supplied>varu</supplied>nacai nōkki</l>
+        <l>perunacai<del>i</del> yuḷḷamoṭu <supplied>varu</supplied>nacai nōkki</l>
         <l><supplied>viḷiyā</supplied> vevvamō ṭaḷiya ḷeṉṉātu</l>
         <l>kaḷiṟuyirt taṉṉa kaṇṇaḻi tu<supplied>va</supplied>lai</l>
         <l>muḷari kariyu muṉ<supplied>pa</supplied>ṉip pāṉāṭ</l>
         <l>kuṉṟu<supplied>nekiḻp</supplied> paṉṉa <supplied>kuḷi</supplied>rkoḷ vāṭai</l>
         <l>yeṉakkē vantaṉai pōṟi puṉaṟkā</l>
-        <l>layiriṭu kuppaiyi ṉeñcunekiḻn taviḻak</l>
+        <l>la<del>va</del>yiriṭu kuppaiyi ṉeñcunekiḻn taviḻak</l>
         <l>koṭiyōr ceṉṟa tēettu maṭiyā</l>
         <l>tiṉaiyai yākic ceṉmati</l>
         <l>viṉaivitup puṟuna ruḷḷa<supplied>lu</supplied> muṇṭē.</l>
@@ -425,12 +425,12 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN163" type="apparatus"><listApp>
 <app loc="0,18">
-        <lem wit="#C5 #C7 #C9 #RK">viṇṇatirpu talaiiya</lem>
+        <lem wit="#C5 #C7 #C9 #RK">viṇṇatirpu talaiiya</lem> <!-- # -->
         <rdg wit="#C1"><gap reason="lost" quantity="2" unit="character"/>ṇatirpu talaiiya</rdg>
 <rdg wit="#C9c">viṇṇatirpu talaii</rdg>
         </app>
 <app loc="18,29">
-        <lem wit="#C5 #C7 #C9 #RK">viravumalar</lem>
+        <lem wit="#C5 #C7 #C9 #RK">viravumalar</lem> <!-- # -->
         <rdg wit="#C1"><gap reason="lost" quantity="6" unit="character"/></rdg>
         </app>
 <app loc="29,38">
@@ -438,62 +438,62 @@
         <rdg wit="#C5 #C7 #C9 #RK #VP #ER">kuḻaiyat</rdg>
         </app>
 <app loc="61,68">
-        <lem wit="#C5 #C7 #C9 #RK">kaṭainā</lem>
+        <lem wit="#C5 #C7 #C9 #RK">kaṭainā</lem> <!-- # -->
         <rdg wit="#C1">kaḻainā</rdg>
         </app>
 <app loc="68,79">
-        <lem wit="#C9v">ḷemiya mākit</lem>
+        <lem wit="#C9v">ḷemiya mākit</lem> <!-- # -->
         <rdg wit="#C1 #C9">ḷemaya mākit</rdg>
 <rdg wit="#C9v2">ḷemmaya māyān</rdg>
 <rdg wit="#C7 #RK #VP #ER">ḷemiya mākat</rdg>
 <rdg wit="#C5">ḷemiyē mākit</rdg>
         </app>
 <app loc="79,93">
-        <lem wit="#C7 #RK">tuṉiyuḷaṅ kūrac</lem>
+        <lem wit="#C7 #RK">tuṉiyuḷaṅ kūrac</lem> <!-- # -->
         <rdg wit="#C1 #C5 #C9">tuṉikūrac</rdg>
         </app>
 <app loc="93,104">
-        <lem wit="#C5 #C7 #C9 #RK">ceṉṟō ruḷḷic</lem>
+        <lem wit="#C5 #C7 #C9 #RK">ceṉṟō ruḷḷic</lem> <!-- # -->
         <rdg wit="#C1">ceṉṟōḷḷic</rdg>
         </app>
 <app loc="119,128">
-        <lem wit="#C5 #C7 #RK">perunacai</lem>
+        <lem wit="#C5 #C7 #RK">perunacai</lem> <!-- # -->
         <rdg wit="#C1 #C9">perunacaii</rdg>
         </app>
 <app loc="137,146">
-        <lem wit="#C5 #C7 #C9">varunacai</lem>
+        <lem wit="#C5 #C7 #C9">varunacai</lem> <!-- # -->
         <rdg wit="#C1"><gap reason="lost" quantity="3" unit="character"/>cai</rdg>
         </app>
 <app loc="151,164">
-        <lem wit="#corr">viḷiyā vevvamō</lem>
+        <lem wit="#corr">viḷiyā vevvamō</lem> <!-- # -->
         <rdg wit="#C5 #C9">raviḷiyā vevvamo</rdg>
 <rdg wit="#C1"><gap reason="lost" quantity="5" unit="character"/> vevvamō</rdg>
 <rdg wit="#C7">viḷiya vevvamo</rdg>
 <rdg wit="#RK #VP #ER">viḷiyu mevvamo</rdg>
         </app>
 <app loc="199,206">
-        <lem wit="#C5 #C7 #RK">tuvalai</lem>
+        <lem wit="#C5 #C7 #RK">tuvalai</lem> <!-- # -->
         <rdg wit="#C1 #C9">tumalai</rdg>
         </app>
 <app loc="212,226">
-        <lem wit="#C5 #C7 #RK">kariyu muṉpaṉip</lem>
+        <lem wit="#C5 #C7 #RK">kariyu muṉpaṉip</lem> <!-- # -->
         <rdg wit="#C1 #C9">kariyu muṉṉip</rdg>
         </app>
 <app loc="231,247">
-        <lem wit="#C5 #C7 #C9 #RK">kuṉṟunekiḻp paṉṉa</lem>
+        <lem wit="#C5 #C7 #C9 #RK">kuṉṟunekiḻp paṉṉa</lem> <!-- # -->
         <rdg wit="#C1">kuṉṟu<gap reason="lost" quantity="5" unit="character"/> paṉṉa</rdg>
         </app>
 <app loc="247,255">
-        <lem wit="#C5 #C7 #C9 #RK">kuḷirkoḷ</lem>
+        <lem wit="#C5 #C7 #C9 #RK">kuḷirkoḷ</lem> <!-- # -->
         <rdg wit="#C1"><gap reason="lost" quantity="2" unit="character"/>rkoḷ</rdg>
         </app>
 <app loc="279,294">
-        <lem wit="#C5c #C7 #RK">puṉaṟkā layiriṭu</lem>
+        <lem wit="#C5c #C7 #RK">puṉaṟkā layiriṭu</lem> <!-- # -->
         <rdg wit="#C1 #C5 #C9v">puṉaṟkāl vayiriṭu</rdg>
 <rdg wit="#C9">puṇarkāl vayiriṭu</rdg>
         </app>
 <app loc="380,387">
-        <lem wit="#C5 #C7 #C9v #RK">ruḷḷalu</lem>
+        <lem wit="#C5 #C7 #C9v #RK">ruḷḷalu</lem> <!-- # -->
         <rdg wit="#C1 #C9">ruḷḷaṟu</rdg>
         </app>
 </listApp>
