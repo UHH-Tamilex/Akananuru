@@ -432,7 +432,7 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN168" type="apparatus"><listApp>
 <app loc="4,18">
-        <lem wit="#C5 #C7 #C9v #RK">nummoṭu kaḻippi</lem>
+        <lem wit="#C5 #C7 #C9v #RK">nummoṭu kaḻippi</lem> <!-- # -->
         <rdg wit="#NL #C1">num<gap reason="lost" quantity="3" unit="character"/>ṭu kiḻippi</rdg>
 <rdg wit="#C9">tummoṭu kiḻippi</rdg>
         </app>
@@ -451,24 +451,24 @@
         <rdg wit="#C5 #C7 #RK">ṉēṉṟa</rdg>
         </app>
 <app loc="207,214">
-        <lem wit="#C1 #C5 #C7 #C9v #RK">ṉīṉṟaṇi</lem>
-        <rdg wit="#C9">ṉiṉṟaṇi</rdg> <!--FFvariant-->
+        <lem wit="#C1 #C5 #C7 #C9v #RK">ṉīṉṟaṇi</lem> <!-- FF -->
+        <rdg wit="#C9">ṉiṉṟaṇi</rdg>
         </app>
 <app loc="288,292">
         <lem wit="#C1 #C9">pōka</lem>
         <rdg wit="#C5 #C7 #C9v #RK">pōkik</rdg>
         </app>
 <app loc="292,300">
-        <lem wit="#C1 #C5c #C7 #C9 #RK">kaṭuṅkaṇ</lem>
-        <rdg wit="#C5">kaṭumpakaṇ</rdg> <!--FFvariant-->
+        <lem wit="#C1 #C5c #C7 #C9 #RK">kaṭuṅkaṇ</lem> <!-- FF -->
+        <rdg wit="#C5">kaṭumpakaṇ</rdg>
         </app>
 <app loc="351,359">
-        <lem wit="#C5 #C7 #C9 #RK">māṉatarc</lem>
+        <lem wit="#C5 #C7 #C9 #RK">māṉatarc</lem> <!-- # -->
         <rdg wit="#C1">māḷatarc</rdg>
         </app>
 <app loc="373,377">
-        <lem wit="#C1 #C5 #C7 #C9v #RK">ṉīyē</lem>
-        <rdg wit="#C9">ṉiyē</rdg> <!--FFvariant-->
+        <lem wit="#C1 #C5 #C7 #C9v #RK">ṉīyē</lem> <!-- FF -->
+        <rdg wit="#C9">ṉiyē</rdg>
         </app>
 </listApp>
 <listWit>
