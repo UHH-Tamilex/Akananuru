@@ -468,20 +468,20 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN189.1" type="apparatus"><listApp>
 <app loc="52,59">
-        <lem wit="#NL #C1 #C2 #C7 #C9">kayaṅka</lem>
-        <rdg wit="#C5 #RK">kayaṅkaṇ</rdg> <!--sandhivariant-->
+        <lem wit="#NL #C1 #C2 #C7 #C9">kayaṅka</lem> <!-- $ -->
+        <rdg wit="#C5 #RK">kayaṅkaṇ</rdg>
         </app>
 <app loc="94,99">
-        <lem wit="#NL #C1 #C5 #C7 #C9">taḻīi</lem>
+        <lem wit="#NL #C1 #C5 #C7 #C9">taḻīi</lem> <!-- # -->
         <rdg wit="#C2 #C3">taḻī</rdg>
         </app>
 <app loc="128,137">
-        <lem wit="#NL #C1 #C2 #C7 #C9">muḻaveṭut</lem>
-        <rdg wit="#C3">muṭuḻaveṭut</rdg> <!--FFvariant-->
+        <lem wit="#NL #C1 #C2 #C7 #C9">muḻaveṭut</lem> <!-- FF -->
+        <rdg wit="#C3">muṭuḻaveṭut</rdg>
         </app>
 <app loc="195,203">
-        <lem wit="#NL #C1 #C5 #C7 #C9">paiyeṉap</lem>
-        <rdg wit="#C2 #C3 #C9c #RK">paiyeṉa</rdg> <!--sandhivariant-->
+        <lem wit="#NL #C1 #C5 #C7 #C9">paiyeṉap</lem> <!-- $ -->
+        <rdg wit="#C2 #C3 #C9c #RK">paiyeṉa</rdg>
         </app>
 <app loc="203,221">
         <lem wit="#NL #C1 #C5 #C9v">payalaiyam piṇaiyal</lem>
@@ -493,11 +493,11 @@
         <rdg wit="#C2 #C3 #C7 #C9c #RK #ER">kavāaṟ ṟitalai</rdg>
         </app>
 <app loc="266,281">
-        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">ceṉṟupiṟa ḷākiya</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">ceṉṟupiṟa ḷākiya</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">ceṉṟupiṟa ḻākiya</rdg>
         </app>
 <app loc="294,303">
-        <lem wit="#C2 #C3 #C5 #C7 #C9c">paṭarmali</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9c">paṭarmali</lem> <!-- # -->
         <rdg wit="#C1">pāṭapali</rdg>
 <rdg wit="#NL">pāṭamali</rdg>
 <rdg wit="#C9">pāṭarmali</rdg>
@@ -507,8 +507,8 @@
         <rdg wit="#C2 #C3 #C7">yuḷḷamoṭu</rdg>
         </app>
 <app loc="402,409">
-        <lem wit="#NL #C1 #C3 #C7 #C9 #RK">mūriḻan</lem>
-        <rdg wit="#C2"><gap reason="lost" quantity="2" unit="character"/>ḻan</rdg> <!--FFvariant-->
+        <lem wit="#NL #C1 #C3 #C7 #C9 #RK">mūriḻan</lem> <!-- FF -->
+        <rdg wit="#C2"><gap reason="lost" quantity="2" unit="character"/>ḻan</rdg>
         </app>
 </listApp>
 <listWit>
