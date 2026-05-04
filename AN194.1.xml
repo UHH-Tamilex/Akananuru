@@ -579,7 +579,7 @@
 <rdg wit="#C1">talai<gap reason="lost" quantity="2" unit="character"/></rdg>
         </app>
 <app loc="77,82">
-        <lem wit="#C2 #C3 #C7 #C9 #G1 #RK">līrat</lem>
+        <lem wit="#C2 #C3 #C7 #C9 #G1 #RK">līrat</lem> <!-- # -->
         <rdg wit="#C1 #C6 #G2">lirat</rdg>
         </app>
 <app loc="82,90">
@@ -594,7 +594,7 @@
 <rdg wit="#C3">ceñcuvar kaṭuñcāl</rdg>
         </app>
 <app loc="177,188">
-        <lem wit="#C7 #C9 #RK">talaikkuṭai</lem>
+        <lem wit="#C7 #C9 #RK">talaikkuṭai</lem> <!-- # --> <!-- # --> <!-- marked twice -->
         <rdg wit="#C2 #C3">talaimakkuṭai</rdg>
 <rdg wit="#NL #C1 #C5 #C6">talaikkaṭai</rdg>
 <rdg wit="#C9v">kalaikkuṭai</rdg>
@@ -613,7 +613,7 @@
 <rdg wit="#RKv">kaṇaikkāl</rdg>
         </app>
 <app loc="273,283">
-        <lem wit="#C3 #C5 #C7 #C9v #RK">rirumpuṟaṅ</lem>
+        <lem wit="#C3 #C5 #C7 #C9v #RK">rirumpuṟaṅ</lem> <!-- # -->
         <rdg wit="#NL #C1 #C6 #C9 #G1 #G2">rirumpiṟaṅ</rdg>
         </app>
 <app loc="355,369">
@@ -633,14 +633,14 @@
         <rdg wit="#C7 #G1">koṭiñci</rdg>
         </app>
 <app loc="498,509">
-        <lem wit="#C5 #C9">naṉmā kaṭaii</lem>
+        <lem wit="#C5 #C9">naṉmā kaṭaii</lem> <!-- # --> <!-- # --> <!-- marked twice -->
         <rdg wit="#C7 #C9v #RK">naṉmāṉ kaṭaii</rdg>
 <rdg wit="#C2 #C3">naṉmā kaṭai</rdg>
 <rdg wit="#NL #C1 #G2">naṉmā caṭaii</rdg>
 <rdg wit="#C6 #G1">naṉmā caṭaiiya</rdg>
         </app>
 <app loc="515,523">
-        <lem wit="#C2 #C3 #C5 #C6 #C7 #C9 #G1 #G2 #RK">meṉṟavar</lem>
+        <lem wit="#C2 #C3 #C5 #C6 #C7 #C9 #G1 #G2 #RK">meṉṟavar</lem> <!-- # -->
         <rdg wit="#NL #C1">meṉṟa</rdg>
         </app>
 </listApp>
