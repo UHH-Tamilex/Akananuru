@@ -33,7 +33,7 @@
         <div rend="parallel">
       <lg xml:id="AN188.1">
         <l>peruṅkaṭa<supplied>ṉ</supplied> mukanta palkiḷaik koṇmū</l>
-        <l>viruṇṭuyar vicumpiṉ pa<supplied>l</supplied>pi<supplied>ṇa</supplied>r vaḷaiip</l>
+        <l>viruṇṭuyar vicumpiṉ pa<supplied>l</supplied>pi<supplied>ṇa</supplied>r<del>pu</del> vaḷaiip</l>
         <l>pōrppuṟu muraci ṉiraṅki muṟaipurin</l>
         <l>taṟaneṟi piḻaiyāt tiṟaṉaṟi maṉṉa</l>
         <l>raruñcamat tetirnta peruñcē yāṭavar</l>
@@ -440,28 +440,28 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN188.1" type="apparatus"><listApp>
 <app loc="0,10">
-        <lem wit="#C2 #C3 #C5 #C7 #C9c #RK">peruṅkaṭaṉ</lem>
-        <rdg wit="#NL #C1 #C9">peruṅkaṭal</rdg> <!--sandhivariant-->
+        <lem wit="#C2 #C3 #C5 #C7 #C9c #RK">peruṅkaṭaṉ</lem> <!-- $ -->
+        <rdg wit="#NL #C1 #C9">peruṅkaṭal</rdg>
         </app>
 <app loc="17,26">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C9 #RKv">palkiḷaik</lem>
         <rdg wit="#C7 #RK">viruṅkiḷaik</rdg>
         </app>
 <app loc="49,57">
-        <lem wit="#C5">palpiṇar</lem>
+        <lem wit="#C5">palpiṇar</lem> <!-- # -->
         <rdg wit="#NL #C1">pampiṉarpu</rdg>
 <rdg wit="#C2 #C3 #C5v #C7 #C9 #NaccT #RK">valaṉērpu</rdg>
         </app>
 <app loc="57,64">
-        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">vaḷaiip</lem>
-        <rdg wit="#C1"><gap reason="lost" quantity="3" unit="character"/>ip</rdg> <!--FFvariant-->
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">vaḷaiip</lem> <!-- FF -->
+        <rdg wit="#C1"><gap reason="lost" quantity="3" unit="character"/>ip</rdg>
         </app>
 <app loc="64,72">
-        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">pōrppuṟu</lem>
-        <rdg wit="#NaccT">poṟapuṟu</rdg> <!--FFvariant-->
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">pōrppuṟu</lem> <!-- FF -->
+        <rdg wit="#NaccT">poṟapuṟu</rdg>
         </app>
 <app loc="85,95">
-        <lem wit="#NL #C1 #C5 #C9 #RK">muṟaipurin</lem>
+        <lem wit="#NL #C1 #C5 #C9 #RK">muṟaipurin</lem> <!-- # -->
         <rdg wit="#C2 #C3">muṟaiyupurin</rdg>
         </app>
 <app loc="95,103">
@@ -485,20 +485,20 @@
 <rdg wit="#RK">ṉaḷippaṉa</rdg>
         </app>
 <app loc="224,229">
-        <lem wit="#NL #C1 #C9v">pāvam</lem>
+        <lem wit="#NL #C1 #C9v">pāvam</lem> <!-- # -->
         <rdg wit="#C2 #C3">varam</rdg>
 <rdg wit="#C5 #C7 #C9 #NaccT #RK">varavam</rdg>
         </app>
 <app loc="236,244">
-        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">malarnta</lem>
-        <rdg wit="#C1">maṉarnta</rdg> <!--FFvariant-->
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">malarnta</lem> <!-- FF -->
+        <rdg wit="#C1">maṉarnta</rdg>
         </app>
 <app loc="250,267">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">malitoṭa raṭaiccip</lem>
         <rdg wit="#C5v #NaccT">malitō ṭaṭaiccip</rdg>
         </app>
 <app loc="267,267">
-        <lem wit="">kāṇṭaka viyalit</lem>
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">kāṇṭaka viyalit</lem>
         <rdg wit="#NaccT">toṇṭaka miyalit</rdg>
         </app>
 <app loc="324,346">
@@ -511,7 +511,7 @@
 <rdg wit="#NaccT">yoppiyu</rdg>
         </app>
 <app loc="346,355">
-        <lem wit="#C5 #C9v #RK">yacaiiyuṅ</lem>
+        <lem wit="#C5 #C9v #RK">yacaiiyuṅ</lem> <!-- # --> <!-- # --> <!-- marked twice -->
         <rdg wit="#C1">yacaiyu<gap reason="lost" quantity="1" unit="character"/></rdg>
 <rdg wit="#NL #C9">yacaiyuṅ</rdg>
 <rdg wit="#C7 #RKv">tai<sic>i</sic>yuṅ</rdg>
@@ -520,7 +520,7 @@
 <rdg wit="#NaccT">tataiyuṅ</rdg>
         </app>
 <app loc="374,382">
-        <lem wit="#NL #C1 #C9">puṟamuṟa</lem>
+        <lem wit="#NL #C1 #C9">puṟamuṟa</lem> <!-- # -->
         <rdg wit="#C5">puṟamuṟat</rdg>
 <rdg wit="#C7 #NaccT #RK">puṟamun</rdg>
 <rdg wit="#C2 #C3 #C9v">puṟaḻunta</rdg>

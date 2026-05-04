@@ -426,12 +426,12 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN185.1" type="apparatus"><listApp>
 <app loc="7,14">
-        <lem wit="#NL #C1 #C5 #C9 #RK">ñekiḻac</lem>
+        <lem wit="#NL #C1 #C5 #C9 #RK">ñekiḻac</lem> <!-- # -->
         <rdg wit="#C7">nekiḻac</rdg>
 <rdg wit="#C2 #C3">tekiḻac</rdg>
         </app>
 <app loc="69,86">
-        <lem wit="#C2 #C3 #C7 #C9c #RK">neñcamoṭu nattuṟan</lem>
+        <lem wit="#C2 #C3 #C7 #C9c #RK">neñcamoṭu nattuṟan</lem> <!-- # -->
         <rdg wit="#NL #C1">neñcamoṭu tuṟa</rdg>
 <rdg wit="#C9">neñcamoṭu tuṟan</rdg>
 <rdg wit="#C5">neñca mōṭutuṟan</rdg>
@@ -443,12 +443,12 @@
 <rdg wit="#RK #VP #ER">valittu valliṉar</rdg>
         </app>
 <app loc="147,154">
-        <lem wit="#C1 #C2 #C3 #C5 #C7 #C9 #RK">nivanta</lem>
-        <rdg wit="#NL">vanta</rdg> <!--FFvariant-->
+        <lem wit="#C1 #C2 #C3 #C5 #C7 #C9 #RK">nivanta</lem> <!-- FF -->
+        <rdg wit="#NL">vanta</rdg>
         </app>
 <app loc="202,209">
-        <lem wit="#NL #C1 #C2 #C5 #C7 #C9">paitaṟa</lem>
-        <rdg wit="#C3">vaitaṟa</rdg> <!--FFvariant-->
+        <lem wit="#NL #C1 #C2 #C5 #C7 #C9">paitaṟa</lem> <!-- FF -->
+        <rdg wit="#C3">vaitaṟa</rdg>
         </app>
 <app loc="216,223">
         <lem wit="#NL #C1 #C5 #C7 #C9 #RK">kalporu</lem>
@@ -460,7 +460,7 @@
 <rdg wit="#C9v">parampiṉ</rdg>
         </app>
 <app loc="283,291">
-        <lem wit="#C2 #C3 #C7c #C9v #RK">peruviḻā</lem>
+        <lem wit="#C2 #C3 #C7c #C9v #RK">peruviḻā</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">peruviḷā</rdg>
 <rdg wit="#C5 #C7">peruviḷar</rdg>
         </app>
@@ -475,7 +475,7 @@
 <rdg wit="#C2 #C3 #C9v">ṉilaiyiṉ marātta</rdg>
         </app>
 <app loc="357,371">
-        <lem wit="#C2 #C3 #C9">malaiyiṟan tōrē</lem>
+        <lem wit="#C2 #C3 #C9">malaiyiṟan tōrē</lem> <!-- # -->
         <rdg wit="#C1">malaiyiṭan tōrē</rdg>
 <rdg wit="#NL">malaiviṭan tōrē</rdg>
         </app>
