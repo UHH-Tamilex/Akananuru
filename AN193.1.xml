@@ -44,7 +44,7 @@
         <l>viraintuvāy vaḻukkiya koḻuṅka ṇūṉṟaṭi</l>
         <l>tolpaci mutunari valci yāruñ</l>
         <l>curaṉamak keḷiya maṉṉē naṉmaṉaip</l>
-        <l>paṉmāṇ ṭaṅkiya cāya liṉmoḻi</l>
+        <l>paṉmāṇ <del>ṭa</del>ṭaṅkiya cāya liṉmoḻi</l>
         <l>muruntēr muṟuva liḷaiyōḷ</l>
         <l><supplied>pe</supplied>runtō ḷiṉṟuyil kaiviṭu kalaṉē.</l>
       </lg>
@@ -438,7 +438,7 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN193.1" type="apparatus"><listApp>
 <app loc="0,7">
-        <lem wit="#NL #C1 #C2 #C5 #C7 #C9c #RK">kāṉuyar</lem>
+        <lem wit="#NL #C1 #C2 #C5 #C7 #C9c #RK">kāṉuyar</lem> <!-- FF -->
         <rdg wit="#C3">kā<gap reason="lost" quantity="1" unit="character"/>yar</rdg>
 <rdg wit="#C9">tāṉūyar</rdg> <!--FFvariant-->
         </app>
@@ -456,7 +456,7 @@
 <rdg wit="#C3">tuḷanta</rdg>
         </app>
 <app loc="146,153">
-        <lem wit="#C5 #C7 #C9c #RK">ceñcevi</lem>
+        <lem wit="#C5 #C7 #C9c #RK">ceñcevi</lem> <!-- # --> <!-- $ --> <!-- both -->
         <rdg wit="#NL #C1 #C9">ceñvice</rdg>
 <rdg wit="#C2 #C3 #C9v">ceñcevic</rdg> <!--sandhivariant-->
         </app>
@@ -469,15 +469,15 @@
         <rdg wit="#C2v #C3 #C7 #C9v #RK #VP #ER">kuṟumpoṟai yeḻunta</rdg>
         </app>
 <app loc="178,190">
-        <lem wit="#C2 #C3 #C5 #C7 #C9c #RK">neṭuntāḷ yāat</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9c #RK">neṭuntāḷ yāat</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">neṭuntā ḷāat</rdg>
         </app>
 <app loc="200,211">
-        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">ṭuyarciṉaip</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">ṭuyarciṉaip</lem> <!-- # -->
         <rdg wit="#NL #C1">ṭuyaciṉaip</rdg>
         </app>
 <app loc="249,256">
-        <lem wit="#C1 #C2 #C5 #C7 #C9c #RK">ṇūṉṟaṭi</lem>
+        <lem wit="#C1 #C2 #C5 #C7 #C9c #RK">ṇūṉṟaṭi</lem> <!-- FF -->
         <rdg wit="#NL">ṇūraṉaṭi</rdg>
 <rdg wit="#C3">ṇūṉaraṭi</rdg> <!--FFvariant-->
         </app>
@@ -495,11 +495,11 @@
 <rdg wit="#C2 #C3">curamek</rdg>
         </app>
 <app loc="316,323">
-        <lem wit="#RK">ṭaṅkiya</lem>
+        <lem wit="#RK">ṭaṅkiya</lem> <!-- # --> <!-- # --> <!-- marked twice -->
         <rdg wit="#NL #C1 #C2 #C3 #C5 #C7 #C9">ṭaṭaṅkiya</rdg>
         </app>
 <app loc="356,363">
-        <lem wit="#C2 #C3 #C5 #C7 #C9c">peruntō</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #C9c">peruntō</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">poruntō</rdg>
         </app>
 </listApp>
