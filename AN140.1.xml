@@ -507,23 +507,23 @@
         <lem wit="#C1 #C2 #C3 #C7 #C9 #G1 #G2 #RK">matarkayaṉ</lem> <!-- FF -->
         <rdg wit="#EC">matarkaṟaṉ</rdg>
         </app>
-<app loc="273,290">
+<app loc="273,291">
         <lem wit="#C2 #C3 #C7 #RK">kitaimuyal puṉavaṉ</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9 #G1 #G2">kintamayal puṉavaṉai</rdg>
 <rdg wit="#C7c">kīntamayal puṉavaṉ</rdg>
 <rdg wit="#C5">mayala puṉvaḷai</rdg>
         </app>
-<app loc="290,300">
+<app loc="291,301">
         <lem wit="#C1 #C3 #C5 #C9 #G1 #G2 #RK">pukainiḻaṟ</lem> <!-- $ -->
         <rdg wit="#C2 #C9v">pukainiḻal</rdg>
         </app>
-<app loc="307,330">
+<app loc="308,331">
         <lem wit="#C1 #C2 #C3 #C7 #C9v #RK">māmū taḷḷa laḻuntiya cākāṭ</lem>
         <rdg wit="#NL #C5">māmata ṉaḷḷa laḻuntiya cākā</rdg>
 <rdg wit="#C9">māmuta laḷḷa laḻuntiya cākā</rdg>
 <rdg wit="#G1 #G2"><space quantity="11" unit="character"/> (ti)ya cākā</rdg>
         </app>
-<app loc="352,358">
+<app loc="353,359">
         <lem wit="#NL #C1 #C5 #C7 #C9 #G1 #G2 #RKv">naiyūṇ</lem>
         <rdg wit="#C2 #C3 #C9v #EC">naipūṇ</rdg>
 <rdg wit="#RK #SAv">kaipūṇ</rdg>

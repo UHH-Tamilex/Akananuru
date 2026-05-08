@@ -623,52 +623,52 @@
         <lem wit="#NL #C1 #C7 #C9 #RK">maruṭṭalu</lem> <!-- FF -->
         <rdg wit="#C5">maruttalu</rdg>
         </app>
-<app loc="334,343">
+<app loc="334,345">
         <lem wit="#C5v #C7 #RK">cuṭariṉṟu</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">cuṭariciṉṟu</rdg>
 <rdg wit="#C5">cuṭari</rdg>
         </app>
-<app loc="343,352">
+<app loc="345,354">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">tamiyaḷum</lem>
         <rdg wit="#NaccT">tamiyaḷāyp</rdg>
         </app>
-<app loc="360,368">
+<app loc="362,370">
         <lem wit="#NL #C1 #C5 #C7 #C9 #RK">veruvara</lem>
         <rdg wit="#Iḷ">veruvuṟa</rdg>
         </app>
-<app loc="373,378">
+<app loc="375,380">
         <lem wit="#NL #C1 #C7 #C9 #RKv">mātta</lem>
         <rdg wit="#Iḷ">marā<sic>a</sic>tta</rdg>
 <rdg wit="#RK">marāatta</rdg>
 <rdg wit="#C5 #C7v #C9v">marātta</rdg>
 <rdg wit="#NaccT">mārtta</rdg>
         </app>
-<app loc="378,383">
+<app loc="380,385">
         <lem wit="#C5 #C7 #C9v #RK">kūkai</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">kūvai</rdg>
         </app>
-<app loc="383,391">
+<app loc="385,394">
         <lem wit="#C5 #C7 #RK">kuḻaṟiṉu</lem> <!-- $ -->
         <rdg wit="#NL #C1 #C9">kuḻaṟiṉum</rdg>
         </app>
-<app loc="399,406">
+<app loc="402,409">
         <lem wit="#C5 #C7 #C9 #RK">taraṇañ</lem> <!-- # -->
         <rdg wit="#NL #C1">taraṉañ</rdg>
         </app>
-<app loc="406,421">
+<app loc="409,424">
         <lem wit="#NL #C1 #C5 #C7 #C9 #Iḷ #RK">cēru mataṉṟalaip</lem> <!-- FF -->
         <rdg wit="#Iḷv">cērun taṉṟalaip</rdg>
         </app>
-<app loc="449,460">
+<app loc="452,463">
         <lem wit="#C5 #C9v #RK">muruka ṉaṉṉa</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">murukaṉṉa</rdg>
 <rdg wit="#C7 #Iḷ #NaccT #RKv">muruki ṉaṉṉa</rdg>
         </app>
-<app loc="486,491">
+<app loc="489,494">
         <lem wit="#NL #C1 #C5 #C9 #RK">milla</lem>
         <rdg wit="#C5v #C7 #C9v #Iḷ #RKv">millā</rdg>
         </app>
-<app loc="509,517">
+<app loc="512,520">
         <lem wit="#NL #C1 #C5 #C7 #C9 #RK">vivaḷitu</lem>
         <rdg wit="#C9v #RKv">vivaḷatu</rdg>
 <rdg wit="#C7v">vavaḷitu</rdg>

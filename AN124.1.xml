@@ -542,40 +542,40 @@
         <rdg wit="#NL">kākavi</rdg>
 <rdg wit="#C9 #G1 #G2">kāvi</rdg>
         </app>
-<app loc="220,231">
+<app loc="220,233">
         <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">miṉṉunimirn</lem> <!-- # -->
         <rdg wit="#NL #C9 #G1">miṉṉuranamirn</rdg>
 <rdg wit="#G2">miṉṉūnamirn</rdg>
         </app>
-<app loc="236,244">
+<app loc="238,246">
         <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">poṉṉiyaṟ</lem> <!-- # -->
         <rdg wit="#NL #C9 #G1 #G2">poṉṉiyiṟ</rdg>
 <rdg wit="#RKv">poṉṉayiṟ</rdg>
 <rdg wit="#C7v">poṉṉayir</rdg>
         </app>
-<app loc="278,289">
+<app loc="280,291">
         <lem wit="#NL #C5 #C7 #C9v #G1 #RK">vayaṅkupari</lem>
         <rdg wit="#C9 #G2">vayaṅkupā</rdg>
 <rdg wit="#C2 #C3 #C9v2">vayaṅkupaṭai</rdg>
         </app>
-<app loc="289,297">
+<app loc="291,299">
         <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #G1 #G2 #RK">vaṇpeyaṟ</lem>
         <rdg wit="#C7v">vaṉpeyaṟ</rdg>
         </app>
-<app loc="319,326">
+<app loc="321,328">
         <lem wit="#NL #C5 #C7 #C9 #G1 #G2 #RK">vīkamaḻ</lem> <!-- # -->
         <rdg wit="#C2">vīkayaḻ</rdg>
 <rdg wit="#C3">vīḻkaya</rdg>
         </app>
-<app loc="326,334">
+<app loc="328,336">
         <lem wit="#C2 #C3 #C5v #C7 #RK">neṭuvaḻi</lem> <!-- # -->
         <rdg wit="#NL #C5 #C7v #C9 #G1 #G2">neṭuvaḷi</rdg>
         </app>
-<app loc="410,419">
+<app loc="412,421">
         <lem wit="#NL #C2 #C3 #C5 #C7 #C9v #G1 #G2 #RK">viyalakat</lem> <!-- FF -->
         <rdg wit="#C9">vimalakat</rdg>
         </app>
-<app loc="426,436">
+<app loc="428,438">
         <lem wit="#NL #C5 #C7 #C9 #G1 #G2 #RK">nirainilai</lem>
         <rdg wit="#C2 #C3">niṟainilai</rdg>
         </app>

@@ -460,22 +460,22 @@
         <lem wit="#NL #C1 #C9">vaḷipōt</lem>
         <rdg wit="#C2 #C3 #C5 #C7 #C9v #RK">vaḷiporat</rdg>
         </app>
-<app loc="254,262">
+<app loc="254,264">
         <lem wit="#C7 #RK">taḷipoḻi</lem>
         <rdg wit="#NL">taḷipoḷaḻi</rdg>
 <rdg wit="#C1"><gap reason="lost" quantity="2" unit="character"/>āḷaḻi</rdg>
 <rdg wit="#C5">taḷiroḻi</rdg>
 <rdg wit="#C2 #C3 #C9">taḷirpoḻi</rdg>
         </app>
-<app loc="298,310">
+<app loc="300,312">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #RK">tāyamu mayalu</lem> <!-- $ -->
         <rdg wit="#C9">tāyamum mayalum</rdg>
         </app>
-<app loc="322,330">
+<app loc="324,332">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C9 #RK">pāynalam</lem>
         <rdg wit="#C9v">pāynalamivaṇ</rdg>
         </app>
-<app loc="330,339">
+<app loc="332,341">
         <lem wit="#NL #C1 #C5 #C9">vēṇṭā tōrē</lem>
         <rdg wit="#C2 #C3 #C7 #C9v #RK">vēṇṭā tōḷē</rdg>
         </app>
