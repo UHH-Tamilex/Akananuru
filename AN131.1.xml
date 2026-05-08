@@ -523,34 +523,34 @@
         <lem wit="#C3 #C5 #C7 #C9c">vēlūṉṟu</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">vēluṉṟu</rdg>
         </app>
-<app loc="335,345">
+<app loc="335,347">
         <lem wit="#C2 #C3 #C5 #C7 #C9c">vēṟṟumuṉai</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">vēlēṟṟumuṉai</rdg>
         </app>
-<app loc="345,353">
+<app loc="347,355">
         <lem wit="#NL #C1 #C5 #C9">paṭukkum</lem>
         <rdg wit="#C3 #C7 #C9c #RK #VP #ER">kaṭukkum</rdg>
 <rdg wit="#C2">kaṭukkumm</rdg>
         </app>
-<app loc="353,361">
+<app loc="355,363">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #RK">veruvaru</lem> <!-- $ -->
         <rdg wit="#C9">veruvarut</rdg>
 <rdg wit="#C9c">veruvarart</rdg>
         </app>
-<app loc="361,367">
+<app loc="363,369">
         <lem wit="#C2 #C3 #C5 #C7c #RK">takuna</lem> <!-- # -->
         <rdg wit="#NL #C1 #C7 #C9">takuṉa</rdg>
         </app>
-<app loc="378,384">
+<app loc="380,386">
         <lem wit="#NL #C1 #C7 #C9">varuku</lem>
         <rdg wit="#C2 #C3 #C5 #C7c #C9c #RK #VP #ER">varuka</rdg>
         </app>
-<app loc="396,406">
+<app loc="398,408">
         <lem wit="#C5 #C7 #C9c #RK">vārē ṉeñcam</lem> <!-- # --> <!-- # --> <!-- marked twice -->
         <rdg wit="#NL #C1 #C9">vārē neñcam</rdg>
 <rdg wit="#C2 #C3">vārēṉ ṉeñcam</rdg>
         </app>
-<app loc="406,415">
+<app loc="408,417">
         <lem wit="#C3 #C5 #C7 #C9c #RK">vāykkaniṉ</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">vāykkaniṉai</rdg>
         </app>

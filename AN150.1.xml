@@ -484,7 +484,7 @@
         </app>
 <app loc="137,147">
         <lem wit="#C1 #C2 #C3 #C5 #C7 #C9 #G1 #RK">nīṭuniṉain</lem> <!-- FF -->
-        <rdg wit="#G2">niṭuniṇan</rdg> <!--FFvariant-->
+        <rdg wit="#G2">niṭuniṇan</rdg>
         </app>
 <app loc="167,171">
         <lem wit="#C2 #C3 #C5 #C7 #C9c #RK">yāyē</lem> <!-- # -->
@@ -497,7 +497,7 @@
 <app loc="181,188">
         <lem wit="#C1 #C2 #C7 #C9c #RK">vāṭcuṟā</lem> <!-- FF -->
         <rdg wit="#C5 #C9 #G1 #G2">vāṭatā</rdg>
-<rdg wit="#C3">yāṭcuṟā</rdg> <!--FFvariant-->
+<rdg wit="#C3">yāṭcuṟā</rdg>
         </app>
 <app loc="215,229">
         <lem wit="#C7 #C9c #RK">kaṉaitta neytaṟ</lem> <!-- # --> <!-- # --> <!-- marked twice -->
@@ -519,7 +519,7 @@
         </app>
 <app loc="290,296">
         <lem wit="#C1 #C2 #C3 #C5 #C7 #C9 #G1 #G2 #RK">kālaik</lem> <!-- FF -->
-        <rdg wit="#SS">kaḻalaik</rdg> <!--FFvariant-->
+        <rdg wit="#SS">kaḻalaik</rdg>
         </app>
 <app loc="311,318">
         <lem wit="#NL #C1 #C5 #C7 #C9 #RKv #SS">taṇṇeṉa</lem>
@@ -540,12 +540,12 @@
 <rdg wit="#G1">vārār colleṉap</rdg>
 <rdg wit="#C5 #C7 #C9v #Per #IV #RK">vārār kolleṉap</rdg>
         </app>
-<app loc="372,379">
+<app loc="372,382">
         <lem wit="#C2 #C3">paruvan</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9 #G1 #G2">paruvantan</rdg>
 <rdg wit="#C5 #C7 #C9v #Per #IV #RK">paruvarun</rdg>
         </app>
-<app loc="391,398">
+<app loc="394,401">
         <lem wit="#NL #C1 #C5 #C7 #C9 #G1 #G2 #RK">taṇanta</lem>
         <rdg wit="#C2 #C3">tanta</rdg>
         </app>

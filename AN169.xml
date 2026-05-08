@@ -468,76 +468,76 @@
 </standOff>
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN169" type="apparatus"><listApp>
-<app loc="17,27">
+<app loc="17,28">
         <lem wit="#C5 #C7 #C9c #RK">nilampayam</lem> <!-- # -->
         <rdg wit="#NL #C1">nilam<space quantity="3" unit="character"/>payamm</rdg>
 <rdg wit="#C9">nilampayamm</rdg>
         </app>
-<app loc="123,130">
+<app loc="124,131">
         <lem wit="#NL #C1 #C5 #C7 #C9v">toḻinta</lem>
         <rdg wit="#C9">toḷinta</rdg>
 <rdg wit="#C9v2 #RK #VP #ER">toḻintatai</rdg>
         </app>
-<app loc="130,137">
+<app loc="131,138">
         <lem wit="#C5 #C7 #C9c #RK">ñelikōṟ</lem> <!-- # -->
         <rdg wit="#C9">ñelicārac</rdg>
 <rdg wit="#C1">ñekōṟ</rdg>
 <rdg wit="#NL"><gap reason="lost" quantity="3" unit="character"/>kōṟ</rdg>
         </app>
-<app loc="143,148">
+<app loc="144,149">
         <lem wit="#NL #C1 #C5 #C7 #C9">māṭṭi</lem>
         <rdg wit="#C9v">yāṭṭi</rdg>
         </app>
-<app loc="158,168">
+<app loc="159,169">
         <lem wit="#NL #C1 #C5 #C7c #C9v #RK">kaṭalviḷai</lem> <!-- FF -->
         <rdg wit="#C7 #C9">kaṭalviḻai</rdg>
         </app>
-<app loc="197,203">
+<app loc="198,204">
         <lem wit="#C5 #C7 #C9c">ṭīnīrc</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">ṭinirc</rdg>
         </app>
-<app loc="218,227">
+<app loc="219,228">
         <lem wit="#NL #C5 #C7 #C9 #RK">curampala</lem> <!-- FF -->
         <rdg wit="#C1">carampala</rdg>
         </app>
-<app loc="227,234">
+<app loc="228,235">
         <lem wit="#NL #C1 #C5 #C9">kaṭantu</lem>
         <rdg wit="#C7 #RK #VP #ER">kaṭanta</rdg>
         </app>
-<app loc="242,254">
+<app loc="243,255">
         <lem wit="#C7 #C9c">paṭarntunaṉi</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">paṭarntu<g>ṉi</g>/<g>ṇi</g></rdg>
 <rdg wit="#C5">paṭarntu ṉi</rdg>
         </app>
-<app loc="273,287">
+<app loc="274,288">
         <lem wit="#C5 #C7 #C9v #RK">ṇeṭituniṉaintu</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">ṉeṭituniṉaintu</rdg>
         </app>
-<app loc="287,304">
+<app loc="288,305">
         <lem wit="#NL #C1 #C5 #C9">celkatir maḻuṅkiya</lem>
         <rdg wit="#C7">celcuṭar maḻukiya</rdg>
 <rdg wit="#RK #VP #ER">celkatir maḻukiya</rdg>
         </app>
-<app loc="319,327">
+<app loc="320,328">
         <lem wit="#NL #C1 #C5 #C7">melviral</lem>
         <rdg wit="#C9">melviralac</rdg>
         </app>
-<app loc="327,341">
+<app loc="328,342">
         <lem wit="#C1">cēttiya nutaliṉ</lem>
         <rdg wit="#NL">cēttiyatu nutaliṉ</rdg>
 <rdg wit="#C5 #C9">cērtiya nutaliṉ</rdg>
 <rdg wit="#C9v">cērttiya nutaliṉaṇ</rdg>
 <rdg wit="#C7 #RK #VP #ER">cērttiya nutalaṇ</rdg>
         </app>
-<app loc="380,388">
+<app loc="381,389">
         <lem wit="#NL #C1 #C5 #C7 #C9">ṇekiḻtta</lem>
         <rdg wit="#RK #VP #ER">ṇekiḻnta</rdg>
         </app>
-<app loc="388,395">
+<app loc="389,396">
         <lem wit="#NL #C1 #C9">cellalō</lem>
         <rdg wit="#C5 #C7 #C9v #RK #VP #ER">cellaloṭu</rdg>
         </app>
-<app loc="404,410">
+<app loc="405,411">
         <lem wit="#NL #C1 #C5 #C7 #C9c #RK">laḷiya</lem> <!-- FF -->
         <rdg wit="#C9">laḻiya</rdg>
         </app>

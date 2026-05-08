@@ -567,34 +567,34 @@
         <rdg wit="#C7 #C9 #RK">periya ḷammā</rdg>
 <rdg wit="#RKv">periya vammā</rdg>
         </app>
-<app loc="337,346">
+<app loc="337,348">
         <lem wit="#C2 #C3 #C5 #C7 #RK">varivaiyō</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">varivaiyoṭa</rdg>
         </app>
-<app loc="351,356">
+<app loc="353,358">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #Ilc #RK">ṭeṉāa</lem> <!-- FF -->
         <rdg wit="#Il">ṭeaṉāṅ</rdg>
         </app>
-<app loc="356,360">
+<app loc="358,362">
         <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">tāay</lem>
         <rdg wit="#NaccT">tāynta</rdg>
 <rdg wit="#Ilv">kāy</rdg>
         </app>
-<app loc="360,378">
+<app loc="362,379">
         <lem wit="#NL #C5">taṉṉāṭ ṭaṇaṅkuṭaic</lem>
         <rdg wit="#C5v #C7 #C9 #Il #NaccT #RK">naṉaṉāṭ ṭaṇaṅkuṭaic</rdg>
 <rdg wit="#C2 #C3">naṉaṉā ṭaṇaṅkuṭaic</rdg>
         </app>
-<app loc="386,393">
+<app loc="387,394">
         <lem wit="#NL #C2 #C5 #C7 #C9 #RK">kaviram</lem>
         <rdg wit="#C2v #C3 #RKv">kavuriyam</rdg>
         </app>
-<app loc="393,399">
+<app loc="394,400">
         <lem wit="#NL #C2 #C3 #C7 #C9 #RKv">pēriya</lem>
         <rdg wit="#C5 #Il #RK">peyariya</rdg>
 <rdg wit="#NaccT">periya</rdg>
         </app>
-<app loc="407,420">
+<app loc="408,421">
         <lem wit="#C7 #C9v #RK">kavāa ṉērmalar</lem> <!-- # --> <!-- # --> <!-- marked twice -->
         <rdg wit="#C1">kavā <gap reason="lost" quantity="1" unit="character"/>āmalar</rdg>
 <rdg wit="#NL #C9">kavā vurmalar</rdg>
@@ -602,11 +602,11 @@
 <rdg wit="#C2 #C3">vāa ṉērmalar</rdg>
 <rdg wit="#NaccT">kalāa ṉērmalar</rdg>
         </app>
-<app loc="420,431">
+<app loc="421,432">
         <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RKv">niṟaiccuṉai</lem> <!-- $ -->
         <rdg wit="#Il #RK">niṟaicuṉai</rdg>
         </app>
-<app loc="439,464">
+<app loc="440,465">
         <lem wit="#NL #C1 #C3 #C5 #C7 #C9 #RK">cūrmakaṇ mātō veṉṉumeṉ ṉeñcē</lem>
         <rdg wit="#C2">cūrmakaṇ mātō veṉṉumē neñcē</rdg>
 <rdg wit="#C9v #Il">cūrmakaḷ kolleṉat tuṇiyumeṉ ṉeñcē</rdg>

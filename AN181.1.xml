@@ -856,7 +856,7 @@
         <lem wit="#NL #C1 #C5 #C9">veṟpiṉ</lem>
         <rdg wit="#C2 #C3 #C7 #C9c #RK #VP #ER">vaippiṉ</rdg>
         </app>
-<app loc="397,401">
+<app loc="397,402">
         <lem wit="#C3 #C5 #C7 #RK">nāṟu</lem> <!-- $ -->
         <rdg wit="#C2"><gap reason="lost" quantity="4" unit="character"/></rdg>
 <rdg wit="#NL #C1 #C9">nāṟum</rdg>
