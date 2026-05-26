@@ -240,13 +240,13 @@
     </witness>
   </witness>
 
-  <witness xml:id="May" source="">
-   <abbr>May</abbr>
+  <witness xml:id="NNm" source="">
+   <abbr>NNm</abbr>
    <expan><term xml:lang="ta">Mayilainātar</term> on <term xml:lang="ta">Naṉṉūl</term>, reported when deviating</expan>
   </witness>
 
-  <witness xml:id="Can" source="">
-   <abbr>Can</abbr>
+  <witness xml:id="NNc" source="">
+   <abbr>NNc</abbr>
    <expan><term xml:lang="ta">Caṅkaranamaccivāyar</term> on <term xml:lang="ta">Naṉṉūl</term>, reported when deviating</expan>
   </witness>
 
@@ -268,8 +268,8 @@
     </witness>
   </witness>
 
-  <witness xml:id="Kul" source="">
-   <abbr>Kul</abbr>
+  <witness xml:id="NNk" source="">
+   <abbr>NNk</abbr>
    <expan><term xml:lang="ta">Kūḻaṅkaittampiraṉ</term> on <term xml:lang="ta">Naṉṉūl</term>, reported when deviating</expan>
   </witness>
 
@@ -287,13 +287,9 @@
    <expan><term xml:lang="ta">Nampi</term> on the <term>Akapporuḷ Viḷakkam</term>, reported when deviating</expan>
   </witness>
 
-  <witness xml:id="NN" source="">
+  <witness xml:id="NNv" source="">
     <abbr>NN</abbr>
-    <expan><term xml:lang="ta">??</term>, reported when deviating</expan>
-    <witness xml:id="NNv">
-      <abbr>NNv</abbr>
-      <expan><term xml:lang="ta">??</term>, reported when deviating, variant reading</expan>
-    </witness>
+    <expan><term xml:lang="ta">Naṉṉūl Virutti</term>, reported when deviating</expan>
   </witness>
 
   <witness xml:id="corr" source="">
