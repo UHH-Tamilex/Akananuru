@@ -1023,7 +1023,7 @@
 <app loc="8,23">
         <lem wit="#NL #C1 #C5 #C6 #C7 #C9 #G1 #G2 #IV">makāriv vaḻuṅkaṉ</lem>
         <rdg wit="#C2 #C3 #Nakk #Il #NaccT #KK #AV #RK">makāariv vaḻuṅkaṉ</rdg>
-<rdg wit="#C7v #May #Cank #Kul #NNv">māri yaḻuṅkaṉ</rdg>
+<rdg wit="#C7v #NNm #NNc #NNk #NNv">māri yaḻuṅkaṉ</rdg>
         </app>
 <app loc="106,112">
         <lem wit="#C5 #C7v #NaccT">piṇiko</lem>
@@ -1066,7 +1066,7 @@
 <app loc="251,276">
         <lem wit="#NL #C1 #C6 #C7 #C9 #G1 #G2">pakaluru vuṟaḻnilavuk kāṉṟu</lem>
         <rdg wit="#C5 #KK">pakaluru vuṟaḻu nilavukkāṉṟu</rdg>
-<rdg wit="#Nakk #NaccT #May #IV">pakaluru vuṟaḻa nilavukāṉṟu</rdg>
+<rdg wit="#Nakk #NaccT #NNm #IV">pakaluru vuṟaḻa nilavukāṉṟu</rdg>
 <rdg wit="#C7v #Il #RK">pakaluru vuṟaḻnilāk kāṉṟu</rdg>
 <rdg wit="#C2 #C3 #AV">pakaluṟaḻ nilavu kāṉṟu</rdg>
         </app>
@@ -1259,13 +1259,13 @@
     </witness>
   </witness>
 
-  <witness xml:id="May" source="">
-   <abbr>May</abbr>
+  <witness xml:id="NNm" source="">
+   <abbr>NNm</abbr>
    <expan><term xml:lang="ta">Mayilainātar</term> on <term xml:lang="ta">Naṉṉūl</term>, reported when deviating</expan>
   </witness>
 
-  <witness xml:id="Can" source="">
-   <abbr>Can</abbr>
+  <witness xml:id="NNc" source="">
+   <abbr>NNc</abbr>
    <expan><term xml:lang="ta">Caṅkaranamaccivāyar</term> on <term xml:lang="ta">Naṉṉūl</term>, reported when deviating</expan>
   </witness>
 
@@ -1287,8 +1287,8 @@
     </witness>
   </witness>
 
-  <witness xml:id="Kul" source="">
-   <abbr>Kul</abbr>
+  <witness xml:id="NNk" source="">
+   <abbr>NNk</abbr>
    <expan><term xml:lang="ta">Kūḻaṅkaittampiraṉ</term> on <term xml:lang="ta">Naṉṉūl</term>, reported when deviating</expan>
   </witness>
 
@@ -1306,13 +1306,9 @@
    <expan><term xml:lang="ta">Nampi</term> on the <term>Akapporuḷ Viḷakkam</term>, reported when deviating</expan>
   </witness>
 
-  <witness xml:id="NN" source="">
-    <abbr>NN</abbr>
-    <expan><term xml:lang="ta">??</term>, reported when deviating</expan>
-    <witness xml:id="NNv">
-      <abbr>NNv</abbr>
-      <expan><term xml:lang="ta">??</term>, reported when deviating, variant reading</expan>
-    </witness>
+  <witness xml:id="NNv" source="">
+    <abbr>NNv</abbr>
+    <expan><term xml:lang="ta">Naṉṉūl Virutti</term>, reported when deviating</expan>
   </witness>
 
 </listWit></standOff>
