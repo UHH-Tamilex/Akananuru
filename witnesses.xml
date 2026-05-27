@@ -190,7 +190,7 @@
  </witness>
  <witness xml:id="ECc">
    <abbr>ECc</abbr>
-   <expan><term xml:lang="ta">Cāminātaiyar</term> library edition by <term xml:lang="ta">Civacupiramaṇiyaṉ</term>  (1990)</expan>
+   <expan><term xml:lang="ta">Cāminātaiyar</term> library edition by <term xml:lang="ta">Civacupiramaṇiyaṉ</term>  (1990), correction</expan>
  </witness>
 
   <witness xml:id="NaccT" source="">
@@ -199,7 +199,7 @@
   </witness>
 
   <witness xml:id="NaccTC" source="">
-   <abbr>Nacc<hi rend="subscript">T</hi></abbr>
+   <abbr>Nacc<hi rend="subscript">TC</hi></abbr>
    <expan><term xml:lang="ta">Nacciṉārkkiṉiyar</term> commenting on <term xml:lang="ta">Tolkāppiyam Colatikāram</term>, <term xml:lang="ta">Tāmōtarampiḷḷai</term> edition</expan>
   </witness>
 
