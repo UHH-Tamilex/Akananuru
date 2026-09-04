@@ -30,7 +30,10 @@
     <body>
 
         <div xml:id="AN201.1-kilavi">
-          <p type="edition">piriviṭai veṟupaṭṭa <app><lem>talaimakaṭkut</lem></app><rdg wit="#NL #C1 #C9">talaimakaṟkut</rdg> toḻi cŏlliyatu.</p>
+          <p type="edition">piriviṭai veṟupaṭṭa <lem>talaimakaṭkut</lem><app>
+          <rdg wit="#NL #C1 #C9">talaimakaṟkut</rdg>
+          </app> toḻi cŏlliyatu.
+          </p>
           <p type="translation" xml:lang="en">What the confidante said to HER who had undergone changes in the time of separation.</p>
         </div>
         <div xml:id="AN201.1">
