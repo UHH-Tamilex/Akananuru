@@ -41,7 +41,7 @@
         </div>
         <div xml:id="ANNUMBER">
       <lg type="edition">
-        COPY EDITION TEXT HERE
+        <l></l>
       </lg>
       <lg type="translation" xml:lang="en">
         <l></l>
