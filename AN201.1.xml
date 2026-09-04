@@ -69,7 +69,7 @@
         <l corresp="10f">sighs hotly, [her] eyes not closing”,</l>
         <l>why are you prostrate, friend? Even if </l>
         <l corresp="12f">he were to obtain the good land of the Cōḻas in the region of white paddy,</l>
-        <l corresp="14a-c">he would not remain content there, (14a-c)</l>
+        <l corresp="14a-c">he would not remain content there,</l>
         <l corresp="14d 19">– he who earlier traversed the extended desert of summer,</l>
         <l corresp="15">where on the slope of hills whose peaks reach the sky</l>
         <l corresp="16">the large-mouthed male of the big-clawed bear</l>
@@ -548,13 +548,13 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN201.1" type="apparatus"><listApp>
 <app loc="17,32">
-        <lem wit="#NL #C5 #C7 #C9 #RK">ṉavireḻi ṉuṭaṅku</lem>
+        <lem wit="#NL #C5 #C7 #C9 #RK">ṉavireḻi ṉuṭaṅku</lem> <!-- # -->
         <rdg wit="#C3">ṉaviroḻi nuṭaṅku</rdg>
 <rdg wit="#C2"><gap reason="lost" quantity="1" unit="character"/>ṭaṅku</rdg>
 <rdg wit="#corr">ṉaviroḷi nuṭaṅku</rdg>
         </app>
 <app loc="45,55">
-        <lem wit="#NL #C5 #C7 #C9">viṉainavil</lem>
+        <lem wit="#NL #C5 #C7 #C9">viṉainavil</lem> <!-- # -->
         <rdg wit="#C1"><gap reason="lost" quantity="5" unit="character"/></rdg>
 <rdg wit="#C3">viḷainavil</rdg>
 <rdg wit="#C2">viḷainaviḷar</rdg>
@@ -585,7 +585,7 @@
 <rdg wit="#C2">vuyi<gap reason="lost" quantity="1" unit="character"/>meṉ</rdg>
         </app>
 <app loc="321,344">
-        <lem wit="#C7 #C9c #RK">ṟevaṉkai yaṟṟaṉai yikuḷai</lem>
+        <lem wit="#C7 #C9c #RK">ṟevaṉkai yaṟṟaṉai yikuḷai</lem> <!-- # --><!-- # -->
         <rdg wit="#NL #C1">ṟaṉkai yiṟṟaṉai yikuḷai</rdg>
 <rdg wit="#C5 #C9">ṟaṉkai yaṟṟaṉai yikuḷai</rdg>
 <rdg wit="#C2 #C3">ṟevaṉkai yaṟṟaṉa ḷikuṉe</rdg>
@@ -599,7 +599,7 @@
         <rdg wit="#C2 #C3">poriṉu</rdg>
         </app>
 <app loc="383,392">
-        <lem wit="#NL #C7 #C9c">tuṟaikuna</lem>
+        <lem wit="#NL #C7 #C9c">tuṟaikuna</lem> <!-- # -->
         <rdg wit="#C1 #C5 #C9 #RK">tuṟaina</rdg>
 <rdg wit="#C2 #C3">tuṟaikuṉa</rdg>
         </app>
@@ -608,23 +608,23 @@
         <rdg wit="#RK #VP #ER">muṉāatu</rdg>
         </app>
 <app loc="404,411">
-        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9c #RK">vāṉpuku</lem>
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9c #RK">vāṉpuku</lem> <!-- FF -->
         <rdg wit="#C9">vāṇpuku</rdg><note xml:lang="en">Faulty.</note>
         </app>
 <app loc="418,427">
-        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">kuṉṟattuk</lem>
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">kuṉṟattuk</lem> <!-- # -->
         <rdg wit="#C2 #C3">kuṉṟattukk</rdg>
         </app>
 <app loc="433,441">
-        <lem wit="#NL #C1 #C3 #C5 #C7 #C9 #RK">peruṅkai</lem>
-        <rdg wit="#C2">eperuṅkai</rdg><note xml:lang="en">Faulty.</note>
+        <lem wit="#NL #C1 #C3 #C5 #C7 #C9 #RK">peruṅkai</lem> <!-- FF -->
+        <rdg wit="#C2"><g rend="vowel-sign">e</g>peruṅkai</rdg>
         </app>
 <app loc="441,452">
         <lem wit="#NL #C1 #C5 #C7 #C9 #RK">yeṇkiṉ pēḻvā</lem>
         <rdg wit="#C2 #C3 #C9v">yeṇki ṉaḻalvā</rdg>
         </app>
 <app loc="484,492">
-        <lem wit="#C5 #C7 #C9c #RK">kuruḷait</lem>
+        <lem wit="#C5 #C7 #C9c #RK">kuruḷait</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">kuruḷainat</rdg>
 <rdg wit="#C2 #C3">kuruḷai</rdg>
         </app>
