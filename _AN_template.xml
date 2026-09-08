@@ -30,17 +30,12 @@
     <body>
 
         <div xml:id="ANNUMBER-kilavi">
-          <p type="edition">
-          <app>
-          <lem wit="#A #B #C">[lemma, which is attested in witnesses A, B, and C]</lem>[lemma]
-          <rdg wit="#A #B #C">[variant reading for witnesses A, B, and C]
-          </rdg>
-          </app>
+          <p type="edition">TEXT <lem>TEXT</lem><app><rdg wit="#A #B #C">[variant reading for witnesses A, B, and C]</rdg> TEXT</app>
           </p>
           <p type="translation" xml:lang="en"></p>
         </div>
-        <div xml:id="ANNUMBER">
-      <lg type="edition">
+        <div rend="parallel">
+      <lg xml:id="ANNUMBER">
         <l></l>
       </lg>
       <lg type="translation" xml:lang="en">

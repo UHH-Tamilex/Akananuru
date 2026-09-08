@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Akanāṉūṟu</title> <num>201.1</num>. <persName xml:lang="ta"><app><lem wit="#NL #C1 #C9 #C7v #RK">māmūlaṉār</lem><rdg wit="#C2 #C3 #C7 #C9v">paḻaiyar makaḷi reṉpār iḻuttiyār</rdg></app></persName>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>201.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C9 #C7v #RK">māmūlaṉār</lem><app><rdg wit="#C2 #C3 #C7 #C9v">paḻaiyar makaḷi reṉpār iḻuttiyār</rdg></app></persName>
         </title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -30,9 +30,7 @@
     <body>
 
         <div xml:id="AN201.1-kilavi">
-          <p type="edition">piriviṭai veṟupaṭṭa <lem>talaimakaṭkut</lem><app>
-          <rdg wit="#NL #C1 #C9">talaimakaṟkut</rdg>
-          </app> toḻi cŏlliyatu.
+          <p type="edition">piriviṭai veṟupaṭṭa <lem>talaimakaṭkut</lem><app><rdg wit="#NL #C1 #C9">talaimakaṟkut</rdg></app> toḻi cŏlliyatu.
           </p>
           <p type="translation" xml:lang="en">What the confidante said to HER who had undergone changes in the time of separation.</p>
         </div>
@@ -54,7 +52,7 @@
         <l>māṇṭamain tuṟaikuna rallar muṉātu</l>
         <l>vāṉpuku talaiya kuṉṟattuk kavāaṟ</l>
         <l>peruṅkai yeṇkiṉ pēḻvā yēṟṟai</l>
-        <l>yiruṭuṇin taṉṉa kuvavumayirk kuruḷai<del>n</del>t</l>
+        <l>yiruṭuṇin taṉṉa kuvavumayirk kuruḷait</l>
         <l>tōṉmulaip piṇavoṭu tiḷaikkum</l>
         <l>vēṉi ṉīṭiya curaṉiṟan tōrē.</l>
       </lg>
