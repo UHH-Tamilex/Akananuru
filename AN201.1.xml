@@ -82,7 +82,7 @@
 
  <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
 <standOff type="notes2" corresp="#AN201.1">
-    <note n="1">1c-2b <abbr corresp="#C1"/>:ǂǂǂǂ ǂǂṉǂ | ṉaǂǂāḻa ǂṭaṅku</note>
+    <note n="1">1c-2b <abbr corresp="#C1"/>:<gap reason="lost" unit="character" quantity="4"/> <gap reason="lost" unit="character" quantity="2"/>ṉ<gap reason="lost" unit="character" quantity="1"/> | ṉa<gap reason="lost" unit="character" quantity="2"/>āḻa <gap reason="lost" unit="character" quantity="1"/>ṭaṅku</note>
 </standOff>
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#AN201.1">
