@@ -44,6 +44,9 @@
     </body>
   </text>
 
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus"> <!-- copy kiḷavi apparatus standoff here -->
+</standOff>
+
  <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
 <standOff type="notes2" corresp="#ANNUMBER.1">
     <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
