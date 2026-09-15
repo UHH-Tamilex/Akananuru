@@ -82,7 +82,7 @@
 
 <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN201.1-kilavi" type="apparatus"><listApp>
 <app loc="18,31">
-        <lem>talaimakaṭkut</lem>
+        <lem wit="#C2 #C3 #C5 #C7 #RK">talaimakaṭkut</lem>
         <rdg wit="#NL #C1 #C9">talaimakaṟkut</rdg>
         </app>
 </listApp>
