@@ -30,8 +30,8 @@
     <body>
 
         <div xml:id="ANNUMBER-kilavi">
-          <p type="edition">TEXT <lem>TEXT</lem><app><rdg wit="#A #B #C">[variant reading for witnesses A, B, and C]</rdg> TEXT</app></p>
-          <p type="translation" xml:lang="en"></p>
+          <p type="edition">TEXT</p>
+          <p type="translation" xml:lang="en">TEXT</p>
         </div>
         <div rend="parallel">
       <lg xml:id="ANNUMBER">
