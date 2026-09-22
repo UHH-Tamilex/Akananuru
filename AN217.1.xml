@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>217.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9">kiḻārk</lem><app><rdg wit="#RK">kaḻārk</rdg></app> kīraṉeyiṟṟiyār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN217.1-kilavi">
+          <p type="edition">pirivuṇarttiya tōḻikkut talaimaka ḷāṟṟāmai colliyatu.</p>
+          <p type="translation" xml:lang="en">What SHE said about [her own] lack of strength to the confidante who informed [her] of the separation.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN217.1">
+        <l>peytupulan tiṟanta poṅkal veṇmaḻai</l>
+        <l>yeḵ[ku]ṟu pañciṟ ṟuytupaṭ ṭaṉṉa</l>
+        <l>tuvalai tūval ka[ḻi]ya vakalvayi</l>
+        <l>ṉiṭuka[ḻai]k karumpiṉ kaḷaikkāl vāṉpūk</l>
+        <l>kōṭaip pūḷaiyiṉ vāṭaiyoṭu tuyalvara</l>
+        <l>pā[ci]lai potuḷiya putaṟoṟum pakaṉṟai</l>
+        <l>nīluṇ paccai niṟamaṟai[t ta]ṭaicciya </l>
+        <l>tōleṟi pāṇ[ṭi]liṉ vāliya malarak</l>
+        <l>kō[ḻilai] yavaraik koḻumukai yuṭaiya</l>
+        <l>vūḻuṟu tōṉṟi yoṇpūt taḷaiviṭap</l>
+        <l>pulantoṟuṅ kurukiṉa naralak kalleṉa</l>
+        <l>vakaṉṟuṟai makaḷi raṇituṟantu naṭuṅka</l>
+        <l>vacciram vantaṉ ṟamaintaṉ ṟituveṉa</l>
+        <l>vepporuḷ peṟiṉum piriyaṉmi ṉōveṉac</l>
+        <l>cep[pu]val vāḻiyō tuṇaiyiṭai yirkkē</l>
+        <l>nalkāk kātalar nalaṉuṇṭu tuṟanta</l>
+        <l>pāḻpaṭu mēṉi nōkki nōypora</l>
+        <l>viṇariṟu puṭaiyu neñcamoṭu puṇarvuvēṭ</l>
+        <l>ṭeyiṟu[tī]p piṟappat tiruki</l>
+        <l>naṭuṅkutum piriyiṉyāṅ kaṭumpaṉi yuḻantē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="1">When the churning white clouds that opened over the fields have poured down</l>
+        <l>[and], as the drizzling of drops passes that were falling like </l>
+        <l corresp="2f">soft fibres of cotton put to the blade, in the vast area,</l>
+        <l corresp="4">when the white flowers on the rugged stems of the sugarcane with steady stalks</l>
+        <l corresp="5">come into swinging with the north wind as wool plants [do] in the west wind,</l>
+        <l corresp="6">when on every bush that is dense with green leaves, the jalap</l>
+        <l corresp="8">blooms in white [blossoms], like leather rounds under attack</l>
+        <l corresp="7">on which [white] had been put, hiding the green colour that absorbed the blue(?),</l>
+        <l corresp="9">while fat buds burst open on the field beans with fat leaves,</l>
+        <l corresp="10">while the outer petals let go of the bright Malabar-lily flowers in [their] turn,</l>
+        <l corresp="11">while flocks of herons trumpet in every field, noisily,</l>
+        <l corresp="12">so that the women who stay in separation abandon [their] ornaments [and] shiver,</l>
+        <l corresp="13">the cool season has come. “[This time] is suitable”, – since [HE] thought so,</l>
+        <l corresp="14">“whatever kind of wealth may be obtained, please don’t part [from me]!”,</l>
+        <l corresp="15">I say to you who is among [your] consorts , may you live.</l>
+        <l corresp="16">While pain attacks [us] when looking at [our] ruined body</l>
+        <l corresp="17">that is abandoned after [its] beauty had been consumed by an ungracious lover,</l>
+        <l corresp="18">with a heart that breaks, broken [like a flower] cluster(?), wanting union,</l>
+        <l corresp="19">gnashing [our] teeth so that sparks spring forth,</l>
+        <l corresp="20">we will shiver if [HE] parts [from us], bearing the fierce dew.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+  
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN217.1-kilavi" type="apparatus"><listApp>
+<app loc="31,39">
+        <lem wit="#NL #C1 #C5">ḷāṟṟāmai</lem>
+        <rdg wit="#C2 #C3">ḷāṟṟāmai mītūc</rdg>
+<rdg wit="#C7 #C9 #RK">ḷāṟṟāmai mītūrac</rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

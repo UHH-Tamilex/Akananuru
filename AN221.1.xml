@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>221.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C5 #C7 #C9 #RK">kayamaṉār</lem><app><rdg wit="#C2 #C3 #C9v">kallāṭaṉār</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN221.1-kilavi">
+          <p type="edition">talaimakaṟkup pōkkuṭaṉpaṭṭa tōḻi talaimakaṭkup pōkkuṭaṉpaṭac colliyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante, who had agreed with HIM on eloping, said to HER so that she would agree to eloping.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN221.1">
+        <l>naṉaiviḷai naṟaviṉ ṟēṟaṉ māntip</l>
+        <l>puṉaiviṉai nalliṟ ṟarumaṇaṟ kuvaiip</l>
+        <l>pomma lōti yeṉmakaṇ maṇaṉē</l>
+        <l>vatuvai [ya]yarntaṉar namarē yataṉāṟ</l>
+        <l>putuvatu puṉainta cē[yi]lai veṉvē[ṉ]</l>
+        <l>matiyuṭam pa[ṭ]ṭa maiyaṇaṟ kāḷai</l>
+        <l>vāṅkuciṉaik koyta tiraḷarai marāttut </l>
+        <l>tēmpāy melliṇar taḷiroṭu koṇṭuniṉ</l>
+        <l>ṟaṇṇaṟu mucci puṉaiya vavaṉoṭu</l>
+        <l>kaḻaikaviṉ potiya maḻaiyuyar naṉantalaik</l>
+        <l>kaḷiṟṟirai piḻaittaliṟ kayavāy vēṅkai</l>
+        <l>kāyciṉañ ciṟantu kuḻumaliṉ verīi</l>
+        <l>yirumpiṭi yiriyuñ cōlai</l>
+        <l>yaruñcurañ cēṟa layarntaṉeṉ yāṉē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="1">Drinking the cleared juice of toddy matured with buds,</l>
+        <l corresp="2">heaping sand brought to the good house of crafty workmanship,</l>
+        <l corresp="3">“[this is] the union of my thick-haired daughter”, [thus]</l>
+        <l corresp="4">our people have started to prepare the wedding. Therefore,</l>
+        <l corresp="5">while, [his] victorious spear with a red leaf[-shaped] tip newly decorated,</l>
+        <l corresp="6">the young man with a black beard who is in agreement [with you]</l>
+        <l corresp="9a-c">decorates your cool fragrant hair tuft</l>
+        <l corresp="8">with the honey-flowing soft clusters and sprouts</l>
+        <l corresp="7">of the round-trunked Kadamba tree that are plucked from the bending branches,</l>
+        <l rend="indent6" corresp="9d">with him,</l>
+        <l corresp="10">in the vast space high with clouds that store the beauty of the bamboo,</l>
+        <l corresp="14">I have prepared [your] going to the difficult desert</l>
+        <l corresp="13">with groves, where the dark she elephant retreats,</l>
+        <l corresp="12">frightened of the roaring excelling in hot anger</l>
+        <l corresp="11">of the deep-mouthed tiger because it failed [in having] the elephant bull as [its] prey.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

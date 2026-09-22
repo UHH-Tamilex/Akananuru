@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>228.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C5 #C9">kuṟuvaḻuti</lem><app><rdg wit="#RK">aṇṭarmakaṉ kuṟuvaḻuti</rdg><rdg wit="#C7 #C9v">aṇṭarmuṉ kuṟuvaḻuti</rdg><rdg wit="#C2 #C3"><space unit="character" quantity="19"/></rdg></app></persName> 
+        </title><!-- which mss add -yār? -->
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN228.1-kilavi">
+          <p type="edition">talaimakaṉ ciṟaippuṟattāṉākat talaimakaṭkuc colluvāḷāyt tōḻi colliyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante said being one who is speaking to HER while HE was behind the hedge.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN228.1">
+        <l>piracap palkiḷai yārppak kalleṉa</l>
+        <l>varaiyiḻi yaruvi yāran tīṇṭit</l>
+        <l>tiṇṇē naṉaikku naḷimalaic cilampiṟ</l>
+        <l>kaṇṇeṉa malarnta māyitaḻk kuvaḷaik</l>
+        <l>kaṉmukai neṭuñcuṉai nammō ṭāṭip</l>
+        <l>pakalē yiṉituṭaṉ kaḻippi yiravē</l>
+        <l>celva rāyi ṉaṉṟumaṟ ṟilla</l>
+        <l>vāṉkaṇ virinta pataṉmaru ṇilaviṟ</l>
+        <l>cūra[ṉ] miḷaiiya cāra lārāṟ</l>
+        <l>ṟōṅkaṉ micaiya vēṅkai yoḷvī</l>
+        <l>pulippoṟi kaṭuppat tōṉṟaliṟ kayavā</l>
+        <l>yirumpiṭi yiriyuñ cōlaip</l>
+        <l>peruṅkal yā[ṇa]rttañ ciṟukuṭi yāṉē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="6a-c">Passing all day together pleasantly,</l>
+        <l corresp="5">bathing with us in the long pools in stone caves</l>
+        <l corresp="4">with large-petaled waterlilies that blossom like eyes</l>
+        <l corresp="3">on the slope of the vast mountain which becomes truely wet</l>
+        <l corresp="2">as the waterfall tumbling from the mountain grips the sandal trees,</l>
+        <l corresp="1">noisily, while the many kin in the honeycomb hum,</l>
+        <l rend="indent8" corresp="6d">by night,</l>
+        <l corresp="7">if he went [back] it would be good</l>
+        <l corresp="13">– to his small hamlet fertile among the big stones,</l>
+        <l>with a grove where the soft-mouthed dark elephant cow</l>
+        <l corresp="11f">retreats because of the tiger-spot-like appearance</l>
+        <l corresp="10">of the bright flowers of the hillock’s kino trees, high</l>
+        <l corresp="9">upon the difficult path on the slope closed in by rattan,</l>
+        <l corresp="8">in seasonally diffuse moonlight that expanded in the sky.</l>
+      </lg>
+      <lg type="alternate" sameAs="3 4b">
+        <l>in the long pools where bud, between the stones</l>
+        <l>large-petaled waterlilies...</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN228.1-kilavi" type="apparatus"><listApp>
+<app loc="0,10">
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">talaimakaṉ</lem>
+        <rdg wit="#C2 #C3">om.</rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

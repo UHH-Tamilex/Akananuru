@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>220.1</num>. <persName xml:lang="ta">maturai marutaṉiḷanākaṉār</persName>: the friend
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN220.1-kilavi">
+          <p type="edition">iravukkuṟi vantu nīṅkun talaimakaṉai yetirppaṭṭut tōḻi colliyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante said when encountering HIM who was leaving after having come to the night tryst.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN220.1">
+        <l>ūruñ cēriyu muṭaṉiyain talareḻat</l>
+        <l>[tēro]ṭu maṟu[ki]yum paṇimoḻi payiṟṟiyuṅ</l>
+        <l>keṭāat tīyi ṉurukeḻuc cellūrk</l>
+        <l>kaṭāa yāṉaik kuḻūuccaman tataiya</l>
+        <l>maṉmaruṅ kaṟutta maḻuvā ṇeṭiyōṉ</l>
+        <l>muṉmuyaṉ ṟaritaṉiṉ muṭitta vēḷvik</l>
+        <l>kayiṟarai yātta kāṇṭaku vaṉappi</l>
+        <l>ṉaruṅkaṭi neṭuntūṇ pōla yāvaruṅ</l>
+        <l>kāṇa lākā māṇe[ḻi] lāka</l>
+        <l>muḷḷutoṟum paṉikku neñciṉai nīyē</l>
+        <l>neṭumpuṟa nilaiyiṉai varuntiṉai yāyiṉ</l>
+        <l>muḻaṅkukaṭa lōtaṅ kālaik koṭkum</l>
+        <l>paḻampaṉ ṉelli ṉūṉū rāṅka</l>
+        <l>ṇōlā virumpuṭ pōla neñcamarntu</l>
+        <l>kātaṉ māṟāk kāmar puṇarcciyi</l>
+        <l>ṉiruṅkaḻi mukanta ceṅkō lavvalai</l>
+        <l>[mu]ṭaṅkupu[ṟa] viṟavō ṭiṉamīṉ ceṟikku</l>
+        <l>neṭuṅkatirk kaḻaṉit taṇcāayk kāṉat</l>
+        <l>tiyāṇart taṇpaṇai yuṟumeṉa kāṉa</l>
+        <l>lāya māynta cāyiṟaip paṇaittō</l>
+        <l>ṇalleḻil citaiyā vēmañ</l>
+        <l>colliṉit teyyayān teḷiyu māṟē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="2">Having whirled along with [your] chariot and repeated humble words</l>
+        <l corresp="1">so that gossip arose equally in the village and in the quarter,</l>
+        <l corresp="10">o you with a heart that trembles each time you remember</l>
+        <l corresp="9">[her] glorious [and] graceful bosom, not to be seen</l>
+        <l corresp="8">by anyone, like the heavily protected tall pillar,</l>
+        <l corresp="7">of a beauty fit to be seen, to the bottom of which a rope is tied</l>
+        <l corresp="6">for the sacrifice that was completed with difficulty(?), making an effort in front</l>
+        <l corresp="5">of the tall one with an axe for a weapon, who cut open the side of kings,</l>
+        <l corresp="4">when the battle was packed with a crowd of rutting elephants,</l>
+        <l corresp="3">in awe-inspiring Cellūr with [its] unextinguished fire(?),</l>
+        <l corresp="11">- in case you should suffer from standing outside for a long [time],</l>
+        <l corresp="22">speak now, in a way that we understand,</l>
+        <l corresp="21">of protection, so that the good grace is not wasted</l>
+        <l corresp="20">in [her] bamboo shoulders with flexible joints, chosen among the companions</l>
+        <l corresp="19">in the seashore grove, [with the words]: “it resembles the fertile cool bamboo</l>
+        <l corresp="18">of cool Cāaykkāṉam, [surrounded by] fields with long ears,</l>
+        <l corresp="16">where the pretty nets with straight rods that are drawn from the dark backwaters</l>
+        <l corresp="17">tighten over various fish together with hunch-backed prawn”,</l>
+        <l corresp="15">[not wasted] in [this] passionate union, love unchanging,</l>
+        <l corresp="14">hearts remaining like big birds that cannot endure(?),</l>
+        <l corresp="13">there in Ūṉūr of old with much rice,</l>
+        <l corresp="12">where time revolves with the flood of the thundering sea.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

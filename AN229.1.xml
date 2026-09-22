@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>229.1</num>. <persName xml:lang="ta">maturaik kūlavāṇikaṉ <lem>cittalaic</lem><app><rdg wit="#C2 #C3">om.</rdg></app> cāttaṉār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN229.1-kilavi">
+          <p type="edition">talaimakaṉ piriviṉkaṇ vēṟupaṭṭa talaimakaḷai vaṟpuṟuttun tōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">What [SHE] said to the confidante who consoled HER who had undergone changes during the separation from HIM.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN229.1">
+        <l>pakalcey palkatirp parutiyañ celva</l>
+        <l>ṉakalvāy vāṉat tāḻi pōḻnteṉa</l>
+        <l>[nīra]ṟa vaṟanta nirampā nīḷiṭaik</l>
+        <l>kayantalaik kuḻavik kaviyukir maṭappiṭi</l>
+        <l>kuḷakumaṟut tuyaṅkiya maruṅkul palavuṭaṉ</l>
+        <l>pāḻūrk kurampaiyiṟ ṟōṉṟu māṅka</l>
+        <l>ṇeṭuñcē ṇiṭaiya kuṉṟam pōkiya</l>
+        <l>poyva lāḷar muyaṉṟucey perumporu</l>
+        <l>[ṇa]mmiṉ ṟāyiṉu muṭika valleṉap</l>
+        <l>peruntuṉi mēva ṉalkūr kuṟumaka</l>
+        <l>ṇōymalin tukutta nocivār ciṉṉīrp</l>
+        <l>pallitaḻ maḻaikkaṭ pāvai māyppap</l>
+        <l>poṉṉēr pacalai yūrtarap poṟivari </l>
+        <l>naṉmā mēṉi tolaita ṉōkki </l>
+        <l>yiṉaiya leṉṟi tōḻi ciṉaiya</l>
+        <l>pācarum pīṉṟa cemmuka murukkiṉ</l>
+        <l>pōtavi ḻalari koḻutit tātarun</l>
+        <l>tantaḷir marāat talaṅkaṉ mīmicaic</l>
+        <l>ceṅka ṇiruṅkuyi ṉayavarak kūu</l>
+        <l>miṉṉiḷa vēṉilum vārā</l>
+        <l>riṉṉē varutu meṉatteḷin tōrē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="9b">“Although,</l>
+        <l corresp="3">on the never-ending long way that dried up when the water ceased</l>
+        <l corresp="1f.">because the wheel of the spherical goer with many day-making </l>
+        <l corresp="1f">rays crossed the sky of vast area,</l>
+        <l>in that place, where the youthful elephant cows with enveloped toenails, many together,</l>
+        <l>waists narrow as they refused the [remaining] greenery for [the sake of their] soft-headed calves,</l>
+        <l corresp="4-6">appear like the huts of a village in ruin,</l>
+        <l corresp="8">the great wealth to be made with effort by the deceitful man</l>
+        <l corresp="7">who went to the hills that are in the far distance,</l>
+        <l corresp="9">is [made] without us, let it be accomplished fast,</l>
+        <l>[my] poor little girl who is attached to [her] great disgust.</l>
+        <l corresp="12">While the pupils of your ample-lashed rain eyes hide</l>
+        <l corresp="11">the painfully overflowing few tears that they shed as the pain increases,</l>
+        <l>don’t look at the loss of the spots [and] lines  on [your] good</l>
+        <l corresp="13f.">dark body while gold-like pallor creeps up,</l>
+        <l corresp="15a-c">[and] despair,” you may say, friend,</l>
+        <l corresp="20">– [about]  him who did not come even in sweet spring,</l>
+        <l corresp="17">when, having pecked at the flowers that open [their] buds [and] eating the pollen</l>
+        <l corresp="15d-16">of the red-faced Palas trees that brought forth green buds on [their] branches,</l>
+        <l corresp="18">high on the swaying height of the Kadamba trees with pretty sprouts</l>
+        <l corresp="19">the red-eyed dark koel calls out in longing,</l>
+        <l corresp="21">he who was clear in saying “we will come now.”</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN229.1-kilavi" type="apparatus"><listApp>
+<app loc="52,60">
+        <lem wit="#NL #C1 #C5 #C7 #C9">tōḻikkuc</lem>
+        <rdg wit="#C2 #C3 #C9v #RK">tōḻikkut talaimakaḷ vaṉpoṟaiyetiraḻintu</rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

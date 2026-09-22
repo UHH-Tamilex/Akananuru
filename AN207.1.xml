@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>207.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C2 #C5 #C7 #C9">maturai yeḻuttāḷaṉ cēntaṉpūtaṉār</lem><app><rdg wit="#RK">maturai yeḻuttāḷaṉ cēntampūtaṉār</rdg><rdg wit="#C3">cēntampūtaṉ</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN207.1-kilavi">
+          <p type="edition">makaṭpōkkiya cevili colliyatu.</p>
+          <p type="translation" xml:lang="en">What was said by the foster mother who had let [her] daughter go.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN207.1">
+        <l>aṇaṅkuṭai mu[nnī]r paranta ceṟuvi</l>
+        <l>ṉuṇaṅkutiṟam peyarnta veṇka lamiḻtaṅ</l>
+        <l>kuṭapula maruṅki ṉu[y]mmār puḷḷōrttup</l>
+        <l>paṭaiyamait teḻunta peruñcē yāṭavar</l>
+        <l>niraipparap poṟaiya naraippuṟak kaḻutaik</l>
+        <l>kuṟaikkuḷam putaitta kaṟpiṟa ḻiyaviṉ</l>
+        <l>veñcuram pōḻnta vañcuvaru kavalai</l>
+        <l>miñiṟār kaṭāaṅ karanta viṭukavuḷ</l>
+        <l>veyiṟiṉa varu[n]tiya nīṭumarup poruttaṟ</l>
+        <l>piṇa[ra]ḻi peruṅkai puraṇṭa kūvaṟ</l>
+        <l>ṟeṇka ṇuvarik kuṟaikkuṭa mukavai</l>
+        <l>yaṟaṉi lāḷaṉ ṟōṇṭa veytuyirttup</l>
+        <l>piṟainutal veya[r]ppa vuṇṭaṉaḷ kollō</l>
+        <l>tēṅkalan tamaiiya tīmpā lēntik</l>
+        <l>kūḻai yu[ḷa]rntu moḻimai kūṟavu</l>
+        <l>maṟutta cellā ḷāki</l>
+        <l>veṟutta vuḷḷamō ṭuṇṇā tōḷē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="6">On the way irregular with stones kicked up by the damaged hooves</l>
+        <l corresp="5">of grey-backed donkeys in a row, burdened with loads</l>
+        <l corresp="4">by men from a great distance who rise, having fashioned weapons,</l>
+        <l corresp="3">listening to the birds so that they may escape to the side of the western fields,</l>
+        <l corresp="2">[for the sake of] the ambrosia in white stones that are moved when the elements have dried</l>
+        <l corresp="1">on fields that are spread by the dreadful three-watered [sea],</l>
+        <l corresp="7">on the frightening crossroad that crosses the hot desert,</l>
+        <l corresp="12">did she sigh hotly when the virtueless man scooped up</l>
+        <l corresp="11">in a damaged jar draughts of brackish water from the clear spot</l>
+        <l corresp="10">in the well that had been turned over by the large trunk reduced to roughness</l>
+        <l corresp="9">of the male with long tusks that suffered from absorbing the sun light</l>
+        <l corresp="8">on [its] oozing temples that are hidden by ichor on which bees hum,</l>
+        <l corresp="13">[and] drink, while [her] crescent moon forehead perspired?</l>
+        <l corresp="17">– she who did not drink, with [her] inside revolting,</l>
+        <l corresp="16">being one who did not go, who refused</l>
+        <l corresp="14">although [we] offered [her] sweet milk made by mixing [it] with honey,</l>
+        <l corresp="15">smoothed [her] hair [and] quoted proverbs.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN207.1-kilavi" type="apparatus"><listApp>
+<app loc="12,18">
+        <lem wit="#NL #C1 #C2 #C5 #C7 #C9">cevili</lem>
+        <rdg wit="#C3 #RK #VP #ER">tāy</rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

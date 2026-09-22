@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>223.1</num>. <persName xml:lang="ta">pālaipāṭiya peruṅkaṭuṅkō</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN223.1-kilavi">
+          <p type="edition">piriviṭai vēṟupaṭṭa talaimakaḷait tōḻi vaṟpuṟuttiyatu.</p>
+          <p type="translation" xml:lang="en">How the confidante consoled HER who had undergone changes in the time of separation.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN223.1">
+        <l>pirital valliya ratunat tuṟantōr</l>
+        <l>maṟantu mamaikuvar kolleṉ ṟeṇṇi</l>
+        <l>yāḻal vāḻi tōḻi kēḻal</l>
+        <l>vaḷaimarup puṟaḻu muḷaineṭum poṅkar</l>
+        <l>naṉaimutir murukkiṉ ciṉaicēr peruṅkaṟ</l>
+        <l>kāyciṉak kaṭu[vaḷi] yeṭuttaliṉ veṅkāṭ</l>
+        <l>ṭaḻalpōḻ yāṉaiyi ṉaiyeṉat tōṉṟu</l>
+        <l>niḻali lōmai nīri ṉīḷiṭai</l>
+        <l>yiṟantaṉa rāyiṉuṅ kātalar namvayiṉ</l>
+        <l>maṟantukaṇ paṭutal yāvatu puṟantā</l>
+        <l>ḻampaṇai neṭuntōṭ ṭaṅkit tumpi</l>
+        <l>yariyiṉaṅ kaṭukkuñ curivaṇa raimpā</l>
+        <l>ṉuṇṭuka ḷaṭaṅka vārip paiyuḷkeṭa</l>
+        <l>naṉmukai yatiraṟ pōtoṭu kuvaḷait</l>
+        <l>taṇṇaṟuṅ kamaḻtoṭar vēyntaniṉ</l>
+        <l>maṇṇār kūntaṉ marīi[ya] tuyilē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="1">“He who has the harshness to part [from us], who abandoned us for that,</l>
+        <l corresp="2">even though he forgot, will he be content?”, thinking so</l>
+        <l corresp="3a-c">don’t be downcast, oh friend.</l>
+        <l corresp="9ab">Even though he has gone to traverse</l>
+        <l corresp="8">the waterless long road of shadeless spurges,</l>
+        <l corresp="5">where the big stone joined by the branches of the Palas tree on which buds mature</l>
+        <l corresp="3d-4">on sprouting long twigs that resemble curved boar’s tusks,</l>
+        <l corresp="6">because the fierce wind lifts [them] in burning anger, in the hot wilderness,</l>
+        <l corresp="7">appears wonderfully like an elephant crossing a fire,</l>
+        <l rend="indent6">for [our] lover, forgetting</l>
+        <l corresp="9c-10c">about us , what [kind of] sleeping will there be,</l>
+        <l corresp="16">– [after] the sleep  [he had] when close to your earthy/well-washed tresses</l>
+        <l corresp="15">that were covered with a cool, scented, fragrant chain</l>
+        <l corresp="14">of waterlilies together with opening buds of well-budding  wild jasmine</l>
+        <l corresp="13">so that [all] sorrow is lost, after combing [them out], so that fine dust settled,</l>
+        <l>from the five-fold [hairstyle]  curved in curls that resemble a swarm of bees,</l>
+        <l corresp="10d-12">staying on [your] pretty long bamboo schoulders, hanging down on [your] back.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN223.1-kilavi" type="apparatus"><listApp>
+<app loc="35,49">
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C9 #RK">vaṟpuṟuttiyatu</lem>
+        <rdg wit="#C7">vaṟpuṟīiyatu</rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

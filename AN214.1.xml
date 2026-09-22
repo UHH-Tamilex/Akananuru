@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>214.1</num>. <persName xml:lang="ta"><lem wit="#C5 #C7 #RK">vaṭamavaṇṇakkaṉ pēricāttaṉār</lem><app><rdg wit="#NL #C1 #C6 #C9">pēricāttaṉār</rdg><rdg wit="#C2 #C3">maturaip pāruvaviyanāṭṭuvālam pericāttaṉ</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN214.1-kilavi">
+          <p type="edition">pācaṟaikkaṭ ṭalaimakaṉ ṟaṉṉeñciṟkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">What HE said to his heart in the war camp.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN214.1">
+        <l>akaliru vicumpakam putaiyap pāayp</l>
+        <l>pakaluṭaṉ karanta palkatir vāṉa</l>
+        <l>miruṅkaḷiṟ ṟiṉanirai kuḷirppa vīcip</l>
+        <l>perumpeya la[ḻi]tuḷi poḻita lāṉātu</l>
+        <l>vēntaṉum vempakai muraṇi yēntilai</l>
+        <l>viṭukatir neṭuvē limaikkum pācaṟai</l>
+        <l>yaṭupukaḻ mēvaloṭu kaṇpaṭai yilaṉē</l>
+        <l>yamaru namvayi ṉatuvē namareṉ</l>
+        <l>ṉammaṟivu teḷitta pomma lōti</l>
+        <l>yāṅkā kuvaḷko ṟāṉē yōṅkuviṭaip</l>
+        <l>paṭucuva[ṟ] koṇṭa pakuvāyt teṇmaṇi</l>
+        <l>yāpeyar kōvala rāmpalō ṭaḷaiip</l>
+        <l>paiyu ṇalyāḻ cevvaḻi vakuppa</l>
+        <l>vāruyi raṇaṅkun teḷḷicai</l>
+        <l>māri mālaiyun tamiyaḷ kēṭṭē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="4">The flow of dwindling droplets from the great rain does not end,</l>
+        <l corresp="3">pouring coolly from herds  of dark bull elephants</l>
+        <l corresp="2">in the many-rayed  sky that is hidden along with the day,</l>
+        <l corresp="1">spread for the wide dark vault of heaven to be covered,</l>
+        <l>and the king, in [his] wish for murderous fame, does not close [his] eyes,</l>
+        <l>in the encampment winking with ray-emitting long spears</l>
+        <l corresp="5-7">with eminent leaf [tips], having encountered hot enmity.</l>
+        <l corresp="9d-10c">How will she be, [she with] thick hair,</l>
+        <l corresp="9a-c">to whom our understanding has been made clear:</l>
+        <l corresp="8">“[these are] our people. That [means] war too is upon us.”</l>
+        <l corresp="15">– hearing alone all evening the showers</l>
+        <l corresp="14">of clear sound that torment [her] precious life,</l>
+        <l corresp="13">when the sorrowful good lute is assigned to a Cevvaḻi [melody],</l>
+        <l corresp="12">mingling with the lily [flute] of the cowherds coming back from the cows,</l>
+        <l corresp="10d-11">[and] the gaping clear bells worn on the moving napes of tall bulls?</l>
+      </lg>
+      <lg type="alternate" sameAs="13 14b">
+        <l>hearing alone all through the rainy evening</l>
+        <l>the clear sound that torments [her] precious life</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN214.1-kilavi" type="apparatus"><listApp>
+<app loc="0,11">
+        <lem wit="#NL #C1 #C3 #C5 #C7 #C9 #RK">pācaṟaikkaṭ</lem>
+        <rdg wit="#C2">pācaṟaiyiṟ</rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>224.1</num>. <persName xml:lang="ta">āvūr mūlaṅkiḻārmakaṉār peruntalaiccāttaṉār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN224.1-kilavi">
+          <p type="edition">viṉaimuṟṟiya talaimakaṉ ṟērpākaṟkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">What HE who had completed work said to [his] charioteer.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN224.1">
+        <l>celka pāka velliṉṟu poḻutē</l>
+        <l>vallō ṉaṭaṅkukayi ṟamaippak kollaṉ</l>
+        <l>micaittuvāṅku turuttiyiṉ veyya vuyirāk</l>
+        <l>koṭunukat tiyātta talaiya kaṭunaṭaik</l>
+        <l>kā[ṟ]kaṭup paṉṉa kaṭuñcela livuḷi</l>
+        <l>pālkaṭai nuraiyiṉ parūu[mi]tap paṉṉa</l>
+        <l>vālveṇ ṭeviṭṭal vaḻivāratu nuṇakkañ</l>
+        <l>cilampi [nū]li ṉuṇaṅkuvaṉa pāṟic</l>
+        <l>cāntupula rakala maṟuppak kāṇṭakap</l>
+        <l>putunalam peṟṟa peytunīṅku puṟaviṟ</l>
+        <l>ṟeṟinaṭa maraikkaṇa miriya maṉaiyō</l>
+        <l>ḷaituṇaṅku valci peytumuṟuk kuṟutta</l>
+        <l>tirimarak kuralicai kaṭuppa varimaṇa</l>
+        <l>lalaṅkukatirt tikiri yāḻi pōḻa</l>
+        <l>varuṅko ṟōḻinam miṉṉuyirt tuṇaiyeṉac</l>
+        <l>cilkō lelvaḷai yoṭukkip palkā</l>
+        <l>laruṅkaṭi viyaṉa[ka]r nōkki</l>
+        <l>varuntumā laḷiya ṭiruntiḻai tāṉē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="1">Let [us] go, charioteer – It is the time without light! –</l>
+        <l corresp="10">through the woodland that had obtained fresh beauty, abandoned [by the clouds] after raining</l>
+        <l corresp="9d">fit to be seen, while</l>
+        <l corresp="5">by the horses with a movement swift as the speed of wind,</l>
+        <l corresp="4">with swift gait, [their] heads tied to the curved yoke,</l>
+        <l corresp="2d-3">breathing as hot as the bellows pulled on top by the smith</l>
+        <l corresp="2a-c">while the capable [driver] handles the restraining rope,</l>
+        <l rend="indent2" corresp="8">[droplets] are scattered fine like the thread of a spider,</l>
+        <l corresp="7">something long [and] fine [resulting] from pure white spitter</l>
+        <l corresp="6">like big floats of foam on the rim of milk,</l>
+        <l corresp="9ac">[and] stain the chest on which sandal dries,</l>
+        <l corresp="14">so that the round [chariot] wheels with flashing spokes cross</l>
+        <l corresp="13">the lined sand, resembling in tone the voice of the mill</l>
+        <l>set into whirling [motion] as she of the house pours wonderfully</l>
+        <l corresp="11f">dry grains, so that the groups of wild cows that walk in leaps retreat.</l>
+        <l corresp="18">She will be suffering indeed, pitiful she, she with perfect jewels,</l>
+        <l corresp="17">looking [out] from the well-protected wide mansion,</l>
+        <l corresp="16">many times, checking [her] bright bangles in a few rows,</l>
+        <l corresp="15">saying “is he coming, friend, our companion [as] dear as life?”</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

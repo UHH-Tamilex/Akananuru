@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>210.1</num>. <persName xml:lang="ta">ulōccaṉār</persName>: the friend
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN210.1-kilavi">
+          <p type="edition">tōḻi talaimakaṉ ciṟaippuṟamākat talaimakaṭkuc colluvāḷāyc colliyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante said as one who is talking to HER when HE was behind the hedge.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN210.1">
+        <l>kuṟiyiṟaik kurampaik kolaivem paratava</l>
+        <l>reṟiyu[ḷi] poruta vēmuṟu peru[mī]ṉ</l>
+        <l>puṇṇumiḻ kuruti pulavukkaṭal maṟuppaṭa</l>
+        <l>vicumpaṇi villiṟ pōkip pacumpitirt</l>
+        <l>tiraipayi laḻuva muḻakki yuraṉaḻintu</l>
+        <l>niraitimil maruṅkiṟ paṭartarun tuṟaivaṉ</l>
+        <l>pāṉā ḷiraviṉam paṇaittō ḷuḷḷit</l>
+        <l>tā[ṉi]vaṇ vanta kālai nammūrk</l>
+        <l>kāṉalam peruntuṟaik kaviṉpā rāṭṭi</l>
+        <l>yāṉātu pukaḻntici ṉōṉē yiṉittaṉ</l>
+        <l>cāyaṉ mārpiṟ pāyaṉ māṟṟik</l>
+        <l>kaitaiyam paṭuciṉaik kaṭuntēr vilaṅkac</l>
+        <l>celavari teṉṉu meṉpatu</l>
+        <l>palakēṭ ṭaṉamāṟ ṟōḻi nāmē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l rend="indent6" corresp="6d">The man from the ghat,</l>
+        <l corresp="2">where the big fish, maddened when struck by the hook thrown</l>
+        <l corresp="1">by the fishermen keen on killing, with [their] short-eaved huts,</l>
+        <l corresp="4a-c">moves like the sky-adorning [rain]bow,</l>
+        <l corresp="3">so that the fish-reeking sea is changed by the blood shooting forth from [its] wound,</l>
+        <l corresp="4d-5">strength failing, disturbing the expanse dense with waves of green spray,</l>
+        <l corresp="6a-c">[and] sets out for the boats in rows,</l>
+        <l corresp="10a-c">he was one to praise unendingly,</l>
+        <l corresp="9">appreciating the beauty of the big ghat by the seashore grove</l>
+        <l corresp="8">of our village, at the time he came here,</l>
+        <l corresp="7">remembering our bamboo shoulders at midnight.</l>
+        <l rend="indent6" corresp="10d">Now,</l>
+        <l corresp="13c-14">we have heard [him] saying many [times], friend,</l>
+        <l corresp="11">denying [us] sleep on his graceful chest,</l>
+        <l corresp="13ab">that going [is] difficult,</l>
+        <l corresp="12">when [his] fast chariot is hindered by the hanging Kaitai branches.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN210.1-kilavi" type="apparatus"><listApp>
+<app loc="14,29">
+        <lem wit="#NL #C1 #C2 #C5 #C9 #RK">ciṟaippuṟamākat</lem>
+        <rdg wit="#C3 #C7 #EC">ciṟaippuṟattāṉākat</rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

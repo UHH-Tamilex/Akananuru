@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>219.1</num>. <persName xml:lang="ta"><lem wit="#C2 #C3 #C7 #C9v #RK">kayamaṉār</lem><app><rdg wit="#NL #C1 #C9">om.</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN219.1-kilavi">
+          <p type="edition">makaṭpōkkiya tāy colliyatu.</p>
+          <p type="translation" xml:lang="en">What the mother said who had let [her] daughter go.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN219.1">
+        <l>cīrkeḻu viyaṉakarc cilampunaka viyali</l>
+        <l>yōrai yāyamoṭu pantuciṟi teṟiyiṉum</l>
+        <l>vārā yōveṉ ṟētta pērilaip</l>
+        <l>pakaṉṟai vāṉmalar paṉiniṟain tatupōṟ</l>
+        <l>pālpey vaḷḷañ cālkaip peṟṟi</l>
+        <l>yeṉpā ṭuṇṭaṉai yāyi ṉorukā</l>
+        <l>ṉuntai pāṭu muṇṇeṉ ṟūṭṭip</l>
+        <l>piṟantataṟ koṉṟu ciṟantavai yeytiyā</l>
+        <l>ṉalampuṉain teṭuttaveṉ polantoṭik kuṟumaka</l>
+        <l>ḷaṟaṉi lāḷaṉō ṭiṟan[ta]ṉa [ḷi]ṉiyeṉa</l>
+        <l>maṟaintamain tīrā neñca nōvēṉ</l>
+        <l>poṉvārn taṉṉa viralvā leyiṟṟuc</l>
+        <l>cennāy verīiya pukaruḻai yorut[ta]l </l>
+        <l>poriyarai viḷaviṉ puṉpuṟa viḻaipuḻa</l>
+        <l>laḻaleṟi kōṭai tūkkaliṟ kōvalar</l>
+        <l>kuḻaleṉa niṉaiyu nīri ṉīḷiṭai</l>
+        <l>maṭattakai meliyac cāay</l>
+        <l>naṭakkuṅ kolleṉa nōval yāṉē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="10d">Thinking that (10d)</l>
+        <l corresp="9">my gold-bangled little girl whom I raised adorned with beauty,</l>
+        <l corresp="8">keeping the special [ritual occasions] corresponding to being born,</l>
+        <l corresp="3bc">saying coaxingly,</l>
+        <l corresp="1">even when she was advancing in the excellent vast mansion so that [her] anklets sparkled</l>
+        <l corresp="2">[or] throwing the ball a bit with [her] companions in the ōrai[game],</l>
+        <l corresp="3a" rend="indent3">“won’t you come?”,</l>
+        <l corresp="7d">feeding [her],</l>
+        <l corresp="5">by means of [my] full hand from a dish in which milk was poured,</l>
+        <l corresp="4">resembling a big-leaved white jalap flower filled with dew,</l>
+        <l>saying “once you have eaten my share</l>
+        <l corresp="6-7c">[now] eat your father’s share too”,</l>
+        <l corresp="10">she has gone away now with a virtueless man!”,</l>
+        <l corresp="11">my heart that is not affectionate, continually pretending, does not ache.</l>
+        <l corresp="18b">Thinking</l>
+        <l>“on the waterless long way, where the male of the spotted deer,</l>
+        <l>that is frightened of the red dog with finger[-sized] white teeth</l>
+        <l>that are like metal [spikes] arranged in rows , thinks, because the west wind</l>
+        <l>attacking with fire lifts the coveted tubes from the low back of the woodapple tree</l>
+        <l corresp="12-16">with parched trunk, that it is the flute of the cowherds,</l>
+        <l>is she walking, she for whom innocence would be befitting,</l>
+        <l corresp="17f">exhausted so that she becomes weak?”, I feel pain.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

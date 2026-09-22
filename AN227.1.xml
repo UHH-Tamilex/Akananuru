@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>227.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C5 #C7 #C9 #RK">nakkīrar</lem><app><rdg wit="#C2 #C3 #C9v">kīrantaiyār</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN227-kilavi">
+          <p type="edition">talaimakaṉ piriviṉkaṇ vēṟupaṭṭa talaimakaṭkut tōḻi colliyatūumām. talaimakaḷatu vēṟupā<space quantity="9" unit="character"></space> tōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">It is also what the confidante said to HER who had undergone changes during the separation from [HIM]. (What was said to the confidante who <space quantity="9" unit="character"></space> the changes in HER.)</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN22">
+        <l>nutalpacan taṉṟē tōḷcā yiṉavē</l>
+        <l>titalai yalkul variyum vāṭiṉa</l>
+        <l>veṉṉā kuvaḷko livaḷeṉap paṉmā</l>
+        <l>ṇīrmali kaṇṇoṭu neṭituniṉain tēṟṟi</l>
+        <l>yiṉaiyal vāḻi tōḻi naṉaikavu[ṭ]</l>
+        <l>kāy[ci]ṉañ ciṟanta vāypuku kaṭāttoṭu</l>
+        <l>muṉṉilai peṟāatu muraṇip poṉṉiṇarp</l>
+        <l>pulikkēḻ vēṅkaip pūñciṉai pulampa</l>
+        <l>mutalpāyn tiṭṭa muḻuvali yorutta[l]</l>
+        <l>cennilap paṭunī ṟāṭic cerumalaintu</l>
+        <l>kaḷaṅko[ṇ] maḷḷariṉ muḻaṅku mattam</l>
+        <l>palaviṟan takaṉṟaṉa rāyiṉu nilaii</l>
+        <l>nōyila rākanaṅ kātalar vāyvāṭ</l>
+        <l>ṭamiḻakap paṭutta vimiḻicai muraciṉ</l>
+        <l>varunar varaiyāp perunā ḷirukkait</l>
+        <l>tūṅkal pāṭiya vōṅkuperu nallicaip</l>
+        <l>piṭimiti vaḻutuṇaip perumpeyart taḻumpaṉ</l>
+        <l>kaṭimatil varaippi ṉūṇū rumpar</l>
+        <l>viḻuniti tuñcum vīṟupeṟu tirunaka</l>
+        <l>riruṅkaḻip paṭappai maruṅkūrp paṭṭiṉat</l>
+        <l>tellimi ḻāva[ṇat] taṉṉa</l>
+        <l>kalleṉ kampalai ceytakaṉ ṟōrē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="1">“The forehead has turned pale. The shoulders are emaciated.</l>
+        <l corresp="2">The lines on the hips with beauty spots have faded.</l>
+        <l corresp="3a-c">What will become of her?” so thinking</l>
+        <l corresp="3d-4">[and] reflecting long, many times, with eyes full of tears,</l>
+        <l corresp="5a-c 12c">don’t despair, oh friend. Even though</l>
+        <l corresp="11d-12c">he departed, traversing roads many,</l>
+        <l>where the male in [its] full strength that had, with ichor entering</l>
+        <l>[its] mouth from [its] wet temples when excelling in hot anger,</l>
+        <l>been opposed [to the tiger] without obtaining a [direct confrontation]</l>
+        <l>leapt against the [tree] trunk so that the flowering branches of the kino tree,</l>
+        <l>with tiger lustre in golden clusters, are lonely,</l>
+        <l>bathed in the dust rising from the red ground, [and], facing the fight,</l>
+        <l corresp="5d-11c">thunders like warriors taking the battlefield,</l>
+        <l corresp="12d-13c">let our lover permanently be without pain,</l>
+        <l corresp="22">– him who departed making a racket, noisily,</l>
+        <l corresp="21">like the bazaar  buzzling with light</l>
+        <l corresp="20">of the maritime Maruṅkūr with a garden by the dark backwaters,</l>
+        <l corresp="19">a brilliant town  that has obtained distinction, where great treasure sleeps,</l>
+        <l corresp="18">beyond Ūṇūr in the region of protected fortifications</l>
+        <l corresp="17">[belonging to] Taḻumpaṉ of great name for the brinjal trampled by the she-elephant(?)</l>
+        <l corresp="16">of high great fame that is sung while swaying</l>
+        <l corresp="15">on [his] seat on a great day when there is no limit to those who come,</l>
+        <l corresp="14">with a drum of buzzing sound that is beaten in the land of Tamil,</l>
+        <l corresp="13d">with an excellent sword. (13d)</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN227-kilavi" type="apparatus"><listApp>
+<app loc="0,42">
+        <lem wit="#NL #C1 #C5 #C7c #C9 #RK">talaimakaṉ piriviṉkaṇ vēṟupaṭṭa talaimakaṭkut</lem>
+        <rdg wit="#C2 #C3">talaimakaḷatu vēṟupā<space unit="character" quantity="10"/></rdg>
+<rdg wit="#C7">talaimakaṭkut toḻikkut talaimakaḷ</rdg>
+        </app>
+<app loc="42,46">
+        <lem wit="#NL #C1 #C5 #C7c #RK">tōḻi</lem>
+        <rdg wit="#C2 #C3">tōḻikkuc</rdg>
+<rdg wit="#C9">tōḻitalaimakaḷ</rdg>
+        </app>
+<app loc="46,59">
+        <lem wit="#NL #C1 #C9">colliyatūumām</lem>
+        <rdg wit="#C2 #C3">colliyatu</rdg>
+<rdg wit="#C5">colliyatu talaimakaḷ colliyatūumām</rdg>
+<rdg wit="#C7c">colliyatu toḻikkut talaimakaḷ colliyatūumām</rdg>
+<rdg wit="#RK">colliyatu piriviṉkaṇ vēṟupaṭṭa tōḻikkut talaimakaḷ colliyatūumām</rdg>
+        </app>
+</listApp></standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

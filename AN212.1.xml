@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>212.1</num>. <persName xml:lang="ta">paraṇar</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN212.1-kilavi">
+          <p type="edition">allakuṟippaṭṭu nīṅkun talaimakaṉ ṟaṉṉeñciṉai nōkkic colliyatu.</p>
+          <p type="translation" xml:lang="en">What HE who was leaving after having been led astray by a wrong sign, said when looking at his heart.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN212.1">
+        <l>tāvi ṉa[ṉ]poṉ ṟai[iya pā]vai</l>
+        <l>viṇṭava ḻiḷaveyiṟ koṇṭuniṉ ṟaṉṉa</l>
+        <l>mikukavi ṉeytiya tokukura laimpāṟ</l>
+        <l>kiḷaiyari ṉāṇaṟ kiḻaṅkumaṇaṟ kīṉṟa</l>
+        <l>muḷaiyō raṉṉa muḷḷeyiṟṟut tuvarvāy</l>
+        <l>nayavaṉ ṟaivaruñ cevvaḻi nalyā</l>
+        <l>ḻicaiyōrt taṉṉa viṉṟīṅ kiḷavi</l>
+        <l>yaṇaṅkucā larivaiyai nacaiip peruṅkaḷiṟ</l>
+        <l>ṟiṉampaṭi nīriṟ kalaṅkiya poḻutiṟ</l>
+        <l>peṟalaruṅ kuraiya ḷeṉṉāy vaikalu</l>
+        <l>miṉṉā varuñcura nīnti nīyē</l>
+        <l>yeṉṉai yiṉṉaṟ paṭuttaṉai miṉṉuvacip</l>
+        <l>puravukkāl kaṭuppa maṟali maintuṟṟu</l>
+        <l>viravumoḻit takaṭūr vēṇṭuvaḻik koḷīip</l>
+        <l>paṭainilā vilaṅkuṅ kaṭaṉmaru ṭāṉai</l>
+        <l>maṭṭaviḻ teriyaṉ maṟap[pōr]k kuṭṭuvaṉ</l>
+        <l>porumuraṇ peṟāatu vilaṅkuciṉañ ciṟantu</l>
+        <l>cerucceytu muṉpoṭu muṉṉīr muṟṟi</l>
+        <l>yōṅkutiraip pauva nīṅka vōṭṭiya</l>
+        <l>nīrmā ṇeḵka niṟattucceṉ ṟaḻuntak</l>
+        <l>kūrmata ṉaḻiyarō neñcē yāṉā</l>
+        <l>teḷiya ḷallōṭ karuti</l>
+        <l>viḷiyā vevvan talaittan tōyē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l>Like a doll daubed in faultless good gold</l>
+        <l corresp="1f">standing [there], taking in the sky-covering young sunlight,</l>
+        <l corresp="3">[her] five shocks of gathered curls that reached ample beauty,</l>
+        <l corresp="5">[her] coral mouth with thorn teeth just like the sprouts</l>
+        <l corresp="4">that are yielded to the sand by the Kans bulbs in branching thickets,</l>
+        <l corresp="7">[her] pleasing sweet words like listening to the music</l>
+        <l corresp="6">of a good lute [playing] Cevvaḻi, that grates on one who longs, –</l>
+        <l>yearning for the girl worthy of [being called] an Aṇaṅku, at a time</l>
+        <l corresp="8f">when herds of big elephant bulls settle in  [and] stir up the water,</l>
+        <l corresp="10">you did not say she was hard to get, as you day by day</l>
+        <l corresp="11">crossed the unpleasant difficult desert, you,</l>
+        <l corresp="12a-c">you made me suffer unpleasantness;</l>
+        <l corresp="21a-c">may [your] ample strength/arrogance perish, heart,</l>
+        <l corresp="20ab">when the blade, glorious in kind,</l>
+        <l corresp="16">of Kuṭṭuvaṉ, of valorous battle, with a garland on which honeyed [buds] are opening,</l>
+        <l corresp="15">with an army like the sea on which the moonlight of [their] weapons shines,</l>
+        <l corresp="14">taking the road in desire of Takaṭūr with mixed languages,</l>
+        <l corresp="13df">fighting madly like a strong wind, splitting with lightning,</l>
+        <l corresp="20cd" rend="indent5">goes right  into [your] vital spot,</l>
+        <l corresp="19">[the blade] that drove away the ocean with high waves so that it left,</l>
+        <l corresp="18">finishing off the three-watered [sea] with strength, giving [it] a fight</l>
+        <l corresp="17">after not having gotten a fighting opponent, excelling in obstructive anger,</l>
+        <l corresp="23">you who gave [me] undying trouble,</l>
+        <l corresp="22">unendingly pondering her who was not easy [to get].</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN212.1-kilavi" type="apparatus"><listApp>
+<app loc="14,20">
+        <lem wit="#NL #C1 #C5 #C9 #RK">nīṅkun</lem>
+        <rdg wit="#C2 #C3 #C7">mīṇṭa</rdg>
+        </app>
+<app loc="41,47">
+        <lem wit="#NL #C1 #C5 #C9 #RKv">nōkkic</lem>
+        <rdg wit="#C2 #C3 #C7 #RK">neruṅkic</rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

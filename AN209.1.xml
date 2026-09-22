@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>209.1</num>. <persName xml:lang="ta">kallāṭaṉār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN209.1-kilavi">
+          <p type="edition">piriviṭai vēṟupaṭṭa talaimakaḷai vaṟpuṟukkun toḻi colliyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante said when comforting HER who had undergone changes in the time of separation. [RK, VP, ER: How the confidante consoled HER.]</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN209.1">
+        <l>tō[ḷu]n tolkaviṉ ṟolaintaṉa nāḷu</l>
+        <l>maṉṉaiyu maruntuya ruṟṟaṉa ḷalarē </l>
+        <l>poṉṉaṇi neṭuntērt teṉṉar kōmā</l>
+        <l>ṉeḻuvuṟaḻ [ti]ṇitō ḷiyaṟērc ceḻiya</l>
+        <l>ṉērā veḻuva raṭippaṭak kaṭanta</l>
+        <l>vālaṅ kāṉat tārppiṉum periteṉa</l>
+        <l>vāḻal vāḻi tōḻi yavarē</l>
+        <l>māal yāṉai maṟappōrp pullik</l>
+        <l>kāmpuṭai neṭuvarai vēṅkaṭat tumpa </l>
+        <l>raṟaiyiṟan takaṉṟaṉa rāyiṉu niṟaiyiṟan</l>
+        <l>tuḷḷā rāka laritē cevvēṉ</l>
+        <l>muḷḷūr maṉṉaṉ kaḻaṟoṭik kāri</l>
+        <l>cellā nallicai niṟutta valvi</l>
+        <l>lōrik koṉṟu cēralark kītta</l>
+        <l>cevvērp palaviṉ payaṅkeḻu kolli</l>
+        <l>nilaipeṟu kaṭavu [ḷā]kkiya</l>
+        <l>palarpukaḻ pāvai yaṉṉaniṉ ṉalaṉē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="6d">Thinking</l>
+        <l corresp="1">“[My] shoulders have lost their old beauty, and daily</l>
+        <l corresp="2">mother experiences daunting misery. The gossip,</l>
+        <l corresp="6a-c">it is louder than the uproar in Ālaṅkāṉam</l>
+        <l corresp="3">when the king of the Southerners with a gold-adorned large chariot,</l>
+        <l corresp="4">Ceḻiyaṉ with firm shoulders like cross-bars [and] an advancing chariot,</l>
+        <l corresp="5">overcame those rising [against him]  in discord, so that they became [his] servants,”</l>
+        <l corresp="7">don’t be downcast, oh friend. He,</l>
+        <l corresp="10a-c">even though he departed, traversing the rocks</l>
+        <l corresp="9">beyond Vēṅkaṭam, the tall mountain [grown] with bamboo</l>
+        <l corresp="8 10d">of Pulli of valorous battle with large elephants, going beyond self-control</l>
+        <l corresp="11a-c">it will be difficult [for him] to be one who forgets</l>
+        <l corresp="17">your beauty, [which is] like the idol praised by many</l>
+        <l corresp="16">that is created by the gods to obtain a position</l>
+        <l corresp="15">on fertile Kolli, [its] jackfruit trees with red roots,</l>
+        <l corresp="14">that was given to the Cēra king after killing Ōri,</l>
+        <l corresp="13">with a strong bow who has established imperishable fame,</l>
+        <l corresp="11d-12">by Kāri with anklets [and] armlets, king of Muḷḷūr with a red/straight spear.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN209.1-kilavi" type="apparatus"><listApp>
+<app loc="18,30">
+        <lem wit="#NL #C1 #C2 #C5 #C7 #RK">talaimakaḷai</lem>
+        <rdg wit="#C3 #C9">talaimakaḷ</rdg>
+        </app>
+<app loc="45,54">
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9">colliyatu</lem>
+        <rdg wit="#RK #VP #ER">colliyatu. talaimakaḷait toḻi vaṟpuṟīiyatu</rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

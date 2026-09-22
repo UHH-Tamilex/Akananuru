@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>222.1</num>. <persName xml:lang="ta">paraṇar</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN222.1-kilavi">
+          <p type="edition">tōḻikkut talaimakaṉ ciṟaippuṟamākat talaimakaḷ colliyatu.</p>
+          <p type="translation" xml:lang="en">What SHE said to the confidante while HE was behind the hedge.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN222.1">
+        <l>vāṉuṟa nivanta nīrniṟap perumalaik</l>
+        <l>kāṉa nāṭa ṉu[ṟī]iya nōykkeṉ</l>
+        <l>mēṉi yāynalan tolaitaliṉ moḻivēṉ</l>
+        <l>muḻavumukam pularāk kaliko ḷāṅkaṭ</l>
+        <l>kiḻā[a]rp peruntuṟai viḻavi ṉōṭu</l>
+        <l>mīṭṭeḻiṟ polinta vēntukuvavu moympi</l>
+        <l>ṉāṭṭa ṉatti nalaṉayan turaiit</l>
+        <l>tāḻiruṅ katuppiṟ kāviri vavvaliṉ</l>
+        <l>mātiran tuḻaii matimaruṇ ṭalanta</l>
+        <l>vāti manti kātaliṟ kāṭṭip</l>
+        <l>paṭukaṭal pukka pāṭucāl ciṟappiṉ</l>
+        <l>manti yaṉṉa māṇpukaḻ peṟīiyar</l>
+        <l>ceṉmō vāḻi tōḻi paṉṉā</l>
+        <l>ḷuravuru mēṟoṭu mayaṅki</l>
+        <l>yiravuppeyal poḻinta vīrnta ṇāṟē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="3a-c">Since the delicate goodness of my body is lost,</l>
+        <l corresp="2">because of the pain caused by the man from a forest land</l>
+        <l corresp="1">with large mountains the colour of [dark] water that came up to reach the sky,</l>
+        <l rend="indent8" corresp="3d">	I will speak:</l>
+        <l corresp="12">in order to obtain glorious fame like the she-monkey</l>
+        <l corresp="11">of a superiority worthy to be sung, who entered the rising sea,</l>
+        <l corresp="10">showing love for Ātimanti,</l>
+        <l corresp="9">who suffered, confused in [her] mind, turning in [all] directions,</l>
+        <l corresp="8">as the Kāviri snatched at [her] hanging dark hair,</l>
+        <l corresp="7">talking longingly of the goodness of Āṭṭaṉatti</l>
+        <l corresp="6">with eminent plump shoulders that flourished with gathered graces</l>
+        <l corresp="5">who ran in the festival by the big ghat with a water lift,</l>
+        <l corresp="4">in that bustling place where the face of the drum does not dry,</l>
+        <l corresp="13">go, oh friend, many days,</l>
+        <l corresp="15">on the wet [and] cool path overflowed with rain by night,</l>
+        <l corresp="14">confused with heavy thunderclaps.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN222.1-kilavi" type="apparatus"><listApp>
+<app loc="0,52">
+        <lem wit="#NL #C1 #C5 #C9">tōḻikkut talaimakaṉ ciṟaippuṟamākat talaimakaḷ colliyatu</lem>
+        <rdg wit="#C7 #RK">talaimakaṉ ciṟaippuṟattāṉākat tōḻi talaimakaṭkuc colliyatu</rdg>
+<rdg wit="#C2 #C3">1. talaimakaṉ ciṟaippuṟattāṉākat tōḻi talaimakaṭkuc colliyatu. 2. tōḻikkut talai<space unit="character" extent="10"/></rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

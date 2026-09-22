@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>213.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C5 #C7 #C9">taiyaṅkaṇṇaṉār</lem><app><rdg wit="#C7c #RKv">itaiyaṅkaṇṇaṉār</rdg><rdg wit="#C2 #C3 #C9v">takaiyaṅkaṇṇaṉār</rdg><rdg wit="#C5c #RK">tāyaṅkaṇṇaṉār</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN213.1-kilavi">
+          <p type="edition">piriviṭai vēṟupaṭṭa talaimakaḷait tōḻi vaṟpuṟuttiyatu.</p>
+          <p type="translation" xml:lang="en">How the confidante comforted HER who had undergone changes in the time of separation.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN213.1">
+        <l>viḷainal yāṉai viṟaṟpōrt toṇṭaiya</l>
+        <l>riḷamaḻai tavaḻu mēṟṟaru neṭuṅkōṭ</l>
+        <l>ṭōṅkuveḷ ḷaruvi vēṅkaṭat tumpark</l>
+        <l>koykuḻai yatiral vaikupular vāṅkiya</l>
+        <l>curiyirum pittai curumpupaṭac cūṭi</l>
+        <l>yikaṉmuṉait taḻīiya vēṟuṭaip perunirai</l>
+        <l>naṉaimutir naṟavi ṉāṭpali koṭukkum</l>
+        <l>vāṉiṇap pukaviṉ vaṭukar tēettu</l>
+        <l>niḻalkavi ṉiḻanta nī[ri] ṉīḷiṭai</l>
+        <l>yaḻalavi [ra]ruñcura neṭiya veṉṉā</l>
+        <l>kālā yantaṇa rāyiṉum pakalcelap </l>
+        <l>palkatir vāṅkiya paṭucuṭa ramaiyattup</l>
+        <l>perumaraṅ koṉṟa cālpuku viyaṉpuṉat</l>
+        <l>terimaruḷ katira [tiru]maṇi yimaikkum</l>
+        <l>velpōr vāṉavaṉ kollik kuṭavarai</l>
+        <l>vēyoḻuk kaṉṉa cāyiṟaip paṇaittōṭ</l>
+        <l>peruṅkaviṉ citaiya nīṅki yāṉṟō </l>
+        <l>rarumpeṟa lulaka mamiḻtoṭu peṟiṉuñ</l>
+        <l>ceṉṟutā nīṭalō vilarē yeṉṟuṅ</l>
+        <l>kalampeyak kaviḻnta kaḻaṟoṭit taṭakkai</l>
+        <l>valampaṭu veṉṟi vāyvāṭ cōḻa</l>
+        <l>rilaṅkunīrk kāviri yiḻipuṉal varitta</l>
+        <l>vaṟaleṉa neṟitta kūnta </l>
+        <l>luṟaliṉ cāyalō ṭoṉṟutaṉ maṟantē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="11c">Even though, (11c)</l>
+        <l corresp="3">beyond Vēṅkaṭam with white waterfalls high</l>
+        <l corresp="2">on tall peaks difficult to climb that are covered with young clouds</l>
+        <l corresp="1">[belonging to] the Toṇṭaiyar of victorious battle with mature good elephants,</l>
+        <l corresp="8">in the land of the Vaṭukar with food of pure fat,</l>
+        <l>where they wear what they pull from the wild jasmine with plucked sprouts when it dawns</l>
+        <l corresp="4f">on [their] curly dark hair tufts so that bees descend [on them</l>
+        <l corresp="7">and] give daily offerings of toddy matured with buds</l>
+        <l corresp="6">for the large herds with bulls that were apprehended on the enemy frontier,</l>
+        <l>there being a time when he did not say that in the difficult desert shining with fires</l>
+        <l corresp="9-11a">the waterless roads were long that lost the beauty of shade,</l>
+        <l rend="indent3" corresp="11b 18d">he is a brahmin, even if,</l>
+        <l corresp="17a-c">having left [you] so that [your] great beauty is spoiled</l>
+        <l corresp="16">in [your] bamboo shoulders with joints flexible like the movements of bamboo</l>
+        <l corresp="15">on the western mountain of Kolli, [belonging to] him of the sky (~the Cēra), of victorious battle,</l>
+        <l corresp="14">where brilliant gems twinkle with flame-like rays</l>
+        <l corresp="13">in the vast fields that yield plenty where the big trees were felled</l>
+        <l corresp="11d-12">at the moment of sunset when [the sun] retracts [its] many rays, as the day goes,</l>
+        <l corresp="17d-18">he were to obtain the difficult-to-obtain world of the noble ones along with ambrosia,</l>
+        <l corresp="19">as for his going [on and] delaying, not he – for ever</l>
+        <l corresp="24">forgetting [how] to be one with [your] grace, pleasing to experience.</l>
+        <l corresp="23">[your] tresses that are curved like the black sand</l>
+        <l corresp="22">that is lined by the descending flood of the Kāviri with shining water,</l>
+        <l corresp="21">[belonging to] the Cōḻa whose sword has a victorious blade,</l>
+        <l corresp="20">[his] broad hands with loosening  armlets that turn over when he showers [gift] ornaments.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN213.1-kilavi" type="apparatus"><listApp>
+<app loc="35,49">
+        <lem wit="#NL #C1 #C5 #C7 #C9">vaṟpuṟuttiyatu</lem>
+        <rdg wit="#C2 #C3 #C9v #RK">vaṟpuṟīiyatu</rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

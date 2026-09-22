@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>225.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9">eyiṉantaimakaṉ</lem><app><rdg wit="#RK">eyiṉantaimakaṉār</rdg></app> <lem wit=" #NL #C1 #C5 #C7 #C9 #RK">iḷaṅkīraṉār</lem><app><rdg wit="#C2 #C3">iḷaṅkīraṉ</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN225.1-kilavi">
+          <p type="edition">poruḷ kaṭaikkūṭṭiya neñciṟkut talaimakaṉ colliyatu.</p>
+          <p type="translation" xml:lang="en">What HE said to [his] heart that coveted wealth.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN225.1">
+        <l>aṉpu maṭaṉuñ cāyalu miyalpu</l>
+        <l>meṉpu nekiḻkkuṅ ki[ḷa]viyum piṟavu</l>
+        <l>moṉṟupaṭu koḷkaiyō ṭōrāṅku muyaṅki</l>
+        <l>yiṉṟē yivaṇa māki nāḷaip </l>
+        <l>pu[ta]liva rāṭamait tumpi kuyiṉṟa</l>
+        <l>vakalā vantuḷai kōṭai mukattali</l>
+        <l>ṉīrkkiyaṅ kiṉaniraip piṉṟai vārkō</l>
+        <l>lāykkuḻaṟ pāṇiyi ṉaituvan ticaikkun</l>
+        <l>tēkkamal [cō]laik kaṭaṟōṅ karuñcurat</l>
+        <l>tiyātta tūṇit talaitiṟan tavaipōṟ</l>
+        <l>pūtta viruppaik kuḻaipoti kuviyiṇar</l>
+        <l>kaḻaṟuḷai muttiṟ cennilat tutira</l>
+        <l>maḻaituḷi maṟanta vaṅkuṭic cīṟūrc</l>
+        <l>cēkkuvaṅ kollō neñcē pūppuṉai</l>
+        <l>puyaleṉa volivarun tāḻiruṅ kūntaṟ</l>
+        <l>ceṟitoṭi muṉkainaṅ kātali</l>
+        <l>yaṟi[va]ñar nōkkamum pulaviyu niṉaintē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l>While, embracing [her] like one with the notion that</l>
+        <l>love, innocence, grace, nature,</l>
+        <l corresp="1-3">speech that makes bones melt and other things are one,</l>
+        <l corresp="4">we are here today, tomorrow,</l>
+        <l corresp="9">in the high difficult desert of the wildernesses with groves dense with teak trees,</l>
+        <l>where the dancing bamboo that climbs the bushes, because the west wind</l>
+        <l corresp="5f">pulls on the narrow pretty holes bored by bees,</l>
+        <l corresp="8">comes wonderfully [and] sounds like the tunes from herders’ flutes,</l>
+        <l corresp="7">with [their] longs staffs [going] behind the herds that move towards the water,</l>
+        <l corresp="14a-c">shall we dwell, o heart,</l>
+        <l corresp="13">in a little village with pretty homes that is forgotten by the rain drops,</l>
+        <l corresp="11">while the piling clusters loaded with sprouts of the blooming Mahua trees,</l>
+        <l corresp="10">similar to [arrows] whose ends are open  in the tied quiver,</l>
+        <l corresp="12">drop [their fruit] on the red ground like pearls from the eroding holes,</l>
+        <l corresp="17">thinking of the vexation and looks of knowing grief</l>
+        <l corresp="16">from our beloved, tight bangles on [her] forearm,</l>
+        <l corresp="14d-15">hanging dark tresses that start  being luxuriant like rain, adorned with flowers.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN225.1-kilavi" type="apparatus"><listApp>
+<app loc="27,37">
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C9 #RK">talaimakaṉ</lem>
+        <rdg wit="#C7">om.</rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

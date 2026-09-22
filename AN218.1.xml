@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>218.1</num>. <persName xml:lang="ta">kapilar</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN218.1-kilavi">
+          <p type="edition">tōḻi talaimakaḷai iṭattuyttup pakaṟkuṟi nērnta vāypāṭṭāṉ varaivu kaṭāyatu.</p>
+          <p type="translation" xml:lang="en">How the confidante urged for marriage indirectly when granting a day tryst after having sent HER to the [designated] place.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN218.1">
+        <l>kiḷaipā rāṭṭuṅ kaṭunaṭai vayakkaḷiṟu</l>
+        <l>muḷaitaru pūṭṭi vēṇṭukuḷa karutta</l>
+        <l>vāṇiṟa vuruvi ṉoḷiṟupu miṉṉip</l>
+        <l>paruvuṟaip paḵṟuḷi citaṟi vāṉaviṉṟu</l>
+        <l>peruvarai naḷircimai yatira vaṭṭittup</l>
+        <l>puyalē ṟuraiiya viyaliru ṇaṭunāḷ</l>
+        <l>viṟaliḻaip polinta kāṇpiṉ cāyaṟ</l>
+        <l>ṟaṭaiit tiraṇṭaniṉ ṟōḷcērp pallataip</l>
+        <l>paṭāa vākumeṅ kaṇṇeṉa nīyu</l>
+        <l>miruṇmayaṅ kiyāmat tiyavukkeṭa vilaṅki</l>
+        <l>varivayaṅ kirumpuli vaḻaṅkunīrp pārkkum</l>
+        <l>perumalai viṭarakam varavari teṉṉāy</l>
+        <l>varaveḷi tāka veṇṇuti yataṉā</l>
+        <l>[ṉu]ṇṇitiṟ kūṭṭiya paṭumā ṇāran</l>
+        <l>taṇṇitu kamaḻu niṉmār porunā</l>
+        <l>ḷaṭaiya muyaṅkē māyiṉ yāmum</l>
+        <l>viṟaliḻai nekiḻac cāytu matuvē</l>
+        <l>yaṉṉai yaṟiyiṉu maṟika valarvā</l>
+        <l>yampaṉ mūtūr kēṭpiṉuṅ kēṭka</l>
+        <l>vaṇṭiṟai koṇṭa verimaru ṭōṉṟa</l>
+        <l>loṇpū vēṅkai kamaḻun</l>
+        <l>taṇperuñ cāraṟ pakalvan tīmē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="1">“While the strong elephant bull with fast gait whom [its] kin praise,</l>
+        <l corresp="2">brings sprouts [and] feeds [them], makes [them] eat herbs they want,</l>
+        <l>the clouds, flashing brightly in the colour [and] shape of swords,</l>
+        <l corresp="3f">scattering big drops, many drops, rumbling,</l>
+        <l corresp="5">rolling so as to shake the cold summits of large mountains,</l>
+        <l corresp="6">when thunder strokes clap in the rain, at midnight in broad darkness,</l>
+        <l corresp="8">except for joining your plump round shoulders,</l>
+        <l corresp="7">graceful to see, that glitter with victorious jewels,</l>
+        <l corresp="9">nothing will happen to us”, saying so you,</l>
+        <l corresp="12">without saying that coming is difficult within the caves in the big mountain,</l>
+        <l corresp="10">where at midnight diffuse with darkness, lying across the path so it is lost,</l>
+        <l corresp="11">the huge tiger glowing with stripes peers out for you wanderers,</l>
+        <l corresp="13">consider coming to be easy, and therefore,</l>
+        <l corresp="15d-16c">if one day we do not closely embrace</l>
+        <l corresp="15a-c">your chest that coolly wafts</l>
+        <l corresp="14">pounded glorious sandal that is finely mixed,</l>
+        <l corresp="16d-17c">we too shall be emaciated, for [our] victorious jewels to become loose.</l>
+        <l>That, even if mother knows, let her know. Even if</l>
+        <l corresp="17d-19">the gossip-mouthed scandal[-happy] old village hears it, let them hear:</l>
+        <l corresp="22">Come by day to the cool big slope,</l>
+        <l corresp="21">where the kino tree is fragrant with flowers bright</l>
+        <l corresp="20">in appearance as flames, that bees take for [their] seats.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN218.1-kilavi" type="apparatus"><listApp>
+<app loc="16,27">
+        <lem wit="#NL #C1 #C5 #C9 #RK">iṭattuyttup</lem>
+        <rdg wit="#C2 #C3 #C7 #C9v">iṭattuyttup vantu</rdg>
+        </app>
+<app loc="42,51">
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">vāypāṭṭāṉ</lem>
+        <rdg wit="#C9v">vāypāṭṭāṉ talaimakaṉai</rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

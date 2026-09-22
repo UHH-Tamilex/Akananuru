@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>205.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C5 #C7 #C9 #RK">nakkīrar</lem><app><rdg wit="#C2 #C3">paraṇar</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN205.1-kilavi">
+          <p type="edition">talaimakaṉ piriviṉkaṇ vēṟupaṭṭa talaivi vaṟpuṟakkun tōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante said who was consoling HER who had undergone changes during the separation from HIM.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN205.1">
+        <l>uyirkalan toṉṟiya toṉṟupaṭu naṭpiṟ</l>
+        <l>ceyirtīr neñcamoṭu ceṟintōr pōlat</l>
+        <l>taiya ṉiṉvayiṟ piriyalam yāmeṉap </l>
+        <l>poyva luḷḷamoṭu purivuṇak kūṟit</l>
+        <l>tuṇi[vi]l koḷkaiya rāki yiṉiyē</l>
+        <l>nōymali varuttamoṭu [nuta]lpacap pūra</l>
+        <l>nāma[ḻa]t tuṟantaṉa rāyiṉun tāmē</l>
+        <l>vāymoḻi nilaiiya cēṇviḷaṅku nallicai</l>
+        <l>va[ḷa]ṅkeḻu kōcar viḷaṅkupa[ṭai] nūṟi</l>
+        <l>nilaṅkoḷa veḵkiya polampūṭ kiḷḷi</l>
+        <l>pūviri neṭuṅkaḻi nāppaṭ perumpeyark</l>
+        <l>kāvirip paṭappaip paṭṭiṉat taṉṉa</l>
+        <l>ceḻunakar nalvirun tayarmā rēmuṟa</l>
+        <l>[viḻu]niti yeḷitaṉi ṉeytuka tilla</l>
+        <l>maḻaikā lacci[ra]ttu māliru ṇīṅki</l>
+        <l>nīṭamai nivanta niḻalpaṭu cilampiṟ</l>
+        <l>kaṭāa yāṉaik kavuṇmaruṅ ku[ṟaḻa]</l>
+        <l>vāmūr piṟaḻiyuṅ kāmar ceṉṉip</l>
+        <l>puliyuri variyataḷ kaṭuppak kaliciṟantu </l>
+        <l>nāṭpū vēṅkai naṟumala rutira</l>
+        <l>mēkkeḻu peruñciṉai yēṟik kaṇakkalai</l>
+        <l>kūppiṭu vukaḷuṅ kuṉṟakac ciṟuneṟik</l>
+        <l>kaṟpiṟaṅ kāriṭai vilaṅkiya </l>
+        <l>coṟpeyar tēetta curaṉiṟan tōrē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="2">“Like those who are close, with flawless hearts,</l>
+        <l corresp="1">in an intimacy that happened of old in which [they] became one after [their] souls mingled,</l>
+        <l corresp="3">woman, we will not separate from you”,</l>
+        <l corresp="4">although, talking thus when consumed by desire, with a mind capable of lying,</l>
+        <l corresp="5">being one with principles without steadiness, now,</l>
+        <l corresp="6">so that pallor creeps up on [my] forehead together with suffering rife with pain</l>
+        <l corresp="7">he has abandoned [us] while we cry, he,</l>
+        <l corresp="13">so that [we] shall have the pleasure of preparing a good feast in a rich mansion,</l>
+        <l corresp="12">like Paṭṭiṉam with gardens by the Kāviri,</l>
+        <l corresp="11">of great name in the middle of long backwaters where flowers unfold,</l>
+        <l corresp="10">[belonging to] Kiḷḷi with golden ornaments who desired to take land,</l>
+        <l corresp="9">demolishing the shining army of the prosperous Kōcar,</l>
+        <l corresp="8">of a fame that shines in the distance for establishing [their] words of truth,</l>
+        <l corresp="14">let him easily obtain an excellent treasure,</l>
+        <l corresp="24">– he who traversed the desert of lands where the words are different,</l>
+        <l corresp="23">that are crossed by stone-glistening difficult ways,</l>
+        <l corresp="22cd">little paths within the hills, where,</l>
+        <l corresp="15">after the great darkness of the cool season, the time of rains, had left,</l>
+        <l corresp="16">on shady mountain sides where long bamboo has come up</l>
+        <l corresp="17">so as to resemble the sides of the cheeks of a rutting elephant,</l>
+        <l corresp="18">on tops desirable although dislodged when the water crept up,</l>
+        <l corresp="19">resembling the striped hide of tiger skins when, to a great clamour</l>
+        <l corresp="20">the fragrant blossoms of the kino tree with day[-fresh] flowers were shed [on them],</l>
+        <l corresp="21">male monkeys in hordes climb large branches that rise high,</l>
+        <l rend="indent6" corresp="22ab">call out [and] leap.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN205.1-kilavi" type="apparatus"><listApp>
+<app loc="0,10">
+        <lem wit="#C2 #C3 #C5 #C7 #C9 #RK">talaimakaṉ</lem>
+        <rdg wit="#NL #C1">talaimakaṉ <space quantity="3" unit="character"/><g>cu</g>/<g>a</g>?</rdg>
+        </app>
+<app loc="10,20">
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">piriviṉkaṇ</lem>
+        <rdg wit="#C2 #C3 #C9v">piriviṭai</rdg>
+        </app>
+<app loc="29,36">
+        <lem wit="#NL #C1 #C5 #C9 #RK">talaivi</lem>
+        <rdg wit="#C2 #C3 #C7">talaimakaḷ</rdg>
+        </app>
+<app loc="36,47">
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">vaṟpuṟakkun</lem>
+        <rdg wit="#C9c">vaṟpuṟuttum</rdg>
+        </app>
+</listApp>
+</standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

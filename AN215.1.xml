@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>215.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C5 #C9 #RK">iraṅkuṭik kuṉṟanāṭaṉ</lem><app><rdg wit="#C7">iraṅkuṭik kuṉṟanāṭaṉār</rdg><rdg wit="#C2 #C3">kuṉṟaṉākaṭaṉār</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN215.1-kilavi">
+          <p type="edition">celavuṇarttiya tōḻi talaimakaḷatu kuṟippaṟintu talaimakaṉaic celavaḻuṅkac colliyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante, who has informed [her] of [his] going, said after having understood HER intentions in order to prevent HIM from going.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN215.1">
+        <l>vilaṅkiruñ cimaiyak kuṉṟat timpar</l>
+        <l>vēṟupaṉ moḻiya tēeya muṉṉi</l>
+        <l>vaḷanacaip parikku muraṉmali neñcamoṭu</l>
+        <l>puṉaimā ṇeḵkam va[la]vayi ṉēntic</l>
+        <l>celaṉmā[ṇ] puṟṟa numvayiṉ vallē</l>
+        <l>valaṉā keṉṟalu naṉṟumaṟ ṟillat</l>
+        <l>tettup piḻaikkuva tāyiṟ ṟoṭutta</l>
+        <l>kaiviral kavvuṅ kallāk kāṭci</l>
+        <l>koṭumaram piṭitta kōṭā vaṉkaṇ</l>
+        <l>vaṭinavi lampi ṉēva lāṭava</l>
+        <l>rāḷaḻit tuyartta vañcuvaru patukkaik</l>
+        <l>kūrnutic cevvā yeruvaic cēval</l>
+        <l>paṭupiṇap paintalai toṭuvaṉa kuḻīi</l>
+        <l>mallaṉ mocivira loṟṟi maṇikoṇṭu</l>
+        <l>valvāyp pēṭaikkuc coriyu māṅkaṭ</l>
+        <l>kaḻintōrk kiraṅku neñcamō</l>
+        <l>ṭaḻintava [ṇu]ṟaita lāṟṟu vōrkkē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="6ab">Saying “may there be victory</l>
+        <l corresp="5">quickly, on the part of you who experience the glory of going,</l>
+        <l corresp="2">approaching lands with many different languages</l>
+        <l corresp="1">next to the hills with transverse large summits,</l>
+        <l corresp="4">holding up on [your] right a blade glorious for [its] make,</l>
+        <l corresp="3">with a heart abounding in strength that runs on the yearning for riches,”</l>
+        <l rend="indent4" corresp="6bc">is all very well,</l>
+        <l corresp="17">– for those capable of remaining there in desolation,</l>
+        <l corresp="16">with a heart that laments those who passed away</l>
+        <l corresp="12 15d">in that place where males of the Brahminy kite with sharp-tipped red beaks</l>
+        <l corresp="13">crowd together, digging into the fresh skulls of fallen corpses</l>
+        <l corresp="11">on the frightening stone heaps erected after men have been destroyed</l>
+        <l corresp="10">by men commanding well-trained arrows</l>
+        <l corresp="9">with a strength that does not waver when they grip [their] bows,</l>
+        <l corresp="8">with untaught sight that grabs the fingers of the hand that joined [the arrow](?),</l>
+        <l corresp="6d-7c">if the deception of the house fails,</l>
+        <l corresp="14">press with [their] forceful pressing claws, take the eye balls [out</l>
+        <l corresp="15a-c">and] strew them for [their] strong-beaked females.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN215.1-kilavi" type="apparatus"><listApp>
+<app loc="56,77">
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9">celavaḻuṅkac colliyatu</lem>
+        <rdg wit="#C9v">celavaḻuṅkuvitta colliyatu</rdg>
+<rdg wit="#RK">celavaḻuṅkuvittatu</rdg>
+        </app>
+</listApp></standOff>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>

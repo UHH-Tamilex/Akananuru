@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>208.1</num>. <persName xml:lang="ta">paraṇar</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN208.1-kilavi">
+          <p type="edition">puṇarntu nīṅkun talaimakaṉ ṟaṉṉeñciṟkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">What HE said to his heart when leaving after the union.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN208.1">
+        <l>yāma viravi ṉeṭuṅkaṭai niṉṟu</l>
+        <l>tēmutir cimaiya kuṉṟam pāṭu</l>
+        <l>nuṇkō lakavu[na]r vēṇṭiṉ veṇkōṭ</l>
+        <l>ṭaṇṇal yāṉai yīyum vaṇmakiḻ</l>
+        <l>veḷiyaṉ veṇmā ṉāa yeyiṉa</l>
+        <l>ṉaḷiyiyal vāḻkkaip pāḻip paṟantalai</l>
+        <l>yiḻaiyaṇi yāṉai yiyaṟēr miñiliyoṭu</l>
+        <l>naṇpaka luṟṟa ceruviṟ puṇkūrn</l>
+        <l>toḷvāṇ mayaṅkamar [vī]ḻnteṉap puḷḷoruṅ</l>
+        <l>kaṅkaṇ vicumpiṉ viḷaṅku ñāyiṟ</l>
+        <l>ṟoṇkatir te[ṟā]maṟ ciṟakariṟ kōli</l>
+        <l>niḻalcey tuḻaṟal kāṇeṉac ciṉai[i]p</l>
+        <l>paṭukaḷaṅ kāṇṭal cellāṉ ciṉañciṟan</l>
+        <l>turuviṉai na[ṉṉa] ṉaruḷaṉ cāyap</l>
+        <l>peruvitup puṟṟa palvēṇ makaḷir</l>
+        <l>kurū[u]ppūm paintā rarukkiya pūcal</l>
+        <l>varaiviṭak kaṭakkum vayaṅkuperun tāṉai</l>
+        <l>yakutai taḷa[rvu]tī[r]n tāṅku mikupeya</l>
+        <l>luppucciṟai nillā veḷḷam pōla</l>
+        <l>nāṇuvarai nillāk kāma naṇṇi</l>
+        <l>nalkiṉaḷ vāḻiyar vantē yōri</l>
+        <l>palpaḻap palaviṉ payaṅkeḻu kollik</l>
+        <l>kārmalar kaṭuppa nāṟu</l>
+        <l>mērnuṇ ṇōti māa yōḷē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="19">Like a flood that does not stop before a salt ridge</l>
+        <l corresp="18">in the ample rain, as if the slackening of Akutai had ended,</l>
+        <l corresp="17">with a shining big army that excels, beyond the limit,</l>
+        <l corresp="16">in a clamour, which makes brilliant flowers [meant] for fresh garlands scarce,</l>
+        <l corresp="15">of many ladies of the Vēḷ [clan] who felt great haste,</l>
+        <l corresp="14">when merciless Naṉṉaṉ of fearful work died,</l>
+        <l corresp="13">exceeding in [his] anger, he who could  not see the battle field,</l>
+        <l corresp="12">as a disturbance arose – look – throwing a shadow,</l>
+        <l>as birds’ wings together interlaced without being scorched</l>
+        <l corresp="9d-11">by the bright beams of the sun shining in the fine-spaced(?) sky,</l>
+        <l corresp="9a-c">as they descended on the confuse battle of bright swords,</l>
+        <l corresp="8">wounds abounding in the fight that took place at high noon,</l>
+        <l corresp="7">with Miñili on a chariot moving forward with a jewel-adorned elephant,</l>
+        <l corresp="6">by the desert village of Pāḻi, with a living of caring nature,</l>
+        <l corresp="5">Āay, the hunter, with white horses, Veḷiyaṉ,</l>
+        <l corresp="4">with liberal toddy, who gives superior elephants</l>
+        <l corresp="3">with white tusks, when singers with fine staffs want [them],</l>
+        <l corresp="2">who sing of the hill with honey-ripening peaks,</l>
+        <l corresp="1">standing [there] at the long edge of midnight</l>
+        <l>coming, she drew near [and] granted – may she live –</l>
+        <l corresp="20-21c">passion that does not stop before the boundary of shame,</l>
+        <l corresp="24">the dark one with pretty fine hair,</l>
+        <l corresp="23">fragrant so as to resemble blossoms in monsoon time</l>
+        <l corresp="22">from Kolli [hill] rich in the yield of jackfruit trees with many fruits.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+ <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
+<standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff>
+
+
+<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
+</standOff>
+</TEI>
