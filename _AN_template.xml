@@ -44,20 +44,20 @@
     </body>
   </text>
 
-<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus"> <!-- copy kiḷavi apparatus standoff here -->
-</standOff>
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
 
- <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
-<standOff type="notes2" corresp="#ANNUMBER.1">
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
     <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
-</standOff>
+</standOff> -->
 
 
-<standOff type="wordsplit" corresp="#ANNUMBER.1"> <!-- copy wordsplit standoff here -->
-</standOff>
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
 
-<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus"> <!-- copy apparatus standoff here -->
-</standOff>
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
 </TEI>
 
 If there are alternative translations:
