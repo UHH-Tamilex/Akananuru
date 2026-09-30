@@ -64,7 +64,7 @@ If there are alternative translations:
 <choice><seg></seg><seg></seg></choice> <!-- for short choices -->
 <lg type="alternate" sameAs="LINENUMBER">
   <l>TEXT</l>
-</lg> <!-- for long choices, use this format, with the same line number(s) as the original line(s) inside of the smae div -->
+</lg> <!-- for long choices, use this format, with the same line number(s) as the original line(s) inside of the same div -->
 
 
 If there are alternative readings in one manuscript:
@@ -102,3 +102,11 @@ notes for the apparatus:
 <anchor n="NOTENUMBER"/> <!-- number each poem individually starting with 1 -->
 2. add note in the note2 standoff with the same number as the anchor, and add the note text there, including which witnesses have which readings
 3. for placement of note2 standoff see above, and for the format of the note2 standoff see above
+
+For the quality of the readings three markeres are used:
+# = ?
+$ = sandhi variant
+FF = incorrect, faulty?
+These are not directly added to the apparatus, but marked as xml-notes  <!-- # -->, <!-- $ -->, <!-- FF --> in the lemma line in the apparatus or in the note2 standoff after the note itself.
+Copy and paste and add marker in the middle:
+ <!--  -->
