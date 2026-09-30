@@ -94,9 +94,9 @@
  <!-- notes2 standoff --><!-- do not write two witness into one abbr tag --> 
 <standOff type="notes2" corresp="#AN203.1">
     <note n="1">Kiḷavi and author missing in <abbr corresp="#C1"/></note>
-    <note  n="2"><abbr corresp="#C2"/> 4d-6b: paṉṉā | ḷena<gap reason="lost" unit="charcter" quantity="1"/>maṉakkuvantu......raippaṟiyē ṉāḷivaḷāvaḷeṉan</note>
+    <note  n="2">4d-6b <abbr corresp="#C2"/>: paṉṉā | ḷena<gap reason="lost" unit="charcter" quantity="1"/>maṉakkuvantu......raippaṟiyē ṉāḷivaḷāvaḷeṉan</note>
     <note n="3"><abbr corresp="#C2"/> and <abbr corresp="#C3"/> (= p. 184 and 88) only lines 1-6b!</note>
-    <note n="4"><abbr corresp="#C1"/> 15-16b: <gap reason="lost" unit="charcter" quantity="6"/>la<gap reason="lost" unit="charcter" quantity="3"/> koḷa cīṟūr | <gap reason="lost" unit="charcter" quantity="1"/>āṟṟit tucci lirunta</note> <!-- FF -->
+    <note n="4">15-16b <abbr corresp="#C1"/>: <gap reason="lost" unit="charcter" quantity="6"/>la<gap reason="lost" unit="charcter" quantity="3"/> koḷa cīṟūr | <gap reason="lost" unit="charcter" quantity="1"/>āṟṟit tucci lirunta</note> <!-- FF -->
 </standOff>
 
 
@@ -809,6 +809,10 @@
      <abbr>ERv</abbr>
      <expan><term xml:lang="ta">Rājam</term> edition (1957) reported when deviating, variant reading</expan>
    </witness>
+   <witness xml:id="TCi" source="">
+   <abbr>TCi</abbr>
+   <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Collatikāram</term>, <term>Namacīvāya Mutaliyar edition</term> reported when deviating</expan>
+  </witness>
    <witness xml:id="ERc">
      <abbr>ERc</abbr>
      <expan><term xml:lang="ta">Rājam</term> edition (1957) reported when deviating, correction</expan>
