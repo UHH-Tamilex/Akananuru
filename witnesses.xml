@@ -19,6 +19,10 @@
   <witness xml:id="C1" source="mss/C1.xml">
     <abbr>C<hi rend="subscript">1</hi></abbr>
     <expan>palm-leaf manuscript from the UVSL [1075] covering 3(kiḷ.)-400.22b, except 46.12c-50 between pp. 165 and 166; 123.14-128.7a between pp. 197 and 198, 336.19d-343.15c</expan>
+    <witness xml:id="C1v">
+      <abbr>C<hi rend="subscript">1</hi>v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [1075] covering 3(kiḷ.)-400.22b, except 46.12c-50 between pp. 165 and 166; 123.14-128.7a between pp. 197 and 198, 336.19d-343.15c, variant reading</expan>
+    </witness>
   </witness>
 
   <witness xml:id="NL" source="mss/NL.xml">
@@ -41,6 +45,10 @@
     <witness xml:id="C2v">
       <abbr>C<hi rend="subscript">2</hi>v</abbr>
       <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63], variant reading</expan>
+    </witness>
+    <witness xml:id="C2c">
+      <abbr>C<hi rend="subscript">2</hi>c</abbr>
+      <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63], correction</expan>
     </witness>
   </witness>
 
@@ -200,7 +208,7 @@
 
   <witness xml:id="NaccTC" source="">
    <abbr>Nacc<hi rend="subscript">TC</hi></abbr>
-   <expan><term xml:lang="ta">Nacciṉārkkiṉiyar</term> commenting on <term xml:lang="ta">Tolkāppiyam Colatikāram</term>, <term xml:lang="ta">Tāmōtarampiḷḷai</term> edition</expan>
+   <expan><term xml:lang="ta">Nacciṉārkkiṉiyar</term> commenting on <term xml:lang="ta">Tolkāppiyam Collatikāram</term>, <term xml:lang="ta">Tāmōtarampiḷḷai</term> edition</expan>
   </witness>
 
   <witness xml:id="NaccK" source="">
@@ -218,7 +226,12 @@
  
  <witness xml:id="IV" source="">
    <abbr>IV</abbr>
-   <expan><term xml:lang="ta">Ilakkaṇa Viḷakkam</term></expan>
+   <expan><term xml:lang="ta">Ilakkaṇa Viḷakkam</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term></expan>
+ </witness>
+
+ <witness xml:id="IVC" source="">
+   <abbr>IVC</abbr>
+   <expan><term xml:lang="ta">Ilakkaṇa Viḷakkam</term> on <term xml:lang="ta">Tolkāppiyam Collatikāram</term></expan>
  </witness>
 
  <witness xml:id="AV" source="">
@@ -266,6 +279,21 @@
       <abbr>Il<hi rend="subscript">K</hi>v</abbr>
       <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Poruḷatikāram</term>, <term xml:lang="ta">Kaḻakam edition</term>, reported when deviating, variant reading</expan>
     </witness>
+  </witness>
+
+  <witness xml:id="TCi" source="">
+   <abbr>TCi</abbr>
+   <expan><term xml:lang="ta">Iḷampuraṉār</term> on <term xml:lang="ta">Tolkāppiyam Collatikāram</term>, <term>Namacīvāya Mutaliyar edition</term> reported when deviating</expan>
+  </witness>
+
+  <witness xml:id="TCk" source="">
+   <abbr>TCk</abbr>
+   <expan><term xml:lang="ta">Kallāṭaṉar</term> on <term xml:lang="ta">Tolkāppiyam Collatikāram</term>, reported when deviating</expan>
+  </witness>
+
+  <witness xml:id="TCt" source="">
+   <abbr>TCt</abbr>
+   <expan><term xml:lang="ta">Teyvacillaiyār</term> on <term xml:lang="ta">Tolkāppiyam Collatikāram</term>, reported when deviating</expan>
   </witness>
 
   <witness xml:id="NNk" source="">
