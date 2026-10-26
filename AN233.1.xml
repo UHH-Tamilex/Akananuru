@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>233.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C2 #C3 #C5 #C7 #G1 #G2 #RK">māmūlaṉār</lem><app><rdg wit="#C9">om.</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN233.1-kilavi">
+          <p type="edition">piriviṉkaṇ vēṟupaṭṭa talaimakaṭkut tōḻi colliyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante said to HER who had undergone changes during the separation.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN233.1">
+        <l>alamaraṉ maḻaikkaṇ malkupaṉi vāraniṉ</l>
+        <l>ṉalarmulai naṉaiya vaḻāaṟ ṟōḻi</l>
+        <l>yerikavar puṇṭa karipuṟap perunilam</l>
+        <l>pīṭupaṭu maruṅki ṉōṭumaḻai tuṟanteṉa</l>
+        <l>vūṉil yāṉai yuyaṅkum vēṉiṉ</l>
+        <l>maṟappaṭaik ku<supplied>ti</supplied>rai māṟā main<supplied>ti</supplied>ṟ</l>
+        <l>ṟuṟakka meytiya toyyā nallicai</l>
+        <l>mutiyarp pēṇiya vutiyañ cēral</l>
+        <l>peruñcōṟu koṭutta ñāṉṟai yirumpakal</l>
+        <l>kūḷi cuṟṟaṅ kūṟiyirun tāṅku</l>
+        <l>kuṟiyavu neṭiyavuṅ kuṉṟutalai maṇanta</l>
+        <l>curaṉiṟan takaṉṟaṉa rāyiṉu mikanaṉi</l>
+        <l>maṭaṅkā vuḷḷamoṭu matimayak kuṟāap</l>
+        <l>poruḷvayi ṉīṭalō vilarniṉ</l>
+        <l><supplied>ṉi</supplied>ruḷaiṅ kūnta liṉṟuyiṉ maṟantē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="1">While tears swell in [your] perturbed rain eyes</l>
+        <l corresp="2">so that your blooming breasts become wet, don’t cry, friend.</l>
+        <l corresp="5">In summer, when the foodless elephant languishes</l>
+        <l>because the running rains abandoned the places where the vast ground </l>
+        <l corresp="3f">with charred outside turned to waste, seized [and] consumed by flames,</l>
+        <l corresp="12a-c">even though he departed traversing the desert,</l>
+        <l corresp="11">where hills short and long join [their] heads</l>
+        <l corresp="10">like the retinue of demons that sat in talk</l>
+        <l corresp="9">on the great day when great rice was given</l>
+        <l corresp="8">by Utiyañcēral who honoured the ancients</l>
+        <l corresp="7">of imperishable fame who reached heaven</l>
+        <l corresp="6">in unbroken pride, on horseback with a valorous army,</l>
+        <l corresp="12d-13">with a heart very much untamed, [his] mind not in confusion,</l>
+        <l corresp="14">delaying for the sake of wealth? Not he,</l>
+        <l corresp="15">forgetting the sweet sleep on your dark tresses [done up in] five [shocks]?</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<standOff type="notes2" corresp="#AN233.1">
+    <note n="1">12 <abbr corresp="#C1"/>: <gap unit="character" reason="lost" quantity="17"/>larniṉ</note> <!-- FF -->
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#AN233.1">
+<interp type="alignment" select="0">70MG222MG2MR6MG30MG15ML33MG10MG5ML4MG36M2G2M,446MG</interp>
+<entry>
+<form>alamaral</form>
+<def>whirling</def>
+<form type="sandhi">alamaraṉ</form>
+</entry>
+<entry>
+<form>maḻai<c type="geminated">k</c></form>
+<def>rain</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+</entry>
+<entry>
+<form>malku</form>
+<def>increase-</def>
+</entry>
+<entry>
+<form>paṉi</form>
+<def>dew</def>
+</entry>
+<entry>
+<form>vāra</form>
+<def>overflow</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>your-</def>
+</entry>
+<entry>
+<form><c type="geminated">ṉ</c>alar</form>
+<def>blossom-</def>
+</entry>
+<entry>
+<form>mulai</form>
+<def>breast</def>
+</entry>
+<entry>
+<form>naṉaiya</form>
+<def>become-wet</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>aḻāal</form>
+<def>cry-not</def>
+<form type="sandhi"><c type="glide">v</c>aḻāaṟ</form>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<form type="sandhi">ṟōḻi</form>
+</entry>
+<entry>
+<form><c type="glide">y</c>eri</form>
+<def>flame</def>
+</entry>
+<entry>
+<form>kavarp<c type="elided">u</c></form>
+<def>seized</def>
+<form type="sandhi">kavarp</form>
+</entry>
+<entry>
+<form>uṇṭa</form>
+<def>eaten-</def>
+</entry>
+<entry>
+<form>kari</form>
+<def>be-charred-</def>
+</entry>
+<entry>
+<form>puṟa<c type="geminated">p</c></form>
+<def>back</def>
+</entry>
+<entry>
+<form>peru</form>
+<def>big</def>
+</entry>
+<entry>
+<form>nilam</form>
+<def>ground</def>
+</entry>
+<entry>
+<form>pīṭu</form>
+<def>waste</def>
+</entry>
+<entry>
+<form>paṭu</form>
+<def>happen-</def>
+</entry>
+<entry>
+<form>maruṅkiṉ</form>
+<def>side</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>ōṭu</form>
+<def>run-</def>
+</entry>
+<entry>
+<form>maḻai</form>
+<def>rain</def>
+</entry>
+<entry>
+<form>tuṟanteṉa</form>
+<def>abandoned-say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ūṉ</form>
+<def>flesh</def>
+</entry>
+<entry>
+<form>il</form>
+<def>not-</def>
+</entry>
+<entry>
+<form>yāṉai</form>
+<def>elephant</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>uyaṅkum</form>
+<def>becoming-weak-</def>
+</entry>
+<entry>
+<form>vēṉil</form>
+<def>summer</def>
+<form type="sandhi">vēṉiṉ</form>
+</entry>
+<entry>
+<form>maṟa<c type="geminated">p</c></form>
+<def>valour</def>
+</entry>
+<entry>
+<form>paṭai<c type="geminated">k</c></form>
+<def>army</def>
+</entry>
+<entry>
+<form>kutirai</form>
+<def>horse</def>
+</entry>
+<entry>
+<form>māṟā</form>
+<def>change-not-</def>
+</entry>
+<entry>
+<form>maintiṉ</form>
+<def>arrogance</def>
+<form type="sandhi">maintiṟ</form>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>tuṟakkam</form>
+<def>heaven</def>
+<form type="sandhi">ṟuṟakkam</form>
+</entry>
+<entry>
+<form>eytiya</form>
+<def>reached-</def>
+</entry>
+<entry>
+<form>toyyā</form>
+<def>flag-not-</def>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+</entry>
+<entry>
+<form><c type="geminated">l</c>icai</form>
+<def>sound</def>
+</entry>
+<entry>
+<form>mutiyar<c type="geminated">p</c></form>
+<def>old-they</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pēṇiya</form>
+<def>esteemed-</def>
+</entry>
+<entry>
+<form><c type="glide">v</c>utiyañcēral</form>
+<def>Utiyañcēral</def>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<form type="sandhi">peruñ</form>
+</entry>
+<entry>
+<form>cōṟu</form>
+<def>rice</def>
+</entry>
+<entry>
+<form>koṭutta</form>
+<def>given-</def>
+</entry>
+<entry>
+<form>ñāṉṟai</form>
+<def>time</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>irum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>pakal</form>
+<def>day</def>
+</entry>
+<entry>
+<form>kūḷi</form>
+<def>demon</def>
+</entry>
+<entry>
+<form>cuṟṟam</form>
+<def>kinsmen</def>
+<form type="sandhi">cuṟṟaṅ</form>
+</entry>
+<entry>
+<form>kūṟi</form>
+<def>talked</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>iruntāṅku</form>
+<def>been</def>
+<gramGrp type="affix"><m>āṅku</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>kuṟiya-<c type="glide">v</c>um</form>
+<def>short-they(n.pl.)um</def>
+<form type="simple">kuṟiya</form>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>neṭiya-<c type="glide">v</c>um</form>
+<def>long-they(n.pl.)um</def>
+<form type="simple">neṭiya</form>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kuṉṟu</form>
+<def>hill</def>
+</entry>
+<entry>
+<form>talaimaṇanta</form>
+<def>been-entangled-</def>
+</entry>
+<entry>
+<form>curaṉ</form>
+<def>desert</def>
+</entry>
+<entry>
+<form>iṟant<c type="elided">u</c></form>
+<def>traversed</def>
+<form type="sandhi">iṟant</form>
+</entry>
+<entry>
+<form>akaṉṟaṉar</form>
+<def>departed-he</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉum</form>
+<def>if-even</def>
+</entry>
+<entry>
+<form>mika</form>
+<def>be-much</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṉi</form>
+<def>much</def>
+</entry>
+<entry>
+<form>maṭaṅkā</form>
+<def>deflected-not-</def>
+</entry>
+<entry>
+<form><c type="glide">v</c>uḷḷamoṭu</form>
+<def>inside</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>mati</form>
+<def>mind</def>
+</entry>
+<entry>
+<form>mayakk<c type="elided">u</c></form>
+<def>confusion</def>
+<form type="sandhi">mayakk</form>
+</entry>
+<entry>
+<form>uṟāa<c type="geminated">p</c></form>
+<def>have-not</def>
+</entry>
+<entry>
+<form>poruḷ-vayiṉ</form>
+<def>wealth</def>
+<form type="sandhi">poruḷvayiṉ</form>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīṭal-ō</form>
+<def>being-longō</def>
+<form type="simple">nīṭal</form>
+<form type="sandhi">ṉīṭal</form>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ilar</form>
+<def>not-he</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>your-</def>
+</entry>
+<entry>
+<form><c type="geminated">ṉ</c>iruḷ</form>
+<def>darkness</def>
+</entry>
+<entry>
+<form>aim</form>
+<def>five</def>
+<form type="sandhi">aiṅ</form>
+</entry>
+<entry>
+<form>kūntal</form>
+<def>tresses</def>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>pleasing</def>
+</entry>
+<entry>
+<form>tuyil</form>
+<def>sleep</def>
+<form type="sandhi">ṟuyiṉ</form>
+</entry>
+<entry>
+<form>maṟant<c type="elided">u</c>-ē</form>
+<def>forgottenē.</def>
+<form type="simple">maṟantu</form>
+<form type="sandhi">maṟant</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN233.1" type="apparatus"><listApp>
+<app loc="0,8">
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">alamaraṉ</lem> <!-- $ -->
+        <rdg wit="#C2 #C3">alamaral</rdg>
+        </app>
+<app loc="50,56">
+        <lem wit="#NL #C1 #C5 #C7 #C9">vaḻāaṟ</lem> <!-- # -->
+        <rdg wit="#RK">vaḻāa</rdg>
+<rdg wit="#C2 #C3">vaḻāṟ</rdg>
+        </app>
+<app loc="83,92">
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9">perunilam</lem> <!-- $ -->
+        <rdg wit="#RK">perunilap</rdg>
+        </app>
+<app loc="92,100">
+        <lem wit="#NL #C1 #C5 #C9">pīṭupaṭu</lem> <!-- FF -->
+        <rdg wit="#C2 #C7 #C9v #RK #VP #ER">pīṭukeḻu</rdg>
+<rdg wit="#C3">pīṭukeḻa</rdg>
+        </app>
+<app loc="125,130">
+        <lem wit="#NL #C1 #C5v #C7 #C9c #RK">vūṉil</lem> <!-- # -->
+        <rdg wit="#C3">vūṉi</rdg>
+<rdg wit="#C2">vūṉiṉal</rdg>
+<rdg wit="#C9">āṉiṉ</rdg>
+<rdg wit="#C5">vūṇil</rdg>
+        </app>
+<app loc="135,143">
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">yuyaṅkum</lem>
+        <rdg wit="#C2 #C3">yuyaṅku</rdg>
+        </app>
+<app loc="159,166">
+        <lem wit="#C2 #C3 #C5 #C7 #C9c #RK">kutirai</lem> <!-- # -->
+        <rdg wit="#NL #C1 #C9">kuturai</rdg>
+        </app>
+<app loc="170,177">
+        <lem wit="#C2 #C3 #C5 #C7 #C9c #RK">maintiṟ</lem> <!-- # -->
+        <rdg wit="#NL #C1 #C9">maintuṟ</rdg>
+        </app>
+<app loc="204,212">
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #RK">mutiyarp</lem> <!-- FF -->
+        <rdg wit="#C9v">putiyarp</rdg>
+        </app>
+<app loc="239,246">
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">koṭutta</lem> <!-- # -->
+        <rdg wit="#C2 #C3">kutta</rdg>
+        </app>
+<app loc="252,262">
+        <lem wit="#NL #C1 #C5 #C9">yirumpakal</lem>
+        <rdg wit="#C2 #C3 #C7 #C9c #RK #VP #ER">yirumpal</rdg>
+        </app>
+<app loc="262,266">
+        <lem wit="#NL #C1 #C5 #C9">kūḷi</lem> <!-- $ -->
+        <rdg wit="#C2 #C3 #C7 #C9c #RK #VP #ER">kūḷic</rdg>
+        </app>
+<app loc="272,281">
+        <lem wit="#NL #C1 #C5 #C9">kūṟiyirun</lem>
+        <rdg wit="#C2 #C3 #C5v #C7">kuṟiyirun</rdg>
+<rdg wit="#RK #VP #ER">kuḻīiyirun</rdg>
+        </app>
+<app loc="281,286">
+        <lem wit="#NL #C1 #C9">tāṅku</lem> <!-- $ -->
+        <rdg wit="#C2 #C3 #C5 #C7 #C9c #RK #VP">tāṅkuk</rdg>
+        </app>
+<app loc="286,294">
+        <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9c #RK">kuṟiyavu</lem> <!-- FF -->
+        <rdg wit="#C9">ṟiyavu</rdg>
+        </app>
+<app loc="294,303">
+        <lem wit="#NL #C1 #C2 #C5 #C7 #C9 #RK">neṭiyavuṅ</lem> <!-- FF -->
+        <rdg wit="#C3"><g rend="vowel-sign">e</g>neṭiyavu</rdg>
+        </app>
+<app loc="320,329">
+        <lem wit="#NL #C2 #C3 #C5 #C7 #C9 #RK">curaṉiṟan</lem> <!-- FF -->
+        <rdg wit="#C1">raṉiṟan</rdg>
+        </app>
+<app loc="352,359">
+        <lem wit="#NL #C1 #C2 #C5 #C7 #C9 #RK">maṭaṅkā</lem>
+        <rdg wit="#C3">mayaṅkā</rdg>
+        </app>
+<app loc="377,383">
+        <lem wit="#NL #C1 #C5 #C7 #C9 #RK">kuṟāap</lem> <!-- # -->
+        <rdg wit="#C2 #C3">kuṟāp</rdg>
+        </app>
+<app loc="406,414">
+        <lem wit="#C2 #C3 #C5 #C7 #C9c #RK">ṉiruḷaiṅ</lem> <!-- # -->
+        <rdg wit="#NL #C1">ṉaruḷaiṅ</rdg>
+<rdg wit="#C9">ṉaruḷaik</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="NL" source="mss/NL.xml">
+    <abbr>NL</abbr>
+    <expan>palm-leaf manuscript from the National Library in Kolkatta [3141/S.V.P. 91] complete, except 336.19d-343.15c [consulted to supplement the damaged C1]</expan>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="mss/C1.xml">
+    <abbr>C<hi rend="subscript">1</hi></abbr>
+    <expan>palm-leaf manuscript from the UVSL [1075] covering 3(kiḷ.)-400.22b, except 46.12c-50 between pp. 165 and 166; 123.14-128.7a between pp. 197 and 198, 336.19d-343.15c</expan>
+    <witness xml:id="C1v">
+      <abbr>C<hi rend="subscript">1</hi>v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [1075] covering 3(kiḷ.)-400.22b, except 46.12c-50 between pp. 165 and 166; 123.14-128.7a between pp. 197 and 198, 336.19d-343.15c, variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C5" source="">
+   <abbr>C<hi rend="subscript">5</hi></abbr>
+   <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand]</expan>
+   <witness xml:id="C5v">
+     <abbr>C<hi rend="subscript">5</hi>v</abbr>
+     <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand], variant reading</expan>
+   </witness>
+   <witness xml:id="C5v2">
+     <abbr>C<hi rend="subscript">5</hi>v2</abbr>
+     <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand], variant reading</expan>
+   </witness>
+   <witness xml:id="C5c">
+     <abbr>C<hi rend="subscript">5</hi>c</abbr>
+     <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand], correction</expan>
+   </witness>
+ </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C7" source="">
+    <abbr>C<hi rend="subscript">7</hi></abbr>
+    <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v]</expan>
+    <witness xml:id="C7v">
+      <abbr>C<hi rend="subscript">7</hi>v</abbr>
+      <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v], variant reading</expan>
+    </witness>
+    <witness xml:id="C7v2">
+      <abbr>C<hi rend="subscript">7</hi>v2</abbr>
+      <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v], variant reading</expan>
+    </witness>
+    <witness xml:id="C7c">
+      <abbr>C<hi rend="subscript">7</hi>c</abbr>
+      <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v], correction</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C9" source="mss/C9.xml">
+    <abbr>C<hi rend="subscript">9</hi></abbr>
+    <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1]</expan>
+    <witness xml:id="C9v">
+      <abbr>C<hi rend="subscript">9</hi>v</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
+    </witness>
+    <witness xml:id="C9v2">
+      <abbr>C<hi rend="subscript">9</hi>v2</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
+    </witness>
+    <witness xml:id="C9v3">
+      <abbr>C<hi rend="subscript">9</hi>v3</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], variant reading</expan>
+    </witness>
+    <witness xml:id="C9c">
+      <abbr>C<hi rend="subscript">9</hi>c</abbr>
+      <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], correction</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="RK" source="">
+   <abbr>RK</abbr>
+   <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term>edition (1933?) [= rep. of the editio princeps 1920?]</expan>
+  <listWit>
+   <witness xml:id="RKv" select="#v">
+     <abbr>RKv</abbr>
+     <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> edition (1933?) [= rep. of the editio princeps 1920?], variant reading</expan>
+   </witness>
+   <witness xml:id="RKv2" select="#v2">
+     <abbr>RKv2</abbr>
+     <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> edition (1933?) [= rep. of the editio princeps 1920?], variant reading</expan>
+   </witness>
+  </listWit>
+ </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C2" source="mss/C2.xml">
+    <abbr>C<hi rend="subscript">2</hi></abbr>
+    <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63]</expan>
+    <witness xml:id="C2v">
+      <abbr>C<hi rend="subscript">2</hi>v</abbr>
+      <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63], variant reading</expan>
+    </witness>
+    <witness xml:id="C2c">
+      <abbr>C<hi rend="subscript">2</hi>c</abbr>
+      <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63], correction</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C3" source="mss/C3.xml">
+    <abbr>C<hi rend="subscript">3</hi></abbr>
+    <expan>palm-leaf manuscript from the UVSL [107] KV-351.7; 158.10ff.-172 + 203.6-205.20d missing; page number 47/48 omitted; dated to 1727 [matrix for the Vaiṣṇava strand]</expan>
+    <witness xml:id="C3v">
+      <abbr>C<hi rend="subscript">3</hi>v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [107] KV-351.7; 158.10ff.-172 + 203.6-205.20d missing; page number 47/48 omitted; dated to 1727 [matrix for the Vaiṣṇava strand], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="VP" source="">
+   <abbr>VP</abbr>
+   <expan><term xml:lang="ta">Vaiyāpurip Piḷḷai</term> edition (1940) reported when deviating</expan>
+ </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER" source="">
+   <abbr>ER</abbr>
+   <expan><term xml:lang="ta">Rājam</term> edition (1957) reported when deviating</expan>
+   <witness xml:id="ERv">
+     <abbr>ERv</abbr>
+     <expan><term xml:lang="ta">Rājam</term> edition (1957) reported when deviating, variant reading</expan>
+   </witness>
+   <witness xml:id="ERc">
+     <abbr>ERc</abbr>
+     <expan><term xml:lang="ta">Rājam</term> edition (1957) reported when deviating, correction</expan>
+   </witness>
+ </witness>
+</listWit></standOff>
+</TEI>
