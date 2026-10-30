@@ -167,7 +167,7 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>nāḷ</form>
 <def>day</def>
@@ -284,7 +284,7 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>ciṟai<c type="geminated">p</c></form>
 <def>wing</def>
