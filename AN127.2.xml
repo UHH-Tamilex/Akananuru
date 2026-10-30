@@ -336,7 +336,7 @@
 <entry>
 <form><c type="glide">v</c>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>nāḷ</form>
 <def>day</def>
@@ -344,7 +344,7 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>pakal</form>
 <def>midday</def>
