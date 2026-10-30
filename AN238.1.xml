@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +12,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
@@ -86,7 +83,7 @@
     <note n="2">16b muḻumuta <abbr corresp="#C5"/>; periya aṭi C5g</note>
 </standOff>
 
-<standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#AN238.1">
+<standOff type="wordsplit" corresp="#AN238.1">
 <interp type="alignment" select="0">34MG54MG28MG60MG15MG87ML20M2G9MG2MG4M2G11MG23MG5ML32ML20ML54ML32MG27MR10M2G2M,550MG</interp>
 <entry>
 <form>māṉṟamai</form>
@@ -552,7 +549,7 @@
 </entry>
 </standOff>
 
-<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#AN238.1" type="apparatus"><listApp>
+<standOff corresp="#AN238.1" type="apparatus"><listApp>
 <app loc="14,23">
         <lem wit="#C2 #C3 #C5 #C7 #C9v #RK">marampayi</lem> <!-- # -->
         <rdg wit="#NL #C1 #C9">marampavi</rdg>
@@ -664,7 +661,7 @@
         </app>
 </listApp>
 <listWit>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C2" source="mss/C2.xml">
+<witness xml:id="C2" source="mss/C2.xml">
     <abbr>C<hi rend="subscript">2</hi></abbr>
     <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63]</expan>
     <witness xml:id="C2v">
@@ -676,7 +673,7 @@
       <expan>palm-leaf manuscript from UVSL [28] KV-351.7; 158.7ff.-172 + 203.6-205.20d missing [misnumbered pages: 64/63], correction</expan>
     </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C3" source="mss/C3.xml">
+<witness xml:id="C3" source="mss/C3.xml">
     <abbr>C<hi rend="subscript">3</hi></abbr>
     <expan>palm-leaf manuscript from the UVSL [107] KV-351.7; 158.10ff.-172 + 203.6-205.20d missing; page number 47/48 omitted; dated to 1727 [matrix for the Vaiṣṇava strand]</expan>
     <witness xml:id="C3v">
@@ -684,7 +681,7 @@
       <expan>palm-leaf manuscript from the UVSL [107] KV-351.7; 158.10ff.-172 + 203.6-205.20d missing; page number 47/48 omitted; dated to 1727 [matrix for the Vaiṣṇava strand], variant reading</expan>
     </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C5" source="">
+<witness xml:id="C5" source="">
    <abbr>C<hi rend="subscript">5</hi></abbr>
    <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand]</expan>
    <witness xml:id="C5v">
@@ -700,7 +697,7 @@
      <expan>paper manuscript from the UVSL [7/69, 8/70, 9/72] complete in 3 vol.; dated to 1903/04 [matrix for the Vulgata strand], correction</expan>
    </witness>
  </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C7" source="">
+<witness xml:id="C7" source="">
     <abbr>C<hi rend="subscript">7</hi></abbr>
     <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v]</expan>
     <witness xml:id="C7v">
@@ -716,7 +713,7 @@
       <expan>paper manuscript from the UVSL [5/67 ] KV-120, 301-400, [10/71] 121-300 (except 147, 149, 152, 230, 300) [pencil corrections/additions = C7c/v], correction</expan>
     </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C9" source="mss/C9.xml">
+<witness xml:id="C9" source="mss/C9.xml">
     <abbr>C<hi rend="subscript">9</hi></abbr>
     <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1]</expan>
     <witness xml:id="C9v">
@@ -736,7 +733,7 @@
       <expan>paper manuscript from the UVSL [11/73] KV-399 (complete except for 7, 317, 322) [pencil corr./add. = C9c/v; based on strand 2 up to 17, then on strand 1], correction</expan>
     </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="RK" source="">
+<witness xml:id="RK" source="">
    <abbr>RK</abbr>
    <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term>edition (1933?) [= rep. of the editio princeps 1920?]</expan>
   <listWit>
@@ -750,11 +747,11 @@
    </witness>
   </listWit>
  </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="NL" source="mss/NL.xml">
+<witness xml:id="NL" source="mss/NL.xml">
     <abbr>NL</abbr>
     <expan>palm-leaf manuscript from the National Library in Kolkatta [3141/S.V.P. 91] complete, except 336.19d-343.15c [consulted to supplement the damaged C1]</expan>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="mss/C1.xml">
+<witness xml:id="C1" source="mss/C1.xml">
     <abbr>C<hi rend="subscript">1</hi></abbr>
     <expan>palm-leaf manuscript from the UVSL [1075] covering 3(kiḷ.)-400.22b, except 46.12c-50 between pp. 165 and 166; 123.14-128.7a between pp. 197 and 198, 336.19d-343.15c</expan>
     <witness xml:id="C1v">
@@ -762,11 +759,11 @@
       <expan>palm-leaf manuscript from the UVSL [1075] covering 3(kiḷ.)-400.22b, except 46.12c-50 between pp. 165 and 166; 123.14-128.7a between pp. 197 and 198, 336.19d-343.15c, variant reading</expan>
     </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="VP" source="">
+<witness xml:id="VP" source="">
    <abbr>VP</abbr>
    <expan><term xml:lang="ta">Vaiyāpurip Piḷḷai</term> edition (1940) reported when deviating</expan>
  </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER" source="">
+<witness xml:id="ER" source="">
    <abbr>ER</abbr>
    <expan><term xml:lang="ta">Rājam</term> edition (1957) reported when deviating</expan>
    <witness xml:id="ERv">
