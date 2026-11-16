@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>286.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C2 #C9 #G1 #G2 #RK">ōram pōtiyār</lem><app><rdg wit="#C5">vōtiyār</rdg><rdg wit="#C3">ōram<gap reason="lost" unit="character" quantity="9"/></rdg><rdg wit="#C7 #C9v">pōkiyār</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN286.1-kilavi">
+          <p type="edition">varainteytuval eṉṟu nīṅkun talaimakaṉ, talaimakaḷai āṟṟuvittal vēṇṭum eṉpāṉ tōḻiyaik kaippaṟṟiṉārkkuk kaippaṟṟiyatu taṉṉait toṭṭuc cūḷuṟuvāṉākak karutit tōḻi colliyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante said intending that he would make an oath, having gotten hold of him catching the hand of those catching the hand of the confidante, saying that she must comfort HER, HE who left saying ‘I shall obtain [her] in marriage’.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN286.1">
+        <l>veḷḷi viḻuttoṭi meṉkarup pulakkai</l>
+        <l>vaḷḷi nuṇṇiṭai vayiṉva<supplied>yi ṉu</supplied>ṭaṅka</l>
+        <l>mīṉciṉai yaṉṉa veṇmaṇaṟ kuvaii</l>
+        <l>kāñci nīḻaṟ ṟamarvaḷam pāṭi</l>
+        <l>yūrkkō makaḷir kuṟu<supplied>va</supplied>ḻi viṟanta</l>
+        <l>vāra laruntiya ciṟuciraṉ marutiṉ</l>
+        <l><supplied>ṟāḻ</supplied>ciṉai yuṟaṅkun taṇṭuṟai yūra</l>
+        <l>viḻaiyā vuḷḷam viḻaiva tāyiṉuṅ</l>
+        <l corresp="9k">yeṉṟum,</l>
+        <l>kēṭṭavai tōṭṭi yāka mīṭṭāṅ</l>
+        <l>kaṟaṉum poruḷum vaḻāmai nāṭit</l>
+        <l>taṟṟaka vuṭaimai nōkki maṟṟataṉ</l>
+        <l>piṉṉā kummē muṉṉiyatu muṭitta</l>
+        <l>laṉaiya periyō roḻukka mataṉā</l>
+        <l>lariya periyōrt teriyuṅ kālai</l>
+        <l>nummō <supplied>ra</supplied>ṉṉōr māṭṭu miṉṉa</l>
+        <l>poyyoṭu miṭaintavai tōṉṟiṉ</l>
+        <l>meyyāṇ ṭuḷatōviv vulakat tāṉē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="7cd">O man from the village by the cool ghat,</l>
+        <l>where the little kingfisher that had eaten Āral fish slumbers</l>
+        <l corresp="6-7ab">on a hanging branch of the Myrobalan tree,</l>
+        <l corresp="5">which the royal women from the village fear on the short way</l>
+        <l corresp="4">when singing the prosperity of their people in the shade of the Portia,</l>
+        <l corresp="3">heaping white sand like fish eggs,</l>
+        <l corresp="2">while in every place [their] creeper-thin waists sway,</l>
+        <l corresp="1">along with the pestles of soft sugarcane with excellent silver rings,</l>
+        <l corresp="8">even if the undesirous mind were full of desire,</l>
+        <l corresp="9k">always,</l>
+        <l corresp="9">as if the [words] heard came back as a goad,</l>
+        <l corresp="10">searching without straying for duty and wealth,</l>
+        <l corresp="11">looking at the possession of what is fit for it, after that</l>
+        <l corresp="12">there will be completion of what had been determined</l>
+        <l corresp="13">as such in the conduct of great men. Therefore,</l>
+        <l corresp="14">at the time great people strive for difficult things,</l>
+        <l>if with the likes of you too they appear</l>
+        <l corresp="15f">like this, mingled with lies,</l>
+        <l corresp="17">where is there truth in this world?</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
+
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff> -->
+
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
+</TEI>

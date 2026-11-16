@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>290.1</num>. <persName xml:lang="ta">nakkīrar</persName>: SHE
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN290.1-kilavi">
+          <p type="edition">iravukkuṟikkaṭ ṭalaimakaṉ ciṟaippuṟattāṉākat tōḻikkuc colluvāḷāyt talaimakaḷ colliyatu.</p>
+          <p type="translation" xml:lang="en">What SHE said as one who speaks to the confidante when HE was behind the hedge during the night tryst.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN290.1">
+        <l>kuṭumik kokkiṉ paiṅkāṟ pēṭai</l>
+        <l>yiruñcēṟ ṟaḷḷa ṉāṭpulam pōkiya</l>
+        <l>koḻumīṉ valcip puṉṟalaic ciṟā<supplied>a</supplied>r</l>
+        <l>nuṇñā ṇav<supplied>va</supplied>laic cēval paṭṭeṉa</l>
+        <l>valkuṟu po<supplied>ḻu</supplied>tiṉ melkirai <supplied>mi</supplied>caiyātu</l>
+        <l>paitaṟ piḷḷai taḻīi yoyyeṉa</l>
+        <l>vaṅkaṭ peṇṇai yaṉpuṟa naraluñ</l>
+        <l>ciṟupaḵ ṟolkuṭip perunīrc cērppaṉ</l>
+        <l>kaḻicēr puṉṉai yaḻi<supplied>pū</supplied>ṅ kāṉaṟ</l>
+        <l>ṟaṇavā neñcamoṭu tamiyaṉ vantunam</l>
+        <l>maṇavā muṉṉu <supplied>mevaṉō</supplied> tōḻi</l>
+        <l>veṇṭukō<supplied>ṭ</supplied> ṭiyāṉai viṟaṟpōrk kuṭṭuvaṉ</l>
+        <l>ṟeṇṭiraip parappiṟ ṟoṇṭi muṉṟuṟaic</l>
+        <l>curumpuṇa malarnta perunta ṇeytaṉ</l>
+        <l>maṇiyēr māṇala morīip</l>
+        <l>poṉṉēr <supplied>va</supplied>ṇṇaṅ koṇṭaveṉ kaṇṇē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="8">The man from the coast of the great water with many small old hamlets,</l>
+        <l corresp="1">where the green-legged female of the crested egret</l>
+        <l corresp="7">calls out lovingly in the palmyra tree there,</l>
+        <l corresp="6">dolefully(?), embracing [her] young ones, suffering,</l>
+        <l corresp="5">without having tasted soft prey [still] at the time when night falls,</l>
+        <l corresp="4">because [her] cock has been caught in the pretty net with fine strings</l>
+        <l corresp="3">of the ruddy-headed youngsters with fat fish for [their] food</l>
+        <l corresp="2">who had gone to the fields [early in] the day, with dark muddy mire,</l>
+        <l>– even before he came alone, with a heart that does not leave off,</l>
+        <l>to the seashore grove with flowers perishing on the Puṉṉai trees close to the backwaters,</l>
+        <l corresp="9-11">[and] united with us – what [is this], friend? –</l>
+        <l corresp="16">my eyes have taken a colour like gold,</l>
+        <l corresp="15">abandoning [their] glorious beauty, resembling the sapphires</l>
+        <l corresp="14">of big cool blue waterlilies come to bloom for bees to eat</l>
+        <l corresp="13">in the front ghat of Toṇṭi, with [its] expanse of clear waves,</l>
+        <l corresp="12">[belonging to] Kuṭṭuvaṉ of victorious battle, with white-tusked elephants.</l>
+      </lg>
+      <lg type="alternate" sameAs="11">
+        <l corresp="11b-d 16d">Why does he keep approaching my eyes, friend,</l>
+        <l corresp="16a-c">that have taken a colour like gold, ...</l>
+        <l corresp="11a">– without uniting with us ...</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
+
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff> -->
+
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>288.1</num>. <persName xml:lang="ta"><lem wit="#C1 #C7 #RK">viṟṟūṟṟu mūteyiṉaṉār</lem><app><rdg wit="#RKv">muttūṟṟu mūteyiṉaṉār</rdg><rdg wit="#C3">muttūṟṟuḻ cēyiṉaṉ</rdg><rdg wit="#C2">muttūṟṟū ceyiḻa cēyiṉaṉ</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN288.1-kilavi">
+          <p type="edition">pakaṟkuṟikkaṇ ceṟipapaṟivuṟīi varaivu kaṭāyatu.</p>
+          <p type="translation" xml:lang="en">How marriage was urged for by informing [Him] about confinement during the day tryst. How the confidante informed [Him] of superiority [during] the day tryst.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN288.1">
+        <l>ceṉmati ciṟakkaniṉ ṉuḷḷa ni<supplied>ṉ</supplied>malai</l>
+        <l>yāra nīvi yampakaṭṭu mārpaṉai</l>
+        <l>cāral vēṅkaip paṭuciṉaip putuppū</l>
+        <l>murukumuraṇ koḷḷu muruvak kaṇṇiyai</l>
+        <l>yeritiṉ kollai yiṟaiñciya vēṉa</l>
+        <l>levvaṅ kūṟiya vaikalum varuvōy</l>
+        <l>kaṉimuti raṭukkatteṉ ṟaṉimai kāṇ<supplied>ṭali</supplied></l>
+        <l><supplied>ṉe</supplied>ṇmai ceytaṉai yākuvai naṇṇik</l>
+        <l>koṭiyōr ku<supplied>ṟu</supplied>ku neṭiyiruṅ kuṉṟat</l>
+        <l>tiṭṭā<supplied>ṟu</supplied> nīṅkum viṭṭoḷi raruvi</l>
+        <l>yaruvarai <supplied>yiḻi</supplied>tarum veruvaru paṭāark</l>
+        <l>kayantalai manti yuyaṅkupaci kaḷaiiyar</l>
+        <l>pārppiṉ ṟantai paḻaccuḷai toṭiṉu</l>
+        <l>naṉinō yeykkum paṉi<supplied>kū raṭukkattu</supplied></l>
+        <l>makaḷir māṅkāṭ ṭaṟṟē tukaḷaṟak</l>
+        <l>koṅkoṭu katirnta katuppi</l>
+        <l>ṉantīṅ kiḷavi tantai kāppē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l>Go, let your mind be exultant, you with a high(?) chest</l>
+        <l corresp="1f">pretty as you smear it with sandal from your mountain,</l>
+        <l corresp="4">you with a shapely chaplet that competes with [that of] Murukaṉ,</l>
+        <l corresp="3">with fresh flowers from the hanging kino branches on the slope,</l>
+        <l corresp="6">you who come daily to talk about [your] trouble </l>
+        <l corresp="5">with the bending millet in the clearing eaten by flames,</l>
+        <l corresp="7">because you saw my loneliness, on the mountain side with fruit ripening,</l>
+        <l corresp="8a-c">you have really  done the easy thing.</l>
+        <l>On the mountain side abounding in dew, where the soft-headed she-monkey</l>
+        <l>is much wearied by pain, even though, in order to remove [her] weary hunger,</l>
+        <l corresp="12-14">the father of [her] young one digs into the fruit pulp,</l>
+        <l>near frightening(?) bushes, where the resplendent waterfall, splitting</l>
+        <l corresp="10f.">when it leaves the narrow path, tumbles down from the difficult mountain,</l>
+        <l corresp="8d-9">on the long dark hill, reached [and] approached [only] by cruel [hunters],</l>
+        <l corresp="15a-c">[a fortress] like Māṅkāṭu  for women</l>
+        <l corresp="17">[is] the protection of the father of [her with] pretty sweet words</l>
+        <l corresp="16">[and] hair specklessly shining with pollen.</l>
+      </lg>
+      <lg type="alternate" sameAs="4">
+        <l>you with a shapely chaplet that takes a riot of perfumes</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
+
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff> -->
+
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>281.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C5 #C7 #C9 #G1 #G2 #RK">māmūlaṉār</lem><app><rdg wit="#C2 #C3">māmūlar</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN281.1-kilavi">
+          <p type="edition">talaimakaṉ piriviṉ vēṟupaṭṭa talaimakaḷatu vēṟupāṭu kaṇṭāṟṟāḷāya ṭōḻikkut talaimakaḷ colliyatu.</p>
+          <p type="translation" xml:lang="en">What SHE said to the confidante who was unable to bear it when seeing the changes in HER who had undergone changes during the separation from HIM.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN281.1">
+        <l>ceyvatu teri<supplied>nti</supplied>ciṟ ṟōḻi yalkalu</l>
+        <l>makalu makaḷā<supplied>ṇ</supplied>mai yac<supplied>ca</supplied>ṟa<supplied>k</supplied> kūṟiya</l>
+        <l>coṟpaḻu tāku meṉṟu mañcā</l>
+        <l>tol<supplied>ki</supplied>ppaṉ maṭamayi loḻitta pīli</l>
+        <l>vāṉpōḻ valviṟ cuṟṟi nōṉcilai</l>
+        <l>yavvār viḷimpiṟ kamainta novviyaṟ</l>
+        <l>kaṉaikura licaikkum viraicelaṟ kaṭuṅka<supplied>ṇai</supplied></l>
+        <l>mura<supplied>ṇ</supplied>miku vaṭukar muṉṉuṟa moḻiyar</l>
+        <l>teṉṟicai mātira muṉṉiya viraviṟku</l>
+        <l>viṇṇuṟa vōṅkiya paṉiyiruṅ kuṉṟat</l>
+        <l>to<supplied>ṇ</supplied>katirt tikiri yuruḷiya kuṟaitta</l>
+        <l>varaiyi<supplied>ṟa</supplied>n tavarō ceṉṟaṉar</l>
+        <l>paṟaiyaṟain taṉṉa valarnamak koḻittē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="1a-c">Understand [his] doings, friend.</l>
+        <l corresp="3a-c">Although [we said] that the words were a mistake</l>
+        <l corresp="1d-2">which he fearlessly spoke about the manliness of a woman who would depart at night too,</l>
+        <l rend="indent8" corresp="3d">without fear</l>
+        <l corresp="12">he, he went, traversing the border</l>
+        <l corresp="11">that was levelled so that bright-spoked wheels would roll</l>
+        <l corresp="10">over the chilly big hill that is so high as to touch the sky,</l>
+        <l corresp="9">because of getting mixed up when they approached the great direction that is the southern one,</l>
+        <l corresp="8">those who [gave their] word in front the Vaṭukar full of hostility,</l>
+        <l corresp="7">with fierce arrows that go swiftly when [their] intense voice sounds(?),</l>
+        <l corresp="6">[arrows] of thin nature suited for [defending] that long border,</l>
+        <l corresp="5">[made] of sturdy Cilai wood, having tied to the sky-crossing(?) strong bow</l>
+        <l corresp="4">tail feathers cast off by many youthful peacocks in exhaustion, </l>
+        <l corresp="13">– putting an end for us to gossip [as loud] as a drum beaten.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
+
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff> -->
+
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
+</TEI>
