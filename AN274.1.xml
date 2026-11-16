@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>274.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #C5 #C7 #C9 #G1 #G2 #RK">iṭaikkāṭaṉār</lem><app><rdg wit="#C2 #C3 #C9v #RKv">kallāṭaṉār</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN274.1-kilavi">
+          <p type="edition">talaimakaṉ ṟērppākaṟkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">What HE said to [his] charioteer.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN274.1">
+        <l>iruvicum patira muḻaṅki <supplied>vā</supplied>ṉaviṉ</l>
+        <l>ṟikuppeya laḻituḷi talaii vāṉam</l>
+        <l>paruvañ ceyta pāṉāṭ kaṅku</l>
+        <l>lāṭutalait turuviṉ ṟōṭē mārppak</l>
+        <l>kaṭaikōṟ ciṟu<supplied>tī</supplied> yaṭaiya māṭṭit</l>
+        <l>tiṇkā luṟiyaṉ pāṉaiya ṉakala</l>
+        <l>nuṇpaḵ ṟuvalai yorutiṟa naṉaippat</l>
+        <l>taṇṭukā lūṉṟiya taṉinilai yiṭaiyaṉ</l>
+        <l>maṭiviṭu vīḷai kaṭituceṉ ṟicaippat</l>
+        <l>teṟimaṟi pārkkuṅ kuṟunari verīi</l>
+        <l>muḷḷuṭai kuṟuntū ṟiriyap pōkun</l>
+        <l>taṇṇaṟum puṟavi ṉatuvē naṟumalar</l>
+        <l>mullai cāṉṟa kaṟpiṉ</l>
+        <l>melliyaṟ kuṟumaka ḷuṟaivi ṉūrē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="12a-c">It [is] in the cool fragrant woodland,</l>
+        <l corresp="3">where at night, midnight when the season makes</l>
+        <l corresp="2">clouds, showering dwindling drops of breaking rain,</l>
+        <l corresp="1">clouds uttering thunder so that the dark sky shakes,</l>
+        <l corresp="8">the solitary shepherd, who leans on [his] staff,</l>
+        <l corresp="7">	while the fine many drops wet [him] on one side,</l>
+        <l corresp="6">	so that he departs, he with a pot, he with a net with firm threads,</l>
+        <l corresp="5">	after having kindled to settle by a small fire from the end of the sticks,</l>
+        <l corresp="4">	while the flock of sheep with moving heads bleat in confusion,</l>
+        <l>goes, so that the short jackal, that is on the lookout for leaping lambs,</l>
+        <l corresp="10f">	is frightened [and] retreats into the thorny small bushes,</l>
+        <l corresp="9">	when a whistling sounds, moving quickly, emanating from the cloth,</l>
+        <l corresp="14">– the village pleasing to stay of the little woman with soft nature,</l>
+        <l corresp="12d-13">in [her] fidelity worthy of jasmine with fragrant blossoms.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
+
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff> -->
+
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
+</TEI>

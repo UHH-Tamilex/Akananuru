@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>275.1</num>. <persName xml:lang="ta">kayamaṉār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN275.1-kilavi">
+          <p type="edition">makaṭpōkkiya cevili colliyatu.</p>
+          <p type="translation" xml:lang="en">What the foster mother said who had let [her] daughter go.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN275.1">
+        <l>ōṅkunilait tāḻi malkac cārttik</l>
+        <l>kuṭaiyaṭai nīriṉ maṭaiyiṉa <supplied>ḷe</supplied>ṭutta</l>
+        <l>paranta vallaip panteṟin tāṭi</l>
+        <l>yiḷamai ta<supplied>kai</supplied>maiyai vaḷamaṉai kiḻatti</l>
+        <l>pitirvai <supplied>nī</supplied>rai veṇṇī rukeṉa</l>
+        <l>yāntaṟ kaḻaṟuṅ kālait tāṉṟa</l>
+        <l>ṉammalai yiṉcoṟ kaḻaṟalai yiṉṟi</l>
+        <l>yiṉṉuyir kalappak kūṟi naṉṉutal</l>
+        <l>peruñcōṟ ṟillat toruṅkiva ṇirāa</l>
+        <l>ḷēti lāḷaṉ <supplied>kā</supplied>ta ṉampit</l>
+        <l>tiraḷaṟai yiruppait toḷḷai vāṉpūk</l>
+        <l>kuruḷai yeṇki <supplied>ṉī</supplied>riṉaṅ kavarum</l>
+        <l>vemmalai yaruñcura <supplied>na</supplied>mmiva ṇoḻiya</l>
+        <l>virunila ṉuyirkku miṉṉāk kāṉa</l>
+        <l>neruṉaip pōkiya perumaṭat takuvi</l>
+        <l>yaitaka lalkuṟ ṟa<supplied>ḻai</supplied>yaṇik kūṭṭuṅ</l>
+        <l>kūḻai noccik kīḻa teṉmakaḷ</l>
+        <l>cempuṭaic ciṟuviral varitta</l>
+        <l>vaṇṭaluṅ kāṇṭirō kaṇṇuṭai yīrē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="2a-c">She who [used to] cook with water near the canopy,</l>
+        <l corresp="1">joining [more] so that the high level in the jar increased,</l>
+        <l corresp="2d-3">playing by throwing the ball into the spreading Allai creepers she had raised,</l>
+        <l corresp="6">she who, at the time I remonstrated with her:</l>
+        <l corresp="4">“you with the conduct of youth, lady of the prosperous house,</l>
+        <l corresp="5">you scatter-brain, sprinkle [some] fresh(?) water,”</l>
+        <l corresp="7">without mouthing her sweet words in opposition to us,</l>
+        <l corresp="8">talked so that [our] sweet lives mingled,  she with good forehead</l>
+        <l corresp="9">is not here together [with us] in the house of great rice,</l>
+        <l corresp="10">believing in the love of a stranger,</l>
+        <l corresp="15">she prone to great innocence who went [away] yesterday</l>
+        <l corresp="14">to the unpleasant forest where the vast ground sighs [with heat],</l>
+        <l corresp="13">while we stayed behind , to the difficult desert of hot mountains,</l>
+        <l corresp="12">where a large group of bears with young ones seizes</l>
+        <l corresp="11">the hollow white flowers of the mahua tree on the round rocks,</l>
+        <l corresp="17">my daughter, below(?) the short Nocci tree</l>
+        <l corresp="16">from which she joins the foliage to [her] wonderfully broad hips as a decoration,</l>
+        <l corresp="19ab">have you seen the Vaṇṭal [lines] too</l>
+        <l corresp="18">that [her] little fingers drew into the red side,</l>
+        <l corresp="19cd" rend="indent5">you who have eyes?</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
+
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff> -->
+
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
+</TEI>

@@ -148,6 +148,10 @@
      <abbr>RKv2</abbr>
      <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> edition (1933?) [= rep. of the editio princeps 1920?], variant reading</expan>
    </witness>
+   <witness xml:id="RKv3" select="#v3">
+     <abbr>RKv3</abbr>
+     <expan><term xml:lang="ta">Rājakopālāryaṉ/Irākavaiyaṅkar</term> edition (1933?) [= rep. of the editio princeps 1920?], variant reading</expan>
+   </witness>
   </listWit>
  </witness>
 
@@ -189,6 +193,11 @@
 
  <witness xml:id="SAv2" source="">
    <abbr>SAv2</abbr>
+   <expan>variant listed in the unpublished translation by <term xml:lang="ta">Cupiramaṇiya Aiyar</term> (1975)</expan>
+ </witness>
+
+ <witness xml:id="SAv3" source="">
+   <abbr>SAv3</abbr>
    <expan>variant listed in the unpublished translation by <term xml:lang="ta">Cupiramaṇiya Aiyar</term> (1975)</expan>
  </witness>
 
@@ -318,6 +327,19 @@
   <witness xml:id="NNv" source="">
     <abbr>NN</abbr>
     <expan><term xml:lang="ta">Naṉṉūl Virutti</term>, reported when deviating</expan>
+  </witness>
+
+  <witness xml:id="YV">
+    <abbr type="siglum">YV</abbr>
+    <expan><title xml:lang="ta">Yāpparuṅkala Virutti</title></expan>
+      <witness xml:id="YVv">
+        <abbr type="siglum">YV<hi rend="subscript">2</hi></abbr>
+        <expan><title xml:lang="ta">Yāpparuṅkala Virutti</title>, variant reading</expan>
+      </witness>
+      <witness xml:id="YV2">
+        <abbr type="siglum">YV<hi rend="subscript">2</hi></abbr>
+        <expan><title xml:lang="ta">Yāpparuṅkala Virutti</title>, second quotation</expan>
+      </witness>
   </witness>
 
   <witness xml:id="corr" source="">

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>285.1</num>. <persName xml:lang="ta"><lem wit="#NL #C1 #G1 #G2">kāvirippūmpaṭṭaṉattuk</lem><app><rdg wit="#C2 #C3 #C5 #C7 #C9 #RK">kāvirippūmpaṭṭiṉattuk</rdg></app> <lem wit="#NL #C1 #C2 #C3 #C5 #C9 #G1 #G2 #RK">kārikaṇṇaṉ</lem><app><rdg wit="C7">kārikaṇṇaṉār</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN285.1-kilavi">
+          <p type="edition">uṭaṉpōk kuṭaṉpaṭuvitta tōḻi talaimakaṭkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante who made [her] agree to going away together said to HER.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN285.1">
+        <l>oḷiyac ceṉmār cel<supplied>ka</supplied> veṉṟunā</l>
+        <l>maḻipaṭa ruḻakku mavala neñcat</l>
+        <l>tevva mikantucē ṇakala vaiyeyiṟ</l>
+        <l><supplied>ṟū</supplied>ṇa<supplied>cai</supplied>p piṇavi ṉuṟupaci kaḷaiiya</l>
+        <l>kāṭutēr maṭappiṇai yala<supplied>ṟa</supplied>k kalaiyi</l>
+        <l>ṉōṭukuṟaṅ kaṟutta cennā yēṟṟai</l>
+        <l>veyilpulan tiḷaikkum vemmaip payilviri</l>
+        <l>yirumpuli vēṅkai karuṅkō laṉṉa</l>
+        <l>kalleṭut teṟinta palki<supplied>ḻi</supplied> yuṭukkai</l>
+        <l>yulaṟukuṭai vampala ruyarmara mēṟi</l>
+        <l>yēṟuvēṭ ṭeḻunta viṉantī reruvai</l>
+        <l>yāṭucevi nōkku mattam paṇaittōṭ</l>
+        <l>kuvaḷai yuṇka ṇivaḷu nammoṭu</l>
+        <l>varumeṉ ṟaṉarē kātalar</l>
+        <l>vārāy tōḻi muyaṅkukam palavē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="3a-c">So that trouble goes far beyond</l>
+        <l corresp="2">the suffering heart that bears desolate affliction,</l>
+        <l corresp="1">thinking “let us set out to go in secret,</l>
+        <l>[your] lover said: “she too, with bamboo shoulders</l>
+        <l corresp="12d-14">[and] waterlily kajal eyes will come with us,”</l>
+        <l corresp="12c 10ab">on the road, where travellers with worn-out umbrellas,</l>
+        <l corresp="9">[their] garments [made] of many pieces of cloth on which stones were lifted [and] thrown,</l>
+        <l corresp="7d-8">like the black leaf-stems of the kino tree , a big/black tiger, densely expanding,</l>
+        <l corresp="10cd 12ab">climb on high trees [and] look at the moving ears</l>
+        <l corresp="11">of the group-leaving kite  that has risen to hunt the bull,</l>
+        <l>[come with us] through the heat when, vexed with the sunlight,</l>
+        <l corresp="6-7c">the male of the red dog becomes lean that had taken off the running thigh</l>
+        <l corresp="5">of the stag, so that [its] youthful doe cries out, searching the wilderness,</l>
+        <l corresp="3d-4">in order to remove the hunger felt by the sharp-toothed bitch that yearns for food.</l>
+        <l corresp="15">Come, friend, we will embrace many [times].</l>
+      </lg>
+      <lg type="alternate" sameAs="8-11">
+        <l corresp="12c 11">on the road, where the group-leaving kite that has risen to hunt the bull</l>
+        <l corresp="10cd 12ab">climbs a high tree [and] with moving ears looks at</l>
+        <l>the travellers with worn-out umbrellas who lift [and] throw stones [at it],</l>
+        <l corresp="9-10b">[their] garments [made] of many pieces of cloth,</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
+
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff> -->
+
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
+</TEI>

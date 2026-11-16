@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>283.1</num>. <persName xml:lang="ta">maturaimarutaṉ <lem wit="#NL #C1 #C2 #C3 #C5 #C9 #G1 #G2">iḷanākaṉ</lem><app><rdg wit="#C7 #RK">iḷanākaṉār</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="ANAN283.1-kilavi">
+          <p type="edition">uṭaṉpōkku valitta tō<supplied>ḻi</supplied> talaimakaṟkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante, who had decided on [their] going away together, said to HER.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="ANAN283.1">
+        <l>naṉṉeṭuṅ katuppoṭu peruntō ṇīviya</l>
+        <l>niṉṉiva ṇo<supplied>ḻi</supplied>ta lañciya veṉṉiṉuñ</l>
+        <l>celavutalaik koṇṭa peruvitup puṟu<supplied>vi</supplied></l>
+        <l>palka<supplied>va</supplied>r maruppiṉ mutumāṉ pōkkic</l>
+        <l>cilluṇāt tanta cīṟūrp peṇtir</l>
+        <l>tiri<supplied>va</supplied>yiṟ ṟevuṭṭuñ cē<supplied>e</supplied>k kuṭiñaip</l>
+        <l>paital meṉkura laituvan ticaittoṟum</l>
+        <l>pōkunar pulampu māṟē yēkutaṟ</l>
+        <l>kariya vākumeṉ ṉāmaik karimaraṅ</l>
+        <l>kaṇṇakai yi<supplied>ḷa</supplied>ṅkuḻai kāṉamuṟa kaviṉi</l>
+        <l>vicumpuṭa ṉiruṇṭu vemmai nīṅkap</l>
+        <l>pacuṅkaṇ vāṉam pāytuḷi po<supplied>ḻi</supplied>nteṉap</l>
+        <l>puṉṉukum peṭutta naṉṉeṭuṅ kāṉat</l>
+        <l>tūṭṭu pañcip picirparan taṉṉa</l>
+        <l>vuṇṇā mūtāy taṇṇilam parippa</l>
+        <l>viṉiya vākuka taṇintē</l>
+        <l>yiṉṉā nīppi ṉiṉṉoṭu ce<supplied>laṟ</supplied>kē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="3">She is one who has [even] greater haste to resort to going [away]</l>
+        <l corresp="2">than me who is afraid of staying behind here, [going with] you</l>
+        <l corresp="1">who stroked [her] big shoulder along with [her] good long hair.</l>
+        <l corresp="8a-c">The ways that are lonely for those who go [there]</l>
+        <l corresp="5">– [such as] the women from the small village who bring a little food</l>
+        <l corresp="4">after driving off the old stag with many-forked antlers –</l>
+        <l corresp="7">whenever the sad soft voice sounds, coming wonderfully,</l>
+        <l corresp="6">of the red rock-horned owl that makes noise at the crossings(?),</l>
+        <l corresp="8d-9c">without saying  that they are difficult to go,</l>
+        <l corresp="9d-10">turning beautiful when the forest has young shoots, [their] points of growth opening on the charred trees,</l>
+        <l corresp="11">while the heat leaves as soon as the sky darkens,</l>
+        <l corresp="12">because spreading drops flow from the clouds on green areas,</l>
+        <l corresp="13">in the good tall forest that raises low banana leaves,</l>
+        <l corresp="15">while feeding cochineals run over the cool ground</l>
+        <l corresp="14">that spread like dyed cotton fibres,</l>
+        <l corresp="16">let them be pleasing, having cooled down,</l>
+        <l corresp="17">for going with you, unpleasant if you leave [alone].</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
+
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff> -->
+
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>282.1</num>. <persName xml:lang="ta"><lem>tolkapilaṉ</lem><app><rdg>tolkapilar</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN282.1-kilavi">
+          <p type="edition">1. iravukkuṟikkaṇ talaimakaṉ ciṟaippuṟamākat tōḻi talaimakaṭkuc colluvāḷāyc colliyatu. 2. talaimakaṉ piriviṉkaṇ tōḻikkut talaimakaḷ colliyatūumāma.</p>
+          <p type="translation" xml:lang="en">1. What the confidante said as one speaking to HER while HE was behind the hedge during the night tryst. 2. It is also what SHE said to the confidante during the separation.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN282.1">
+        <l>perumalaic cilampiṉ vēṭṭam pōkiya</l>
+        <l>ceṟimaṭai yampiṉ valviṟ kāṉavaṉ</l>
+        <l>porututolai yāṉai veṇkōṭu koṇṭu</l>
+        <l>nīrtikaḻ cilampi ṉaṉpoṉ ṉakaḻvōṉ</l>
+        <l>kaṇporu timaikkun tiṇmaṇi kiḷarppa</l>
+        <l>vainnuti vāṉmarup poṭiya vukku</l>
+        <l>teṇṇī rā<supplied>li</supplied> kaṭukku muttamoṭu</l>
+        <l>mūvēṟu tāramu moruṅkuṭaṉ cāṟṟic</l>
+        <l>cāntam poṟaimara māka naṟainār</l>
+        <l>vēṅkaik kaṇṇiyi ṉiḻitaru nāṭaṟ</l>
+        <l>kiṉ<supplied>ṟī</supplied>m palavi ṉērkeḻu celvat</l>
+        <l>tentaiyu metirntaṉaṉ koṭaiyē yalarvā</l>
+        <l>yampa lūru mavaṉoṭu moḻiyuñ</l>
+        <l>cāyiṟait tiraṇṭa tōḷpā rāṭṭi</l>
+        <l>yāyu mavaṉē yeṉṉum yāmum</l>
+        <l>vallē varuka varainta nāḷeṉa</l>
+        <l><supplied>na</supplied>lliṟai melvi<supplied>ral kūppi</supplied></l>
+        <l><supplied>yā</supplied>luṟai kaṭavuṭ kākkutum paliyē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="10d">To the man from a land, who</l>
+        <l corresp="2">as a forest man  with strong bow [and] tight-jointed arrows</l>
+        <l corresp="1">that went for a hunt on the side of the big mountain,</l>
+        <l corresp="3">takes the white tusk of the elephant, lost after fight</l>
+        <l corresp="4">[and], as one digging for good gold on the water-glittering mountain side,</l>
+        <l corresp="6">drops the sharp-tipped white tusk so that it breaks,</l>
+        <l corresp="5">so that firm gems emerge that twinkle so the eyes close,</l>
+        <l corresp="7">[and thus], along with pearls that resemble hail stones of clear water,</l>
+        <l corresp="8">announcing [them] all together as three different goods,</l>
+        <l rend="indent5" corresp="10a-c">descends with a kino chaplet</l>
+        <l corresp="9">[and] fragrant bark, as sandal is the tree’s burden,</l>
+        <l corresp="12a">my father,</l>
+        <l corresp="11">with the beautiful wealth of pleasing sweet jackfruit,</l>
+        <l rend="indent2" corresp="12a-c">has [finally] faced giving [me] and</l>
+        <l corresp="12d-13">the gossip-mouthed scandalous village too speaks for him</l>
+        <l corresp="15a">and mother,</l>
+        <l corresp="14">praising [her] round shoulders with flexible joints,</l>
+        <l rend="indent2" corresp="15b-d">says ‘he only!’ and we,</l>
+        <l corresp="17">joining [our] soft fingers with fine joints in worship,</l>
+        <l corresp="16">[with the thought] ‘let the wedding day come quickly’,</l>
+        <l corresp="18">shall guard the offering to the god residing in the banyan tree.</l>
+      </lg>
+      <lg type="alternate" sameAs="18">
+        <l>shall produce an offering for the god residing in the banyan tree.</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
+
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff> -->
+
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
+</TEI>

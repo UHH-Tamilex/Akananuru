@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>280.1</num>. <persName xml:lang="ta">ammūvaṉār</persName>: HE
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN280.1-kilavi">
+          <p type="edition">1. talaimakaḷaik kaṇṇuṟṟu nīṅkun talaimakaṉ ṟaṉṉeñciṟkuc colliyatu. 2. allakuṟippaṭṭup pōkāniṉṟavaṉ colliyatūumām.</p>
+          <p type="translation" xml:lang="en">1. What HE, who left after managing to see HER, said to his heart. 2. It is also what is said by the one who was going after having been led astray by a wrong sign.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN280.1">
+        <l>poṉṉaṭarn taṉṉa voḷḷiṇarc ceruntip</l>
+        <l>paṉmalar vēynta nalampeṟu kōtaiya</l>
+        <l>ṭiṇimaṇa la<supplied>ṭai</supplied>karai yalava ṉāṭṭi</l>
+        <l>yacaiyiṉa ḷirunta vāytoṭik kuṟumaka</l>
+        <l>ṇalañcāl viḻupporuḷ kalaniṟai koṭuppiṉum</l>
+        <l>peṟalaruṅ kuraiya ḷāyi ṉaṟanterintu</l>
+        <l>nāmuṟai tē<supplied>e</supplied> marūuppeyarn tavaṉō</l>
+        <l>ṭirunīrc cērppi ṉuppuṭa ṉuḻutum</l>
+        <l>perunīrk kuṭṭam puṇaiyoṭu pukkum</l>
+        <l>paṭuttaṉam paṇintaṉa maṭuttaṉa miruppiṟ</l>
+        <l>ṟarukuvaṉ kollō tāṉē viritiraik</l>
+        <l>kaṇṭira<supplied>ṇ</supplied> muttaṅ koṇṭu ñāṅkart</l>
+        <l>tēṉimir taṇkarai pakukkuṅ</l>
+        <l>kāṉalam peruntuṟaip paratava ṉamakkē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="2">She with a fine garland, covered with many blossoms</l>
+        <l corresp="1">of the pear tree in clusters bright like moulded gold,</l>
+        <l corresp="6a-c">if she is difficult to obtain,</l>
+        <l corresp="5">even though giving the weight of a vessel(?)  of excellent wealth, worthy of the beauty</l>
+        <l corresp="4">of the little woman with choice bracelets who sat resting</l>
+        <l corresp="3">after chasing the crabs on the shore set with firm sand,</l>
+        <l corresp="10">if we were to remain close [to him?], be humble, do [as he does?]</l>
+        <l corresp="9">also entering with a raft the expanse of the great water</l>
+        <l corresp="8">and ploughing salt on the coast of the vast water together with him,</l>
+        <l corresp="6d-7">moving jointly(?) [away] from the land where we stay, understanding [our] duty,</l>
+        <l corresp="11a-c 14d">– would he give [her] to us,</l>
+        <l corresp="14a-c">the fisherman from the big ghat by the seashore grove,</l>
+        <l corresp="11d-12">where the expanding waves pearls round [like?] eyes [and] afterwards</l>
+        <l corresp="13">distribute [them] on the cool shore humming with honey [bees]?</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
+
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff> -->
+
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>279.1</num>. <persName xml:lang="ta">iruṅkōṉ <lem wit="#NL #C1 #C2 #C3 #C5 #C7 #C9 #G1 #G2 #RK">ollaiyāyaṉ</lem><app><rdg wit="#C9v">mullaiyāyaṉ</rdg></app> <lem wit="#NL #C1 #C5 #C9 #G1 #G2 #RK">ceṅkaṇṇaṉār</lem><app><rdg wit="#C2 #C3 #C9v">kōkkaṇṇaṉ</rdg><rdg wit="#C7">kōkkaṇṇaṉār</rdg><rdg wit="#RKv">iruṅkōkkaṇṇaṉār</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN279.1-kilavi">
+          <p type="edition">poruḷvayiṟ pōkāniṉṟa talaimakaṉ ṟaṉṉeñciṟkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">What HE who was going for the sake of wealth said to his heart.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN279.1">
+        <l>naṭṭō riṉmaiyuṅ kēḷir tuṉpamu</l>
+        <l>moṭṭā tuṟaiyu<supplied>na</supplied>r perukkamuṅ kāṇūu</l>
+        <l>morupati vāḻta lāṟṟu matalai</l>
+        <l>poṉṉavir cuṇaṅkoṭu ceṟiya vīṅkiya</l>
+        <l>meṉmulai muttaṅ kaṭavā tōreṉa</l>
+        <l>naḷḷeṉ kaṅkulum pakalu miyaintiyain</l>
+        <l>tuḷḷam pottiya vurañcuṭu kūreri</l>
+        <l>yāḷviṉai māriyi ṉaviyā <supplied>nā</supplied>ḷu</l>
+        <l>kaṭaṟuḻan tivaṇa mākap paṭaruḻan</l>
+        <l>tiyāṅkā kuvaḷko ṟāṉē tīntoṭai</l>
+        <l>viḷari narampi ṉayavaru cīṟiyā<supplied>ḻ</supplied></l>
+        <l>malipūm poṅkar makiḻkura<supplied>ṟ</supplied> kuyiloṭu</l>
+        <l>puṇartuyi leṭuppum puṉaṟeḷi kālaiyu</l>
+        <l>nammuṭai matukaiya ḷāki yaṇinaṭai </l>
+        <l>yaṉṉamāṇ peṭaiyiṉ me<supplied>ṉ</supplied>mela viyalik</l>
+        <l>kaiyaṟu neñciṉa ḷaṭaitaru</l>
+        <l>maiyī rōti māa yōḷē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="9c">While,</l>
+        <l corresp="3">thinking it is possible to live with one abode as a support,</l>
+        <l>where one sees the destitution of friends, the distress of relatives</l>
+        <l corresp="1f">and the increase of those who remain unattached [to oneself],</l>
+        <l corresp="5">[only] for those who do not go beyond the pearls on [her] soft breasts</l>
+        <l corresp="4">that bulge tightly, with gold-shining beauty spots,</l>
+        <l rend="indent2" corresp="9ab">we are here, enduring the wilderness,</l>
+        <l corresp="6">deep night and day all alike(?),</l>
+        <l corresp="8">daily, without man’s work ending, like the showers,</l>
+        <l corresp="7">a strong burning sharp flame that smothers the mind,</l>
+        <l corresp="9d-10c">what will become of her, suffering affliction?</l>
+        <l corresp="13cd">all [this] time, when the flood is clear,</l>
+        <l corresp="10d-11">when the languorous little lute with sweet string, strings [tuned to] Viḷari,</l>
+        <l corresp="12">along with the delightful-voiced koel on the branches with ample flowers</l>
+        <l rend="indent6" corresp="13ab">raise [people] from joint sleep,</l>
+        <l>being one who has our strength, advancing very softly</l>
+        <l corresp="14f">like the glorious female of the goose with ornate gait,</l>
+        <l corresp="17">the dark woman with black moist hai</l>
+        <l corresp="16">who comes close to being desolate at hear</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
+
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff> -->
+
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>271.1</num>. <persName xml:lang="ta">kāvirippūmpaṭṭiṉattuc <lem>ceṅkaṇṇaṉār</lem><app><rdg wit="#C2 #C3">kārikaṇṇaṉār</rdg><rdg wit="#C9v">kārikaṇṇaṉār</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN271.1-kilavi">
+          <p type="edition">pirivuṇarttiya tōḻi talaimakaḷatu kuṟippaṟintu vanta talaimakaṉaic celavaḻuṅkac colliyatu.</p>
+          <p type="translation" xml:lang="en">What the confidante, who [was] informed about the separation, said in order to prevent him from going who had come after understanding HER intentions.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN271.1">
+        <l>poṟivarip puṟaviṉ ceṅkāṟ cēval</l>
+        <l>ciṟupuṉ peṭaiyoṭu cēṭpulam pōki</l>
+        <l>yarimaṇa liyaviṟ paraṟērn tu<supplied>ṇṭu</supplied></l>
+        <l><supplied>va</supplied>rimaral vāṭiya vāṉīṅku naṉantalaik</l>
+        <l>kuṟumpoṟai maruṅkiṟ kōṭcura nīnti</l>
+        <l>neṭuñcēṇ vanta nirainacai vampalar</l>
+        <l>celluyir niṟutta cuvaikkāy nellip</l>
+        <l>palkā yañciṉai yakavu mattañ</l>
+        <l>ceṉṟunīr vaṇika rāki niṉṟutaru</l>
+        <l>nilaiyarum poruṭpiṇi niṉaintaṉi reṉiṉē</l>
+        <l>valva tākanuñ ceyviṉai yivaṭkē</l>
+        <l>kaḷimali kaḷḷi ṉaṟṟē raviya</l>
+        <l>ṉāṭiya liḷamaḻai cūṭit tōṉṟum</l>
+        <l>paḻantūṅku viṭarakat teḻunta kāmpiṉ</l>
+        <l>kaṇṇiṭai puraiyu neṭumeṉ paṇaittōṭ</l>
+        <l>ṭiruntukō lāytoṭi ñekiḻiṉ</l>
+        <l>maruntu muṇṭō pirintuṟai nāṭē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l>If, enticed by wealth difficult to keep, that has to be brought</l>
+        <l corresp="9f">constantly, you think of going as a trader</l>
+        <l corresp="8d">on the road, where</l>
+        <l corresp="1">the red-legged male of the dove with dots and lines</l>
+        <l corresp="2">goes to distant regions with [its] little tawny female,</l>
+        <l corresp="3">searches the pebbles on the way with soft sand, eats,</l>
+        <l corresp="8a-c" rend="indent3">[and] calls out on the pretty branches with many unripe fruit</l>
+        <l corresp="7">of the gooseberry with tasty fruits planted [to preserve] the waning life</l>
+        <l corresp="6">of travellers desirous of herds who come from a long distance,</l>
+        <l corresp="5">crossing the murderous desert by the side of short hillocks</l>
+        <l corresp="4">in the vast area left by the clouds, where the striped bow-string hemp is faded,</l>
+        <l corresp="11">let it be fast, your work to be done. As for her,</l>
+        <l corresp="16">if [her] perfect, beautiful, choice bangles become loose</l>
+        <l corresp="15">on [her] large soft bamboo arms that resemble the middle of the joints</l>
+        <l corresp="14">in a bamboo shaft that rises inside a cleft hung with fruits</l>
+        <l corresp="13">that appear wearing the young rain [clouds], whose nature is moving,</l>
+        <l corresp="12">of Aviyaṉ with a good chariot [and] plenty of intoxicating licquor,</l>
+        <l corresp="16">will there be a remedy too, in the land where you stay after parting [from her]?</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
+
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff> -->
+
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
+</TEI>

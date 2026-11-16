@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Akanāṉūṟu</title> <num>289.1</num>. <persName xml:lang="ta">eyiṉantaimaka <lem wit="#NL #C1 #C5 #C7 #C9 #G1 #G2">ṉiḷaṅkīraṉ</lem><app><rdg wit="#RK">ṉiḷaṅkīraṉār</rdg><rdg wit="#C2 #C3"><gap reason="lost" unit="character" quantity="4"/>iḷaṅkāṉ</rdg></app></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <!--listWit n="1"></listWit>
+        <listWit n="2"></listWit-->
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+
+        <div xml:id="AN289.1-kilavi">
+          <p type="edition">pirintu pōkāniṉṟa talaimakaṉ ṟaṉṉeñciṟkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">What HE who was going after having parted [from her] said to his heart.</p>
+        </div>
+        <div rend="parallel">
+      <lg xml:id="AN289.1">
+        <l>cilaiyē raṭṭa kaṇai<supplied>vī</supplied>ḻ vampala</l>
+        <l>ruyarpatuk kiva<supplied>r</supplied>nta tatarkoṭi yatira</l>
+        <l>ṉeṭunilai naṭuka ṉāṭpalik kūṭṭuñ</l>
+        <l>curaṉiṭai vilaṅki maraṉōṅ kiyaviṉ</l>
+        <l>vantuviṉai valitta namvayi ṉeṉṟun</l>
+        <l><supplied>teru</supplied>mara luḷḷamoṭu varunta lāṉātu</l>
+        <l>nekiḻā meṉpiṇi vīṅkiya kaiciṟi</l>
+        <l>taviḻiṉu muyavu māymaṭat takuvi</l>
+        <l>cēṇuṟai <supplied>pu</supplied>lampi ṉāṇmuṟai yiḻaitta</l>
+        <l>tiṇcuvar nōkki niṉaintu kaṇpaṉi</l>
+        <l>nekiḻnūṉ muttiṉ mukiḻmulait teṟippa</l>
+        <l>maiyaṟa virinta paṭaiyamai cēkkai</l>
+        <l>yaimmeṉ ṟūvi yaṇaicēr pacaii</l>
+        <l>maiyal koṇṭa mataṉaḻi yirukkaiyaḷ</l>
+        <l>pakuvāyp palli paṭutoṟum paravi</l>
+        <l>nalla kūṟeṉa naṭuṅkip</l>
+        <l>pulleṉ mālaiyoṭu poruṅko ṟāṉē.</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+        <l corresp="5">Always on account of us who are forced by work, coming [back]</l>
+        <l corresp="4">by ways where trees are high, blocking [the way] in the middle of the desert,</l>
+        <l corresp="3d+2">where they join wild jasmine in broken creepers that climbed over the high stone heaps</l>
+        <l corresp="1">for travellers fallen by arrows that killed when rising from the bows,</l>
+        <l corresp="3a-c">to the daily offering on the tall-standing hero stones,</l>
+        <l corresp="6">unending in suffering, with a perturbed heart,</l>
+        <l corresp="8">the choice innocent [girl] who is suited [to us] who suffers even if [our] hands</l>
+        <l corresp="7">that were tight [just] open a little the soft grip [on her] that does not become loose,</l>
+        <l>in loneliness, as [we] stay in the distance, looking at the solid wall</l>
+        <l corresp="9f">where she marked the rows of days, thinking, while tears</l>
+        <l corresp="11">seep onto [her] budding breasts like pearls from a loose thread,</l>
+        <l corresp="13">resting on the mattress of wonderfully soft feathers</l>
+        <l corresp="12">on the bed suited for sleeping that has been spread out without a speck,</l>
+        <l corresp="14">she on a seat, [her] strength perishing that is taken over by madness,</l>
+        <l corresp="15">reverent each time the split-mouthed gecko calls,</l>
+        <l corresp="16">shivering with [the words] “tell [me] good [news]!”,</l>
+        <l corresp="17">does she fight with bleak evening?</l>
+      </lg>
+        </div>
+    </body>
+  </text>
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1-kilavi" type="apparatus">
+</standOff> --> <!-- copy KILAVI apparatus standoff here -->
+
+<!-- NOTES2 standoff --><!-- do not write two witness into one abbr tag --> 
+<!-- <standOff type="notes2" corresp="#ANNUMBER.1">
+    <note n="XX">TEXT <abbr corresp="#WITNESS"/>: TEXT</note>
+</standOff> -->
+
+<!-- <standOff type="wordsplit" corresp="#ANNUMBER.1">
+</standOff> --> <!-- copy WORDSPLIT standoff here -->
+
+<!-- <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#ANNUMBER.1" type="apparatus">
+</standOff> -->  <!-- copy APPARATUS standoff here -->
+</TEI>
