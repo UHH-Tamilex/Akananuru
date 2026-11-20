@@ -28,6 +28,10 @@
   <witness xml:id="NL" source="mss/NL.xml">
     <abbr>NL</abbr>
     <expan>palm-leaf manuscript from the National Library in Kolkatta [3141/S.V.P. 91] complete, except 336.19d-343.15c [consulted to supplement the damaged C1]</expan>
+    <witness xml:id="NLv">
+      <abbr>NLv</abbr>
+      <expan>palm-leaf manuscript from the National Library in Kolkatta [3141/S.V.P. 91] complete, except 336.19d-343.15c [consulted to supplement the damaged C1], variant reading</expan>
+    </witness>
   </witness>
 
   <witness xml:id="C3" source="mss/C3.xml">
